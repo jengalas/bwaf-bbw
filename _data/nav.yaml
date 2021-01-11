@@ -1,0 +1,41 @@
+- label: About
+  subnav:
+    - label: Our Mission
+      link: /
+    - label: About Beverly Willis
+      link: /
+    - label: History
+      link: /
+    - label: Board and Staff
+      link: /
+    - label: Sponsors
+      link: /
+- label: Programs
+  subnav:
+  - label: Emerging Leaders
+    link: /
+  - label: Friends
+    link: /
+  - label: Built by Women
+    link: /
+  - label: Leadership Awards Gala
+    link: /
+  - label: Industry Leaders Roundtable Retreat
+    link: /
+- label: Resources
+  subnav:
+  - label: Pioneering Women of American Architecture
+    link: /
+    external: true
+  - label: Dynamic National Archive
+    link: /
+  - label: Film Collection
+    link: /
+  - label: Bookshelf
+    link: /
+  - label: Newsletter Archive
+    link: /
+- label: Support
+  link: /support
+- label: Search
+  link: /search
