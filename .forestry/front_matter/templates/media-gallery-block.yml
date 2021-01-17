@@ -1,5 +1,5 @@
 ---
-label: Media Gallery Block
+label: Lefthand Text
 hide_body: true
 fields:
 - name: left_hand_title
