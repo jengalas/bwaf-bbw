@@ -1,15 +1,15 @@
 - label: About
   subnav:
     - label: Our Mission
-      link: /
+      link: /mission
     - label: About Beverly Willis
       link: /
     - label: History
-      link: /
+      link: /history
     - label: Board and Staff
-      link: /
+      link: /boardandstaff
     - label: Sponsors
-      link: /
+      link: /sponsors
 - label: Programs
   subnav:
   - label: Emerging Leaders

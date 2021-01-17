@@ -1,0 +1,12 @@
+<div class="prefooter">
+    <ul>
+        {% for item in site.data.nav %}{% if item.label == page.navCategory %}
+        {% assign subnav = item.subnav %}
+        {% endif %}{%endfor%}
+        {% for item in subnav %}
+        {% if item.link != page.permalink %}
+        <li><a href="{{item.link}}" class="h2">{{item.label}}</a></li>
+        {% endif %}
+        {% endfor %}
+    </ul>
+</div>
