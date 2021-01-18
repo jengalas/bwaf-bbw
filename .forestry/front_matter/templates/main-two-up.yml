@@ -26,3 +26,17 @@ fields:
   config:
     min: 
     max: 
+- name: page_blocks
+  type: blocks
+  label: Page Blocks
+  template_types:
+  - text-block
+  - image-block
+  - portrait-gallery-template
+  - portrait-gallery-block-small
+  - media-gallery-block
+  - slideshow-block
+  - timeline-block
+  config:
+    min: 
+    max: 
