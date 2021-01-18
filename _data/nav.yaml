@@ -4,7 +4,7 @@
       link: /mission
     - label: About Beverly Willis
       link: /beverlywillis
-    - label: History
+    - label: History of The Foundation
       link: /history
     - label: Board and Staff
       link: /boardandstaff
@@ -24,17 +24,18 @@
     link: /
 - label: Resources
   subnav:
-  - label: Pioneering Women of American Architecture
-    link: /
-    external: true
   - label: Dynamic National Archive
     link: /
   - label: Film Collection
     link: /
-  - label: Bookshelf
-    link: /
   - label: Newsletter Archive
     link: /
+  - label: Pioneering Women of American Architecture
+    link: https://pioneeringwomen.bwaf.org
+    external: true
+  - label: Podcast (coming soon)
+    link: /
+    external: true
 - label: Support
   link: /support
 - label: Search
