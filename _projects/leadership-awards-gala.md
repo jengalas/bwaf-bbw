@@ -24,5 +24,14 @@ page_blocks:
     caption: Image caption 2
   - image: "/v1610940736/BWAF_Gala_2020_The_Berman_Group_Chris_Bacarella_Photography-21_ktx20r.jpg"
     caption: Image caption 1
+- template: text-block
+  include_left-hand_column_text_: true
+  lefthand_text:
+    header_type: Text with Download
+    text: Support the Foundation by becoming a sponsor of the Gala
+    link_text: Download the sponsorship form
+    download: ''
+    link_url: ''
+  text_block: ''
 
 ---
