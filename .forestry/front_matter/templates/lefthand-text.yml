@@ -1,4 +1,41 @@
 ---
 label: Lefthand Text
 hide_body: true
-fields: []
+fields:
+- name: header_type
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - Large Header
+    - Medium Header
+    - Text with Download
+    - Link
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Header Type
+- name: text
+  type: text
+  config:
+    required: false
+  label: Text
+- name: download_link
+  type: file
+  config:
+    maxSize: 64
+  label: Download Link
+  showOnly:
+    field: header_type
+    value: Text with Download
+- name: link_url
+  type: text
+  config:
+    required: false
+  label: Link URL
+  showOnly:
+    field: header_type
+    value: Link
