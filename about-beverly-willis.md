@@ -6,7 +6,7 @@ page_blocks:
 - template: image-block
   image_caption_text: Caption info of photograph here teekay.
   alt_text: Caption info of photograph here teekay.
-  image: ''
+  image: "/v1610935737/8yilQ1yA_m9bt5r.jpg"
   include_left-hand_column_text_: true
   lefthand_text:
     header_type: Large Header
