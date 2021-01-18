@@ -40,3 +40,5 @@ fields:
   config:
     min: 
     max: 
+pages:
+- mission.html
