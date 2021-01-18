@@ -35,5 +35,6 @@ fields:
     max: 
 pages:
 - about-beverly-willis.md
+- history.html
 - mission.html
 - sponsors.html
