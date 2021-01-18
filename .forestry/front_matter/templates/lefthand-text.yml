@@ -46,6 +46,15 @@ fields:
     showOnly:
       field: header_type
       value: Link
+  - name: link_text
+    type: text
+    config:
+      required: false
+    label: Link Text
+    description: e.g. "Download the application"
+    showOnly:
+      field: header_type
+      value: Text with Download
   label: Lefthand Text
   showOnly:
     field: include_left-hand_column_text_
