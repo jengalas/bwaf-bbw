@@ -1,6 +1,7 @@
 ---
-layout: default
-navCategory: ''
+layout: innerPage
+permalink: /beverlywillis
+navCategory: About
 title: About Beverly Willis | Beverly Willis Architecture Foundation
 page_blocks:
 - template: image-block
