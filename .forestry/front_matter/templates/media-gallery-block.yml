@@ -2,6 +2,11 @@
 label: Media Gallery Block
 hide_body: false
 fields:
+- name: lefthand_text
+  type: include
+  config: {}
+  template: lefthand-text
+  label: Lefthand Text
 - name: media
   type: field_group_list
   fields:
