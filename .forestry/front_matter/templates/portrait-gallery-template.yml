@@ -1,4 +1,36 @@
 ---
 label: Portrait Gallery Template
 hide_body: true
-fields: []
+fields:
+- name: portrait
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Name
+  - name: title_role
+    type: text
+    config:
+      required: false
+    label: Title/Role
+  - name: image
+    type: file
+    config:
+      maxSize: 64
+    label: Image
+  - name: description
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Description
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Portrait
