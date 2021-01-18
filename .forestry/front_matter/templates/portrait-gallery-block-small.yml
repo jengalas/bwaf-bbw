@@ -2,6 +2,11 @@
 label: Portrait Gallery Block (small)
 hide_body: true
 fields:
+- name: lefthand_text
+  type: include
+  config: {}
+  template: lefthand-text
+  label: Lefthand Text
 - name: header
   type: text
   config:
@@ -30,8 +35,3 @@ fields:
     max: 
     labelField: 
   label: Portrait
-- name: lefthand_text
-  type: include
-  config: {}
-  template: lefthand-text
-  label: Lefthand Text
