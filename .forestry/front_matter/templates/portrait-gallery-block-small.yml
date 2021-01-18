@@ -30,3 +30,8 @@ fields:
     max: 
     labelField: 
   label: Portrait
+- name: lefthand_text
+  type: include
+  config: {}
+  template: lefthand-text
+  label: Lefthand Text
