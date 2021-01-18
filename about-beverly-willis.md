@@ -7,6 +7,12 @@ page_blocks:
   image_caption_text: Caption info of photograph here teekay.
   alt_text: Caption info of photograph here teekay.
   image: ''
+  include_left-hand_column_text_: true
+  lefthand_text:
+    header_type: Large Header
+    text: About Beverly Willis
+    download: ''
+    link_url: ''
 - template: text-block
   text_block: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi etiam dignissim
@@ -19,9 +25,21 @@ page_blocks:
     turpis tincidunt id aliquet risus feugiat. Mauris commodo quis imperdiet massa
     tincidunt. In hac habitasse platea dictumst quisque. Lacinia at quis risus sed
     vulputate. Non curabitur gravida arcu ac.
+  include_left-hand_column_text_: false
+  lefthand_text:
+    header_type: ''
+    text: ''
+    download: ''
+    link_url: ''
 - template: media-gallery-block
   media:
   - image/video: ''
     image_title: Title of media clip about Beverly Willis
+  include_left-hand_column_text_: false
+  lefthand_text:
+    header_type: ''
+    text: ''
+    download: ''
+    link_url: ''
 
 ---
