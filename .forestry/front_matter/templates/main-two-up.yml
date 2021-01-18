@@ -19,13 +19,6 @@ fields:
 - type: text
   name: title
   label: Page Title
-- name: page_sections
-  type: blocks
-  label: Page Sections
-  template_types: []
-  config:
-    min: 
-    max: 
 - name: page_blocks
   type: blocks
   label: Page Blocks
