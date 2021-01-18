@@ -1,7 +1,7 @@
 ---
 layout: default
 navCategory: ''
-title: About Beverly Willis
+title: About Beverly Willis | Beverly Willis Architecture Foundation
 page_blocks:
 - template: image-block
   image_caption_text: Caption info of photograph here teekay.
