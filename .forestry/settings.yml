@@ -4,6 +4,14 @@ auto_deploy: false
 admin_path: "/admin"
 webhook_url: 
 sections:
+- type: directory
+  path: _projects
+  label: Projects
+  create: documents
+  match: "**/*"
+  new_doc_ext: ".md"
+  templates:
+  - main-two-up
 - type: jekyll-pages
   label: Pages
   create: all
