@@ -2,40 +2,51 @@
 label: Lefthand Text
 hide_body: true
 fields:
-- name: header_type
-  type: select
-  default: []
-  config:
-    required: false
-    options:
-    - Large Header
-    - Medium Header
-    - Text with Download
-    - Link
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: Header Type
-- name: text
-  type: text
-  config:
-    required: false
-  label: Text
-- name: download_link
-  type: file
-  config:
-    maxSize: 64
-  label: Download Link
+- name: include_left-hand_column_text_
+  type: boolean
+  label: Include left-hand column text?
+- name: lefthand_text
+  type: field_group
+  config: {}
+  fields:
+  - name: header_type
+    type: select
+    default: []
+    config:
+      required: false
+      options:
+      - Large Header
+      - Medium Header
+      - Text with Download
+      - Link
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Header Type
+  - name: text
+    type: text
+    config:
+      required: false
+    label: Text
+  - name: download
+    type: file
+    config:
+      maxSize: 64
+    label: Download File
+    showOnly:
+      field: header_type
+      value: Text with Download
+  - name: link_url
+    type: text
+    config:
+      required: false
+    label: Link URL
+    showOnly:
+      field: header_type
+      value: Link
+  label: Lefthand Text
   showOnly:
-    field: header_type
-    value: Text with Download
-- name: link_url
-  type: text
-  config:
-    required: false
-  label: Link URL
-  showOnly:
-    field: header_type
-    value: Link
+    field: include_left-hand_column_text_
+    value: true
