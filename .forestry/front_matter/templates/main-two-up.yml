@@ -34,6 +34,7 @@ fields:
     min: 
     max: 
 pages:
+- _projects/emerging-leaders.md
 - about-beverly-willis.md
 - boardandstaff.html
 - history.html
