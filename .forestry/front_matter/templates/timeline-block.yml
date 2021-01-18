@@ -1,4 +1,27 @@
 ---
 label: Timeline Block
 hide_body: true
-fields: []
+fields:
+- name: timeline
+  type: field_group_list
+  fields:
+  - name: year
+    type: text
+    config:
+      required: false
+    label: Year
+  - name: header
+    type: text
+    config:
+      required: false
+    label: Header
+  - name: description
+    type: text
+    config:
+      required: false
+    label: Description
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Timeline
