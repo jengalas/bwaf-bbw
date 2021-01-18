@@ -1,7 +1,8 @@
 ---
-layout: default
-navCategory: ''
+layout: innerPage
+navCategory: Programs
 title: Leadership Awards Gala
+permalink: /programs/leadership-awards-gala
 page_blocks:
 - template: slideshow-block
   include_left-hand_column_text_: true

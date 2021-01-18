@@ -1,7 +1,8 @@
 ---
-layout: default
-navCategory: ''
+layout: innerPage
+navCategory: Programs
 title: Emerging Leaders
+permalink: /programs/emerging-leaders
 page_blocks:
 - template: text-block
   include_left-hand_column_text_: true

@@ -8,6 +8,17 @@
         <h1>{{block.lefthand_text.text}}</h1>
         {% elsif block.lefthand_text.header_type == 'Medium Header' %}
         <h2><b>{{block.lefthand_text.text}}</b></h2>
+        {% elsif block.lefthand_text.header_type == 'Text with Download' %}
+        <div class="text-with-download">
+            <p>{{block.lefthand_text.text}}</p>
+            <a href="{{site.cloudinary}}{{block.lefthand_text.download}}" download>
+                {{block.lefthand_text.link_text}}
+                <svg id="Download" xmlns="http://www.w3.org/2000/svg" width="14.97" height="14.554" viewBox="0 0 14.97 14.554">
+                    <path id="Path" d="M9.975,4.977H7.431V0h-5.1V4.977H0l5.03,5Z" transform="translate(2.493 0.108)" fill="#f4364c"/>
+                    <path id="Path-2" data-name="Path" d="M12.469,0V2.494H2.494V0H0V4.987H14.963V0Z" transform="translate(0.004 9.459)" fill="#f4364c"/>
+                </svg>
+            </a>
+        </div>
         {% endif %}
     </div>
     <div>
@@ -20,6 +31,27 @@
             <img src="{{site.cloudinary}}{{block.image}}" alt="{{block.alt_text}}">
             <figcaption>{{block.image_caption_text}}</figcaption>
         </div>
+        {% elsif block.template == "slideshow-block" %}
+        <div class="slideshow">
+            {% for img in block.image %}
+            <div class="slide fade">
+                <img src="{{site.cloudinary}}{{img.image}}" style="width:100%">
+                <figcaption>
+                    <span><b>{{forloop.index}} of {{block.image | size}}</b></span>
+                    {{img.caption}}
+                </figcaption>
+            </div>
+            {% endfor %}
+            <div class="arrows">
+                <a class="prev" onclick="plusSlides(-1)">
+                <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="arrow-alt-circle-left" class="svg-inline--fa fa-arrow-alt-circle-left fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M256 504C119 504 8 393 8 256S119 8 256 8s248 111 248 248-111 248-248 248zm116-292H256v-70.9c0-10.7-13-16.1-20.5-8.5L121.2 247.5c-4.7 4.7-4.7 12.2 0 16.9l114.3 114.9c7.6 7.6 20.5 2.2 20.5-8.5V300h116c6.6 0 12-5.4 12-12v-64c0-6.6-5.4-12-12-12z"></path></svg>
+                </a>
+                <a class="next" onclick="plusSlides(1)">
+                <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="arrow-alt-circle-right" class="svg-inline--fa fa-arrow-alt-circle-right fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zM140 300h116v70.9c0 10.7 13 16.1 20.5 8.5l114.3-114.9c4.7-4.7 4.7-12.2 0-16.9l-114.3-115c-7.6-7.6-20.5-2.2-20.5 8.5V212H140c-6.6 0-12 5.4-12 12v64c0 6.6 5.4 12 12 12z"></path></svg>
+                </a>
+            </div>
+        </div>
+        <script src="/assets/js/slideshow.js"></script>
         {% elsif block.template == "timeline-block"%}
         <div class="timeline">
             <ul>
