@@ -1,5 +1,5 @@
 ---
-label: Portrait Gallery Template
+label: Portrait Gallery Block
 hide_body: true
 fields:
 - name: portrait
