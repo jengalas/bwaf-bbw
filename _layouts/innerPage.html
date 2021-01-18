@@ -31,16 +31,18 @@
                 {% endfor %}
             </ul>
         </div>
-        {% elsif block.template == "portrait-gallery-block"%}
+        {% elsif block.template == "portrait-gallery-template"%}
         <div class="portrait-gallery-block">
+            {% for person in block.portrait %}
             <div>
-                <img src="/assets/img/headshot-placeholder.png">
+                <img src="{{site.cloudinary}}{{person.image}}">
                 <h5>
-                    <b>Firstname M. Lastname</b>
-                    <br>Title Teekay and Title Teekay
+                    <b>{{person.title}}</b>
+                    <br>{{person.title_role}}
                 </h5>
-                <p class="sm">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi etiam dignissim diam quis. Est ultricies integer quis auctor elit sed vulputate mi. Mi quis hendrerit dolor magna eget. Placerat in egestas erat imperdiet sed euismod nisi porta tempus 50 words.</p>
+                <p class="sm">{{person.description | markdownify}}</p>
             </div>
+            {% endfor %}
         </div>
         {% elsif block.template == "media-gallery-block"%}
         <div class="media-gallery-block">

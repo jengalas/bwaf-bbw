@@ -330,11 +330,15 @@ p.lg{
         flex:8;
         margin-left:calc(var(--gutter)/2);
         > div{
-            margin-bottom:var(--spacer);
+            // margin-bottom:var(--spacer);
         }
     }
-    h1,p:first-child{
-        margin-top:30px;
+    h1{
+        margin-top:0px;
+    }
+    .img-block img{
+        max-height: calc(66vw - var(--margin)*2 - var(--gutter));
+        object-fit: cover;
     }
     .media-gallery-block{
         display:flex;
@@ -383,6 +387,17 @@ p.lg{
         justify-content: space-between;
         > div{
             width:calc(33.333% - var(--gutter)*2/3);
+        }
+        p{    
+            font-size:16px;
+            line-height:21px;
+        }
+        img{
+            width:100%;
+            padding-top: 100%; /* 1:1 Aspect Ratio */
+            position: relative;
+            height: 0px;
+            background:red;
         }
     }
     .logos-block{
