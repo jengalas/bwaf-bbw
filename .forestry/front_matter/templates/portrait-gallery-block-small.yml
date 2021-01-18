@@ -1,4 +1,32 @@
 ---
 label: Portrait Gallery Block (small)
 hide_body: true
-fields: []
+fields:
+- name: header
+  type: text
+  config:
+    required: false
+  label: Header
+- name: portrait
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Name
+  - name: title_role
+    type: text
+    config:
+      required: false
+    label: Title/Role
+  - name: image
+    type: file
+    config:
+      maxSize: 64
+    label: Image
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Portrait
