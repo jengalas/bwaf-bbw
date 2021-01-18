@@ -30,6 +30,8 @@ fields:
   - media-gallery-block
   - slideshow-block
   - timeline-block
+  - section-break
+  - miscellaneous-block
   config:
     min: 
     max: 
