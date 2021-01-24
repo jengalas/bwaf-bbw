@@ -60,6 +60,7 @@ body{
     font-size:24px;
     font-family: "William Text Regular";
     line-height:1.25;
+    color:#333333;
 }
 ul{
     list-style-type:none;
@@ -325,6 +326,9 @@ p.lg{
     > div:first-child{
         flex:4;
         margin-right:calc(var(--gutter)/2);
+        > *{
+            max-width:360px;
+        }
     }
     > div:nth-child(2){
         flex:8;
@@ -335,6 +339,7 @@ p.lg{
     }
     h1{
         margin-top:0px;
+        // max-width:400px;
     }
     .text-with-download{
         p{
@@ -491,6 +496,8 @@ p.lg{
     font-weight:bold;
     font-size:24px;
     line-height:30px;
+    display: inline-block;
+    // max-width:300px;
 }
 
 figcaption, .smallest{
@@ -508,4 +515,80 @@ figcaption, .smallest{
 
 .support-page{
     background:#F4364C12;
+}
+
+.donation-block-inner{
+    background:white;
+    padding:56px;
+    max-width:600px;
+    margin-bottom:270px;
+    h2{
+        margin-top:0px;
+        position:static;
+        margin-bottom:30px;
+        color:#333333;
+    }
+    > div {
+        margin-bottom:100px;
+    }
+    .donation-buttons {
+        display:flex;
+        flex-wrap:wrap;
+        justify-content: space-between;
+        > div{
+            text-align:center;
+            border:5px solid var(--red);
+            color:var(--red);
+            padding:20px;
+            width:calc(50% - 70px);
+            font-size:36px;
+            font-family:'GT America', sans-serif;
+            margin-bottom:35px;
+            background:white;
+            cursor:pointer;
+        }
+        .btn-other span{
+            position: relative;
+            top: -4px;
+        }
+    }
+    .payment-buttons button{
+        margin-right:60px;
+        padding-bottom:7px;
+    }
+    .payment-buttons button.active{
+        color:var(--red);
+        border-bottom:5px solid var(--red);
+        background:transparent;
+    }
+    label{
+        position:fixed;
+        visibility:none;
+        left:-100px;
+        top:-100px;
+    }
+    input[type="text"]{
+        font-size:24px;
+        color:#333333;
+        border:0px;
+        border-bottom:5px solid var(--red);
+        padding:7px 0px;
+        width:100%;
+        margin-bottom:30px;
+    }
+    input[type="text"]:focus{
+        outline:none;
+    }
+    input[type="text"]::placeholder{
+        color:#333333;
+        font-family:'GT America', sans-serif;
+    }
+    button#donate-form--donate-btn{
+        background:var(--red);
+        color:white;
+        padding:20px 30px;
+        text-align:center;
+        margin: auto;
+        display: block;
+    }
 }

@@ -30,7 +30,9 @@ sass:
   style: compressed
 cloudinary: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload"
 collections:
-  projects:
+  programs:
+    output: true
+  resources:
     output: true
 
 # Exclude from processing.
