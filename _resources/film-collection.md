@@ -41,7 +41,7 @@ page_blocks:
   include_left-hand_column_text_: true
   lefthand_text:
     header_type: Link
-    text: Learn how you can license a film screening of Unknown New York→
+    text: Learn how you can license a film screening of Unknown New York
     link_url: "/"
 - template: image-block
   include_left-hand_column_text_: true

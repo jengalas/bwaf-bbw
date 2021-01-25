@@ -2,12 +2,19 @@
 {% include nav.html %}
 
 {% for block in page.page_blocks %}
+{% if block.section_break %}
+<div class="hr"></div>
+{% endif %}
 <div class="main-two-up">
     <div>
         {% if block.lefthand_text.header_type == 'Large Header' %}
         <h1>{{block.lefthand_text.text}}</h1>
         {% elsif block.lefthand_text.header_type == 'Medium Header' %}
         <h2><b>{{block.lefthand_text.text}}</b></h2>
+        {% elsif block.lefthand_text.header_type == 'Film/Book Title' %}
+        <h3><b><i>{{block.lefthand_text.text}}</i></b></h3>
+        {% elsif block.lefthand_text.header_type == 'Link' %}
+        <a href="{{block.lefthand_text.link_url}}" target="_blank" class="lefthand-link">{{block.lefthand_text.text}}→</a>
         {% elsif block.lefthand_text.header_type == 'Text with Download' %}
         <div class="text-with-download">
             <p>{{block.lefthand_text.text}}</p>
