@@ -56,14 +56,6 @@ fields:
     showOnly:
       field: header_type
       value: Text with Download
-  - name: film_title
-    type: text
-    config:
-      required: false
-    label: Film/Book Title
-    showOnly:
-      field: header_type
-      value: Film/Book Title
   label: Lefthand Text
   showOnly:
     field: include_left-hand_column_text_
