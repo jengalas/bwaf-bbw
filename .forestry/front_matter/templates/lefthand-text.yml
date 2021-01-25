@@ -11,7 +11,7 @@ fields:
   fields:
   - name: header_type
     type: select
-    default: []
+    default: ''
     config:
       required: false
       options:
@@ -19,6 +19,7 @@ fields:
       - Medium Header
       - Text with Download
       - Link
+      - Film/Book Title
       source:
         type: simple
         section: 

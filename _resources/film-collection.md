@@ -22,7 +22,7 @@ page_blocks:
 - template: image-block
   include_left-hand_column_text_: true
   lefthand_text:
-    header_type: Medium Header
+    header_type: Film/Book Title
     text: 'Unknown New York: The City That Women Built'
   image: "/v1611528478/UnknownNY_rk0b0r.jpg"
   alt_text: 'Unknown New York: The City That Women Built'
@@ -47,7 +47,7 @@ page_blocks:
 - template: image-block
   include_left-hand_column_text_: true
   lefthand_text:
-    header_type: Medium Header
+    header_type: Film/Book Title
     text: 'Beverly Willis: The Artist and the Architect'
   image: "/v1611528636/Rectangle_Copy_2_qemudp.png"
 
