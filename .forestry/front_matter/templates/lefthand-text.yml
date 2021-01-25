@@ -11,7 +11,7 @@ fields:
   fields:
   - name: header_type
     type: select
-    default: []
+    default: ''
     config:
       required: false
       options:
@@ -19,6 +19,7 @@ fields:
       - Medium Header
       - Text with Download
       - Link
+      - Film/Book Title
       source:
         type: simple
         section: 
@@ -55,6 +56,11 @@ fields:
     showOnly:
       field: header_type
       value: Text with Download
+  - name: film_title
+    type: text
+    config:
+      required: false
+    label: Film/Book Title
   label: Lefthand Text
   showOnly:
     field: include_left-hand_column_text_
