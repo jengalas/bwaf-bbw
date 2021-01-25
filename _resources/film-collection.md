@@ -18,7 +18,6 @@ page_blocks:
     aliquet risus feugiat. Mauris commodo quis imperdiet massa tincidunt. In hac habitasse
     platea dictumst quisque. Lacinia at quis risus sed vulputate. Non curabitur gravida
     arcu ac.
-- template: section-break
 - template: image-block
   include_left-hand_column_text_: true
   lefthand_text:
@@ -26,6 +25,7 @@ page_blocks:
     text: 'Unknown New York: The City That Women Built'
   image: "/v1611528478/UnknownNY_rk0b0r.jpg"
   alt_text: 'Unknown New York: The City That Women Built'
+  section_break: true
 - template: text-block
   text_block: Info about the film here. Lorem ipsum dolor sit amet, consectetur adipiscing
     elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla
@@ -43,12 +43,12 @@ page_blocks:
     header_type: Link
     text: Learn how you can license a film screening of Unknown New York→
     link_url: "/"
-- template: section-break
 - template: image-block
   include_left-hand_column_text_: true
   lefthand_text:
     header_type: Film/Book Title
     text: 'Beverly Willis: The Artist and the Architect'
   image: "/v1611528636/Rectangle_Copy_2_qemudp.png"
+  section_break: true
 
 ---
