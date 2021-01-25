@@ -45,13 +45,13 @@ page_blocks:
   lefthand_text:
     header_type: Medium Header
     text: 2020 Honorees
-  text_block: "**Foundation**   \nJoseph F Tortorella PE, Hon AIA NY   \nPresident
-    \  \nSilman \n\n**Keystone**   \nLinda Chiarelli   \nSenior Vice President For
-    Capital Projects And Facilities   \nNYU \n\n**Pillar**   \nJoan Blumenfeld, FAIA,
-    FIIDA, LEED AP   \nDesign Principal   \nPerkins&Will \n\nOculus Dr. Sharon Egretta
-    Sutton, FAIA Distinguished Visiting Professor Of Architecture At Parsons School
-    Of Design Adjunct Professor At Columbia University Scroll Inga Saffron Architecture
-    Critic The Philadelphia Inquirer Tribune Samantha Josaphat, RA, NOMA, NCARB, LEED
-    GA Principal Studio 397 Architecture"
+  text_block: "**Foundation**  \nJoseph F Tortorella PE, Hon AIA NY  \nPresident  \nSilman\n\n**Keystone**
+    \ \nLinda Chiarelli  \nSenior Vice President For Capital Projects And Facilities
+    \ \nNYU\n\n**Pillar**  \nJoan Blumenfeld, FAIA, FIIDA, LEED AP  \nDesign Principal
+    \ \nPerkins&Will\n\n**Oculus**   \nDr. Sharon Egretta Sutton, FAIA   \nDistinguished
+    Visiting Professor Of Architecture At Parsons School Of Design   \nAdjunct Professor
+    At Columbia University \n\n**Scroll**   \nInga Saffron   \nArchitecture Critic
+    \  \nThe Philadelphia Inquirer \n\n**Tribune**   \nSamantha Josaphat, RA, NOMA,
+    NCARB, LEED GA   \nPrincipal   \nStudio 397 Architecture"
 
 ---
