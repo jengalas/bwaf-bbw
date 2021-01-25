@@ -21,10 +21,10 @@ page_blocks:
   image: "/v1611546946/orionthemes-placeholder-image_lf0srf.png"
   image_caption_text: Caption info of photograph here teekay.
 - template: text-block
-  text_block: "#### Memberships\n\nEarly Professional (up to ten years of professional
+  text_block: "## Memberships\n\nEarly Professional (up to ten years of professional
     experience): $250\n\nProfessional (ten or more years of professional experience):
-    $425 \n\nCorporate Friendship*: $5000\n\n###### *Allows for 8 participants per
-    event\n\n### For your annual donation, you will receive:\n\n* Prominent listing
+    $425 \n\nCorporate Friendship*: $5000\n\n##### *Allows for 8 participants per
+    event\n\n## For your annual donation, you will receive:\n\n* Prominent listing
     on bwaf.org \n* Friends page Invitation to three BWAF Friends events per year
     \n* Built By Women tote bag \n* Early notification of BWAF activities \n* Monthly
     BWAF newsletter \n* Copy of BWAF film"
