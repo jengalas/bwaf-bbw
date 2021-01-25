@@ -17,5 +17,8 @@ page_blocks:
     in the building industry that acknowledges, cultivates and values women’s contributions
     and achievements, past, present and future. \n\n**Join in 2019 and receive complimentary
     2020 membership.**"
+- template: image-block
+  image: "/v1611546946/orionthemes-placeholder-image_lf0srf.png"
+  image_caption_text: Caption info of photograph here teekay.
 
 ---
