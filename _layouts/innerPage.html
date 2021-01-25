@@ -10,6 +10,8 @@
         {% if block.lefthand_text.header_type == 'Large Header' %}
         <h1>{{block.lefthand_text.text}}</h1>
         {% elsif block.lefthand_text.header_type == 'Medium Header' %}
+        <h2 class="h3"><b>{{block.lefthand_text.text}}</b></h2>
+        {% elsif block.lefthand_text.header_type == 'Small Header' %}
         <h2><b>{{block.lefthand_text.text}}</b></h2>
         {% elsif block.lefthand_text.header_type == 'Film/Book Title' %}
         <h3><b><i>{{block.lefthand_text.text}}</i></b></h3>
@@ -83,6 +85,17 @@
             </div>
             {% endfor %}
         </div>
+        {% elsif block.template == "portrait-gallery-block-small" %}
+        <h2><b>Meet our 2020 Emerging Leaders</b></h2>
+        <div class="portrait-gallery-block-small">
+            {% for person in block.portrait %}
+            <div>
+                <img src="{{site.cloudinary}}{{person.image}}">
+                <b>{{person.title}}</b>
+                <br>{{person.title_role}}
+            </div>
+            {% endfor %}
+        </div>
         {% elsif block.template == "media-gallery-block"%}
         <div class="media-gallery-block">
             <div>
@@ -126,6 +139,121 @@
     </div>
 </div>
 {% endfor %}
+
+
+{% if page.title == "Film Collection" %}
+<div class="hr"></div>
+<div class="main-two-up">
+    <div>
+        <h2><b>More films from the Collection</b></h2>
+    </div>
+    <div>
+        <div class="other-film">
+            <div>
+                <img src="/assets/img/film-placeholder.png">
+                <h2><b><i>A Girl is a Fellow Here: 100 Women Architects in the Studio of Frank Lloyd Wright</i></b></h2>
+                <p>At a time when few architectural firms would hire women, Frank Lloyd Wright unhesitatingly employed women, giving them both training and the opportunity to practice. Ultimately, over 100 women architects and designers worked with Wright, many of them going on to remarkable careers of their own. This film focuses on six of those women—Marion Mahony, Isabel Roberts, Lois Gottlieb, Jane Duncombe, Eleanore Pettersen, and Read Weber.</p>
+                <p><a href="#">Learn More</a></p>
+            </div>
+            <div>
+                <img src="/assets/img/film-placeholder.png">
+                <h2><b><i>Eames: The Architect and the Painter</i></b></h2>
+                <p>BWAF helped fund Eames: The Architect and the Painter. Fellow Jason Cohn (2006), researched the life and work of Ray (Kaiser) Eames, partner in the legendary design team, focusing on issues of artistic collaboration.</p>
+                <p><a href="#">Learn More</a></p>
+            </div>
+        </div>
+    </div>
+</div>
+{% endif %}
+
+{% if page.title == "Newsletter Archive" %}
+<div class="hr"></div>
+<div class="main-two-up">
+    <div>
+        <a href="{{block.lefthand_text.link_url}}" target="_blank" class="lefthand-link" style="color: var(--green)">Sign up for the newsletter and get the latest news on upcoming programs and events →</a>
+    </div>
+    <div>
+        <div class="newsletter-archive">
+            <a href="/">
+                <h3><b>Angles</b> / November 2020</h3>
+                <p>Announcing the new Beverly Willis Architecture Foundation podcast. Feminist City, a new book by Leslie Kern. Emerging Leaders applications are open.</p>
+            </a>
+            <a href="/">
+                <h3><b>Briefly</b> / October 2020</h3>
+                <p>Announcing the new Beverly Willis Architecture Foundation podcast. Feminist City, a new book by Leslie Kern. Emerging Leaders applications are open.</p>
+            </a>
+            <a href="/">
+                <h3><b>Dispatches from Home</b> / December 2020</h3>
+                <p>Announcing the new Beverly Willis Architecture Foundation podcast. Feminist City, a new book by Leslie Kern. Emerging Leaders applications are open.</p>
+            </a>
+            <a href="/">
+                <h3><b>Angles</b> / November 2020</h3>
+                <p>Announcing the new Beverly Willis Architecture Foundation podcast. Feminist City, a new book by Leslie Kern. Emerging Leaders applications are open.</p>
+            </a>
+        </div>
+    </div>
+</div>
+{% endif %}
+
+{% if page.title == "Emerging Leaders" %}
+<div class="main-two-up">
+    <div>
+    </div>
+    <div>
+        <div class="event-block">
+            <h2><b>Priorities</b></h2>
+            <div>
+                <div>
+                    <img src="/assets/img/event-placeholder.png">
+                </div>
+                <div>
+                    <h6>Speaker</h6>
+                    <h5><b>Margaret Newman, FAIA, LEED AP BD+C</b>
+                        <br>Principal, Integrated Planning Team | Arup
+                    </h5>
+                    <p>How do we ever know what to do first?  How do our priorities change as our career develops? Discuss these challenges with Bloomberg administration veteran New York City Department of Transportation Commissioner Chief of Staff, Arup Urban Planner and Principal, Margaret Newman.</p>
+                    <h6>Time and location</h6>
+                    <p class="time-location">
+                        <b>
+                            April 14, 2020
+                            <br>Virtual session
+                        </b>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="main-two-up">
+    <div>
+    </div>
+    <div>
+        <div class="event-block">
+            <h2><b>Priorities</b></h2>
+            <div>
+                <div>
+                    <img src="/assets/img/event-placeholder.png">
+                </div>
+                <div>
+                    <h6>Personhood</h6>
+                    <h5><b>Ann Rolland, FAIA</b>
+                        <br>Partner | FXCollaborative
+                    </h5>
+                    <p>Are there challenges for non-heteronormative professionals in the workplace? How can you learn to bring your full self to work? Hear from Annie Rolland, FAIA, Partner at FXCollaborative on her journey.</p>
+                    <h6>Time and location</h6>
+                    <p class="time-location">
+                        <b>
+                            April 14, 2020
+                            <br>Virtual session
+                        </b>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endif %}
+
 
 {% include prefooter.html %}
 

@@ -83,9 +83,10 @@ h1, .h1, .h1 a{
     font-size:60px;
     text-transform:none;
     font-weight:normal;
-    margin-bottom:36px;
     line-height:1;
     font-family:'GT America', sans-serif;
+    // margin-bottom:36px;
+    margin-bottom:0px;
 }
 h2, h4{
     font-weight:normal;
@@ -116,12 +117,26 @@ h5{
     margin-top:10px;
     font-weight:normal;
 }
+h6{
+    text-transform:uppercase;
+    letter-spacing:0.5px;
+    font-size:16px;
+    font-family:'GT America', sans-serif;
+    font-weight:normal;
+    margin:0px;
+    margin-bottom: 10px;
+}
 p{
     margin-top:0px;
 }
 p.sm{
     font-size:16px;
     line-height:21px;
+}
+p a{
+    font-weight:bold;
+    font-family:'GT America', sans-serif;
+    border-bottom:1px solid black;
 }
 img{
     width:100%;
@@ -181,6 +196,7 @@ nav{
         svg{width:36px;height:36px;}
         li{
             margin-left:0px;
+            margin-bottom:36px;
         }
         a{transition: color 200ms}
         li:hover a{color:var(--green)}
@@ -351,17 +367,18 @@ p.lg{
 .main-two-up{
     display:flex;
     padding:var(--margin);
-    h2{
-        position:sticky;
-        top:100px;
-    }
     img{
         width:100%;
     }
     > div:first-child{
         flex:4;
         margin-right:calc(var(--gutter)/2);
-        > *{
+        h2, h3, .h3 {
+            position:sticky;
+            top:100px;
+            margin-top:0px;
+        }
+        > *:not(.lefthand-link){
             max-width:360px;
         }
     }
@@ -395,7 +412,7 @@ p.lg{
         max-height: calc(66vw - var(--margin)*2 - var(--gutter));
         object-fit: cover;
     }
-    .media-gallery-block{
+    .media-gallery-block, .other-film{
         display:flex;
         flex-wrap:wrap;
         > * {
@@ -453,6 +470,21 @@ p.lg{
             position: relative;
             height: 0px;
             background:red;
+        }
+    }
+    .portrait-gallery-block-small{
+        display:flex;
+        flex-wrap:wrap;
+        justify-content: space-between;
+        > div{
+            width:calc(25% - var(--gutter)*2/3);
+            font-size:18px;
+            line-height:24px;
+            font-family:'GT America', sans-serif;
+            margin-bottom: 50px;
+            img{
+                margin-bottom:10px;
+            }
         }
     }
     .logos-block{
@@ -532,7 +564,7 @@ p.lg{
     font-size:24px;
     line-height:30px;
     display: inline-block;
-    // max-width:300px;
+    max-width:300px;
 }
 
 figcaption, .smallest{
@@ -546,6 +578,7 @@ figcaption, .smallest{
     border-bottom:1px solid #969696;
     padding:var(--margin);
     padding-bottom:var(--spacer);
+    margin-top:120px;
 }
 
 .support-page{
@@ -625,5 +658,37 @@ figcaption, .smallest{
         text-align:center;
         margin: auto;
         display: block;
+    }
+}
+.newsletter-archive{
+    a{
+        margin-bottom:40px;
+        display:inline-block;
+    }
+    h3{
+        border-bottom:2px solid var(--green);
+        padding-bottom:5px;
+        display:inline-block;
+        margin-bottom:10px;
+        transition: color 200ms;
+    }
+    a:hover h3{
+        color:var(--green);
+        // border-bottom:2px solid #333333;
+    }
+}
+.event-block{
+    > div{
+        display:flex;
+    }
+    img{
+        width:300px;
+        height:auto;
+        margin-right:var(--gutter);
+    }
+    .time-location{
+        font-family:'GT America', sans-serif;
+        font-size:18px;
+        line-height:24px;
     }
 }
