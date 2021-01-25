@@ -2,7 +2,7 @@
 layout: innerPage
 navCategory: Programs
 title: Emerging Leaders
-permalink: /programs/emerging-leaders
+permalink: "/programs/emerging-leaders"
 page_blocks:
 - template: text-block
   include_left-hand_column_text_: true
@@ -29,5 +29,21 @@ page_blocks:
   image: "/v1610938706/Un2iW_Pg_t68z8j.jpg"
   alt_text: Caption info of photograph here teekay.
   image_caption_text: Caption info of photograph here teekay.
+- template: text-block
+  section_break: true
+  include_left-hand_column_text_: true
+  lefthand_text:
+    header_type: Medium Header
+    text: Priorities, Personhood, Profits
+  text_block: In response to the coronavirus outbreak and federal guidance on gatherings,
+    the 2020 Emerging Leaders will be hosted as three virtual sessions with three
+    inspirational speakers, and limited to 20 participants. We are offering the program
+    free of charge for the selected participants.
+- template: portrait-gallery-block-small
+  header: Meet our 2020 Emerging Leaders
+  portrait:
+  - title: Firstname M. Lastname
+    title_role: Title Teekay and Title Teekay
+    image: "/v1610937223/PatriciaHarrisHeadshot-2-e1454609739415_rkq5sz.jpg"
 
 ---
