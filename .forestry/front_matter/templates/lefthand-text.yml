@@ -2,6 +2,10 @@
 label: Lefthand Text
 hide_body: true
 fields:
+- name: section_break
+  type: boolean
+  label: Include big section break?
+  description: This will add a horizontal rule separating sections
 - name: include_left-hand_column_text_
   type: boolean
   label: Include left-hand column text?
