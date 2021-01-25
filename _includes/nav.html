@@ -29,7 +29,12 @@
                     {% for item in li.subnav %}
                         <li class="h1">
                             {% if item.external %}
-                            <a href="{{item.link}}" target="_blank">{{item.label}}</a>
+                            <a href="{{item.link}}" target="_blank" class="external">
+                                {{item.label}} 
+                                <svg id="Launch" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+                                <path id="Path_13" data-name="Path 13" d="M26,3.005v9.059L22.386,8.449,11.765,19.07l-1.83-1.83L20.556,6.619,16.941,3.005ZM22.118,25H4V6.887H14.353V9.476H6.588V22.417H19.529V14.652h2.588Z" transform="translate(-4 -3.005)" fill="#333" fill-rule="evenodd"/>
+                                </svg>
+                            </a>
                             {% else %}
                             <a href="{{item.link}}">{{item.label}}</a>
                             {% endif %}

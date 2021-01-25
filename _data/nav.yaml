@@ -26,6 +26,7 @@
   subnav:
   - label: Dynamic National Archive
     link: /
+    external: true
   - label: Film Collection
     link: /resources/film-collection
   - label: Newsletter Archive
@@ -35,7 +36,6 @@
     external: true
   - label: Podcast (coming soon)
     link: /
-    external: true
 - label: Support
   link: /support
 - label: Search
