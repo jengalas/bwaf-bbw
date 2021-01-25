@@ -2,7 +2,7 @@
 layout: innerPage
 navCategory: Programs
 title: Leadership Awards Gala
-permalink: /programs/leadership-awards-gala
+permalink: "/programs/leadership-awards-gala"
 page_blocks:
 - template: slideshow-block
   include_left-hand_column_text_: true
@@ -39,5 +39,19 @@ page_blocks:
     Each year a Gala Chair is selected by the Board to head up the selection of the annual honorees. Names put forth for consideration are presented by the Gala Committee to the Executive Committee of the Board of Trustees for consideration by the full board. In addition to names put forth by our constituency, the Gala Committee seeks to identify women who may not yet have come to the attention of the general public for recognition. We are interested in scholarship, professional distinction, journalism, corporate achievement, and impact in the advancement of women in the building industry.
 
     The gala is our major fundraising event, and is responsible for a significant portion of our annual operating expense. A special evening of friends, family, and professional colleagues provides an opportunity to expand contacts and demonstrate that networking with women is good business. It is a unique event within our industry—not your father’s rubber chicken dinner—musical entertainment by The Bettys was featured in past years.
+- template: text-block
+  section_break: true
+  include_left-hand_column_text_: true
+  lefthand_text:
+    header_type: Medium Header
+    text: 2020 Honorees
+  text_block: "**Foundation**   \nJoseph F Tortorella PE, Hon AIA NY   \nPresident
+    \  \nSilman \n\n**Keystone**   \nLinda Chiarelli   \nSenior Vice President For
+    Capital Projects And Facilities   \nNYU \n\n**Pillar**   \nJoan Blumenfeld, FAIA,
+    FIIDA, LEED AP   \nDesign Principal   \nPerkins&Will \n\nOculus Dr. Sharon Egretta
+    Sutton, FAIA Distinguished Visiting Professor Of Architecture At Parsons School
+    Of Design Adjunct Professor At Columbia University Scroll Inga Saffron Architecture
+    Critic The Philadelphia Inquirer Tribune Samantha Josaphat, RA, NOMA, NCARB, LEED
+    GA Principal Studio 397 Architecture"
 
 ---
