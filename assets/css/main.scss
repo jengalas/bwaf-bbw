@@ -322,8 +322,13 @@ a.btn{
 }
 a.btn-secondary{
     font-weight:bold;
-    color:var(--red);
+    // color:var(--red);
     font-family:'GT America', sans-serif;
+    background:var(--green);
+    color:black;
+    padding:5px 15px;
+    margin-bottom:7px;
+    display:inline-block;
 }
 
 p.lg{
@@ -608,6 +613,7 @@ figcaption, .smallest{
     background:#F4364C12;
 }
 
+.donation-block-inner.pink{background:#F4364C12;}
 .donation-block-inner{
     background:white;
     padding:56px;
@@ -622,7 +628,7 @@ figcaption, .smallest{
     > div {
         margin-bottom:100px;
     }
-    .donation-buttons {
+    .donation-buttons, .sponsorship-buttons {
         display:flex;
         flex-wrap:wrap;
         justify-content: space-between;
@@ -641,6 +647,19 @@ figcaption, .smallest{
         .btn-other span{
             position: relative;
             top: -4px;
+        }
+    }
+    .sponsorship-buttons{
+        > div{
+            width:calc(100% - 70px);
+            display:flex;
+            justify-content: space-between;
+            span:first-child{
+                font-weight:normal;
+                font-family: "William Text Regular";
+                font-size: 24px;
+                line-height:44px;
+            }
         }
     }
     .payment-buttons button{
@@ -666,6 +685,7 @@ figcaption, .smallest{
         padding:7px 0px;
         width:100%;
         margin-bottom:30px;
+        background:transparent;
     }
     input[type="text"]:focus{
         outline:none;
@@ -683,6 +703,7 @@ figcaption, .smallest{
         display: block;
     }
 }
+
 .newsletter-archive{
     a{
         margin-bottom:40px;
