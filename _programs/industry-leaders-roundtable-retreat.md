@@ -49,7 +49,7 @@ page_blocks:
     download: ''
     link_url: ''
   text_block: |-
-    ## **Why attend?**
+    ## Why attend?
 
     The full integration of women into the workplace produces firm-wide benefits including expanded markets, improved recruitment, and retention of key talent. This two-day retreat is the only event of its kind where participants develop targeted plans to combat bias, promote and retain leaders, and effect change in the organizational culture. Join with best-selling author Maria Semple to explore the public perception of female architects.
 
