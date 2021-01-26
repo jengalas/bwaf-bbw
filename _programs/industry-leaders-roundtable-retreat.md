@@ -1,7 +1,8 @@
 ---
-layout: default
-navCategory: ''
+layout: innerPage
+navCategory: 'Programs'
 title: Industry Leaders Roundtable Retreat
+permalink: /programs/industry-leaders-roundtable-retreat
 page_blocks:
 - template: text-block
   text_block: The Industry Leaders Roundtable program is designed to encourage firms
