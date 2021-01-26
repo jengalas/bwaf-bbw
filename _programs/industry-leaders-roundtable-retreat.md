@@ -50,7 +50,7 @@ page_blocks:
     download: ''
     link_url: ''
   text_block: |-
-    ## **Why attend?**
+    ## Why attend?
 
     The full integration of women into the workplace produces firm-wide benefits including expanded markets, improved recruitment, and retention of key talent. This two-day retreat is the only event of its kind where participants develop targeted plans to combat bias, promote and retain leaders, and effect change in the organizational culture. Join with best-selling author Maria Semple to explore the public perception of female architects.
 
@@ -69,5 +69,18 @@ page_blocks:
 
     Space is limited. Registrants will receive complete agenda and bibliography in advance of the event. Also, attendees will receive a copy of Where’d You Go Bernadette, by Maria Semple, with their paid registration. All registrants will be listed as sponsors in the final schedule.
   section_break: false
+- template: text-block
+  include_left-hand_column_text_: true
+  lefthand_text:
+    header_type: Medium Header
+    text: Register
+    download: ''
+    link_url: ''
+    link_text: ''
+  text_block: 'Fill out the form below to register for the 2019 BWAF Industry Leaders
+    Roundtable Retreat: Inclusion: Cultures, Policies, Practices. Held at SOM offices,
+    Los Angeles, CA, December 2-3, 2019. As the retreat is limited to 20 participants,
+    we recommend prompt registration.'
+  section_break: true
 
 ---
