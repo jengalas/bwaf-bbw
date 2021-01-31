@@ -177,6 +177,9 @@ nav{
             font-size:28px;
             font-family:'GT America', sans-serif;
         }
+        a.newsletter-link{
+            text-transform:unset;
+        }
     }
     #logo{
         height: 42px;
@@ -630,7 +633,7 @@ figcaption, .smallest{
 }
 
 .donation-block-inner.pink{background:#F4364C12;}
-.donation-block-inner{
+.donation-block-inner, .newsletter-block-inner{
     background:white;
     padding:56px;
     max-width:600px;
@@ -717,6 +720,15 @@ figcaption, .smallest{
         text-align:center;
         margin: auto;
         display: block;
+    }
+}
+.newsletter-block-inner{
+    input[type="text"]{
+        border-bottom:5px solid var(--green);
+    }
+    button#donate-form--donate-btn{
+        background:var(--green);
+        color:#333333;
     }
 }
 
@@ -899,4 +911,8 @@ figcaption, .smallest{
         font-size: 34px;
         line-height: 42px;
     }
+}
+
+.lightgreen{
+    background:#6BCABA26;
 }
