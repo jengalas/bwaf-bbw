@@ -27,7 +27,7 @@ sections:
   templates:
   - main-two-up
 - type: jekyll-pages
-  label: Pages
+  label: Msc. Pages
   create: all
 - type: heading
   label: Built By Women
