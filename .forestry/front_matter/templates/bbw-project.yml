@@ -1,51 +1,72 @@
 ---
 label: BBW Project
 hide_body: true
+display_field: title
 fields:
 - type: text
   name: layout
   label: layout
-- type: text
-  name: title
-  label: title
+  hidden: true
+  default: bbw-project
 - type: text
   name: permalink
   label: permalink
-- type: number
-  name: bbw-year
-  label: bbw-year
+  hidden: true
 - type: text
   name: navCategory
   label: navCategory
+  default: Programs
+  hidden: true
+- type: text
+  name: title
+  label: Project Title
+- name: bbw-year
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: bbw-years
+      file: 
+      path: 
+  label: Built By Women Associated Year
 - type: field_group_list
   name: architects
-  label: architects
+  label: People/Architects
   fields:
   - type: text
     name: title
-    label: title
+    label: Name
   - type: text
     name: role
-    label: role
+    label: Title/Role
 - type: text
   name: location
-  label: location
+  label: Project Location
 - type: number
   name: year
-  label: year
-- type: text
-  name: category
-  label: category
+  label: Project Year
+- name: project_categories
+  type: tag_list
+  default: []
+  label: Project Categories
 - type: textarea
   name: description
-  label: description
+  label: Description
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
 - type: field_group_list
   name: images
-  label: images
+  label: Slideshow Images
   fields:
   - type: file
     name: image
-    label: image
+    label: Image
   - type: text
     name: caption
-    label: caption
+    label: Caption
