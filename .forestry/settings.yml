@@ -46,10 +46,12 @@ sections:
 - type: document
   path: index.html
   label: Homepage
-  match: "**/*"
 - type: document
   path: subscribe.html
   label: Subscribe
+- type: document
+  path: support.html
+  label: Support
   match: "**/*"
 upload_dir: ''
 public_path: https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload
