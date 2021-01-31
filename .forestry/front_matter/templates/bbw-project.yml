@@ -1,0 +1,51 @@
+---
+label: BBW Project
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+- type: number
+  name: bbw-year
+  label: bbw-year
+- type: text
+  name: navCategory
+  label: navCategory
+- type: field_group_list
+  name: architects
+  label: architects
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: role
+    label: role
+- type: text
+  name: location
+  label: location
+- type: number
+  name: year
+  label: year
+- type: text
+  name: category
+  label: category
+- type: textarea
+  name: description
+  label: description
+- type: field_group_list
+  name: images
+  label: images
+  fields:
+  - type: file
+    name: image
+    label: image
+  - type: text
+    name: caption
+    label: caption
