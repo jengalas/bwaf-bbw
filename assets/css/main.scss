@@ -62,6 +62,9 @@ body{
     line-height:1.25;
     color:#333333;
 }
+.ss{
+    font-family:'GT America', sans-serif;
+}
 ul{
     list-style-type:none;
     margin:0px;
@@ -330,6 +333,16 @@ a.btn-secondary{
     margin-bottom:7px;
     display:inline-block;
 }
+a.btn-primary{
+    font-weight:bold;
+    font-family:'GT America', sans-serif;
+    color:var(--red);
+    border:5px solid var(--red);
+    padding:20px 30px;
+}
+div.text-block + a.btn-primary {
+    margin-top:50px;
+}
 
 p.lg{
     font-size:42px;
@@ -473,6 +486,9 @@ p.lg{
             margin-bottom:var(--spacer);
         }
     }
+    .spacer{
+        margin-bottom:var(--spacer);
+    }
     .timeline{
         ul li {display:flex;margin-bottom:20px;}
         b{
@@ -545,7 +561,7 @@ p.lg{
 .slideshow {
   max-width: 1000px;
   position: relative;
-  margin: auto;
+//   margin: auto;
   figcaption{margin-top:15px;}
   figcaption span{
       display:inline-block;
@@ -734,5 +750,153 @@ figcaption, .smallest{
         font-family:'GT America', sans-serif;
         font-size:18px;
         line-height:24px;
+    }
+}
+
+#bbw-logo{
+    width:265px;
+}
+#bbw-logo-sm{
+    display:none;
+    width: auto;
+    height: 50px;
+    position: fixed;
+    top: 15px;
+    left: 100px;
+    z-index: 2;
+}
+
+.bbw-image-grid{
+    width:100%;
+    display:flex;
+    flex-wrap:wrap;
+    img{
+        width:33.333%;
+        height:calc((100vw - var(--margin)*2 - var(--gutter))*0.6667/3);
+        object-fit: cover;
+        object-position:center;
+        flex:1;
+    }
+}
+.bbw-image-grid + figcaption{
+    margin-top: 10px;
+}
+.vertical-flex{
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+    > * {
+        display:block;
+    }
+}
+.vertical-flex-center{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+}
+.stats{
+    font-size:18px;
+    font-weight:bold;
+    line-height:24px;
+    > * {
+        margin-bottom:50px;
+        width:300px;
+    }
+}
+.stat{
+    color:var(--red);
+    font-weight:normal;
+    font-size:80px;
+    line-height:1;
+}
+.nav-bbw{
+    width:calc(100vw - var(--margin)*2);
+    padding:var(--margin);
+    display:flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #969696;
+    > div {
+        display:flex;
+        flex-direction:column;
+        justify-content: flex-end;
+        text-align:right;
+    }
+}
+.nav-bbw.small{
+    // padding:calc(var(--margin)/3) var(--margin);
+    a{
+        // font-size:18px;
+        // line-height:24px;
+    }
+    #bbw-logo-sm{
+        display:block;
+    }
+    // #bbw-logo{
+    //     width: auto;
+    //     height: 50px;
+    //     position: fixed;
+    //     top: 15px;
+    //     left: 100px;
+    //     z-index: 2;
+    // }
+    > div {
+        // justify-content: center;
+    }
+}
+.bbw-filters{
+    padding:var(--margin);
+    font-family:'GT America', sans-serif;
+    font-size:18px;
+    line-height:24px;
+    color: #333333;
+    li{
+        display:inline-block;
+        margin-right:50px;
+    }
+    button{
+        font-family:'GT America', sans-serif;
+        font-size:18px;
+        line-height:24px;
+        color: #333333;
+    }
+    button.active{
+        border-bottom:5px solid #333333;
+        font-weight:bold;
+    }
+}
+
+.bbw-projects{
+    display:flex;
+    flex-wrap:wrap;
+    // justify-content: space-between;
+    // padding:var(--margin);
+    // margin:calc(var(--gutter)/-2);
+    > div{
+        width:calc((100vw - var(--margin)*2)/4 - var(--gutter)*3/4 - 5px);
+        margin:calc(var(--gutter)/2);
+    }
+    img{
+        height:calc((100vw - var(--margin)*2)/4 - var(--gutter)*3/4 - 5px);
+        width:100%;
+        object-fit: cover;
+    }
+    h2{
+        font-size:24px;
+        font-family: "William Text Regular", serif;
+        line-height:30px;
+        margin-bottom:0px;
+    }
+    p{
+        font-size:18px;
+        line-height:24px;
+        font-family:'GT America', sans-serif;
+    }
+}
+
+.bbw-project-page{
+    h1{
+        font-family: "William Text Regular", serif;
+        font-size: 34px;
+        line-height: 42px;
     }
 }
