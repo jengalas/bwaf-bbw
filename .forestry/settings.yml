@@ -27,7 +27,7 @@ sections:
   templates:
   - main-two-up
 - type: jekyll-pages
-  label: Pages
+  label: Msc. Pages
   create: all
 - type: heading
   label: Built By Women
@@ -40,6 +40,18 @@ sections:
   path: _bbw-projects
   label: 'BBW: Projects'
   create: documents
+  match: "**/*"
+- type: heading
+  label: Msc. Pages
+- type: document
+  path: index.html
+  label: Homepage
+- type: document
+  path: subscribe.html
+  label: Subscribe
+- type: document
+  path: support.html
+  label: Support
   match: "**/*"
 upload_dir: ''
 public_path: https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload
