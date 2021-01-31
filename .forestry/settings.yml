@@ -41,6 +41,16 @@ sections:
   label: 'BBW: Projects'
   create: documents
   match: "**/*"
+- type: heading
+  label: Msc. Pages
+- type: document
+  path: index.html
+  label: Homepage
+  match: "**/*"
+- type: document
+  path: subscribe.html
+  label: Subscribe
+  match: "**/*"
 upload_dir: ''
 public_path: https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload
 front_matter_path: ''
