@@ -41,6 +41,12 @@ sections:
   label: 'BBW: Projects'
   create: documents
   match: "**/*"
+- type: directory
+  path: _bbw-juries/**/*
+  label: 'BBW: Juries'
+  create: documents
+  match: "**/*"
+  new_doc_ext: ".md"
 - type: heading
   label: Msc. Pages
 - type: document
@@ -52,7 +58,6 @@ sections:
 - type: document
   path: support.html
   label: Support
-  match: "**/*"
 upload_dir: ''
 public_path: https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload
 front_matter_path: ''
