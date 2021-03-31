@@ -13,3 +13,5 @@ fields:
 - type: boolean
   name: homepage
   label: homepage
+pages:
+- index.html
