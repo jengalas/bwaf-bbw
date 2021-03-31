@@ -42,11 +42,18 @@ sections:
   create: documents
   match: "**/*"
 - type: directory
-  path: _bbw-juries/**/*
+  path: _bbw-juries
   label: 'BBW: Juries'
   create: documents
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
+- type: heading
+  label: Msc. Collections
+- type: directory
+  path: _films
+  label: Films (For Film Collections)
+  create: documents
+  match: "**/*"
 - type: heading
   label: Msc. Pages
 - type: document
