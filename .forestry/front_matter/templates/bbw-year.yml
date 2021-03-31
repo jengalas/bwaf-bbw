@@ -5,24 +5,18 @@ fields:
 - type: text
   name: layout
   label: layout
-  default: bbw-projects
-  hidden: true
 - type: text
   name: permalink
   label: permalink
-  hidden: true
+- type: text
+  name: title
+  label: title
 - type: text
   name: navCategory
   label: navCategory
-  hidden: true
-  default: Projects
-- type: text
-  name: title
-  label: Title
-  description: 'Format: <strong>City (Year)</strong><br><em>e.g. New York (2018)</em>'
 - type: text
   name: city
-  label: City/Location
-- type: number
+  label: city
+- type: text
   name: year
-  label: Year
+  label: year
