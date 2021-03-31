@@ -2,34 +2,47 @@
 layout: default
 title: Homepage
 homepage: true
-
+short-description: Beverly Willis Architecture Foundation is changing the industry of design and construction, for women, through education and research.
+blocks: 
+    - link: https://www.xyz.com
+      image: /assets/img/placeholder1.png
+      category: Programs
+      line_1: Upcoming Program Item Headline
+      line_2: Second Line of Headline Here
+    - link: https://www.xyz.com
+      image: /assets/img/placeholder4.png
+      category: Programs
+      line_1: Upcoming Program Item Headline
+      line_2: Second Line of Headline Here
+    - link: https://www.xyz.com
+      image: /assets/img/placeholder21.png
+      category: Programs
+      line_1: Upcoming Program Item Headline
+      line_2: Second Line of Headline Here
+    - link: https://www.xyz.com
+      image: /assets/img/placeholder3.png
+      category: Programs
+      line_1: Upcoming Program Item Headline
+      line_2: Second Line of Headline Here
 ---
 <div class="home main">
     <div>
         <div>
-            <p class="lg">Beverly Willis Architecture Foundation is changing the industry of design and construction, for women, through education and research.</p>
+            <p class="lg">{{page.short-description}}</p>
             <a class="btn" href="/mission">Learn More</a>
         </div>
+        {% for block in page.blocks | limit: 2 %}
         <div>
-            <a href="#">
-                <img src="/assets/img/placeholder1.png">
-                <h4>Programs</h4>
+            <a href="{{block.link}}">
+                <img src="{{block.image}}">
+                <h4>{{block.category}}</h4>
                 <h2>
-                    <b>Upcoming Program Item Headline</b>
-                    <br>Second Line of Headline Here
+                    <b>{{block.line_1}}</b>
+                    <br>{{block.line_2}}
                 </h2>
             </a>
         </div>
-        <div>
-            <a href="#">
-                <img src="/assets/img/placeholder4.png">
-                <h4>Programs</h4>
-                <h2>
-                    <b>Upcoming Program Item Headline</b>
-                    <br>Second Line of Headline Here
-                </h2>
-            </a>
-        </div>
+        {% endfor %}
     </div>
     <div>
         <div>
