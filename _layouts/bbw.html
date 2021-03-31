@@ -1,0 +1,88 @@
+{% include head.html %}
+{% include nav.html %}
+<div class="main-two-up">
+    <div class="vertical-flex">
+        <img id="bbw-logo" src="/assets/img/built-by-women.png">
+        <a href="{{block.lefthand_text.link_url}}" target="_blank" class="lefthand-link">Learn how you can become a sponsor of the program→</a>
+    </div>
+    <div>
+        <div>
+            <div class="bbw-image-grid">
+                {% for image in page.slideshow-images | limit: 6 %}
+                <img src="{{image.image}}">
+                {% endfor %}
+            </div>
+            <figcaption>From top left clockwise: {% for image in page.slideshow-images | limit: 6%}{{image.caption}}, {% endfor %}</figcaption>
+        </div>
+    </div>
+</div>
+<div class="main-two-up">
+    <div class="vertical-flex-center">
+        <div class="stats ss">
+            {% for stat in page.stats %}
+            <div>
+                <span class="stat">{{stat.number}}</span>
+                <br>{{stat.label}}
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    <div>
+        <div class="text-block spacer">
+            {{ page.description }}
+            <p>Women are underrepresented in the building professions. Built by Women’s goal is to change this. Increasing the number of women in science, technology, engineering, architecture and mathematics is critical to our country’s ability to compete globally. Teams that reflect diverse skills, backgrounds, and gender identities achieve greater innovation, leading to increased economic growth.</p>
+        </div>
+        <div class="img-block">
+            <a href="{{page.map.link}}" target="_blank">
+                <img src="{{page.map.image}}" alt="{{block.alt_text}}">
+                {% if page.map.caption %}
+                <figcaption>Caption info of photographs here teekay.</figcaption>
+                {% endif %}
+            </a>
+        </div>
+    </div>
+</div>
+<div class="main-two-up">
+    {% for bbw-year in site.bbw-years %}
+        {% if bbw-year.path == page.current-year %}
+            {% assign currentYear = bbw-year.url %}
+        {% endif %}
+    {% endfor %}
+
+    {% for bbw-jury in site.bbw-juries %}
+        {% if bbw-jury.bbw-year == page.current-year %}
+            {% assign currentJury = bbw-jury.url %}
+        {% endif %}
+    {% endfor %}
+    <div>
+        {% if currentJury %}
+        <a href="{{currentJury}}" target="_blank" class="lefthand-link">Meet the Jury→</a><br>
+        {% endif %}
+        <a href="{{page.map.link}}" target="_blank" class="lefthand-link">Buy the Map→</a>
+    </div>
+    <div>
+        <div class="text-block spacer">
+            <p>{{page.current-year-blurb}}</p>
+        </div>
+        <br>
+
+        <a href="{{currentYear}}" class="btn-primary spacer">
+            View Selected Projects →
+        </a>
+    </div>
+</div>
+<div class="main-two-up">
+    <div></div>
+    <div>
+        <div class="links">
+            <span class="ss" style="margin-bottom:10px;display:block">View previous years' competitions:</span>
+            {% for bbw in site.bbw-years %}
+            <a href="{{bbw.url}}" class="btn-secondary">{{bbw.city}} ({{bbw.year}}) →</a><br>
+            {% endfor %}
+            <!-- <a href="#" class="btn-secondary">District of Columbia (2016) →</a><br>
+            <a href="#" class="btn-secondary">New York City, NY (2014) →</a><br> -->
+        </div>
+    </div>
+</div>
+{% include prefooter.html %}
+{% include foot.html %}

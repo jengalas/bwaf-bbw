@@ -4,7 +4,7 @@
 <div class="main-two-up">
     <h3><b>{{page.city}} {{page.year}}: Selected Projects</b></h3>
 </div>
-<div class="bbw-filters">
+<!-- <div class="bbw-filters">
     <ul>
         <li>Sort by:</li>
         <li><button class="active">Year Built</button></li>
@@ -12,49 +12,32 @@
         <li><button>Architect</button></li>
         <li><button>Category</button></li>
     </ul>
-</div>
+</div> -->
+
 <div class="bbw-projects">
-    <div>
-        <a href="/built-by-women/2020/test-project">
-            <img src="/assets/img/mission.png">
-            <h2>Name of Architecture Project or Building Name</h2>
-            <p>2002</p>
-            <p><b>Architect’s Firstname Lastname</b><br>Principal, Studio Name</p>
-        </a>
-    </div>
-    <div>
-        <a href="/built-by-women/2020/test-project">
-            <img src="/assets/img/mission.png">
-            <h2>Building Name</h2>
-            <p>2002</p>
-            <p><b>Architect’s Firstname Lastname</b><br>Principal, Studio Name</p>
-        </a>
-    </div>
-    <div>
-        <img src="/assets/img/mission.png">
-        <h2>Name of Architecture Project or Building Name</h2>
-        <p>2002</p>
-        <p><b>Architect’s Firstname Lastname</b><br>Principal, Studio Name</p>
-        <p><b>Firstname Lastname</b><br>Director, Organization Name</p>
-    </div>
-    <div>
-        <img src="/assets/img/mission.png">
-        <h2>Name of Architecture Project or Building Name</h2>
-        <p>2002</p>
-        <p><b>Architect’s Firstname Lastname</b><br>Principal, Studio Name</p>
-    </div>
-    <div>
-        <img src="/assets/img/mission.png">
-        <h2>Name of Architecture Project or Building Name</h2>
-        <p>2002</p>
-        <p><b>Architect’s Firstname Lastname</b><br>Principal, Studio Name</p>
-    </div>
-    <div>
-        <img src="/assets/img/mission.png">
-        <h2>Name of Architecture Project or Building Name</h2>
-        <p>2002</p>
-        <p><b>Architect’s Firstname Lastname</b><br>Principal, Studio Name</p>
-    </div>
+    {% for project in site.bbw-projects %}
+
+        {% if project.bbw-year == page.path %}
+
+        {% if project.historical %}
+        <div class="historical">
+        {% else %}
+        <div>
+        {% endif %}
+            <a href="{{ project.url }}">
+                <img src="/assets/img/mission.png">
+                <h2>{{ project.title }}</h2>
+                <p>{{ project.year }}</p>
+                {% for architect in project.architects %}
+                <p><b>{{architect.title}}</b><br>{{architect.role}}</p>
+                {% endfor %}
+                <label>Historical</label>
+            </a>
+        </div>
+
+        {% endif %}
+
+    {% endfor %}
 </div>
 {% include prefooter.html %}
 {% include foot.html %}

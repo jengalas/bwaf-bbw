@@ -1,17 +1,15 @@
 ---
 layout: bbw-project
-title: Test Project
-permalink: "/built-by-women/2020/test-project"
+title: Name of Architecture Project or Building Name
+permalink: "/built-by-women/2020/test-project-2"
 bbw-year: _bbw-years/bbw-2020.md
 navCategory: Programs
-historical: true
+historical: false
 architects:
 - title: Architect's Firstname Lastname
   role: Principal, Studio Name
-- title: Firstname Lastname
-  role: Director, Organization
 location: 123 Main Street, Los Angeles
-year: 2002
+year: 2018
 category: Infrastructure, Engineering
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi etiam dignissim

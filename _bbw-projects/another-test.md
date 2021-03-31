@@ -1,10 +1,10 @@
 ---
 layout: bbw-project
 title: Test Project
-permalink: "/built-by-women/2020/test-project"
-bbw-year: _bbw-years/bbw-2020.md
+permalink: "/built-by-women/2018/test-project"
+bbw-year: _bbw-years/bbw-2018.md
 navCategory: Programs
-historical: true
+historical: false
 architects:
 - title: Architect's Firstname Lastname
   role: Principal, Studio Name

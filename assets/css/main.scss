@@ -887,6 +887,24 @@ figcaption, .smallest{
         width:calc((100vw - var(--margin)*2)/4 - var(--gutter)*3/4 - 5px);
         margin:calc(var(--gutter)/2);
     }
+    label{
+        display:none;
+    }
+    .historical{
+        background:#ffd6db;
+        padding:15px;
+        width:calc((100vw - var(--margin)*2)/4 - var(--gutter)*3/4 - 5px - 30px);
+        position:relative;
+        top:-15px;
+        label{
+            display:block;
+            font-size: 14px;
+            text-transform:uppercase;
+            font-family: 'GT America', sans-serif;
+            color:var(--red);
+            font-weight:bold;
+        }
+    }
     img{
         height:calc((100vw - var(--margin)*2)/4 - var(--gutter)*3/4 - 5px);
         width:100%;

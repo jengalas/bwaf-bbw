@@ -38,6 +38,8 @@ collections:
     output: true
   bbw-years:
     output: true
+  bbw-juries:
+    output: true
   films:
     output: true
 
