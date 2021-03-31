@@ -42,6 +42,9 @@ page_blocks:
 - template: portrait-gallery-block-small
   header: Meet our 2020 Emerging Leaders
   portrait:
+  - title: This is a name
+    title_role: This is the title
+    image: "/v1610940879/BWAF_Gala_2020_The_Berman_Group_Chris_Bacarella_Photography-104_brv2jb.jpg"
   - title: Firstname M. Lastname
     title_role: Title Teekay and Title Teekay
     image: "/v1610937223/PatriciaHarrisHeadshot-2-e1454609739415_rkq5sz.jpg"
