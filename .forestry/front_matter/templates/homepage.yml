@@ -18,7 +18,7 @@ fields:
   label: short-description
 - type: field_group_list
   name: blocks
-  label: blocks
+  label: Blocks
   fields:
   - type: text
     name: link
@@ -37,5 +37,8 @@ fields:
     label: line_2
   config:
     labelField: line_1
+    max: 4
+    min: 4
+  description: 4 blocks min/max
 pages:
 - index.html
