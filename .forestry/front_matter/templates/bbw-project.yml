@@ -1,76 +1,59 @@
 ---
-label: BBW Project (OLD)
+label: BBW Project
 hide_body: true
-display_field: title
 fields:
 - type: text
   name: layout
   label: layout
-  hidden: true
-  default: bbw-project
+- type: text
+  name: title
+  label: title
 - type: text
   name: permalink
   label: permalink
-  hidden: true
+- type: text
+  name: bbw-year
+  label: bbw-year
 - type: text
   name: navCategory
   label: navCategory
-  default: Programs
-  hidden: true
-- type: text
-  name: title
-  label: Project Title
-- name: bbw-year
-  type: select
-  default: []
-  config:
-    required: false
-    options: []
-    source:
-      type: pages
-      section: bbw-years
-      file: 
-      path: 
-  label: Built By Women Associated Year
+- type: boolean
+  name: historical
+  label: historical
 - type: field_group_list
   name: architects
-  label: People/Architects
+  label: architects
   fields:
   - type: text
     name: title
-    label: Name
+    label: title
   - type: text
     name: role
-    label: Title/Role
+    label: role
 - type: text
   name: location
-  label: Project Location
+  label: location
 - type: number
   name: year
-  label: Project Year
-- name: project_categories
-  type: tag_list
-  default: []
-  label: Project Categories
-  hidden: true
+  label: year
+- type: text
+  name: category
+  label: category
 - type: textarea
   name: description
-  label: Description
-  config:
-    required: false
-    wysiwyg: true
-    schema:
-      format: markdown
+  label: description
 - type: field_group_list
   name: images
-  label: Slideshow Images
+  label: images
   fields:
   - type: file
     name: image
-    label: Image
+    label: image
   - type: text
     name: caption
-    label: Caption
+    label: caption
+- type: list
+  name: project_categories
+  label: project_categories
 pages:
-- _bbw-projects/another-test-project.md
-- _bbw-projects/test-project.md
+- _bbw-projects/another-test.md
