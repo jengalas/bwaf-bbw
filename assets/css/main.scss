@@ -710,6 +710,27 @@ p.lg{
         content: "";
         flex: auto;
     }
+    .portrait-gallery-block-large{
+        > div {
+            margin-bottom:var(--gutter);
+            display:flex;
+            align-items: flex-start;
+            > div:first-child{
+                flex:1;
+                margin-right:var(--gutter);
+            }
+            > div:last-child{
+                flex:2;
+            }
+        }
+        h2, .h2{
+            margin-top:0px;
+        }
+        p{
+            font-size:16px;
+            line-height:21px;
+        }
+    }
     .logos-block{
         display:flex;
         flex-wrap:wrap;
@@ -998,7 +1019,7 @@ figcaption, .smallest{
     line-height:1;
 }
 .nav-bbw{
-    width:calc(100vw - var(--margin)*2);
+    width:calc(100% - var(--margin)*2);
     padding:var(--margin);
     display:flex;
     justify-content: space-between;
@@ -1017,7 +1038,7 @@ figcaption, .smallest{
         // line-height:24px;
     }
     #bbw-logo-sm{
-        display:block;
+        // display:block;
     }
     // #bbw-logo{
     //     width: auto;
@@ -1242,6 +1263,13 @@ figcaption, .smallest{
     }
     .home.main>div:first-child>div:first-child{
         padding:var(--gutter) var(--margin)
+    }
+    .main-two-up .portrait-gallery-block-large>div{
+        display:block;
+        .image-container{
+            width:50%;
+            margin-bottom:1em;
+        }
     }
 }
 

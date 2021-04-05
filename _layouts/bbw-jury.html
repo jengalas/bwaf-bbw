@@ -3,15 +3,26 @@
 {% include nav-bbw.html %}
 <div class="main-two-up">
     <div>
-        <h2 class="h3"><b>{{block.lefthand_text.text}}</b></h2>
+        {% for bbwYear in site.bbw-years %}
+
+        {% if page.bbw_year == bbwYear.path %}
+        {%assign year = bbwYear%}
+        {%endfor%}
+        <h2 class="h3"><b>{{year.title}}: Meet the Jury</b></h2>
     </div>
     <div>
         <div class="portrait-gallery-block-large">
-            {% for person in block.portrait %}
+            {% for person in page.jury_members %}
             <div>
-                <div class="img" style="background-image: url({{site.cloudinary}}{{person.image}})"></div>
-                <b>{{person.title}}</b>
-                <br>{{person.title_role}}
+                <div class="image-container">
+                    <img src="{{site.cloudinary}}{{person.image}}">
+                </div>
+                <div>
+                    <h2><b>{{person.title}}</b>
+                        <br>{{person.role}}
+                    </h2>
+                    <p>{{person.bio}}</p>
+                </div>
             </div>
             {% endfor %}
         </div>
