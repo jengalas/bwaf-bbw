@@ -470,8 +470,9 @@ p.lg{
         }
         img{
             width:100%;
+            object-fit:fill;
         }
-        .img-container{position: relative;display:inline-block}
+        .img-container{position: relative;display:inline-block;width:100%}
         .play{
             display:block;
             position:absolute;
@@ -503,36 +504,53 @@ p.lg{
     .portrait-gallery-block{
         display:flex;
         flex-wrap:wrap;
-        justify-content: space-between;
         > div{
             width:calc(33.333% - var(--gutter)*2/3);
+            margin-right:var(--gutter);
+            margin-bottom:var(--gutter);
+        }
+        > div:nth-child(3n+3){
+            margin-right:0px;
         }
         p{    
             font-size:16px;
             line-height:21px;
         }
-        img{
+        img, .img{
             width:100%;
             padding-top: 100%; /* 1:1 Aspect Ratio */
             position: relative;
             height: 0px;
-            background:red;
+            background-position:center;
+            background-size: cover;
         }
     }
     .portrait-gallery-block-small{
         display:flex;
         flex-wrap:wrap;
-        justify-content: space-between;
+        // justify-content: space-between;
         > div{
-            width:calc(25% - var(--gutter)*2/3);
+            width:calc(25% - var(--gutter)*3/4);
             font-size:18px;
             line-height:24px;
             font-family:'GT America', sans-serif;
             margin-bottom: 50px;
-            img{
+            margin-right:var(--gutter);
+            img, .img{
                 margin-bottom:10px;
+                height: 0px;
+                padding-top:100%;
+                background-position:center;
+                background-size: cover;
             }
         }
+        > div:nth-child(4n+4){
+            margin-right:0px;
+        }
+    }
+    .portrait-gallery-block-small::after {
+        content: "";
+        flex: auto;
     }
     .logos-block{
         display:flex;
@@ -562,7 +580,7 @@ p.lg{
 
 /* Slideshow container */
 .slideshow {
-  max-width: 1000px;
+//   max-width: 1000px;
   position: relative;
 //   margin: auto;
   figcaption{margin-top:15px;}
@@ -933,4 +951,92 @@ figcaption, .smallest{
 
 .lightgreen{
     background:#6BCABA26;
+}
+
+
+@media screen and (min-width: 1800px){
+    body {
+        font-size: 30px;
+    }
+}
+
+@media screen and (max-width:1450px){
+    .main-two-up .portrait-gallery-block>div{
+        width: calc(50% - var(--gutter)/2);
+    }
+    .main-two-up .portrait-gallery-block> div:nth-child(3n+3){
+        margin-right:var(--gutter);
+    }
+    .main-two-up .portrait-gallery-block> div:nth-child(2n+2){
+        margin-right:0px;
+    }
+}
+
+@media screen and (max-width: 1250px){
+    .main-two-up>div:first-child{flex:3}
+    .main-two-up>div:nth-child(2){flex:9}
+}
+
+@media screen and (max-width: 950px){
+    .main-two-up{
+        display:block;
+        h1{
+            margin-bottom: 0.6em;
+        }
+    }
+    .main-two-up>div:nth-child(2){
+        margin-left:0px;
+    }
+}
+
+@media screen and (max-width: 800px){
+    :root{
+    --gutter:40px;
+    }
+    .main-two-up .portrait-gallery-block-small>div{
+        width: calc(33.3333% - var(--gutter)*2/3);
+    }
+    .main-two-up .portrait-gallery-block-small>div:nth-child(4n+4){
+        margin-right:var(--gutter);
+    }
+    .main-two-up .portrait-gallery-block-small>div:nth-child(3n+3){
+        margin-right:0px;
+    }
+}
+
+@media screen and (max-width: 800px){
+    body{
+        font-size:20px;
+    }
+    .main-two-up .timeline ul li{
+        display:block;
+    }
+    .main-two-up .media-gallery-block>*, .main-two-up .other-film>*, .main-two-up .media-gallery-block>*:nth-child(even){
+        width:100%;
+        margin-left:0px;
+        margin-right:0px;
+    }
+
+}
+
+@media screen and (max-width:600px){
+    .main-two-up .portrait-gallery-block>div{
+        width: 100%;
+        margin-right:0px !important;
+    }
+    .main-two-up .portrait-gallery-block-small>div{
+        width: calc(50% - var(--gutter)/2);
+    }
+    .main-two-up .portrait-gallery-block-small>div:nth-child(2n+2){
+        margin-right:0px;
+    }
+    .main-two-up .portrait-gallery-block-small>div:nth-child(odd){
+        margin-right:var(--gutter);
+    }
+}
+
+@media screen and (max-width:550px){
+    :root{
+        --margin: 15px;
+    }
 }

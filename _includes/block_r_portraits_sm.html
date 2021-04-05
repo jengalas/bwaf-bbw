@@ -1,0 +1,10 @@
+<h2><b>Meet our 2020 Emerging Leaders</b></h2>
+<div class="portrait-gallery-block-small">
+    {% for person in block.portrait %}
+    <div>
+        <div class="img" style="background-image: url({{site.cloudinary}}{{person.image}})"></div>
+        <b>{{person.title}}</b>
+        <br>{{person.title_role}}
+    </div>
+    {% endfor %}
+</div>
