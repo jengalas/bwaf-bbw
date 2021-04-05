@@ -1,0 +1,21 @@
+{% include head.html %}
+{% include nav.html %}
+{% include nav-bbw.html %}
+<div class="main-two-up">
+    <div>
+        <h2 class="h3"><b>{{block.lefthand_text.text}}</b></h2>
+    </div>
+    <div>
+        <div class="portrait-gallery-block-large">
+            {% for person in block.portrait %}
+            <div>
+                <div class="img" style="background-image: url({{site.cloudinary}}{{person.image}})"></div>
+                <b>{{person.title}}</b>
+                <br>{{person.title_role}}
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+{% include prefooter.html %}
+{% include foot.html %}
