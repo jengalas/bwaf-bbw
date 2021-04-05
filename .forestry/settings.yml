@@ -26,9 +26,6 @@ sections:
   new_doc_ext: md
   templates:
   - main-two-up
-- type: jekyll-pages
-  label: Msc. Pages
-  create: all
 - type: heading
   label: Built By Women
 - type: directory
