@@ -75,7 +75,7 @@ a{
     color:black;
     text-decoration:none;
 }
-button{
+button, input[type="submit"]{
     border:0px;
     padding:0px;
     border-radius:0px;
@@ -156,7 +156,7 @@ img{
     border-bottom:1px solid #969696;
     height:100px;
 }
-button:focus{outline:none;}
+button:focus, input[type="submit"]:focus{outline:none;}
 #hamburger{display:none;}
 nav{
     position:sticky;
@@ -842,7 +842,7 @@ figcaption, .smallest{
         color:var(--dark);
     }
     > div {
-        margin-bottom:100px;
+        // margin-bottom:100px;
     }
     .donation-buttons, .sponsorship-buttons {
         display:flex;
@@ -893,7 +893,7 @@ figcaption, .smallest{
         left:-100px;
         top:-100px;
     }
-    input[type="text"]{
+    input[type="text"], input[type="email"]{
         font-size:24px;
         color:var(--dark);
         border:0px;
@@ -903,27 +903,31 @@ figcaption, .smallest{
         margin-bottom:30px;
         background:transparent;
     }
-    input[type="text"]:focus{
+    input[type="text"]:focus, input[type="email"]:focus{
         outline:none;
     }
-    input[type="text"]::placeholder{
+    input[type="text"]::placeholder, input[type="email"]::placeholder{
         color:var(--dark);
         font-family:'GT America', sans-serif;
     }
-    button#donate-form--donate-btn{
+    button#donate-form--donate-btn, input[type="submit"]{
         background:var(--red);
         color:white;
         padding:20px 30px;
         text-align:center;
         margin: auto;
         display: block;
+        font-size: 28px;
+        line-height: 34px;
+        font-weight:bold;
+        margin-top:100px;
     }
 }
 .newsletter-block-inner{
-    input[type="text"]{
+    input[type="text"], input[type="email"]{
         border-bottom:5px solid var(--green);
     }
-    button#donate-form--donate-btn{
+    #mc-embedded-subscribe{
         background:var(--green);
         color:var(--dark);
     }
