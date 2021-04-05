@@ -1,22 +1,27 @@
 ---
-label: BBW Year (DONT USE)
+label: BBW Year
 hide_body: true
 fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
+  default: bbw-year
 - type: text
   name: permalink
   label: permalink
+  hidden: true
 - type: text
   name: title
-  label: title
+  label: Title
 - type: text
   name: navCategory
   label: navCategory
+  hidden: true
+  default: Programs
 - type: text
   name: city
-  label: city
+  label: City
 - type: text
   name: year
-  label: year
+  label: Year
