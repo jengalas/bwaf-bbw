@@ -25,6 +25,18 @@ fields:
 - type: text
   name: year
   label: Year
+- name: link_out
+  type: boolean
+  label: Link out to PDF instead of building a page?
+- name: link_out_url
+  type: text
+  config:
+    required: false
+  description: "<em>(To see pages mimic a page flip, it is recommended to use Issuu.)</em>"
+  label: Link Out Url
+  showOnly:
+    field: link_out
+    value: true
 pages:
 - _bbw-years/bbw-2016.md
 - _bbw-years/bbw-2018.md
