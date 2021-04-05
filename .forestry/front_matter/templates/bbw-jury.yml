@@ -5,12 +5,56 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
+  default: bbw-jury
 - type: text
   name: title
-  label: title
+  label: Page Title
+- name: bbw_year
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: bbw-years
+      file: 
+      path: 
+  label: BBW Year
 - type: text
   name: permalink
   label: permalink
-- type: text
-  name: bbw-year
-  label: bbw-year
+  hidden: true
+- name: jury_members
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Name
+  - name: role
+    type: text
+    config:
+      required: false
+    label: Role
+  - name: bio
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Bio
+  - name: image
+    type: file
+    config:
+      maxSize: 64
+    label: Image
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Jury Members
