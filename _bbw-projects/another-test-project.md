@@ -35,8 +35,6 @@ images:
   caption: Image caption 2
 - image: "/v1610940736/BWAF_Gala_2020_The_Berman_Group_Chris_Bacarella_Photography-21_ktx20r.jpg"
   caption: Image caption 1
-project_categories:
-- Infrastructure
-- Engineering
+project_categories: []
 
 ---
