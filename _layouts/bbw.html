@@ -77,7 +77,11 @@
         <div class="links">
             <span class="ss" style="margin-bottom:10px;display:block">View previous years' competitions:</span>
             {% for bbw in site.bbw-years %}
-            <a href="{{bbw.url}}" class="btn-secondary">{{bbw.city}} ({{bbw.year}}) →</a><br>
+                {% if bbw.link_out %}
+                <a href="{{bbw.link_out_url}}" class="btn-secondary" target="_blank">{{bbw.city}} ({{bbw.year}}) →</a><br>
+                {% else %}
+                <a href="{{bbw.url}}" class="btn-secondary">{{bbw.city}} ({{bbw.year}}) →</a><br>
+                {% endif %}
             {% endfor %}
             <!-- <a href="#" class="btn-secondary">District of Columbia (2016) →</a><br>
             <a href="#" class="btn-secondary">New York City, NY (2014) →</a><br> -->
