@@ -26,5 +26,6 @@ fields:
   name: year
   label: Year
 pages:
+- _bbw-years/bbw-2016.md
 - _bbw-years/bbw-2018.md
 - _bbw-years/bbw-2020.md
