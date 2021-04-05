@@ -16,3 +16,5 @@ fields:
 - type: textarea
   name: text-block
   label: Text Block
+pages:
+- subscribe.html
