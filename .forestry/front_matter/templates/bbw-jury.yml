@@ -58,3 +58,5 @@ fields:
     max: 
     labelField: 
   label: Jury Members
+pages:
+- _bbw-juries/jury-2020.md
