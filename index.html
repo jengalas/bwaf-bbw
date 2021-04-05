@@ -15,7 +15,7 @@ blocks:
       line_1: Upcoming Program Item Headline
       line_2: Second Line of Headline Here
     - link: https://www.xyz.com
-      image: /assets/img/placeholder21.png
+      image: /assets/img/placeholder2.png
       category: Programs
       line_1: Upcoming Program Item Headline
       line_2: Second Line of Headline Here
@@ -31,10 +31,12 @@ blocks:
             <p class="lg">{{page.short-description}}</p>
             <a class="btn" href="/mission">Learn More</a>
         </div>
-        {% for block in page.blocks | limit: 2 %}
+        {% for block in page.blocks %}
         <div>
             <a href="{{block.link}}">
-                <img src="{{block.image}}">
+                <div class="image-container">
+                    <img src="{{block.image}}">
+                </div>
                 <h4>{{block.category}}</h4>
                 <h2>
                     <b>{{block.line_1}}</b>
@@ -42,10 +44,13 @@ blocks:
                 </h2>
             </a>
         </div>
-        {% endfor %}
+        
+    {% if forloop.index == 2 %}
     </div>
     <div>
-        <div>
+    {% endif %}
+    {% endfor %}
+        <!-- <div>
             <a href="#">
                 <img src="/assets/img/placeholder2.png">
                 <h4>Programs</h4>
@@ -64,7 +69,7 @@ blocks:
                     <br>Second Line of Headline Here
                 </h2>
             </a>
-        </div>
+        </div> -->
         <div id="custom">
             <a href="/support">
                 <div class="module">
