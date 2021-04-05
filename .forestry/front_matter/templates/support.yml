@@ -1,0 +1,29 @@
+---
+label: Support
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: header
+  label: header
+- type: field_group
+  name: link
+  label: link
+  fields:
+  - type: text
+    name: text
+    label: text
+  - type: text
+    name: url
+    label: url
+- type: textarea
+  name: text-block
+  label: text-block
