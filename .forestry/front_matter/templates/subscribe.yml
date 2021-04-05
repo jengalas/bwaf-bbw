@@ -1,0 +1,16 @@
+---
+label: Subscribe
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: header
+  label: header
+- type: textarea
+  name: text-block
+  label: text-block
