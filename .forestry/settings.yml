@@ -33,17 +33,23 @@ sections:
   label: 'BBW: Years'
   create: documents
   match: "**/*"
+  templates:
+  - bbw-year
 - type: directory
   path: _bbw-projects
   label: 'BBW: Projects'
   create: documents
   match: "**/*"
+  templates:
+  - bbw-project
 - type: directory
   path: _bbw-juries
   label: 'BBW: Juries'
   create: documents
   match: "**/*"
   new_doc_ext: md
+  templates:
+  - bbw-jury
 - type: heading
   label: Msc. Collections
 - type: directory
@@ -51,6 +57,8 @@ sections:
   label: Films (For Film Collections)
   create: documents
   match: "**/*"
+  templates:
+  - film
 - type: heading
   label: Msc. Pages
 - type: document
