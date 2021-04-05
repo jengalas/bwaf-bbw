@@ -1,16 +1,18 @@
 ---
 label: Subscribe
-hide_body: false
+hide_body: true
 fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
 - type: text
   name: permalink
   label: permalink
+  hidden: true
 - type: text
   name: header
-  label: header
+  label: Header Text
 - type: textarea
   name: text-block
-  label: text-block
+  label: Text Block
