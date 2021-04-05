@@ -12,6 +12,7 @@ fields:
 - type: boolean
   name: homepage
   label: homepage
+  hidden: true
 - type: textarea
   name: short-description
   label: short-description
