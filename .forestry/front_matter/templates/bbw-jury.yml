@@ -58,5 +58,12 @@ fields:
     max: 
     labelField: 
   label: Jury Members
+- name: navcategory
+  type: text
+  config:
+    required: false
+  label: navCategory
+  default: Programs
+  hidden: true
 pages:
 - _bbw-juries/jury-2020.md
