@@ -35,5 +35,7 @@ fields:
   - type: text
     name: line_2
     label: line_2
+  config:
+    labelField: line_1
 pages:
 - index.html
