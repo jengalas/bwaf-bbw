@@ -48,6 +48,7 @@
     --red:#F4364C;
     --green:#6BCABA;
     --spacer: 80px;
+    --dark: var(--dark);
 }
 
 html{
@@ -60,7 +61,7 @@ body{
     font-size:24px;
     font-family: "William Text Regular";
     line-height:1.25;
-    color:#333333;
+    color:var(--dark);
 }
 .ss{
     font-family:'GT America', sans-serif;
@@ -153,10 +154,11 @@ img{
     height:100px;
 }
 button:focus{outline:none;}
+#hamburger{display:none;}
 nav{
     position:sticky;
     padding:20px var(--margin);
-    width:calc(100vw - var(--margin)*2);
+    width:calc(100% - var(--margin)*2);
     top:0px;
     display:flex;
     justify-content: space-between;
@@ -165,15 +167,16 @@ nav{
     z-index: 2;
     > ul{
         display:flex;
+        flex:8;
         li {
-            margin-left:50px;
+            margin-right:50px;
         }
         button, a{
             text-transform:uppercase;
             font-weight:bold;
             text-decoration: none;
             letter-spacing: 0em;
-            color: #333333;
+            color: var(--dark);
             font-size:28px;
             font-family:'GT America', sans-serif;
         }
@@ -184,6 +187,8 @@ nav{
     #logo{
         height: 42px;
         transition: height 400ms;
+        flex: 4;
+        margin-right: var(--gutter);
         svg{
             height:100%;
             width:50px;
@@ -288,7 +293,11 @@ nav.subnav-open > ul > li {
     }
 }
 nav.subnav-open .active{
-    color:#333333;
+    color:var(--dark);
+}
+#homepage nav ul{
+    justify-content:flex-end;
+    li:last-child{margin-right:0px;}
 }
 #page-container {
   position: relative;
@@ -296,7 +305,7 @@ nav.subnav-open .active{
 }
 footer{
     padding:var(--spacer) var(--margin) var(--margin);
-    width:calc(100vw - var(--margin)*2);
+    width:calc(100% - var(--margin)*2);
     display:flex;
     font-family:'GT America';
     font-size:18px;
@@ -660,7 +669,7 @@ figcaption, .smallest{
         margin-top:0px;
         position:static;
         margin-bottom:30px;
-        color:#333333;
+        color:var(--dark);
     }
     > div {
         margin-bottom:100px;
@@ -716,7 +725,7 @@ figcaption, .smallest{
     }
     input[type="text"]{
         font-size:24px;
-        color:#333333;
+        color:var(--dark);
         border:0px;
         border-bottom:5px solid var(--red);
         padding:7px 0px;
@@ -728,7 +737,7 @@ figcaption, .smallest{
         outline:none;
     }
     input[type="text"]::placeholder{
-        color:#333333;
+        color:var(--dark);
         font-family:'GT America', sans-serif;
     }
     button#donate-form--donate-btn{
@@ -746,7 +755,7 @@ figcaption, .smallest{
     }
     button#donate-form--donate-btn{
         background:var(--green);
-        color:#333333;
+        color:var(--dark);
     }
 }
 
@@ -764,7 +773,7 @@ figcaption, .smallest{
     }
     a:hover h3{
         color:var(--green);
-        // border-bottom:2px solid #333333;
+        // border-bottom:2px solid var(--dark);
     }
 }
 .event-block{
@@ -878,7 +887,7 @@ figcaption, .smallest{
     font-family:'GT America', sans-serif;
     font-size:18px;
     line-height:24px;
-    color: #333333;
+    color: var(--dark);
     li{
         display:inline-block;
         margin-right:50px;
@@ -887,10 +896,10 @@ figcaption, .smallest{
         font-family:'GT America', sans-serif;
         font-size:18px;
         line-height:24px;
-        color: #333333;
+        color: var(--dark);
     }
     button.active{
-        border-bottom:5px solid #333333;
+        border-bottom:5px solid var(--dark);
         font-weight:bold;
     }
 }
@@ -960,7 +969,7 @@ figcaption, .smallest{
     }
 }
 
-@media screen and (max-width:1450px){
+@media screen and (max-width:1455px){
     .main-two-up .portrait-gallery-block>div{
         width: calc(50% - var(--gutter)/2);
     }
@@ -972,9 +981,65 @@ figcaption, .smallest{
     }
 }
 
+
+
 @media screen and (max-width: 1250px){
     .main-two-up>div:first-child{flex:3}
     .main-two-up>div:nth-child(2){flex:9}
+}
+
+@media screen and (max-width: 1050px){
+    // footer>*{
+    //     display:flex;
+    //     flex-direction:column;
+    //     justify-content:flex-end;
+    // }
+
+    p.lg{font-size:34px;}
+
+    footer>*:last-child{
+        text-align:left;
+        // justify-content:flex-start;
+        a.btn{
+            display:inline-block;
+        }
+    }
+    footer{flex-wrap:wrap;}
+    footer>*{width:33.333%;flex:none;margin-bottom:1em;}
+    footer>*:first-child, footer>*:last-child{width:100%}
+
+
+    // hamburger
+    #hamburger{
+        display:flex;
+        flex-direction: column;
+        justify-content: space-between;
+        width:40px;
+        height:30px;
+        margin-top:auto;
+        margin-bottom:auto;
+        position: absolute;
+        top: var(--margin);
+        right: var(--margin);
+        cursor:pointer;
+        span{
+            display:block;
+            width:100%;
+            height:4px;
+            background:black;
+        }
+    }
+    nav{display: block;}
+    nav ul{display:none;margin-top:1em}
+    nav.expanded {
+        ul{display:block;}
+        ul li{
+            margin-left:0px;
+        }
+    }
+    nav.subnav-open>ul>li>button, nav.subnav-open>ul>li>a{
+        color:black;
+    }
 }
 
 @media screen and (max-width: 950px){
@@ -986,6 +1051,12 @@ figcaption, .smallest{
     }
     .main-two-up>div:nth-child(2){
         margin-left:0px;
+    }
+    .lefthand-link{
+        margin-bottom:1em;
+    }
+    .text-with-download{
+        margin-bottom:var(--gutter);
     }
 }
 
@@ -1002,9 +1073,6 @@ figcaption, .smallest{
     .main-two-up .portrait-gallery-block-small>div:nth-child(3n+3){
         margin-right:0px;
     }
-}
-
-@media screen and (max-width: 800px){
     body{
         font-size:20px;
     }
@@ -1016,7 +1084,16 @@ figcaption, .smallest{
         margin-left:0px;
         margin-right:0px;
     }
-
+    .home.main{
+        flex-wrap:wrap;
+    }
+    .home.main>div{
+        width: 100vw;
+        border-right: 0px solid transparent;
+    }
+    .home.main>div:first-child>div:first-child{
+        padding:var(--gutter) var(--margin)
+    }
 }
 
 @media screen and (max-width:600px){
@@ -1038,5 +1115,11 @@ figcaption, .smallest{
 @media screen and (max-width:550px){
     :root{
         --margin: 15px;
+    }
+    body{
+        font-size:18px;
+    }
+    .main-two-up .portrait-gallery-block p{
+        font-size:18px;
     }
 }
