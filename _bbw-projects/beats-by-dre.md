@@ -12,6 +12,5 @@ year:
 description: 'Two renovated industrial buildings form the new headquarters for this
   electronics company. '
 images: []
-published: false
 
 ---
