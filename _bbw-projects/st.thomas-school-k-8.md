@@ -9,7 +9,7 @@ architects:
   role: Griffin Enright Architects
 location: 2632 W 15th St, Los Angeles
 year: 
-description: The design for this catholic school in a densely populated park of the
+description: The design for this Catholic school in a densely populated part of the
   city turns every constraint into an architectural opportunity.
 images: []
 
