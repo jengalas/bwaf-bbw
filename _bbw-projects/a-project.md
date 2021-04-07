@@ -5,9 +5,9 @@ bbw-year: _bbw-years/bbw-2020.md
 project_categories: []
 title: 9 Dots
 architects:
-- title: Catherine Johnson
-  role: Design, Bitches
 - title: 'Rebecca Rudolph '
+  role: Design, Bitches
+- title: Catherine Johnson
   role: Design, Bitches
 location: '931 N Highland Ave, Los Angeles '
 year: 
