@@ -1,15 +1,17 @@
 ---
 layout: bbw-project
-title: B Project
+title: Air Traffic Control Tower at LAX
 permalink: "/built-by-women/2020/test-project"
 bbw-year: _bbw-years/bbw-2020.md
 navCategory: Programs
 historical: true
 architects:
-- title: Architect's Firstname Lastname
-  role: Principal, Studio Name
-- title: Firstname Lastname
-  role: Director, Organization
+- title: 'Pamela Burton '
+  role: 'Pamela Burton & Company '
+- title: Kate Diamond
+  role: 'Kate Diamond, HDR INC. '
+- title: 'Katherine Spitz '
+  role: 'Kate Diamond, HDR INC. '
 location: 123 Main Street, Los Angeles
 year: 2002
 category: Infrastructure, Engineering
