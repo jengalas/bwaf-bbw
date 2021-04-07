@@ -1,17 +1,15 @@
 ---
 layout: bbw-project
-title: Name of Architecture Project or Building Name
+title: Auburn Restaurant
 permalink: "/built-by-women/2020/test-project-2"
 bbw-year: _bbw-years/bbw-2020.md
 navCategory: Programs
 historical: false
 architects:
-- title: ''
-  role: ''
-- title: Lead First and Last Name
-  role: Firm Name
-- title: Architect's Firstname Lastname
-  role: Firm Name
+- title: Chelsea Killburn
+  role: 'ORA / Klein Agency '
+- title: Oonagh Ryan
+  role: 'ORA/Klein Agency '
 location: 123 Main Street, Los Angeles
 year: 2018
 category: Infrastructure, Engineering
