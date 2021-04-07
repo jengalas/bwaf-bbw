@@ -14,6 +14,5 @@ year:
 description: 'A STEM educational space for underserved children featuring teacher
   training, workshops, and a community center. '
 images: []
-published: false
 
 ---
