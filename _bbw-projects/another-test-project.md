@@ -7,7 +7,7 @@ navCategory: Programs
 historical: false
 architects:
 - title: Architect's Firstname Lastname
-  role: Principal, Studio Name
+  role: Firm Name
 location: 123 Main Street, Los Angeles
 year: 2018
 category: Infrastructure, Engineering
