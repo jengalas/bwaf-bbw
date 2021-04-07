@@ -1,6 +1,6 @@
 ---
 layout: bbw-project
-title: Another Test Project
+title: B Project
 permalink: "/built-by-women/2020/test-project"
 bbw-year: _bbw-years/bbw-2020.md
 navCategory: Programs
