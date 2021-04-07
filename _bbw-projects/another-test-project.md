@@ -6,6 +6,10 @@ bbw-year: _bbw-years/bbw-2020.md
 navCategory: Programs
 historical: false
 architects:
+- title: ''
+  role: ''
+- title: Lead First and Last Name
+  role: Firm Name
 - title: Architect's Firstname Lastname
   role: Firm Name
 location: 123 Main Street, Los Angeles
