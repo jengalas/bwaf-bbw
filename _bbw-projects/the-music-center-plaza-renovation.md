@@ -13,6 +13,10 @@ location: 135 N Grand Ave, Los Angeles
 year: 2019
 description: A momentous "front door" and new performance venue achieve an enhanced
   pedestrian environment for the redesigned space.
-images: []
+images:
+- image: "/v1617915817/The_Music_Center_Plaza_Renovation-04_stgn4v.jpg"
+  caption: The Music Center Plaza Renovation, exterior view
+- image: "/v1617915840/The_Music_Center_Plaza_Renovation-03_zongta.jpg"
+  caption: The Music Center Plaza Renovation, exterior view
 
 ---
