@@ -8,7 +8,7 @@ architects:
 - title: Angela Brooks
   role: 'Brooks + Scarpa '
 location: 811 S Carondelet St, Los Angeles
-year: 
+year: 2016
 description: 'Built on a previous parking lot in the MacArthur Park neighborhood,
   the project provides affordable apartments with generous open space for previously
   homeless and/or disabled veterans. '
