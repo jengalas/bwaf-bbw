@@ -10,7 +10,7 @@ architects:
 - title: Anna Jacobson
   role: Moore Ruble Yudell Architects + Planners
 location: 601 Santa Monica Blvd, Santa Monica
-year: 
+year: 2005
 description: LEED Gold certified, this building responds to the breezy-but-enlightened
   Santa Monica culture by incorporating large, sun-shade windows and colorful pocket
   gardens.
