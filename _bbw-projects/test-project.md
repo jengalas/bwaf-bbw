@@ -13,7 +13,7 @@ architects:
 - title: 'Pamela Burton '
   role: 'Pamela Burton & Company '
 location: '1 World Way, Los Angeles '
-year: 
+year: 1996
 category: Infrastructure, Engineering
 description: 'The ultimate civic tree house—a powerful trunk holds aloft the tiny,
   high-tech cab recalling the palm trees that define LA. '
