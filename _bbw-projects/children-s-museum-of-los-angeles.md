@@ -11,6 +11,8 @@ location: 11800 Foothill Blvd, Sylmar
 year: 2008
 description: 'Unified by a large ceiling plane, small sculptural spaces engage the
   wider landscape. '
-images: []
+images:
+- image: "/v1617907164/Children_s_Museum_of_Los_Angeles-02_jie8ue.jpg"
+  caption: Children's Museum of Los Angeles, exterior view
 
 ---
