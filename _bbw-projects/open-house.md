@@ -10,7 +10,7 @@ architects:
 - title: Tracy Bremer
   role: Standard
 location: Bel Air, CA
-year: 
+year: 2018
 description: 'Designed for a family returning from Europe with goals of embracing
   indoor-outdoor living and minimizing the home''s energy footprint. '
 images: []
