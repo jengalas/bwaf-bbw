@@ -13,6 +13,10 @@ location: 'Venice, CA '
 year: 2008
 description: The house is a modernist contemplation on—and reinterpretation of—the
   modest bungalows that define the Venice streets.
-images: []
+images:
+- image: "/v1617908485/Floating_Bungalow-02_l52isw.jpg"
+  caption: Floating Bungalow, exterior view
+- image: "/v1617908467/Floating_Bungalow-03_tp9185.jpg"
+  caption: Floating Bungalow, interior view
 
 ---
