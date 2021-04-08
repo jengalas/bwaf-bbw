@@ -10,7 +10,7 @@ architects:
 - title: Mandi Roberts
   role: Ehrlich | Fisher Joint Venture
 location: 9045 Lincoln Blvd, Los Angeles
-year: 
+year: 2016
 description: 'Shoe-horned into a tight site, this 90,000 square foot expansion creates
   a central quad and a cohesive campus for the art and design students. '
 images: []
