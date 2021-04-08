@@ -15,6 +15,10 @@ location: 411 W Ocean Blvd, Long Beach
 year: 2019
 description: 'Creating a vivd contrast to the city''s other municipal buildings, this
   campus infuses new life into downtown Long Beach. '
-images: []
+images:
+- image: "/v1617910391/Long_Beach_Civic_Center-03_vvd8wd.jpg"
+  caption: Long Beach Civic Center, exterior view
+- image: "/v1617910375/Long_Beach_Civic_Center-05_zpv4lu.jpg"
+  caption: Long Beach Civic Center, exterior view
 
 ---
