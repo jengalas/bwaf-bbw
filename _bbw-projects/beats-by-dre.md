@@ -8,7 +8,7 @@ architects:
 - title: Barbara Bestor
   role: 'Bestor Architecture '
 location: 'Culver City, Los Angeles '
-year: 
+year: 2015
 description: 'Two renovated industrial buildings form the new headquarters for this
   electronics company. '
 images: []
