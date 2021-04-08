@@ -7,7 +7,7 @@ title: The Hyperion Project
 architects:
 - title: Jenny Wu
   role: Oyler Wu Collaborative
-location: Silver Lake, California
+location: Silver Lake, CA
 year: 
 description: Renovation of a two-story 1930s Spanish Style building into a modern
   family homestead upstairs and an architectural office below.
