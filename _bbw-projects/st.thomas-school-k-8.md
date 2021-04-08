@@ -8,7 +8,7 @@ architects:
 - title: Margaret Griffin
   role: Griffin Enright Architects
 location: 2632 W 15th St, Los Angeles
-year: 
+year: 2010
 description: The design for this Catholic school in a densely populated part of the
   city turns every constraint into an architectural opportunity.
 images: []
