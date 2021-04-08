@@ -12,7 +12,7 @@ architects:
 - title: Emily Hodgdon
   role: 'Brooks + Scarpa '
 location: 906 E 6th St, Los Angeles
-year: 
+year: 2018
 description: Transformation of three tiny service courtyards into beautiful, shared
   social tenant spaces.
 images: []
