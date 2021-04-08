@@ -10,7 +10,7 @@ architects:
 - title: Audrey Wu
   role: Gensler
 location: '633 W 5th St #840, Los Angeles'
-year: 
+year: 2016
 description: High above the city, the observation deck and all-glass slide celebrates
   the golden hour—that magical moment when LA is bathed in a warm, radiant glow of
   light.
