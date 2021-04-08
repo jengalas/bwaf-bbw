@@ -10,9 +10,13 @@ architects:
 - title: Catherine Johnson
   role: Design, Bitches
 location: '931 N Highland Ave, Los Angeles '
-year: 
+year: 2018
 description: 'A STEM educational space for underserved children featuring teacher
   training, workshops, and a community center. '
-images: []
+images:
+- image: ''
+  caption: ''
+- image: ''
+  caption: ''
 
 ---
