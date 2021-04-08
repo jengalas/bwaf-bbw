@@ -13,6 +13,10 @@ location: '18111 Nordhoff St, Northridge '
 year: 2010
 description: 'Both sophisticated and approachable, this space for students and theater
   patrons is functional, sustainable, and a peaceful environment. '
-images: []
+images:
+- image: "/v1617908034/CSUN_Valley_Performing_Arts_Center-03_kxxaia.jpg"
+  caption: Csun Valley Performing Arts Center, exterior view
+- image: "/v1617908014/CSUN_Valley_Performing_Arts_Center-02_ygsiog.jpg"
+  caption: Csun Valley Performing Arts Center, exterior view
 
 ---
