@@ -14,9 +14,9 @@ year: 2015
 description: 'In a city with little available land, a thoughtful cluster of 18 homes
   are nestled on a .82 acre site. '
 images:
-- image: "/v1617906993/Blackbirds-04_ctnrxr.jpg"
-  caption: Blackbirds, exterior view
 - image: "/v1617906949/Blackbirds-02_qaf9rj.jpg"
+  caption: Blackbirds, exterior view
+- image: "/v1617906993/Blackbirds-04_ctnrxr.jpg"
   caption: Blackbirds, exterior view
 
 ---
