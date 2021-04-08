@@ -10,7 +10,7 @@ architects:
 - title: Claudia Kessner
   role: John Friedman Alice Kimm Architects
 location: 525 S Hewitt St, Los Angeles
-year: 
+year: 2016
 description: 'A dynamic hub where government, business entrepreneurs, and community
   come together to address global warming, environmental decay, and urban sustainability. '
 images: []
