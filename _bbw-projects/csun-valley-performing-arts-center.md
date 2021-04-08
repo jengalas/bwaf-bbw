@@ -10,7 +10,7 @@ architects:
 - title: Stephanie Psomas
   role: Pamela Burton & Company
 location: '18111 Nordhoff St, Northridge '
-year: 
+year: 2010
 description: 'Both sophisticated and approachable, this space for students and theater
   patrons is functional, sustainable, and a peaceful environment. '
 images: []
