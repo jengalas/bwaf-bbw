@@ -16,6 +16,10 @@ year: 2017
 description: 'The renovation of the 1931 theater creates a state-of-the-art experience
   with a stage reconstructed in Brazilian wood and a freeway noise reducing sound
   wall. '
-images: []
+images:
+- image: "/v1617909833/John_Anson_Ford_Amphitheatre_Renovation-02_h3t2k7.jpg"
+  caption: John Anson Ford Amphitheatre, exterior view
+- image: "/v1617909814/John_Anson_Ford_Amphitheatre_Renovation-03_xbiw1y.jpg"
+  caption: John Anson Ford Amphitheatre, exterior view
 
 ---
