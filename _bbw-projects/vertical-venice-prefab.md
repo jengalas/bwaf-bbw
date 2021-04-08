@@ -13,6 +13,10 @@ location: 'Venice, Los Angeles '
 year: 2016
 description: This prototype for green residential infill projects introduces less
   waste and faster construction, resulting in a lower total life-cycle cost.
-images: []
+images:
+- image: "/v1617916478/Vertical_Venice_Prefab-03_x9thjc.jpg"
+  caption: Vertical Venice Prefab, exterior view
+- image: "/v1617916465/Vertical_Venice_Prefab-04_z23ljw.jpg"
+  caption: Vertical Venice Prefab, interior view
 
 ---
