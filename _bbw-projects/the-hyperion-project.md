@@ -8,7 +8,7 @@ architects:
 - title: Jenny Wu
   role: Oyler Wu Collaborative
 location: Silver Lake, CA
-year: 
+year: 2019
 description: Renovation of a two-story 1930s Spanish Style building into a modern
   family homestead upstairs and an architectural office below.
 images: []
