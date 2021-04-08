@@ -15,6 +15,8 @@ description: LEED Gold certified, this building responds to the breezy-but-enlig
   Santa Monica culture by incorporating large, sun-shade windows and colorful pocket
   gardens.
 images:
+- image: "/v1617913478/Santa_Monica_Public_Library-02_w62pco.jpg"
+  caption: Santa Monica Public Library, exterior view
 - image: "/v1617913454/Santa_Monica_Public_Library-03_ojqoao.jpg"
   caption: Santa Monica Public Library, interior view
 
