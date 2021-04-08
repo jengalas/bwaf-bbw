@@ -10,7 +10,7 @@ architects:
 - title: Catherine Johnson
   role: Bestor Architecture
 location: 3922 Sunset Blvd, Los Angeles
-year: 
+year: 2008
 description: 'A mash up of Anne Truitt-like minimalism and traditional, strikingly
   bold tile reminiscent of coffee houses in Mexico City or Havana. '
 images: []
