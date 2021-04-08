@@ -10,7 +10,7 @@ architects:
 - title: Rebecca Rudolph
   role: Design, Bitches
 location: 1900 Lincoln Blvd, Venice
-year: 
+year: 2014
 description: Housed in a former auto-repair shop, this neighborhood coffee shop by
   day transitions into a sit-down restaurant at sunset.
 images: []
