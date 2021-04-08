@@ -10,7 +10,7 @@ architects:
 - title: Catherine Hernandez
   role: 'Office 42 Architecture '
 location: 8101 Vermont Ave, Los Angeles
-year: 
+year: 2015
 description: 'This headquarters renovation delivers openness and vibrancy to its relationship
   with the community of South Los Angeles. '
 images: []
