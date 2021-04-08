@@ -11,6 +11,10 @@ location: 2275 E Mariposa Ave, El Segundo
 year: 2017
 description: 'The building envelope uses signage in a unique way: the resident''s
   names act as sun shading elements on the exterior curtain wall. '
-images: []
+images:
+- image: "/v1617916124/UCLA_Health_Training_Center-_Home_of_the_Los_Angeles_Lakers-02_ueqsdw.jpg"
+  caption: UCLA Health Training Center–Home of The Los Angeles Lakers, exterior view
+- image: "/v1617916107/UCLA_Health_Training_Center-_Home_of_the_Los_Angeles_Lakers-04_ombju7.jpg"
+  caption: UCLA Health Training Center–Home of The Los Angeles Lakers, interior view
 
 ---
