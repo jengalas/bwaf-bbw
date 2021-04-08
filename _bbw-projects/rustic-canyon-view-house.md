@@ -7,7 +7,7 @@ title: Rustic Canyon View House
 architects:
 - title: Jeanne Chen
   role: Moore Ruble Yudell Architects & Planners
-location: Rustic Canyon, California
+location: Rustic Canyon, CA
 year: 
 description: 'Nestled into the hill on a very steep site long considered unbuildable,
   this sculptural home is a case study on building small and optimizing resources. '
