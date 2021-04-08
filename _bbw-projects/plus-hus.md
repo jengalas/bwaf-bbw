@@ -11,6 +11,10 @@ location: Santa Monica, Los Angeles
 year: 2018
 description: 'A stylish prefab unit developed in response to a law change easing restrictions
   on "granny flats" in back-yards of single family homes. '
-images: []
+images:
+- image: "/v1617912345/Pl%C3%BAs_H%C3%BAs-04_s0cagg.jpg"
+  caption: Plús Hús, exterior view
+- image: "/v1617912317/Pl%C3%BAs_H%C3%BAs-03_jxxbwq.jpg"
+  caption: Plús Hús, interior view
 
 ---
