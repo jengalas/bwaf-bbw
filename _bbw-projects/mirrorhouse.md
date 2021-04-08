@@ -7,7 +7,7 @@ title: Mirrorhouse
 architects:
 - title: Monika Haefelfinger
   role: 'XTEN Architecture '
-location: 'Hollywood Hills, California '
+location: 'Hollywood Hills, CA '
 year: 
 description: 'Perched in the hills, this house is an exercise in restraint: white
   plaster and polished black marble make up this starkly limited palette. '
