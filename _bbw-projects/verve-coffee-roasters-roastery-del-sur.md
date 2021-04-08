@@ -14,6 +14,10 @@ year: 2019
 description: In the renovation of an iconic building, maximal visual transparency
   reveals the entire barista process—from roasting, to training, to crafting a perfect
   cup.
-images: []
+images:
+- image: "/v1617916569/Verve_Coffee_Roasters-_Roastery_del_Sur-03_hj0nhi.jpg"
+  caption: 'Verve Coffee Roasters: Roastery Del Sur, interior view'
+- image: "/v1617916585/Verve_Coffee_Roasters-_Roastery_del_Sur-02_wdlumw.jpg"
+  caption: 'Verve Coffee Roasters: Roastery Del Sur, interior view'
 
 ---
