@@ -18,9 +18,9 @@ category: Infrastructure, Engineering
 description: 'The ultimate civic tree house—a powerful trunk holds aloft the tiny,
   high-tech cab recalling the palm trees that define LA. '
 images:
-- image: "/v1617906196/Air_Traffic_Control_Tower_Los_Angeles_International_Airport-01_beuwff.jpg"
-  caption: Air Traffic Control Tower at LAX, exterior view
 - image: "/v1617906273/Air_Traffic_Control_Tower_Los_Angeles_International_Airport-02_sr4pvo.jpg"
+  caption: Air Traffic Control Tower at LAX, exterior view
+- image: "/v1617906196/Air_Traffic_Control_Tower_Los_Angeles_International_Airport-01_beuwff.jpg"
   caption: Air Traffic Control Tower at LAX, exterior view
 project_categories:
 - Infrastructure
