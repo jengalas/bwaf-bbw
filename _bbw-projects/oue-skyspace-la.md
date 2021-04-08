@@ -14,6 +14,10 @@ year: 2016
 description: High above the city, the observation deck and all-glass slide celebrates
   the golden hour—that magical moment when LA is bathed in a warm, radiant glow of
   light.
-images: []
+images:
+- image: "/v1617912218/OUE_Skyspace_LA-03_fnbwmd.jpg"
+  caption: OUE Skyspace LA, interior view
+- image: "/v1617912196/OUE_Skyspace_LA-04_ovmu2z.jpg"
+  caption: OUE Skyspace LA, exterior view
 
 ---
