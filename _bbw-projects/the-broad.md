@@ -10,7 +10,7 @@ architects:
 - title: Elizabeth Diller
   role: Diller Scofidio + Renfro
 location: 221 S Grand Ave, Los Angeles
-year: 
+year: 2015
 description: 'The facade design of the museum ensures that artwork can be appreciated
   without the harsh intensity of the color-bleaching Southern California sunlight. '
 images: []
