@@ -12,7 +12,7 @@ architects:
 - title: Carmen Suero
   role: Clark Construction Group LLC
 location: 411 W Ocean Blvd, Long Beach
-year: 
+year: 2019
 description: 'Creating a vivd contrast to the city''s other municipal buildings, this
   campus infuses new life into downtown Long Beach. '
 images: []
