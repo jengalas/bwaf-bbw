@@ -10,7 +10,7 @@ architects:
 - title: Misato Hamazaki
   role: RCH Studios
 location: South Park, Los Angeles
-year: 
+year: 2019
 description: 'Turning the ubiquitous utility box into a neighborhood asset, this way-finding
   system encourages walking and biking. '
 images: []
