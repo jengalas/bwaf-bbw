@@ -6,9 +6,9 @@ project_categories: []
 title: 'Otis College of Art and Design Campus Expansion '
 architects:
 - title: Whitney Wyatt
-  role: Ehrlich / Fisher Joint Venture
+  role: Ehrlich | Fisher Joint Venture
 - title: Mandi Roberts
-  role: Ehrlich / Fisher Joint Venture
+  role: Ehrlich | Fisher Joint Venture
 location: 9045 Lincoln Blvd, Los Angeles
 year: 
 description: 'Shoe-horned into a tight site, this 90,000 square foot expansion creates
