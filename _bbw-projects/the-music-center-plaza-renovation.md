@@ -10,7 +10,7 @@ architects:
 - title: Krystal Scott
   role: RCH Studios
 location: 135 N Grand Ave, Los Angeles
-year: 
+year: 2019
 description: A momentous "front door" and new performance venue achieve an enhanced
   pedestrian environment for the redesigned space.
 images: []
