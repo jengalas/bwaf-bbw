@@ -10,7 +10,7 @@ architects:
 - title: Rebecca Rudolph
   role: Design, Bitches
 location: '500 Mateo St #102, Los Angeles'
-year: 
+year: 2019
 description: In the renovation of an iconic building, maximal visual transparency
   reveals the entire barista process—from roasting, to training, to crafting a perfect
   cup.
