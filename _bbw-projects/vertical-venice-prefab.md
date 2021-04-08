@@ -10,7 +10,7 @@ architects:
 - role: Office of Mobile Design
   title: Koje F. Shoraka
 location: 'Venice, Los Angeles '
-year: 
+year: 2016
 description: This prototype for green residential infill projects introduces less
   waste and faster construction, resulting in a lower total life-cycle cost.
 images: []
