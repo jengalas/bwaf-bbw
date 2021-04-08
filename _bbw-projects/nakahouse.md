@@ -8,7 +8,7 @@ architects:
 - title: Monika Haefelfinger
   role: 'XTEN Architecture '
 location: Hollywood Hills, Los Angeles
-year: 
+year: 2011
 description: The contrast between interior and exterior is intentional and total.
   The dark exteriors add definition to an interior that tries to escape it.
 images: []
