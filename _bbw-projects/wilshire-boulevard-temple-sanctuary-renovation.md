@@ -10,7 +10,7 @@ architects:
 - title: Katherine Spitz
   role: 'Katherine Spitz Associates '
 location: 3663 Wilshire Blvd, Los Angeles
-year: 
+year: 2013
 description: 'Renovation and improvements for a 1929 structure including the restoration
   of a circular rose window, twenty-five feet wide. '
 images: []
