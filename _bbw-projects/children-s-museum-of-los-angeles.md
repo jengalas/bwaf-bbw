@@ -14,5 +14,7 @@ description: 'Unified by a large ceiling plane, small sculptural spaces engage t
 images:
 - image: "/v1617907164/Children_s_Museum_of_Los_Angeles-02_jie8ue.jpg"
   caption: Children's Museum of Los Angeles, exterior view
+- image: "/v1617907611/Screen_Shot_2021-04-08_at_2.46.34_PM_sefb7i.png"
+  caption: Children's Museum of Los Angeles, interior view
 
 ---
