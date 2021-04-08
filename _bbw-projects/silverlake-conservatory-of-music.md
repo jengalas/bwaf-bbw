@@ -10,7 +10,7 @@ architects:
 - title: Bianca Gavrila
   role: Bestor Architecture
 location: 4652 Hollywood Blvd, Los Angeles
-year: 
+year: 2016
 description: 'A vibrant musical village enclosed within the shell of a classic and
   ubiquitous Hollywood bowstring truss warehouse. '
 images: []
