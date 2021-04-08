@@ -17,7 +17,9 @@ year: 1996
 category: Infrastructure, Engineering
 description: 'The ultimate civic tree house—a powerful trunk holds aloft the tiny,
   high-tech cab recalling the palm trees that define LA. '
-images: []
+images:
+- image: "/v1617906196/Air_Traffic_Control_Tower_Los_Angeles_International_Airport-01_beuwff.jpg"
+  caption: 'Air Traffic Control Tower '
 project_categories:
 - Infrastructure
 - Engineering
