@@ -8,7 +8,7 @@ architects:
 - title: Jeanne Chen
   role: Moore Ruble Yudell Architects & Planners
 location: Rustic Canyon, CA
-year: 
+year: 2017
 description: 'Nestled into the hill on a very steep site long considered unbuildable,
   this sculptural home is a case study on building small and optimizing resources. '
 images: []
