@@ -17,7 +17,9 @@ year: 2019
 category: Infrastructure, Engineering
 description: 'The 105-seat space exemplifies California minimalism: concrete, exposed
   white oak beams, vast pale walls, leather the color of first-of-the-season peaches. '
-images: []
+images:
+- image: "/v1617906376/Arburn_Restaurant-04_hn3n5d.jpg"
+  caption: Auburn Restaurant
 project_categories: []
 
 ---
