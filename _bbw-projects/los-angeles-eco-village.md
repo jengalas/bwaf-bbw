@@ -10,7 +10,7 @@ architects:
 - title: Lara Morrison
   role: CRSP Institute for Urban Ecovillages
 location: 117 Bimini PI, Los Angeles
-year: 
+year: 2018
 description: 'A 44-member international community aims to reinvent living in the city
   by demonstrating higher quality living patterns at lower environmental impacts. '
 images: []
