@@ -10,7 +10,7 @@ architects:
 - title: 'Erin McConahey '
   role: Arup
 location: '3911 S Figueroa St, Los Angeles '
-year: 
+year: 2019
 description: 'Upgrading the 1923 landmark provides digitally enhanced game-day experiences
   while preserving the buildings legacy. '
 images: []
