@@ -13,6 +13,10 @@ location: 525 S Hewitt St, Los Angeles
 year: 2016
 description: 'A dynamic hub where government, business entrepreneurs, and community
   come together to address global warming, environmental decay, and urban sustainability. '
-images: []
+images:
+- image: "/v1617910058/La_Kretz_Innovation_Campus-02_eaoske.jpg"
+  caption: LA Kretz Innovation Campus, interior view
+- image: "/v1617910088/La_Kretz_Innovation_Campus-03_jkqttf.jpg"
+  caption: LA Kretz Innovation Campus, interior view
 
 ---
