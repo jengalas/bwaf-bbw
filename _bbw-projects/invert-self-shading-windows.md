@@ -16,5 +16,7 @@ description: Addressing climate change, this innovative product uses thermobimet
 images:
 - image: "/v1617909666/InVert_Self-Shading_Windows-04_g6akbr.jpg"
   caption: Invert Self-Shading Windows, exterior view
+- image: "/v1617909698/InVert_Self-Shading_Windows-02_mrxeto.jpg"
+  caption: Invert Self-Shading Windows, exterior view
 
 ---
