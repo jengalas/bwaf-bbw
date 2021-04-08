@@ -8,7 +8,7 @@ architects:
 - title: Erla Dögg Ingjaldsdóttir
   role: 'Erla Construction '
 location: Santa Monica, Los Angeles
-year: 
+year: 2018
 description: 'A stylish prefab unit developed in response to a law change easing restrictions
   on "granny flats" in back-yards of single family homes. '
 images: []
