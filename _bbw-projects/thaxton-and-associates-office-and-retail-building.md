@@ -8,7 +8,7 @@ architects:
 - title: Margaret Griffin
   role: 'Griffin Enright Architects '
 location: 11338 Moorpark St, North Hollywood
-year: 
+year: 2016
 description: 'This contemporary renovation features cantilevered rooms that engage
   the outdoors while extending the space of the office interiors. '
 images: []
