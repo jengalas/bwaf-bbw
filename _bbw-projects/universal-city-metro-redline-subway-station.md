@@ -8,7 +8,7 @@ architects:
 - title: Kate Diamond
   role: HDR INC.
 location: Universal City / Studio City
-year: 
+year: 1998
 description: This design transforms concrete columns into exuberant trees, telling
   the history of the Campo de Cahuenga site nearby.
 images: []
