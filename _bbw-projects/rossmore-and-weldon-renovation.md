@@ -15,6 +15,10 @@ location: 906 E 6th St, Los Angeles
 year: 2018
 description: Transformation of three tiny service courtyards into beautiful, shared
   social tenant spaces.
-images: []
+images:
+- image: "/v1617912555/Rossmore_and_Weldon_Renovation-02_coapbc.jpg"
+  caption: Rossmore and Weldon Renovation, exterior view
+- image: "/v1617912581/Rossmore_and_Weldon_Renovation-03_rm5vjx.jpg"
+  caption: Rossmore and Weldon Renovation, exterior view
 
 ---
