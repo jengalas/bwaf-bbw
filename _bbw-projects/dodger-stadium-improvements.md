@@ -16,6 +16,10 @@ year: 2013
 description: With the beloved stadium in need of an update, the current trends in
   sports architecture are seamlessly integrated while retaining the best of the 1960s
   heritage.
-images: []
+images:
+- image: "/v1617908284/Dodger_Stadium_Improvements-02_cka4ra.jpg"
+  caption: Dodger Stadium Improvements, exterior view
+- image: "/v1617908265/Dodger_Stadium_Improvements-03_hyolvw.jpg"
+  caption: Dodger Stadium Improvements, exterior view
 
 ---
