@@ -13,6 +13,10 @@ location: 1900 Lincoln Blvd, Venice
 year: 2014
 description: Housed in a former auto-repair shop, this neighborhood coffee shop by
   day transitions into a sit-down restaurant at sunset.
-images: []
+images:
+- image: "/v1617914611/Superba_Food_Bread-02_twxgko.jpg"
+  caption: Superba Food + Bread, exterior view
+- image: "/v1617914632/Superba_Food_Bread-03_uivtau.jpg"
+  caption: Superba Food + Bread, interior view
 
 ---
