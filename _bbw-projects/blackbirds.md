@@ -10,7 +10,7 @@ architects:
 - title: Stacey Thomas
   role: Bestor Architecture
 location: '2036 Vestal Ave, Los Angeles '
-year: 
+year: 2015
 description: 'In a city with little available land, a thoughtful cluster of 18 homes
   are nestled on a .82 acre site. '
 images: []
