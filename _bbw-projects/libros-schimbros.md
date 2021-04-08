@@ -11,6 +11,10 @@ location: '103 N Boyle Ave, Los Angeles '
 year: 2018
 description: 'Occupying the ground floor of the Boyle Hotel, this independent lending
   library and bookstore exudes community openness and optimism about the future. '
-images: []
+images:
+- image: "/v1617910203/Libros_Schimbros-04_gvuu9b.jpg"
+  caption: Libros Schimbros, exterior view
+- image: "/v1617910233/Libros_Schimbros-02_ilalv2.jpg"
+  caption: Libros Schimbros, interior view
 
 ---
