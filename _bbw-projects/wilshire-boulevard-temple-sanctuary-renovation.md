@@ -13,6 +13,10 @@ location: 3663 Wilshire Blvd, Los Angeles
 year: 2013
 description: 'Renovation and improvements for a 1929 structure including the restoration
   of a circular rose window, twenty-five feet wide. '
-images: []
+images:
+- image: "/v1617916675/Wilshire_Boulevard_Temple-_Sanctuary_Renovation-02_dsxluo.jpg"
+  caption: Wilshire Boulevard Temple Sanctuary Renovation, exterior view
+- image: "/v1617916657/Wilshire_Boulevard_Temple-_Sanctuary_Renovation-04_ljsbjv.jpg"
+  caption: Wilshire Boulevard Temple Sanctuary Renovation, interior view
 
 ---
