@@ -8,7 +8,7 @@ architects:
 - title: Rachel Allen
   role: 'Radar, INC. '
 location: 317 S Broadway, Los Angeles
-year: 
+year: 2014
 description: Comprehensive update for two vendors at this historic market doubled
   the seating, created unique sculptural elements, and improved storage.
 images: []
