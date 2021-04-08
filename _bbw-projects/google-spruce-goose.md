@@ -14,6 +14,10 @@ year:
 description: 'The recent conversion of this historic hangar, where the plane "Spruce
   Goose" was built, employs multidisciplinary engineering approaches and creative
   thinking. '
-images: []
+images:
+- image: "/v1617914104/Screen_Shot_2021-04-08_at_4.33.34_PM_a9aajm.png"
+  caption: Google Spruce Goose, interior view
+- image: "/v1617914123/Screen_Shot_2021-04-08_at_4.33.49_PM_hi2k8d.png"
+  caption: Google Spruce Goose, interior view
 
 ---
