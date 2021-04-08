@@ -12,7 +12,7 @@ architects:
 - title: Mia Lehrer
   role: Mia Lehrer + Associates
 location: 1000 Vin Scully Ave, Los Angeles
-year: 
+year: 2013
 description: With the beloved stadium in need of an update, the current trends in
   sports architecture are seamlessly integrated while retaining the best of the 1960s
   heritage.
