@@ -11,6 +11,8 @@ location: 'Culver City, Los Angeles '
 year: 2015
 description: 'Two renovated industrial buildings form the new headquarters for this
   electronics company. '
-images: []
+images:
+- image: "/v1617906678/Beats_By_Dre-04_wfroxv.jpg"
+  caption: Beats By Dre, interior view
 
 ---
