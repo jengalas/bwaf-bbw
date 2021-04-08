@@ -11,6 +11,8 @@ location: Rustic Canyon, CA
 year: 2017
 description: 'Nestled into the hill on a very steep site long considered unbuildable,
   this sculptural home is a case study on building small and optimizing resources. '
-images: []
+images:
+- image: "/v1617913157/Screen_Shot_2021-04-08_at_4.18.52_PM_swxorc.png"
+  caption: Rustic Canyon View House, exterior view
 
 ---
