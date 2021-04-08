@@ -16,5 +16,7 @@ description: 'A STEM educational space for underserved children featuring teache
 images:
 - image: "/v1617907445/9_Dots-02_ptlwd7.jpg"
   caption: 9 Dots, interior view
+- image: "/v1617907494/9_Dots-03_f4u6bt.jpg"
+  caption: 9 Dots, interior view
 
 ---
