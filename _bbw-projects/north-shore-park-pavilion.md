@@ -8,7 +8,7 @@ architects:
 - title: Fernanda Oppermann
   role: Mutuo
 location: North Shore, Coachella Valley
-year: 
+year: 2018
 description: 'Inspired by colorful Mexican textiles, ten feet tall perforated aluminum
   panels allow lights to trickle in while providing shade. '
 images: []
