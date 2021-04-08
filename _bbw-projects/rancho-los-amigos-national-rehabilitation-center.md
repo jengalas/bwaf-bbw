@@ -13,6 +13,10 @@ location: 7601 E Imperial Hwy, Downey
 year: 2018
 description: The human-focused rehabilitation center features a "ribbon of respite,"
   which weaves throughout the campus providing seating alcoves every 150 feet.
-images: []
+images:
+- image: "/v1617912411/Rancho_Los_Amigos_National_Rehabilitation_Center-02_e4phqz.jpg"
+  caption: Rancho Los Amigos National Rehabilitation Center, exterior view
+- image: "/v1617912452/Rancho_Los_Amigos_National_Rehabilitation_Center-03_o8weyy.jpg"
+  caption: Rancho Los Amigos National Rehabilitation Center, interior view
 
 ---
