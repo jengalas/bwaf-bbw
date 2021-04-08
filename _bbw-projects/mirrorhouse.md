@@ -8,7 +8,7 @@ architects:
 - title: Monika Haefelfinger
   role: 'XTEN Architecture '
 location: 'Hollywood Hills, CA '
-year: 
+year: 2016
 description: 'Perched in the hills, this house is an exercise in restraint: white
   plaster and polished black marble make up this starkly limited palette. '
 images: []
