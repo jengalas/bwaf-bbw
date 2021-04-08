@@ -10,7 +10,7 @@ architects:
 - title: Francie Moore
   role: Smith Group
 location: 7601 E Imperial Hwy, Downey
-year: 
+year: 2018
 description: The human-focused rehabilitation center features a "ribbon of respite,"
   which weaves throughout the campus providing seating alcoves every 150 feet.
 images: []
