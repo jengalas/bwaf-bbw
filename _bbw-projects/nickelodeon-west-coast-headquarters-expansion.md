@@ -10,7 +10,7 @@ architects:
 - title: Kelly Walstrum
   role: Studios Architecture
 location: 231 W Olive Ave, Burbank
-year: 
+year: 2017
 description: 'A lighted sign evokes old Hollywood marquees on the ground floor of
   this five story building. '
 images: []
