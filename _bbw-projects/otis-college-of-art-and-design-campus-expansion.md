@@ -13,6 +13,10 @@ location: 9045 Lincoln Blvd, Los Angeles
 year: 2016
 description: 'Shoe-horned into a tight site, this 90,000 square foot expansion creates
   a central quad and a cohesive campus for the art and design students. '
-images: []
+images:
+- image: "/v1617912091/Otis_College_of_Art_and_Design_Campus_Expansion-03_uck6fm.jpg"
+  caption: Otis College of Art and Design Campus Expansion, exterior view
+- image: "/v1617912068/Otis_College_of_Art_and_Design_Campus_Expansion-04_mztmfw.jpg"
+  caption: Otis College of Art and Design Campus Expansion, interior view
 
 ---
