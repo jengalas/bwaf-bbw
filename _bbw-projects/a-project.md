@@ -14,9 +14,7 @@ year: 2018
 description: 'A STEM educational space for underserved children featuring teacher
   training, workshops, and a community center. '
 images:
-- image: "/v1617905949/Screen_Shot_2021-04-08_at_2.18.22_PM_ps380o.png"
+- image: "/v1617907445/9_Dots-02_ptlwd7.jpg"
   caption: 9 Dots, interior view
-- image: ''
-  caption: ''
 
 ---
