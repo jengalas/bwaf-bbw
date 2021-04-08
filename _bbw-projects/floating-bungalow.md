@@ -10,7 +10,7 @@ architects:
 - title: Catherine Johnson
   role: 'Bestor Architecture '
 location: 'Venice, CA '
-year: 
+year: 2008
 description: The house is a modernist contemplation on—and reinterpretation of—the
   modest bungalows that define the Venice streets.
 images: []
