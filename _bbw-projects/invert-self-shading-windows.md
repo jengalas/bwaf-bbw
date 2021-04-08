@@ -13,6 +13,8 @@ location: 'South Bay, Los Angeles '
 year: 2019
 description: Addressing climate change, this innovative product uses thermobimetal,
   a small material that curls when heated, to prevent solar heat gain in buildings.
-images: []
+images:
+- image: "/v1617909666/InVert_Self-Shading_Windows-04_g6akbr.jpg"
+  caption: Invert Self-Shading Windows, exterior view
 
 ---
