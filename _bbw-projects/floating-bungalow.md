@@ -9,7 +9,7 @@ architects:
   title: Barbara Bestor
 - title: Catherine Johnson
   role: 'Bestor Architecture '
-location: 'Venice, California '
+location: 'Venice, CA '
 year: 
 description: The house is a modernist contemplation on—and reinterpretation of—the
   modest bungalows that define the Venice streets.
