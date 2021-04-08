@@ -10,7 +10,7 @@ architects:
 - title: Lauren Melendrez
   role: Levin & Associates Architects
 location: 2800 E Observatory Rd, Los Angeles
-year: 
+year: 2006
 description: 'The renovation of this national landmark renews its world-class standing
   while maintaining its mission to provide astronomy to the public. '
 images: []
