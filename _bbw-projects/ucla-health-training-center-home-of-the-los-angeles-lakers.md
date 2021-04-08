@@ -8,7 +8,7 @@ architects:
 - title: Michele Prata
   role: Morley Builders
 location: 2275 E Mariposa Ave, El Segundo
-year: 
+year: 2017
 description: 'The building envelope uses signage in a unique way: the resident''s
   names act as sun shading elements on the exterior curtain wall. '
 images: []
