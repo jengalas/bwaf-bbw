@@ -13,6 +13,8 @@ location: 4652 Hollywood Blvd, Los Angeles
 year: 2016
 description: 'A vibrant musical village enclosed within the shell of a classic and
   ubiquitous Hollywood bowstring truss warehouse. '
-images: []
+images:
+- image: "/v1617913565/Silverlake_Conservatory_of_Music-02_weor8h.jpg"
+  caption: Silverlake Conservatory of Music, interior view
 
 ---
