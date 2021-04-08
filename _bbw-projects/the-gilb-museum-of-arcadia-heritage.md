@@ -10,7 +10,7 @@ architects:
 - title: Melisa Keeler
   role: Sparano + Mooney Architecture
 location: 380 W Huntington Dr, Arcadia
-year: 
+year: 2001
 description: When viewed at a right angle, the facade of this museum dissolves through
   the wood louver screen; at an oblique angle, the facade appears solid.
 images: []
