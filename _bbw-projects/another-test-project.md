@@ -13,7 +13,7 @@ architects:
 - title: Maša Kleinhample
   role: 'ORA / Klein Agency '
 location: '6703 Melrose Ave, Los Angeles '
-year: 
+year: 2019
 category: Infrastructure, Engineering
 description: 'The 105-seat space exemplifies California minimalism: concrete, exposed
   white oak beams, vast pale walls, leather the color of first-of-the-season peaches. '
