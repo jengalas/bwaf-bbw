@@ -13,6 +13,10 @@ location: 117 Bimini PI, Los Angeles
 year: 2018
 description: 'A 44-member international community aims to reinvent living in the city
   by demonstrating higher quality living patterns at lower environmental impacts. '
-images: []
+images:
+- image: "/v1617910654/Los_Angeles_Eco-Village_LAEV_-03_xwwjf4.jpg"
+  caption: Los Angeles Eco-Village, exterior view
+- image: "/v1617910631/Los_Angeles_Eco-Village_LAEV_-02_g9tcrg.jpg"
+  caption: Los Angeles Eco-Village, exterior view
 
 ---
