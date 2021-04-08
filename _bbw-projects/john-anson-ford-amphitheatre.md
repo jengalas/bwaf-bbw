@@ -12,7 +12,7 @@ architects:
 - title: Mia Lehrer
   role: Mia Lehrer Associates
 location: 2580 Cahuenga Blvd E, Los Angeles
-year: 
+year: 2017
 description: 'The renovation of the 1931 theater creates a state-of-the-art experience
   with a stage reconstructed in Brazilian wood and a freeway noise reducing sound
   wall. '
