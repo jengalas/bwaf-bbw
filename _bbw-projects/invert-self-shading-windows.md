@@ -10,7 +10,7 @@ architects:
 - title: Karen Sabath
   role: TBM Designs LLC
 location: 'South Bay, Los Angeles '
-year: 
+year: 2019
 description: Addressing climate change, this innovative product uses thermobimetal,
   a small material that curls when heated, to prevent solar heat gain in buildings.
 images: []
