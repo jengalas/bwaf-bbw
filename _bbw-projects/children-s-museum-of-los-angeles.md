@@ -8,7 +8,7 @@ architects:
 - title: Sarah Graham
   role: 'AGPS Architecture '
 location: 11800 Foothill Blvd, Sylmar
-year: 
+year: 2008
 description: 'Unified by a large ceiling plane, small sculptural spaces engage the
   wider landscape. '
 images: []

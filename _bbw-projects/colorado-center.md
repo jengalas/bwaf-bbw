@@ -10,7 +10,7 @@ architects:
 - title: Stephanie Psomas
   role: Pamela Burton & Company
 location: 2450 Broadway, Santa Monica
-year: 
+year: 2004
 description: The redesign of the 15-acre business complex adds beauty, texture, and
   opportunity for activity while maintaining a sustainable, natural vibe.
 images: []
