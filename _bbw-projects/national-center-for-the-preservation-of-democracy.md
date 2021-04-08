@@ -10,7 +10,7 @@ architects:
 - title: Kaitlin Drisko
   role: 'Levin & Associates Architects '
 location: 111 N Central Ave, Los Angeles
-year: 
+year: 2005
 description: 'The exterior of the 200-seat Forum (a former Buddhist Temple) is a metal
   and glass curtain wall, which creates a sense of transparency and access. '
 images: []
