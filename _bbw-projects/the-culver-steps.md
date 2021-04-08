@@ -8,7 +8,7 @@ architects:
 - title: Patricia Rhee
   role: Ehrlich Yanai Rhee Chaney Architects
 location: 9300 Culver Blvd, Culver City
-year: 
+year: 2019
 description: 'Part of a 115,000 square foot mixed-use project, the grand stair doubles
   as a public gathering place with amphitheater seating and tree-lined terraces. '
 images: []
