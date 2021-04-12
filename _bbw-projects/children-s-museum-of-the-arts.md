@@ -11,6 +11,5 @@ location: 103 Charlton Street, New York, NY
 year: 2011
 description: ''
 images: []
-published: false
 
 ---
