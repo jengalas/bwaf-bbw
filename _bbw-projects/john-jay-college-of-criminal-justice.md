@@ -8,7 +8,7 @@ architects:
 - role: Skidmore, Owings & Merrill
   title: Lisa Gould
 location: 524 West 59th Street, New York, NY
-year: 
+year: 2011
 description: ''
 images: []
 
