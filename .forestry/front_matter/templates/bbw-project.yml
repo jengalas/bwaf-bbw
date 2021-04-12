@@ -72,6 +72,7 @@ fields:
     name: caption
     label: Caption
 pages:
+- _bbw-projects/48-bond-street.md
 - _bbw-projects/a-project.md
 - _bbw-projects/another-test-project.md
 - _bbw-projects/another-test.md
