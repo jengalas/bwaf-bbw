@@ -7,7 +7,7 @@ title: Rockefeller University Pedestrian Bridge
 architects:
 - title: Wendy Evans Joseph
   role: Studio Joseph
-location: 'East 63rd Street, near York Ave., New York, NY '
+location: 'East 63rd Street, near York Avenue, New York, NY '
 year: 2000
 description: ''
 images: []
