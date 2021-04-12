@@ -11,6 +11,5 @@ location: 285 Fulton Street, New York, NY
 year: 2014
 description: ''
 images: []
-published: false
 
 ---
