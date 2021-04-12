@@ -7,7 +7,7 @@ title: 'The Modern at MoMA '
 architects:
 - title: Carol Bentel
   role: Bentel and Bentel Architects
-location: 9 West 53 Street, New York, NY
+location: 9 West 53rd Street, New York, NY
 year: 2005
 description: ''
 images: []
