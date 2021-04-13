@@ -20,19 +20,6 @@ page_blocks:
     download: ''
     link_url: ''
   portrait:
-  - title: Patricia Harris, Esq
-    title_role: Founder and CEO, LicenseSure LLC/ Special Counsel, Zetlin & De Chiara
-      LLP
-    image: "/v1610937223/PatriciaHarrisHeadshot-2-e1454609739415_rkq5sz.jpg"
-    description: Patti Harris, Founder and CEO of LicenseSure LLC and Special Counsel
-      to Zetlin & De Chiara LLP, provides legal and business counsel to architects
-      and engineers throughout the United States. A serial entrepreneur as well as
-      an attorney, Patti started her career as a corporate attorney with two New York
-      City law firms. From 2000 to 2013, Patti served as the Managing Partner of Zetlin
-      & De Chiara. Harris is the Founder and CEO of LicenseSure, which provides business
-      and licensing compliance services to design professionals. Ms. Harris’ legal
-      practice focuses on mergers and acquisitions, business organization and management
-      issues, succession, strategy and licensing issues.
   - title: Angelica Trevino Baccon, AIA
     title_role: Principal, SHoP Architects
     image: "/v1610937006/s_170713_webview_jkbimz.jpg"
@@ -71,8 +58,8 @@ page_blocks:
     title_role: ''
     image: "/v1610937147/2017_Burton_Melissa_01_980x780_aev98l.jpg"
     description: ''
-  - title: Peter DiMaggio
-    title_role: P.E., SECB
+  - title: Peter DiMaggio, P.E., SECB
+    title_role: Co-CEO, Thornton Tomasetti
     image: "/v1610937178/sml_DiMaggio_Peter_headshot_srramp.jpg"
     description: Peter DiMaggio is Co-CEO of Thornton Tomasetti and is responsible
       for defining, articulating and driving the firm’s strategic vision. In addition
@@ -85,6 +72,19 @@ page_blocks:
       facilities and courthouses. His diverse portfolio also includes office buildings,
       educational facilities, hotels, stadiums, laboratories, residential towers and
       unique structures around the world.
+  - title: Patricia Harris, Esq
+    title_role: Founder and CEO, LicenseSure LLC/ Special Counsel, Zetlin & De Chiara
+      LLP
+    image: "/v1610937223/PatriciaHarrisHeadshot-2-e1454609739415_rkq5sz.jpg"
+    description: Patti Harris, Founder and CEO of LicenseSure LLC and Special Counsel
+      to Zetlin & De Chiara LLP, provides legal and business counsel to architects
+      and engineers throughout the United States. A serial entrepreneur as well as
+      an attorney, Patti started her career as a corporate attorney with two New York
+      City law firms. From 2000 to 2013, Patti served as the Managing Partner of Zetlin
+      & De Chiara. Harris is the Founder and CEO of LicenseSure, which provides business
+      and licensing compliance services to design professionals. Ms. Harris’ legal
+      practice focuses on mergers and acquisitions, business organization and management
+      issues, succession, strategy and licensing issues.
 
 ---
 <!-- <img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937006/s_170713_webview_xiipdh.jpg"><img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937099/JoanBlumenfeld_jwkiz9.jpg"><img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937147/2017_Burton_Melissa_01_980x780_mbfswt.jpg"><img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937178/sml_DiMaggio_Peter_headshot_n6xpkd.jpg"><img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937222/PatriciaHarrisHeadshot-2-e1454609739415_pokx25.jpg"><div class="main-two-up">
