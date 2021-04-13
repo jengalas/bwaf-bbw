@@ -54,10 +54,24 @@ page_blocks:
       Fitwel, a scorecard for designing healthy buildings and interiors. \nHer widely
       published and award winning work is notable for incorporating socially responsible
       principals of designing for health and sustainability.\L"
-  - title: Melissa Burton
-    title_role: ''
+  - title: Melissa Burton, PH.D
+    title_role: Principal, Arup
     image: "/v1610937147/2017_Burton_Melissa_01_980x780_aev98l.jpg"
-    description: ''
+    description: Melissa Burton is a Principal with Arup and currently serves as the
+      Consulting Practice Leader for Canada. She oversees a variety of work for Arup
+      in the consulting practice from early stage advisory through specialty technical
+      consulting work to complex design studies. In her role she brings together teams
+      of engineers and consultants with a breadth and depth of skills and experience
+      to enable them to collaborate with clients and develop creative, robust solutions
+      to realize her client’s visions. Melissa started her career looking at how the
+      wind climate affects the buildings we design, and how the consequential reaction
+      of the buildings affects the people that occupy them. Her technical expertise
+      extends to beyond code approaches using advanced analytical tools to quantify
+      and reduce design risk from wind loading. She has most recently collaborated
+      with the Charles Pankow Foundation to publish criteria and methodologies for
+      designing tall buildings to be more resilient in wind events. She has both lived
+      and worked in the UK, Asia, and North America and has a global portfolio of
+      project work.
   - title: Peter DiMaggio, P.E., SECB
     title_role: Co-CEO, Thornton Tomasetti
     image: "/v1610937178/sml_DiMaggio_Peter_headshot_srramp.jpg"
