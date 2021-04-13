@@ -13,8 +13,8 @@ description: 'Perched in the hills, this house is an exercise in restraint: whit
   plaster and polished black marble make up this starkly limited palette. '
 images:
 - image: "/v1617910968/Mirrorhouse-03_xfeaaz.jpg"
-  caption: Mirrorhouse, exterior view
+  caption: Mirrorhouse, interior view
 - image: "/v1617910937/Mirrorhouse-04_qqqlgi.jpg"
-  caption: Mirrorhouse, exterior view
+  caption: Mirrorhouse, interior view
 
 ---
