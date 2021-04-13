@@ -20,6 +20,15 @@ page_blocks:
     download: ''
     link_url: ''
   portrait:
+  - title: Julia Murphy, AIA
+    title_role: Director, SOM
+    image: "/v1618330990/j_murphy_headshot_mfhzye.png"
+    description: |-
+      A director at SOM, Julia Murphy is integral to the firm's engagement with the built environment of New York City. In her decade of experience at SOM, she has worked on some of the most complex projects in Manhattan, emerging as an expert project manager. She has a diverse range of project responsibilities, from day-to-day interaction with the client and coordination with the consultant team to maintaining staffing, schedule, and budget. Much of her work involves mitigating risk for clients who must build their projects within the exigencies of New York’s physical and regulatory environments.
+
+      A key project in Murphy’s portfolio is Manhattan West, one of the largest ongoing mixed-use projects in Manhattan. She is involved in managing many of its component parts, including Southwest Residential Tower, North Tower, Southeast Tower, and Northwest Tower. She is also the project manager for the repositioning of a global financial headquarters in New York. Her residential projects include a 34-story tower in Manhattan’s Upper West Side, and 91 Leonard Street, a 20-story tower. Another of her important projects is John Jay College of Criminal Justice Expansion, which occupies an entire city block.
+
+      She was featured in Architect Magazine’s feature piece, “Workers in Progress.” Murphy is a member of the WX Women Executives in Real Estate and is Chair of Beverly Willis Architecture Foundation. A leader within the SOM community, she is on the committee of the SOM Women’s Initiative, a group that is devoted to the professional development of women within the firm.
   - title: Michele O’Connor, PE, LEED AP
     title_role: Principal, Langan
     image: "/v1618330674/MOC_headshot_do3brf.jpg"
