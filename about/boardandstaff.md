@@ -20,6 +20,23 @@ page_blocks:
     download: ''
     link_url: ''
   portrait:
+  - title: Sabrina Kanner
+    title_role: Executive Vice President, Development, Design and Construction
+    image: "/v1618331682/SK_Updated_headshot_Nov_2018_jmoamd.jpg"
+    description: "Sabrina Kanner is the Executive Vice President of Development, Design
+      and Construction and responsible for overseeing Development in the Northeast
+      U.S. \n\nWith Brookfield Properties and its predecessor, Olympia & York, for
+      over 35 years, Sabrina joined the construction division of Olympia & York in
+      1982. In her tenure with the company, Sabrina has played a key role in the construction,
+      design and development or redevelopment of over 40 million square feet of signature
+      Brookfield projects such as World Financial Center, Brookfield Place, 300 Madison
+      Avenue, Halley Rise, the restoration/renovation of the Winter Garden at World
+      Financial Center after 9/11, and Manhattan West.   \n\nSabrina holds a B.A.
+      from Union College and is a member of WX and the National Academy of Construction.
+      Additionally, Sabrina sits on the Board of Directors of the New York Building
+      Congress (Vice Chair), The Salvadori Center (Chair), The Regional Plan Association,
+      Urban Green Council (Secretary), The Beverly Willis Architecture Foundation,
+      Cedar Realty Trust, and The Opus Group."
   - title: Alexandra Lange
     title_role: Design Critic
     image: "/v1618331574/Curbed_Alexandra_Lange-IMG_7033-Edit_yb3ayd.jpg"
