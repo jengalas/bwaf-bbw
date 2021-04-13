@@ -46,8 +46,8 @@ page_blocks:
       delivery challenges with multilayered stakeholder groups, successfully leveraging
       programs to promote vitality, equity and community in the private sector and
       public realm.
-  - title: Joan Blumenfield
-    title_role: FAIA, FIIDA, LEED ID+C
+  - title: Joan Blumenfield, FAIA, FIIDA, LEED ID+C
+    title_role: Principal, Perkins+Will
     image: "/v1610937099/JoanBlumenfeld_gzuyea.jpg"
     description: "Joan Blumenfeld, Contract Magazine’s 2018 Legend, is a design principal
       at Perkins+Will, a global architecture and interiors firm. Over the past 10
