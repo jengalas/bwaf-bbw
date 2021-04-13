@@ -20,6 +20,21 @@ page_blocks:
     download: ''
     link_url: ''
   portrait:
+  - title: Aislinn McNamara
+    title_role: Communications and Program Coordinator, Beverly Willis Architecture
+      Foundation
+    image: "/v1618333453/Amcnamara_headshot_18_rospy6.jpg"
+    description: "Aislinn is the Communications and Program Coordinator for Beverly
+      Willis Architecture Foundation. Aislinn earned her MFA from Städelschule in
+      Frankfurt am Main, Germany, and her BFA from the University of Oxford, UK. She
+      has exhibited sculpture and drawings and performed collaboratively with artists
+      internationally, and has participated in a writing program at Aarhus Litturaturcenter,
+      Denmark. Aislinn has worked on a number of international publishing and art
+      projects, including leading research on and providing editorial assistance with
+      ‘The One and The Many’, a public sculpture by artist Peter Randall-Page located
+      in Fitzroy Place, London, UK. \nIn 2016, Aislinn participated in the Montreal
+      Biennial, and in 2017, she participated in the Litturaturfest in Aarhus, Denmark,
+      showcasing international writers and artists."
   - title: Cynthia Kracauer, AIA
     title_role: Executive Director, Beverly Willis Architecture Foundation
     image: "/v1618333357/Cynthia_HS_qd6dqf.jpg"
