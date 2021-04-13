@@ -386,6 +386,7 @@ page_blocks:
     image: "/v1618329168/Yee-722x349_dsjmio.jpg"
     description: |-
       As Senior Vice President of Design for Related California, Ms. Yee is responsible for the management of architecture and design for all market rate and mixed-income residential developments in California. Ms. Yee works closely with the architectural team, sales and marketing, and development executives throughout the entire development process to ensure seamless design and execution. A registered architect with extensive experience on major residential, commercial, hotel, retail and corporate developments, she recently oversaw the design and completion of The Century, a luxury high rise condominium in Los Angeles that has set per square foot sales price records for its market area.
+
       Prior to joining Related in 2006, Ms. Yee served as Vice President at HKS Architects, Inc., in Beverly Hills. A recipient of the Asian Women in Business Corporate Leadership Award, Ms. Yee holds a Master in Architecture from the University of California, Los Angeles and a bachelor’s degree from Georgetown University. She was editor of the Dallas Chapter American Institute of Architects newsletter and served on the Urban Design Advisory Committee for the City of Dallas. She is a current member of the American Institute of Architects (AIA) and has been a speaker at AIA conferences and Urban Land Institute events.
 
 ---
