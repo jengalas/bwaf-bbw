@@ -20,6 +20,43 @@ page_blocks:
     download: ''
     link_url: ''
   portrait:
+  - title: Mary McLeod
+    title_role: Professor of Architecture, Columbia University
+    image: "/v1618331199/McLeod-headshot_prd2h9.jpg"
+    description: "Mary McLeod is a professor of architecture at Columbia University,
+      where she teaches architecture history and theory.  She has also taught at Yale
+      University, Harvard University, University of Kentucky, University of Miami,
+      and the Institute for Architecture and Urban Studies.  She received her B.A.,
+      M.Arch., and Ph.D. from Princeton University.  Her research and publications
+      have focused on the history of the modern movement and on contemporary architecture
+      theory, examining issues concerning the connections between architecture and
+      politics.  She is the editor of and contributor to the book Charlotte Perriand:
+      An Art of Living (Abrams, 2003) and is the co-editor of Architecture, Criticism,
+      Ideology and Architecture Reproduction. In addition, she co-edits the website
+      “Pioneering Women of American Architecture, sponsored by the Beverly Willis
+      Architectural Foundation.  Her articles have appeared in Journal of Architecture,
+      Assemblage, Oppositions, Art Journal, AA Files, JSAH, Casabella, Art Journal,
+      Harvard Design Magazine, and Lotus, as well as other journals and anthologies,
+      such as Modern Architecture and the Life World, Eyes That Saw, Complexity and
+      Contradiction at 50, Ideological Equals: Women Architects of Socialist Europe,
+      Food and the City, Le Corbusier: An Atlas of Modern Landscapes, Architecture
+      School, The Sex of Architecture, Architecture in Fashion, Architecture of the
+      Everyday, Architecture and Feminism, The Pragmatist Imagination, The State of
+      Architecture, Fragments: Architecture and the Unfinished, Architecture Theory
+      since 1968, Oppositions Reader, Le Parole dell’Architettura, and Modern Women:
+      Women Artists at The Museum of Modern Art.  She has received several fellowships
+      and awards, including a Brunner Award, Fulbright Fellowship, NEH award, and
+      grants from New York Council of the Arts and the Graham Foundation.  \n\nMary
+      McLeod is a professor of architecture at Columbia University, where she teaches
+      architecture history and theory. She has also taught at Yale University, Harvard
+      University, University of Kentucky, and the Institute for Architecture and Urban
+      Studies. Her research and publications have focused on the history of the modern
+      movement and on contemporary architecture theory, examining issues concerning
+      the connections between architecture and politics. She is co-editor of Architecture,
+      Criticism, Ideology and Architecture Reproduction, and is the editor of and
+      contributor to the book Charlotte Perriand: An Art of Living (Abrams, 2003).
+      In addition, she is co-editor of the website Pioneering Women of American Architecture
+      (Beverly Willis Architectural Foundation). "
   - title: Karen McNeill, Ph.D
     title_role: Senior Family Historian, Ascent Private Capital Management of U.S.
       Bank
