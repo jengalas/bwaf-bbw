@@ -21,7 +21,8 @@ page_blocks:
     link_url: ''
   portrait:
   - title: Patricia Harris, Esq
-    title_role: LicenseSure LLC/ Zetlin & De Chiara LLP
+    title_role: Founder and CEO, LicenseSure LLC/ Special Counsel, Zetlin & De Chiara
+      LLP
     image: "/v1610937223/PatriciaHarrisHeadshot-2-e1454609739415_rkq5sz.jpg"
     description: Patti Harris, Founder and CEO of LicenseSure LLC and Special Counsel
       to Zetlin & De Chiara LLP, provides legal and business counsel to architects
