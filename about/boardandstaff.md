@@ -20,6 +20,16 @@ page_blocks:
     download: ''
     link_url: ''
   portrait:
+  - title: Alexandra Lange
+    title_role: Design Critic
+    image: "/v1618331574/Curbed_Alexandra_Lange-IMG_7033-Edit_yb3ayd.jpg"
+    description: 'Alexandra Lange is a design critic. Her essays, reviews, and profiles
+      have appeared in numerous design publications including Architect, Harvard Design
+      Magazine, Metropolis, and T Magazine, as well as in The Atlantic, New York Magazine,
+      the New Yorker, and the New York Times. Her latest book, The Design of Childhood:
+      How the Material World Shapes Independent Kids was published by Bloomsbury USA
+      in June 2018. She is currently at work on a new book about the history and future
+      of the American shopping mall.'
   - title: Carol Loewenson, FAIA, LEED AP
     title_role: Partner, Mitchell Giurgola
     description: "Carol Loewenson’s expertise ranges from highly technical buildings,
