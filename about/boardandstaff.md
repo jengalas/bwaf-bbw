@@ -20,6 +20,12 @@ page_blocks:
     download: ''
     link_url: ''
   portrait:
+  - title: Jennifer Stone
+    title_role: Partner, Robert A.M. Stern Architects LLP
+    image: "/v1618329715/Stone_ltb0db.jpg"
+    description: |-
+      Experienced in managing complex institutional planning and design projects, as Partner at Robert A.M. Stern Architects LLP, Jennifer Stone brings a love of contextually appropriate, sustainable architecture to her work with clients, communities, and building industry partners. 
+      Jennifer is an active participant, mentor, and volunteer in her professional community. As a council member of the Society for College and University Planning, she shares her extensive knowledge and stays current with global best practices. Her presentations at numerous professional conferences and her leadership roles with the New York Building Congress Foundation, ACE Mentorship Programs, and the Urban Land Institute, as well as the firm's own Women Leadership Initiative and Sustainability Committee, testify to her commitment to developing and opening the field of architecture.
   - title: Barbara Wilks, FAIA, FASLA
     title_role: Principal and Founder, W Architecture and Landscape Architecture
     image: "/v1618329573/Barbara_Wilks_tu3wpd.jpg"
