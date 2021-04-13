@@ -20,34 +20,6 @@ page_blocks:
     download: ''
     link_url: ''
   portrait:
-  - title: Aislinn McNamara
-    title_role: Communications and Program Coordinator, Beverly Willis Architecture
-      Foundation
-    image: "/v1618333453/Amcnamara_headshot_18_rospy6.jpg"
-    description: "Aislinn is the Communications and Program Coordinator for Beverly
-      Willis Architecture Foundation. Aislinn earned her MFA from Städelschule in
-      Frankfurt am Main, Germany, and her BFA from the University of Oxford, UK. She
-      has exhibited sculpture and drawings and performed collaboratively with artists
-      internationally, and has participated in a writing program at Aarhus Litturaturcenter,
-      Denmark. Aislinn has worked on a number of international publishing and art
-      projects, including leading research on and providing editorial assistance with
-      ‘The One and The Many’, a public sculpture by artist Peter Randall-Page located
-      in Fitzroy Place, London, UK. \nIn 2016, Aislinn participated in the Montreal
-      Biennial, and in 2017, she participated in the Litturaturfest in Aarhus, Denmark,
-      showcasing international writers and artists."
-  - title: Cynthia Kracauer, AIA
-    title_role: Executive Director, Beverly Willis Architecture Foundation
-    image: "/v1618333357/Cynthia_HS_qd6dqf.jpg"
-    description: 'Cynthia is an architect and currently serves as the Executive Director
-      for the Beverly Willis Architecture Foundation (BWAF). She joins the Foundation
-      following ten years as the Managing Director of the American Institute of Architects
-      New York Chapter, Center for Architecture. Both an architect and a creative
-      institutional administrator, Cynthia was responsible for the creation of Archtober,
-      the New York City month-long festival of architecture and design. As one of
-      the early pioneers of co-education in the 1970’s, Cynthia graduated from Princeton
-      University receiving both a magna cum laude, and Masters of Architecture. She
-      worked for Philip Johnson in the 80’s and taught at the University of Virginia,
-      New Jersey Institute of Technology and her alma mater. '
   - title: Angelica Trevino Baccon, AIA
     title_role: Principal, SHoP Architects
     image: "/v1610937006/s_170713_webview_jkbimz.jpg"
@@ -177,6 +149,19 @@ page_blocks:
       Congress (Vice Chair), The Salvadori Center (Chair), The Regional Plan Association,
       Urban Green Council (Secretary), The Beverly Willis Architecture Foundation,
       Cedar Realty Trust, and The Opus Group."
+  - title: Cynthia Kracauer, AIA
+    title_role: Executive Director, Beverly Willis Architecture Foundation
+    image: "/v1618333357/Cynthia_HS_qd6dqf.jpg"
+    description: 'Cynthia is an architect and currently serves as the Executive Director
+      for the Beverly Willis Architecture Foundation (BWAF). She joins the Foundation
+      following ten years as the Managing Director of the American Institute of Architects
+      New York Chapter, Center for Architecture. Both an architect and a creative
+      institutional administrator, Cynthia was responsible for the creation of Archtober,
+      the New York City month-long festival of architecture and design. As one of
+      the early pioneers of co-education in the 1970’s, Cynthia graduated from Princeton
+      University receiving both a magna cum laude, and Masters of Architecture. She
+      worked for Philip Johnson in the 80’s and taught at the University of Virginia,
+      New Jersey Institute of Technology and her alma mater. '
   - title: Alexandra Lange
     title_role: Design Critic
     image: "/v1618331574/Curbed_Alexandra_Lange-IMG_7033-Edit_yb3ayd.jpg"
@@ -256,6 +241,21 @@ page_blocks:
       contributor to the book Charlotte Perriand: An Art of Living (Abrams, 2003).
       In addition, she is co-editor of the website Pioneering Women of American Architecture
       (Beverly Willis Architectural Foundation). "
+  - title: Aislinn McNamara
+    title_role: Communications and Program Coordinator, Beverly Willis Architecture
+      Foundation
+    image: "/v1618333453/Amcnamara_headshot_18_rospy6.jpg"
+    description: "Aislinn is the Communications and Program Coordinator for Beverly
+      Willis Architecture Foundation. Aislinn earned her MFA from Städelschule in
+      Frankfurt am Main, Germany, and her BFA from the University of Oxford, UK. She
+      has exhibited sculpture and drawings and performed collaboratively with artists
+      internationally, and has participated in a writing program at Aarhus Litturaturcenter,
+      Denmark. Aislinn has worked on a number of international publishing and art
+      projects, including leading research on and providing editorial assistance with
+      ‘The One and The Many’, a public sculpture by artist Peter Randall-Page located
+      in Fitzroy Place, London, UK. \nIn 2016, Aislinn participated in the Montreal
+      Biennial, and in 2017, she participated in the Litturaturfest in Aarhus, Denmark,
+      showcasing international writers and artists."
   - title: Karen McNeill, Ph.D
     title_role: Senior Family Historian, Ascent Private Capital Management of U.S.
       Bank
