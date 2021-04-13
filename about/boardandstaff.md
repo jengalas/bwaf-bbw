@@ -38,6 +38,7 @@ page_blocks:
       was as elected to the College of Fellows of the American Institute of Architects
       in 2013, was elected President of AIA New York in 2016, and was awarded the
       AIA New York State President’s Award in 2019. "
+    image: "/v1618331492/Loewenson_Carol_1355_tg8dv5.jpg"
   - title: 'Richard M. McFadden, PE, LEED AP '
     title_role: Partner, Jaros, Baum & Bolles
     image: "/v1618331280/sml_HS_McFadden-R_gt7mcj.jpg"
