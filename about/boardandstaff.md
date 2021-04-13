@@ -392,9 +392,14 @@ page_blocks:
       Bolanle Williams-Olley is the Chief Financial Officer at Mancini Duffy, a technology-first design firm, where she oversees the firm’s financial and operational performance. With a strong background in financial analysis and strategic initiatives, Bola thrives on building relationships between finance and management teams to ensure the overall financial success of projects and her firm.
 
       She holds a Master’s in Education & Social Policy from NYU, Master’s in Applied Mathematics and Bachelor’ in Mathematics from City University of New York, Hunter College. She is passionate about service and is the founder of four impact organizations: SheBuildsWaves, SheBuildsLives, SheBuildsMoney and REACH Nigeria.
-  - title: Beverly Willis
+  - title: Beverly Willis, FAIA
     image: "/v1618329223/bev_1_zgox9n.jpg"
-    description: ''
+    description: Beverly Willis, FAIA, is an artist, architect, author and philanthropist.
+      After 50 years of practice, she founded the Beverly Willis Architecture Foundation
+      in 2002. She served as President of the California Council of American Institute
+      of Architects. Beverly was a founding trustee of the National Building Museum
+      in Washington, D.C., a position she still holds.
+    title_role: Founder, Beverly Willis Architecture Foundation
   - title: Phoebe Yee, AIA
     title_role: Senior Vice President, Design for Related California
     image: "/v1618329168/Yee-722x349_dsjmio.jpg"
