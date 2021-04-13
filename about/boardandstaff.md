@@ -20,6 +20,22 @@ page_blocks:
     download: ''
     link_url: ''
   portrait:
+  - title: Karen McNeill, Ph.D
+    title_role: Senior Family Historian, Ascent Private Capital Management of U.S.
+      Bank
+    image: "/v1618331108/McNeill_Head_shot_csuk9r.jpg"
+    description: Karen McNeill, Ph.D., is an expert of Julia Morgan and currently
+      working on a multiple publications about the architect. Dr. McNeill’s scholarship
+      focuses on women and gender in the architectural profession as well as how Progressive
+      Era women used the built environment to expand their roles society as consumers,
+      reformers, educators, and professionals. Her work has been supported by the
+      National Endowment for the Humanities, the Autry National Center, the Bancroft
+      Library, and the University of California Humanities Research Institute. Karen
+      has also taught history and architectural history at colleges and universities
+      in the San Francisco Bay Area and has been involved in historic preservation,
+      authoring several context statements for major surveys and successfully nominating
+      a range of buildings to the National Register of Historic Places. She is currently
+      Senior Family Historian at Ascent Private Capital Management of U.S. Bank.
   - title: Julia Murphy, AIA
     title_role: Director, SOM
     image: "/v1618330990/j_murphy_headshot_mfhzye.png"
