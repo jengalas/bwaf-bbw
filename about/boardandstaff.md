@@ -20,6 +20,30 @@ page_blocks:
     download: ''
     link_url: ''
   portrait:
+  - title: Michele O’Connor, PE, LEED AP
+    title_role: Principal, Langan
+    image: "/v1618330674/MOC_headshot_do3brf.jpg"
+    description: "Michele O’Connor is a Principal at Langan and a director of the
+      firm’s civil engineering practice in New York City. Langan is an integrated
+      planning, site engineering, and environmental consulting service firm for private
+      developers, property owners, and public sector clients. \n\nMichele’s practice
+      includes site engineering design and planning for a wide variety of commercial,
+      institutional, recreation, retail, and residential development projects.  Notable
+      projects include Hudson Park and Boulevard in Manhattan, Gateway Center at Bronx
+      Terminal Market in the Bronx, TWA Flight Center Hotel at John F. Kennedy International
+      Airport in Queens, Fort Wadsworth in Staten Island and Dock 72 at Brooklyn Navy
+      Yard in Brooklyn.  \n\nBesides her passion for civil engineering, Michele is
+      also extremely passionate about supporting, mentoring, and empowering women
+      in STEM and the engineering community. This dedication inspired her to co-found
+      Women@Langan in September 2015. The program’s mission is to foster an atmosphere
+      of mentorship and support to empower the firm’s women to achieve career and
+      personal success. Since its launch, Women@Langan has provided a forum for women
+      to develop a community, share experiences, and form lasting relationships. \n\nMichele’s
+      leadership abilities are also visible throughout the industry. She is the Vice
+      Chair of the Rutgers University School of Engineering Industry Advisory Board,
+      an Executive Board Member of Women Builders Council, Past Chair of the ASCE
+      Met Section Diversity & Inclusion Committee and past board member of CREW New
+      York. "
   - title: Ann Rolland, FAIA, LEED AP
     title_role: Partner, FXCollaborative
     image: "/v1618330597/ARolland_web_farbmn.jpg"
