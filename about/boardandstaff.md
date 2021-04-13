@@ -54,7 +54,7 @@ page_blocks:
       Fitwel, a scorecard for designing healthy buildings and interiors. \nHer widely
       published and award winning work is notable for incorporating socially responsible
       principals of designing for health and sustainability.\L"
-  - title: Melissa Burton, PH.D
+  - title: Melissa Burton, Ph.D
     title_role: Principal, Arup
     image: "/v1610937147/2017_Burton_Melissa_01_980x780_aev98l.jpg"
     description: Melissa Burton is a Principal with Arup and currently serves as the
