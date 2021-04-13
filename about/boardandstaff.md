@@ -20,6 +20,12 @@ page_blocks:
     download: ''
     link_url: ''
   portrait:
+  - title: Kirsten Sibilia, Assoc. AIA, LEED AP
+    title_role: Managing Principal, Dattner Architects
+    image: "/v1618329835/191218-Sibilia_Kirsten-7042_2019-12-20_12_54_18_qp8tam.jpg"
+    description: |-
+      Kirsten Sibilia is a vocal advocate for the value of design and the need for social justice. She is the Managing Principal at Dattner Architects, she focuses on the firm’s health and vitality. Her design training and entrepreneurial spirit have allowed her to approach the business side of the practice as a design project; with each initiative, she reflects the firm’s commitment to improving public life, through the creation of resilient and sustainable urban density.
+      Kirsten holds a Bachelor of Fine Arts from Parsons School of Design and a Bachelor of Arts from the New School.
   - title: Jennifer Stone
     title_role: Partner, Robert A.M. Stern Architects LLP
     image: "/v1618329715/Stone_ltb0db.jpg"
