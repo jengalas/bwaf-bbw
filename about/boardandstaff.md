@@ -20,6 +20,27 @@ page_blocks:
     download: ''
     link_url: ''
   portrait:
+  - title: Erleen Hatfield, PE, AIA
+    title_role: Managing Partner, Hatfield Group
+    image: "/v1618333098/2019_Hatfield_Headshot-use_this_one_l0xibt.jpg"
+    description: "Erleen Hatfield, PE, AIA, is the Managing Partner of the Hatfield
+      Group, a multi-disciplinary engineering consulting firm based in New York.  She
+      has over 25 years of experience in the design of complex structures worldwide.
+      She frequently writes and presents on topics related to innovation and technology
+      in engineering and architecture.  Her firm, Hatfield Group focuses on synthesis
+      of engineering and architecture, putting client value first.  Hatfield Group,
+      uses bespoke engineering design, technology, and innovation to achieve their
+      clients’ goals.  \nWith a keen appreciation for design she has worked on iconic
+      buildings around the world.  She sits on numerous national industry boards and
+      teaches at the Yale University School of Architecture. \nHer experience includes
+      the new $1.5B home of the NFL’s Atlanta Falcons, the Mercedes Benz Stadium,
+      with a never been done before aperture style retractable roof. Other projects
+      include the new headquarters for PNC Bank in Pittsburgh and the 9/11 Pavilion
+      at the World Trade Center site in New York City. \nShe was featured on the television
+      programs on the Science Channel “World’s Greatest Stadium” and on the History
+      Channel’s “Building Giants”.  She was named a “Power Player” and “Game Changer”
+      by Sports Business Journal magazine.  She is both a licensed engineer and architect,
+      plus a LEED BD+C certified professional.  "
   - title: Latoya Nelson Kamdang, AIA, RA, NCARB, NCIDQ, LEED AP BD+C, RID
     title_role: Director of New York Operations, Moody Nolan
     image: "/v1618332981/20191107_Latoya16463-cropped_xjlbgz.jpg"
