@@ -20,6 +20,32 @@ page_blocks:
     download: ''
     link_url: ''
   portrait:
+  - title: Latoya Nelson Kamdang, AIA, RA, NCARB, NCIDQ, LEED AP BD+C, RID
+    title_role: Director of New York Operations, Moody Nolan
+    image: "/v1618332981/20191107_Latoya16463-cropped_xjlbgz.jpg"
+    description: 'Latoya Nelson Kamdang is the Director of NY Operations for Moody
+      Nolan. She is also a U.S. Fulbright Senior Scholar, Registered Architect, Certified
+      Interior Designer, and LEED AP BD+C. Her experience spans architecture, planning,
+      exhibit design, industrial and interior design. She has experience in hospitality,
+      retail, museums, workplace, education, and institutional.  As a Senior Architect,
+      some of her most recent clients include Hilton Worldwide and Hudson Yards Observation
+      Deck experiential journey. Latoya was on the design team for the Smithsonian
+      Institute National Museum of African American History and Culture. She was an
+      interdisciplinary team member from RFP submission through construction documents.
+      Her spatial focus was the Slavery & Freedom History Gallery.  Latoya’s experience
+      has also spanned to overseas federal projects. At the United States Department
+      of State Overseas Buildings Operations, she collaborated with the interior design
+      and planning department. She completed strategic planning, design, development,
+      and construction management of United States Embassies overseas. While practicing,
+      Latoya has been simultaneously working as a Visiting Associate Professor at
+      Pratt Institute. She educates students on interdisciplinary design and material
+      theory. She has a research focus on expanding urban areas, neighborhood gentrification,
+      sustainable technologies, and indigenous architecture. Latoya earned a Master
+      of Architecture from University of Pennsylvania School of Design as well as
+      a Certificate in Real Estate Design & Development from the Wharton School of
+      Business. She has a Master of Fine Arts degree from George Washington University
+      and a Bachelor of Science in Business Administration and Marketing from Georgetown
+      University. '
   - title: Sabrina Kanner
     title_role: Executive Vice President, Development, Design and Construction
     image: "/v1618331682/SK_Updated_headshot_Nov_2018_jmoamd.jpg"
