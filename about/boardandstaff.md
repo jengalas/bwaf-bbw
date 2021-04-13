@@ -20,6 +20,9 @@ page_blocks:
     download: ''
     link_url: ''
   portrait:
+  - title: Beverly Willis
+    image: "/v1618329223/bev_1_zgox9n.jpg"
+    description: ''
   - title: Phoebe Yee, AIA
     title_role: Senior Vice President, Design for Related California
     image: "/v1618329168/Yee-722x349_dsjmio.jpg"
