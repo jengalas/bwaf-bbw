@@ -20,6 +20,19 @@ page_blocks:
     download: ''
     link_url: ''
   portrait:
+  - title: Cynthia Kracauer, AIA
+    title_role: Executive Director, Beverly Willis Architecture Foundation
+    image: "/v1618333357/Cynthia_HS_qd6dqf.jpg"
+    description: 'Cynthia is an architect and currently serves as the Executive Director
+      for the Beverly Willis Architecture Foundation (BWAF). She joins the Foundation
+      following ten years as the Managing Director of the American Institute of Architects
+      New York Chapter, Center for Architecture. Both an architect and a creative
+      institutional administrator, Cynthia was responsible for the creation of Archtober,
+      the New York City month-long festival of architecture and design. As one of
+      the early pioneers of co-education in the 1970’s, Cynthia graduated from Princeton
+      University receiving both a magna cum laude, and Masters of Architecture. She
+      worked for Philip Johnson in the 80’s and taught at the University of Virginia,
+      New Jersey Institute of Technology and her alma mater. '
   - title: Angelica Trevino Baccon, AIA
     title_role: Principal, SHoP Architects
     image: "/v1610937006/s_170713_webview_jkbimz.jpg"
