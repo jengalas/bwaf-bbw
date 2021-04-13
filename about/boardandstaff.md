@@ -20,6 +20,71 @@ page_blocks:
     download: ''
     link_url: ''
   portrait:
+  - title: Angelica Trevino Baccon, AIA
+    title_role: Principal, SHoP Architects
+    image: "/v1610937006/s_170713_webview_jkbimz.jpg"
+    description: Angelica Trevino Baccon is a principal of SHoP. She has a particular
+      specialty in leading complex mixed-use and workplace design projects, often
+      at the intersection of enterprise and technology. These include the new Uber
+      headquarters in San Francisco and several confidential projects for global leaders
+      in Silicon Valley. She holds a Bachelor in Architecture degree from ITESM in
+      Monterrey, Mexico, and a Master of Architecture from Harvard University, where
+      she has also served as a professor. Her work on New York City’s South Street
+      Seaport established her deep expertise in fast-paced, high-profile design and
+      delivery challenges with multilayered stakeholder groups, successfully leveraging
+      programs to promote vitality, equity and community in the private sector and
+      public realm.
+  - title: Joan Blumenfield, FAIA, FIIDA, LEED ID+C
+    title_role: Principal, Perkins+Will
+    image: "/v1610937099/JoanBlumenfeld_gzuyea.jpg"
+    description: "Joan Blumenfeld, Contract Magazine’s 2018 Legend, is a design principal
+      at Perkins+Will, a global architecture and interiors firm. Over the past 10
+      years she has been committed to achieving gender equity across all aspects of
+      the design and construction business. As the first president of the Beverly
+      Willis Architecture Foundation (BWAF) she facilitated broadening its mission
+      to include changing culture throughout the industry. She remained President
+      for five years, helping to grow the organization to have national recognition,
+      and since 2011 served on the Executive Committee, stepping down on January 1
+      of this year.\n\nPrevious and parallel to her work with BWAF she has been an
+      active advocate for building better and more healthy interiors, buildings and
+      communities. As 2007 President of AIA NYC, she worked with city agencies and
+      the Mayor's Office, resulting in the first revamping of citywide workplace standards
+      since 1971. She assisted NYC agencies in developing a LEED point for Active
+      Design, and also served as the design advisor to the GSA and the CDC in creating
+      Fitwel, a scorecard for designing healthy buildings and interiors. \nHer widely
+      published and award winning work is notable for incorporating socially responsible
+      principals of designing for health and sustainability.\L"
+  - title: Melissa Burton
+    title_role: ''
+    image: "/v1610937147/2017_Burton_Melissa_01_980x780_aev98l.jpg"
+    description: ''
+  - title: Peter DiMaggio, P.E., SECB
+    title_role: Co-CEO, Thornton Tomasetti
+    image: "/v1610937178/sml_DiMaggio_Peter_headshot_srramp.jpg"
+    description: Peter DiMaggio is Co-CEO of Thornton Tomasetti and is responsible
+      for defining, articulating and driving the firm’s strategic vision. In addition
+      to participating in the development and execution of the overall business plan,
+      he is involved in strategic initiatives from identifying new markets and merger
+      and acquisition opportunities to instituting mentorship and professional development
+      programs. Pete is a recognized expert in special structures and protective design
+      and security. He has been involved in the design and structural hardening of
+      numerous government buildings, including more than 40 U.S. embassies, federal
+      facilities and courthouses. His diverse portfolio also includes office buildings,
+      educational facilities, hotels, stadiums, laboratories, residential towers and
+      unique structures around the world.
+  - title: Patricia Harris, Esq
+    title_role: Founder and CEO, LicenseSure LLC/ Special Counsel, Zetlin & De Chiara
+      LLP
+    image: "/v1610937223/PatriciaHarrisHeadshot-2-e1454609739415_rkq5sz.jpg"
+    description: Patti Harris, Founder and CEO of LicenseSure LLC and Special Counsel
+      to Zetlin & De Chiara LLP, provides legal and business counsel to architects
+      and engineers throughout the United States. A serial entrepreneur as well as
+      an attorney, Patti started her career as a corporate attorney with two New York
+      City law firms. From 2000 to 2013, Patti served as the Managing Partner of Zetlin
+      & De Chiara. Harris is the Founder and CEO of LicenseSure, which provides business
+      and licensing compliance services to design professionals. Ms. Harris’ legal
+      practice focuses on mergers and acquisitions, business organization and management
+      issues, succession, strategy and licensing issues.
   - title: Erleen Hatfield, PE, AIA
     title_role: Managing Partner, Hatfield Group
     image: "/v1618333098/2019_Hatfield_Headshot-use_this_one_l0xibt.jpg"
@@ -293,71 +358,6 @@ page_blocks:
     description: |-
       As Senior Vice President of Design for Related California, Ms. Yee is responsible for the management of architecture and design for all market rate and mixed-income residential developments in California. Ms. Yee works closely with the architectural team, sales and marketing, and development executives throughout the entire development process to ensure seamless design and execution. A registered architect with extensive experience on major residential, commercial, hotel, retail and corporate developments, she recently oversaw the design and completion of The Century, a luxury high rise condominium in Los Angeles that has set per square foot sales price records for its market area.
       Prior to joining Related in 2006, Ms. Yee served as Vice President at HKS Architects, Inc., in Beverly Hills. A recipient of the Asian Women in Business Corporate Leadership Award, Ms. Yee holds a Master in Architecture from the University of California, Los Angeles and a bachelor’s degree from Georgetown University. She was editor of the Dallas Chapter American Institute of Architects newsletter and served on the Urban Design Advisory Committee for the City of Dallas. She is a current member of the American Institute of Architects (AIA) and has been a speaker at AIA conferences and Urban Land Institute events.
-  - title: Angelica Trevino Baccon, AIA
-    title_role: Principal, SHoP Architects
-    image: "/v1610937006/s_170713_webview_jkbimz.jpg"
-    description: Angelica Trevino Baccon is a principal of SHoP. She has a particular
-      specialty in leading complex mixed-use and workplace design projects, often
-      at the intersection of enterprise and technology. These include the new Uber
-      headquarters in San Francisco and several confidential projects for global leaders
-      in Silicon Valley. She holds a Bachelor in Architecture degree from ITESM in
-      Monterrey, Mexico, and a Master of Architecture from Harvard University, where
-      she has also served as a professor. Her work on New York City’s South Street
-      Seaport established her deep expertise in fast-paced, high-profile design and
-      delivery challenges with multilayered stakeholder groups, successfully leveraging
-      programs to promote vitality, equity and community in the private sector and
-      public realm.
-  - title: Joan Blumenfield, FAIA, FIIDA, LEED ID+C
-    title_role: Principal, Perkins+Will
-    image: "/v1610937099/JoanBlumenfeld_gzuyea.jpg"
-    description: "Joan Blumenfeld, Contract Magazine’s 2018 Legend, is a design principal
-      at Perkins+Will, a global architecture and interiors firm. Over the past 10
-      years she has been committed to achieving gender equity across all aspects of
-      the design and construction business. As the first president of the Beverly
-      Willis Architecture Foundation (BWAF) she facilitated broadening its mission
-      to include changing culture throughout the industry. She remained President
-      for five years, helping to grow the organization to have national recognition,
-      and since 2011 served on the Executive Committee, stepping down on January 1
-      of this year.\n\nPrevious and parallel to her work with BWAF she has been an
-      active advocate for building better and more healthy interiors, buildings and
-      communities. As 2007 President of AIA NYC, she worked with city agencies and
-      the Mayor's Office, resulting in the first revamping of citywide workplace standards
-      since 1971. She assisted NYC agencies in developing a LEED point for Active
-      Design, and also served as the design advisor to the GSA and the CDC in creating
-      Fitwel, a scorecard for designing healthy buildings and interiors. \nHer widely
-      published and award winning work is notable for incorporating socially responsible
-      principals of designing for health and sustainability.\L"
-  - title: Melissa Burton
-    title_role: ''
-    image: "/v1610937147/2017_Burton_Melissa_01_980x780_aev98l.jpg"
-    description: ''
-  - title: Peter DiMaggio, P.E., SECB
-    title_role: Co-CEO, Thornton Tomasetti
-    image: "/v1610937178/sml_DiMaggio_Peter_headshot_srramp.jpg"
-    description: Peter DiMaggio is Co-CEO of Thornton Tomasetti and is responsible
-      for defining, articulating and driving the firm’s strategic vision. In addition
-      to participating in the development and execution of the overall business plan,
-      he is involved in strategic initiatives from identifying new markets and merger
-      and acquisition opportunities to instituting mentorship and professional development
-      programs. Pete is a recognized expert in special structures and protective design
-      and security. He has been involved in the design and structural hardening of
-      numerous government buildings, including more than 40 U.S. embassies, federal
-      facilities and courthouses. His diverse portfolio also includes office buildings,
-      educational facilities, hotels, stadiums, laboratories, residential towers and
-      unique structures around the world.
-  - title: Patricia Harris, Esq
-    title_role: Founder and CEO, LicenseSure LLC/ Special Counsel, Zetlin & De Chiara
-      LLP
-    image: "/v1610937223/PatriciaHarrisHeadshot-2-e1454609739415_rkq5sz.jpg"
-    description: Patti Harris, Founder and CEO of LicenseSure LLC and Special Counsel
-      to Zetlin & De Chiara LLP, provides legal and business counsel to architects
-      and engineers throughout the United States. A serial entrepreneur as well as
-      an attorney, Patti started her career as a corporate attorney with two New York
-      City law firms. From 2000 to 2013, Patti served as the Managing Partner of Zetlin
-      & De Chiara. Harris is the Founder and CEO of LicenseSure, which provides business
-      and licensing compliance services to design professionals. Ms. Harris’ legal
-      practice focuses on mergers and acquisitions, business organization and management
-      issues, succession, strategy and licensing issues.
 
 ---
 <!-- <img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937006/s_170713_webview_xiipdh.jpg"><img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937099/JoanBlumenfeld_jwkiz9.jpg"><img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937147/2017_Burton_Melissa_01_980x780_mbfswt.jpg"><img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937178/sml_DiMaggio_Peter_headshot_n6xpkd.jpg"><img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937222/PatriciaHarrisHeadshot-2-e1454609739415_pokx25.jpg"><div class="main-two-up">
