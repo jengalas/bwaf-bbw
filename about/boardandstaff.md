@@ -33,8 +33,8 @@ page_blocks:
       and licensing compliance services to design professionals. Ms. Harris’ legal
       practice focuses on mergers and acquisitions, business organization and management
       issues, succession, strategy and licensing issues.
-  - title: Angelica Trevino Baccon
-    title_role: AIA, Principal at SHoP Architects
+  - title: Angelica Trevino Baccon, AIA
+    title_role: Principal, SHoP Architects
     image: "/v1610937006/s_170713_webview_jkbimz.jpg"
     description: Angelica Trevino Baccon is a principal of SHoP. She has a particular
       specialty in leading complex mixed-use and workplace design projects, often
