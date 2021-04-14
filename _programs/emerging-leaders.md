@@ -48,8 +48,8 @@ page_blocks:
   - title: Jovanni Carter-Davis
     title_role: Urban Designer III, Perkins&Will, Los Angeles Office
     image: "/v1618421371/Jovanni_Carter-Davis_ugtglv.jpg"
-  - title: Firstname M. Lastname
-    title_role: Title Teekay and Title Teekay
+  - title: Brenna Decker, AIA NCARB LEED AP
+    title_role: 'Senior Associate, Robert A.M. Stern Architects  '
     image: "/v1610937223/PatriciaHarrisHeadshot-2-e1454609739415_rkq5sz.jpg"
   - title: Firstname M. Lastname
     title_role: Title Teekay and Title Teekay
