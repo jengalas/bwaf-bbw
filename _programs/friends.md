@@ -31,15 +31,15 @@ page_blocks:
 
     Corporate Friendship*: $5000
 
-    ###### *Allows for 8 participants per event
+    ###### *Allows for 4 participants per event
 
     ## **For your annual donation, you will receive:**
 
-    * Prominent listing on bwaf.org
-    * Friends page Invitation to three BWAF Friends events per year
+    * Invitation to three BWAF Friends events per year
     * Built By Women tote bag
     * Early notification of BWAF activities
     * Monthly BWAF newsletter
     * Copy of BWAF film
+    * Prominent listing on BWAF website (Corporate Friendship only)
 
 ---
