@@ -98,7 +98,8 @@ page_blocks:
     image: "/v1618423393/Rice_Headshot_z30tnw.jpg"
   - title: Sophia Tampakis
     title_role: Project Engineer, JB&B
-  - {}
+  - title: Florence Tang
+    title_role: Design and Engineering Project Manager, Houston Zoo
   - {}
   - {}
 - template: portrait-gallery-template
