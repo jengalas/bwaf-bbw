@@ -104,7 +104,9 @@ page_blocks:
   - title: Jenna Leigh Wandishin
     title_role: Project Architect, Moody Nolan
     image: "/v1618424460/Jenna_Wandishin_headshot_rvldp9.jpg"
-  - {}
+  - title: Nicole Wiznitzer
+    title_role: " Project Architect, Morris Adjmi Architects"
+    image: "/v1618424530/Nicole_Wiznitzer-200x200_tpbh0d.jpg"
 - template: portrait-gallery-template
   portrait:
   - title: Speaker First and Last Name
