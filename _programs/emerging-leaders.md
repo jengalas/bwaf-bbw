@@ -75,7 +75,9 @@ page_blocks:
   - title: Darian Lu
     title_role: Development Project Manager, WeWork
     image: "/v1618422670/headshot_ke2mvn.jpg"
-  - {}
+  - title: Maya Madison
+    title_role: Project Coordinator, Moody Nolan
+    image: "/v1618422798/Maya_Madison_izplxm.jpg"
   - {}
   - {}
   - {}
