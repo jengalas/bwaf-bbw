@@ -44,7 +44,7 @@ current-year-blurb: This year, the Built by Women competition takes place in Los
   opening May 15, 2020. The projects will also be included in a designed map.
 page_blocks:
 - template: text-block
-  include_left-hand_column_text_: true
+  include_left-hand_column_text_: false
   text_block: |-
     Started in 2014, Beverly Willis Architecture Foundation celebrates women’s contributions to the built environment. In addition to recognizing and supporting the diverse women working in the building professions, Built By Women provides strong role models and mentors for both current professionals and students.
 
