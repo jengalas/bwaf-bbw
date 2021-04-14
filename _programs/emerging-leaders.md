@@ -100,6 +100,7 @@ page_blocks:
     title_role: Project Engineer, JB&B
   - title: Florence Tang
     title_role: Design and Engineering Project Manager, Houston Zoo
+    image: "/v1618423615/Florence_-_For_Web_fa2hul.jpg"
   - {}
   - {}
 - template: portrait-gallery-template
