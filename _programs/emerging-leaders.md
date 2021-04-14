@@ -51,9 +51,9 @@ page_blocks:
   - title: Brenna Decker, AIA NCARB LEED AP
     title_role: 'Senior Associate, Robert A.M. Stern Architects  '
     image: "/v1618421501/2018-10-24_Brenna_Decker_0023_Color_svdk7r.jpg"
-  - title: Firstname M. Lastname
-    title_role: Title Teekay and Title Teekay
-    image: "/v1610937223/PatriciaHarrisHeadshot-2-e1454609739415_rkq5sz.jpg"
+  - title: Michelle Duong
+    title_role: Senior Engineer, Jaros, Baum & Bolles
+    image: "/v1618421589/MDuong_gwazcc.jpg"
   - title: Firstname M. Lastname
     title_role: Title Teekay and Title Teekay
     image: "/v1610937223/PatriciaHarrisHeadshot-2-e1454609739415_rkq5sz.jpg"
