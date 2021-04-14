@@ -1,8 +1,8 @@
 ---
 layout: innerPage
-navCategory: 'Programs'
+navCategory: Programs
 title: Industry Leaders Roundtable Retreat
-permalink: /programs/industry-leaders-roundtable-retreat
+permalink: "/programs/industry-leaders-roundtable-retreat"
 page_blocks:
 - template: text-block
   text_block: The Industry Leaders Roundtable program is designed to encourage firms
@@ -16,6 +16,19 @@ page_blocks:
     link_url: ''
     link_text: ''
   section_break: false
+- template: slideshow-block
+  image:
+  - image: "/v1618426963/IMG_1662_2_e5j5bi.jpg"
+    caption: Industry Leaders Roundtable Retreat, Los Angeles, outside "Blackbirds",
+      2019
+  section_break: false
+  include_left-hand_column_text_: false
+  lefthand_text:
+    header_type: ''
+    text: ''
+    download: ''
+    link_url: ''
+    link_text: ''
 - template: image-block
   image: "/v1611546946/orionthemes-placeholder-image_lf0srf.png"
   image_caption_text: Caption info of photograph here teekay.
