@@ -55,7 +55,7 @@ page_blocks:
     title_role: Senior Engineer, Jaros, Baum & Bolles
     image: "/v1618421589/MDuong_gwazcc.jpg"
   - title: Amanda R Lukacs Faryar, PE
-    title_role: Senior Transportation Engineer, Arup
+    title_role: Senior Transportation Engineer, ARUP
     image: "/v1618421704/AmandaFaryarHeadshot_lzu0d1.jpg"
   - title: Madina Guillerm
     title_role: Senior Structural Designer, ARUP
