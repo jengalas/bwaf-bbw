@@ -101,7 +101,9 @@ page_blocks:
   - title: Florence Tang
     title_role: Design and Engineering Project Manager, Houston Zoo
     image: "/v1618423615/Florence_-_For_Web_fa2hul.jpg"
-  - {}
+  - title: Jenna Leigh Wandishin
+    title_role: Project Architect, Moody Nolan
+    image: "/v1618424460/Jenna_Wandishin_headshot_rvldp9.jpg"
   - {}
 - template: portrait-gallery-template
   portrait:
