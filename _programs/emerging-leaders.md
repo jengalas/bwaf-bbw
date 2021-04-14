@@ -45,9 +45,9 @@ page_blocks:
   - title: Jennifer Allen
     title_role: Senior Staff Engineer, Langan
     image: "/v1618421261/Jennifer_Imbro_resume_bt0dai.jpg"
-  - title: Firstname M. Lastname
-    title_role: Title Teekay and Title Teekay
-    image: "/v1610937223/PatriciaHarrisHeadshot-2-e1454609739415_rkq5sz.jpg"
+  - title: Jovanni Carter-Davis
+    title_role: Urban Designer III, Perkins&Will, Los Angeles Office
+    image: "/v1618421371/Jovanni_Carter-Davis_ugtglv.jpg"
   - title: Firstname M. Lastname
     title_role: Title Teekay and Title Teekay
     image: "/v1610937223/PatriciaHarrisHeadshot-2-e1454609739415_rkq5sz.jpg"
