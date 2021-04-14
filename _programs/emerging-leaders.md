@@ -87,7 +87,9 @@ page_blocks:
   - title: Sucheta Nadig
     title_role: Architect, Morris Adjmi Architects
     image: "/v1618423128/Headshot_Cropped_Color_kkccyk.jpg"
-  - {}
+  - title: Shinjinee Pathak
+    title_role: Associate, Silman
+    image: "/v1618423210/headshot_Pathak_q9u9k4.jpg"
   - {}
   - {}
   - {}
