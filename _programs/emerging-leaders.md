@@ -54,9 +54,9 @@ page_blocks:
   - title: Michelle Duong
     title_role: Senior Engineer, Jaros, Baum & Bolles
     image: "/v1618421589/MDuong_gwazcc.jpg"
-  - title: Firstname M. Lastname
-    title_role: Title Teekay and Title Teekay
-    image: "/v1610937223/PatriciaHarrisHeadshot-2-e1454609739415_rkq5sz.jpg"
+  - title: Amanda R Lukacs Faryar, PE
+    title_role: Senior Transportation Engineer, Arup
+    image: "/v1618421704/AmandaFaryarHeadshot_lzu0d1.jpg"
   - title: Firstname M. Lastname
     title_role: Title Teekay and Title Teekay
     image: "/v1610937223/PatriciaHarrisHeadshot-2-e1454609739415_rkq5sz.jpg"
