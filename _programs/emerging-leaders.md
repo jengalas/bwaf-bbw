@@ -57,9 +57,9 @@ page_blocks:
   - title: Amanda R Lukacs Faryar, PE
     title_role: Senior Transportation Engineer, Arup
     image: "/v1618421704/AmandaFaryarHeadshot_lzu0d1.jpg"
-  - title: Firstname M. Lastname
-    title_role: Title Teekay and Title Teekay
-    image: "/v1610937223/PatriciaHarrisHeadshot-2-e1454609739415_rkq5sz.jpg"
+  - title: Madina Guillerm
+    title_role: Senior Structural Designer, ARUP
+    image: "/v1618421835/ILG_1991_hc5zoi.jpg"
   - title: Firstname M. Lastname
     title_role: Title Teekay and Title Teekay
     image: "/v1610937223/PatriciaHarrisHeadshot-2-e1454609739415_rkq5sz.jpg"
