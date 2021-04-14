@@ -93,7 +93,9 @@ page_blocks:
   - title: Anazette W. Ray
     title_role: Associate, Zetlin & De Chiara, LLP
     image: "/v1618423309/Anazette_W._Ray_-_photo_cktyld.jpg"
-  - {}
+  - title: " Anneli Rice"
+    title_role: " Senior Associate,  SHoP Architects"
+    image: "/v1618423393/Rice_Headshot_z30tnw.jpg"
   - {}
   - {}
   - {}
