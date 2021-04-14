@@ -60,9 +60,9 @@ page_blocks:
   - title: Madina Guillerm
     title_role: Senior Structural Designer, ARUP
     image: "/v1618421835/ILG_1991_hc5zoi.jpg"
-  - title: Firstname M. Lastname
-    title_role: Title Teekay and Title Teekay
-    image: "/v1610937223/PatriciaHarrisHeadshot-2-e1454609739415_rkq5sz.jpg"
+  - title: Rebecca Henriques
+    title_role: Senior Engineer, Langan Engineering
+    image: "/v1618421957/Rebecca_Henriques_-_Headshot_sjw60v.jpg"
   - title: Firstname M. Lastname
     title_role: Title Teekay and Title Teekay
     image: "/v1610937223/PatriciaHarrisHeadshot-2-e1454609739415_rkq5sz.jpg"
