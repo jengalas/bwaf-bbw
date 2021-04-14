@@ -81,7 +81,9 @@ page_blocks:
   - title: Stephanie W. Moore, P.E.
     title_role: Senior Project Engineer, Thornton Tomasetti
     image: "/v1618422866/SMoore_Headshot_webview_jcmpqv.jpg"
-  - {}
+  - title: Elsa Mullin
+    title_role: Project Director, Thornton Tomasetti
+    image: "/v1618422945/Elsa_Mullin_Headhshot_sjntsy.jpg"
   - {}
   - {}
   - {}
