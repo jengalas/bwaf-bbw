@@ -69,9 +69,9 @@ page_blocks:
   - title: Aimee Hultquist
     title_role: Project Architect, Dattner Architects
     image: "/v1618422349/210412_-_Headshot_-_AHultquist_pcatui.png"
-  - title: Firstname M. Lastname
-    title_role: Title Teekay and Title Teekay
-    image: "/v1610937223/PatriciaHarrisHeadshot-2-e1454609739415_rkq5sz.jpg"
+  - title: " Erin Kelly"
+    title_role: Associate, Mancini Duffy
+    image: "/v1618422425/S_190910_N2_fjpg_vbwxfj.jpg"
 - template: portrait-gallery-template
   portrait:
   - title: Speaker First and Last Name
