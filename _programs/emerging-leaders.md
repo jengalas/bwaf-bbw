@@ -90,7 +90,9 @@ page_blocks:
   - title: Shinjinee Pathak
     title_role: Associate, Silman
     image: "/v1618423210/headshot_Pathak_q9u9k4.jpg"
-  - {}
+  - title: Anazette W. Ray
+    title_role: Associate, Zetlin & De Chiara, LLP
+    image: "/v1618423309/Anazette_W._Ray_-_photo_cktyld.jpg"
   - {}
   - {}
   - {}
