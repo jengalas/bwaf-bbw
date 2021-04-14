@@ -68,7 +68,7 @@ page_blocks:
     image: "/v1618422262/Hernandez_Fernanda_Headshot_mpfiu5.jpg"
   - title: Aimee Hultquist
     title_role: Project Architect, Dattner Architects
-    image: "/v1610937223/PatriciaHarrisHeadshot-2-e1454609739415_rkq5sz.jpg"
+    image: "/v1618422349/210412_-_Headshot_-_AHultquist_pcatui.png"
   - title: Firstname M. Lastname
     title_role: Title Teekay and Title Teekay
     image: "/v1610937223/PatriciaHarrisHeadshot-2-e1454609739415_rkq5sz.jpg"
