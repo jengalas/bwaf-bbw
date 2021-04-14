@@ -72,6 +72,20 @@ page_blocks:
   - title: " Erin Kelly"
     title_role: Associate, Mancini Duffy
     image: "/v1618422425/S_190910_N2_fjpg_vbwxfj.jpg"
+  - title: Darian Lu
+    title_role: Development Project Manager, WeWork
+    image: "/v1618422670/headshot_ke2mvn.jpg"
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
 - template: portrait-gallery-template
   portrait:
   - title: Speaker First and Last Name
