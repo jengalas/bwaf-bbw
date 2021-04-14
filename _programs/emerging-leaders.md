@@ -63,9 +63,9 @@ page_blocks:
   - title: Rebecca Henriques
     title_role: Senior Engineer, Langan Engineering
     image: "/v1618421957/Rebecca_Henriques_-_Headshot_sjw60v.jpg"
-  - title: Firstname M. Lastname
-    title_role: Title Teekay and Title Teekay
-    image: "/v1610937223/PatriciaHarrisHeadshot-2-e1454609739415_rkq5sz.jpg"
+  - title: Fernanda Hernandez
+    title_role: Interior Designer, Perkins&Will
+    image: "/v1618422262/Hernandez_Fernanda_Headshot_mpfiu5.jpg"
   - title: Firstname M. Lastname
     title_role: Title Teekay and Title Teekay
     image: "/v1610937223/PatriciaHarrisHeadshot-2-e1454609739415_rkq5sz.jpg"
