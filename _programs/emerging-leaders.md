@@ -96,7 +96,8 @@ page_blocks:
   - title: " Anneli Rice"
     title_role: " Senior Associate,  SHoP Architects"
     image: "/v1618423393/Rice_Headshot_z30tnw.jpg"
-  - {}
+  - title: Sophia Tampakis
+    title_role: Project Engineer, JB&B
   - {}
   - {}
   - {}
