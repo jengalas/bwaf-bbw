@@ -78,7 +78,9 @@ page_blocks:
   - title: Maya Madison
     title_role: Project Coordinator, Moody Nolan
     image: "/v1618422798/Maya_Madison_izplxm.jpg"
-  - {}
+  - title: Stephanie W. Moore, P.E.
+    title_role: Senior Project Engineer, Thornton Tomasetti
+    image: "/v1618422866/SMoore_Headshot_webview_jcmpqv.jpg"
   - {}
   - {}
   - {}
