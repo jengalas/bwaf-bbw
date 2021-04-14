@@ -18,6 +18,8 @@ page_blocks:
   section_break: false
 - template: slideshow-block
   image:
+  - image: "/v1618427032/IMG_3803_2_ptmoav.jpg"
+    caption: Industry Leaders Roundtable Retreat, Los Angeles, December 2-3, 2019
   - image: "/v1618426963/IMG_1662_2_e5j5bi.jpg"
     caption: Industry Leaders Roundtable Retreat, Los Angeles, outside "Blackbirds",
       2019
