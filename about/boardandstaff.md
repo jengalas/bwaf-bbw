@@ -272,11 +272,8 @@ page_blocks:
       Companion to the Bloomsbury Group (Cambridge UP, 2014) and The Global and the
       Intimate: Feminism in Our Time (Columbia UP, 2012; with Geraldine Pratt). A
       growing component of her work examines gender in the professions: Victoria is co-editor
-      of the Beverly Willis Architecture Foundation’s web-based archive Pioneering
-      Women of American Architecture, an NEH-funded project that recovers the histories of
-      US women architects born before 1940. She is also the founder and co-director,
-      since 2018, of the Center for the Study of Social Difference Columbia faculty
-      working group, “On the Frontlines: Nursing Leadership in Pandemics.”'
+      of Beverly Willis Architecture Foundation’s web-based archive Pioneering Women
+      of American Architecture.'
   - title: Kirsten Sibilia, Assoc. AIA, LEED AP
     title_role: Managing Principal, Dattner Architects
     image: "/v1618329835/191218-Sibilia_Kirsten-7042_2019-12-20_12_54_18_qp8tam.jpg"
