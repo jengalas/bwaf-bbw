@@ -171,7 +171,7 @@ page_blocks:
       Rich currently serves as National Director on the ACEC New York Executive Committee.
       He holds a Bachelor of Science degree in Electrical Engineering from Bucknell
       University, and is a licensed Professional Engineer and LEED Accredited Professional.  '
-  - title: Mary McLeod
+  - title: Mary McLeod, Ph.D.
     title_role: Professor of Architecture, Columbia University
     image: "/v1618331199/McLeod-headshot_prd2h9.jpg"
     description: 'Mary McLeod is a professor of architecture at Columbia University,
