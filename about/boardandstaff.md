@@ -294,19 +294,11 @@ page_blocks:
       architect and obtaining prominence for her design skills, she soon realized
       that her interests in public space linked with the profession of landscape architecture.
       Now as an architect and landscape architect, Barbara uses her leadership skills
-      to realign nature and communities.\nBarbara has won many awards for her work
+      to realign nature and communities. \nBarbara has won many awards for her work
       and was elected to both the College of Fellows of the American Institute of
       Architects and the American Society of Landscape Architecture for her design
       accomplishments. Her projects range in scale from urban plans, to public spaces,
-      to infrastructure, to architecture. \n\nIn addition to opening her projects
-      for participation, during the design process Barbara continues the spirit of
-      inclusion to the surrounding communities and government agencies. The work reflects
-      her leadership skills in the resulting synthesis of these multiple inputs to
-      create a comprehensive connection between the fundamental ecology of the site,
-      its historical and cultural legacy, and its current iteration.\nWilks serves
-      on the Design Trust for Public Space, the Van Alen Climate Council, the McHarg
-      Center at the University of Pennsylvania, the Planning Committee of the Municipal
-      Art Society, NYC, and the Board of Pyramid Hill Sculpture Park."
+      to infrastructure, to architecture. "
   - title: Bolanle Williams-Olley
     title_role: Chief Financial Officer, Mancini Duffy
     image: "/v1618329337/Bolanle_Williams-Olley_Headshot_yza38d.jpg"
