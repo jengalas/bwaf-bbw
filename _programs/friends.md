@@ -23,7 +23,7 @@ page_blocks:
   image_caption_text: Caption info of photograph here teekay.
 - template: text-block
   text_block: |-
-    ## **Memberships**
+    ## **Annual Membership**
 
     Early Professional (up to ten years of professional experience): $250
 
