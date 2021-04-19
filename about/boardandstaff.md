@@ -237,14 +237,10 @@ page_blocks:
       planning, site engineering, and environmental consulting service firm for private
       developers, property owners, and public sector clients. \nMichele’s practice
       includes site engineering design and planning for a wide variety of commercial,
-      institutional, recreation, retail, and residential development projects. Notable
-      projects include Hudson Park and Boulevard in Manhattan, Gateway Center at Bronx
-      Terminal Market in the Bronx, TWA Flight Center Hotel at John F. Kennedy International
-      Airport in Queens, Fort Wadsworth in Staten Island and Dock 72 at Brooklyn Navy
-      Yard in Brooklyn.  \nBesides her passion for civil engineering, Michele is also
-      extremely passionate about supporting, mentoring, and empowering women in STEM
-      and the engineering community. This dedication inspired her to co-found Women@Langan
-      in September 2015."
+      institutional, recreation, retail, and residential development projects. \nBesides
+      her passion for civil engineering, Michele is also extremely passionate about
+      supporting, mentoring, and empowering women in STEM and the engineering community.
+      This dedication inspired her to co-found Women@Langan in September 2015."
   - title: Ann Rolland, FAIA, LEED AP
     title_role: Partner, FXCollaborative Architects
     image: "/v1618330597/ARolland_web_farbmn.jpg"
