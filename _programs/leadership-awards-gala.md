@@ -25,7 +25,7 @@ page_blocks:
   - image: "/v1610940789/BWAF_Gala_2020_The_Berman_Group_Chris_Bacarella_Photography-26_ohkwe0.jpg"
     caption: 6th Annual Leadership Awards Gala, 2020
   - image: "/v1610940736/BWAF_Gala_2020_The_Berman_Group_Chris_Bacarella_Photography-21_ktx20r.jpg"
-    caption: Image caption 1
+    caption: 6th Annual Leadership Awards Gala, 2020
 - template: text-block
   include_left-hand_column_text_: true
   lefthand_text:
