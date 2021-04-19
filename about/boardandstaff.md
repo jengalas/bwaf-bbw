@@ -199,7 +199,7 @@ page_blocks:
       in Fitzroy Place, London, UK. \nIn 2016, Aislinn participated in the Montreal
       Biennial, and in 2017, she participated in the Litturaturfest in Aarhus, Denmark,
       showcasing international writers and artists."
-  - title: Karen McNeill, Ph.D
+  - title: Karen McNeill, Ph.D.
     title_role: Senior Family Historian, Ascent Private Capital Management of U.S.
       Bank
     image: "/v1618331108/McNeill_Head_shot_csuk9r.jpg"
