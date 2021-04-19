@@ -37,23 +37,9 @@ page_blocks:
   - title: Joan Blumenfield, FAIA, FIIDA, LEED ID+C
     title_role: Principal, Perkins+Will
     image: "/v1610937099/JoanBlumenfeld_gzuyea.jpg"
-    description: "Joan Blumenfeld, Contract Magazine’s 2018 Legend, is a design principal
-      at Perkins+Will, a global architecture and interiors firm. Over the past 10
-      years she has been committed to achieving gender equity across all aspects of
-      the design and construction business. As the first president of the Beverly
-      Willis Architecture Foundation (BWAF) she facilitated broadening its mission
-      to include changing culture throughout the industry. She remained President
-      for five years, helping to grow the organization to have national recognition,
-      and since 2011 served on the Executive Committee, stepping down on January 1
-      of this year.\n\nPrevious and parallel to her work with BWAF she has been an
-      active advocate for building better and more healthy interiors, buildings and
-      communities. As 2007 President of AIA NYC, she worked with city agencies and
-      the Mayor's Office, resulting in the first revamping of citywide workplace standards
-      since 1971. She assisted NYC agencies in developing a LEED point for Active
-      Design, and also served as the design advisor to the GSA and the CDC in creating
-      Fitwel, a scorecard for designing healthy buildings and interiors. \nHer widely
-      published and award winning work is notable for incorporating socially responsible
-      principals of designing for health and sustainability.\L"
+    description: |-
+      Joan Blumenfeld, Contract Magazine’s 2018 Legend, is a design principal at Perkins+Will, a global architecture and interiors firm. Over the past 10 years she has been committed to achieving gender equity across all aspects of the design and construction business. As the first president of the Beverly Willis Architecture Foundation (BWAF) she facilitated broadening its mission to include changing culture throughout the industry. She remained President for five years, helping to grow the organization to have national recognition, and since 2011 served on the Executive Committee, stepping down in 2020.
+      Previous and parallel to her work with BWAF she has been an active advocate for building better and more healthy interiors, buildings and communities. As 2007 President of AIA NYC, she worked with city agencies and the Mayor's Office, resulting in the first revamping of citywide workplace standards since 1971.
   - title: Melissa Burton, Ph.D
     title_role: Principal, Arup
     image: "/v1610937147/2017_Burton_Melissa_01_980x780_aev98l.jpg"
