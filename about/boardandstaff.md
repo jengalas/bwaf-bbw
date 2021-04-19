@@ -152,16 +152,11 @@ page_blocks:
       spaces and an acknowledgment of how the shape of a building, city, or institution
       impacts people’s lives. She brings a careful consideration of context to her
       work, balancing preservation and modernization to generate sustainable transformations
-      that capture the complexity of a space’s past history and future goals. \n\nCarol
+      that capture the complexity of a space’s past history and future goals. \nCarol
       Loewenson joined Mitchell Giurgola in 1982 and became a partner in 1996. Her
       work at the firm includes projects for the Brooklyn Public Library, The New
       York Public Library, Rockefeller University, New York University, Cornell University,
-      LaGuardia Community College, and the New York State Unified Court System. She
-      serves as a Board member of the AIA Center for Architecture, the IDC Foundation,
-      New Yorkers for Parks, and the Beverly Willis Architectural Foundation. She
-      was as elected to the College of Fellows of the American Institute of Architects
-      in 2013, was elected President of AIA New York in 2016, and was awarded the
-      AIA New York State President’s Award in 2019. "
+      LaGuardia Community College, and the New York State Unified Court System."
     image: "/v1618331492/Loewenson_Carol_1355_tg8dv5.jpg"
   - title: 'Richard M. McFadden, PE, LEED AP '
     title_role: Partner, Jaros, Baum & Bolles
