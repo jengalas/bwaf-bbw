@@ -34,7 +34,7 @@ page_blocks:
       delivery challenges with multilayered stakeholder groups, successfully leveraging
       programs to promote vitality, equity and community in the private sector and
       public realm.
-  - title: Joan Blumenfield, FAIA, FIIDA, LEED ID+C
+  - title: Joan Blumenfeld, FAIA, FIIDA, LEED ID+C
     title_role: Principal, Perkins+Will
     image: "/v1610937099/JoanBlumenfeld_gzuyea.jpg"
     description: |-
