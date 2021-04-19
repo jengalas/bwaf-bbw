@@ -27,8 +27,9 @@ page_blocks:
     link_url: ''
     link_text: Download the application
   image: "/v1610938706/Un2iW_Pg_t68z8j.jpg"
-  alt_text: Caption info of photograph here teekay.
-  image_caption_text: Caption info of photograph here teekay.
+  alt_text: 2019 Emerging Leaders Program participants, SOM offices, New York City
+  image_caption_text: 2019 Emerging Leaders Program participants, SOM offices, New
+    York City
 - template: text-block
   section_break: true
   include_left-hand_column_text_: true
