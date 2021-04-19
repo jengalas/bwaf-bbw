@@ -27,17 +27,14 @@ page_blocks:
   alt_text: 'Unknown New York: The City That Women Built'
   section_break: true
 - template: text-block
-  text_block: Info about the film here. Lorem ipsum dolor sit amet, consectetur adipiscing
-    elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla
-    facilisi etiam dignissim diam quis. Est ultricies integer quis auctor elit sed
-    vulputate mi. Mi quis hendrerit dolor magna eget. Placerat in egestas erat imperdiet
-    sed euismod nisi porta. Tempus urna et pharetra pharetra massa. Mattis molestie
-    a iaculis at erat pellentesque adipiscing commodo elit. Id velit ut tortor pretium
-    viverra suspendisse potenti nullam ac. Convallis tellus id interdum velit laoreet
-    id donec ultrices. Quam adipiscing vitae proin sagittis nisl. Enim tortor at auctor
-    urna nunc. Lacus sed turpis tincidunt id aliquet risus feugiat. Mauris commodo
-    quis imperdiet massa tincidunt. In hac habitasse platea dictumst quisque. Lacinia
-    at quis risus sed vulputate. Non curabitur gravida arcu ac.
+  text_block: "Written and directed by Beverly Willis, this twenty minute documentary
+    presents 234 selected Manhattan projects designed, engineered, or developed by
+    women. With dazzling color images and a historical narrative, Unknown New York
+    celebrates the contributions of the women that have shaped the rich and complex
+    urban fabric of our great city.  \n  \n“Beverly Willis’ film takes us on a rapid
+    ride through time and locations demonstrating how women have been and are, bold
+    leaders and partners in creating the rich fabric of Gotham”. Frances Bronet, President,
+    Pratt Institute.  \n  \nDuration: 19 minutes."
   include_left-hand_column_text_: true
   lefthand_text:
     header_type: Link
