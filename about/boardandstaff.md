@@ -53,11 +53,7 @@ page_blocks:
       wind climate affects the buildings we design, and how the consequential reaction
       of the buildings affects the people that occupy them. Her technical expertise
       extends to beyond code approaches using advanced analytical tools to quantify
-      and reduce design risk from wind loading. She has most recently collaborated
-      with the Charles Pankow Foundation to publish criteria and methodologies for
-      designing tall buildings to be more resilient in wind events. She has both lived
-      and worked in the UK, Asia, and North America and has a global portfolio of
-      project work.
+      and reduce design risk from wind loading.
   - title: Peter DiMaggio, P.E., SECB
     title_role: Co-CEO, Thornton Tomasetti
     image: "/v1610937178/sml_DiMaggio_Peter_headshot_srramp.jpg"
