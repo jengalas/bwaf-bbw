@@ -56,15 +56,12 @@ page_blocks:
     header_type: Link
     text: "Purchase a copy of Beverly Willis: \LThe Artist and the Architect"
     link_url: https://bwaf.square.site/product/the-artist-the-architect-and-built-for-ballet/1?cs=true&cst=custom
-  text_block: "A suite of films tracing the long, richly varied, and distinguished
-    career of Beverly Willis. Starting as a multi-media artist, Willis evolved into
-    an architectural designer. Her practice included residential, commercial, institutional,
-    and government buildings located across the US, and culminated with her most famous
-    building, the San Francisco Ballet Building in the City’s Civic and Performing
-    Arts Center. \n\nCollection includes: _The Artist Beverly Willis: Honolulu and
-    San Francisco Years 1948–1968_ (17 min.); _The Architect Beverly Willis: San Francisco
-    and New York Years 1958–1995_ (20 min.); _Built for Ballet: An American Original_
-    (18 min.) \n\n[Learn more](/)"
+  text_block: |-
+    A suite of films tracing the long, richly varied, and distinguished career of Beverly Willis. Starting as a multi-media artist, Willis evolved into an architectural designer. Her practice included residential, commercial, institutional, and government buildings located across the US, and culminated with her most famous building, the San Francisco Ballet Building in the City’s Civic and Performing Arts Center.
+
+    Collection includes: _The Artist Beverly Willis: Honolulu and San Francisco Years 1948–1968_ (17 min.); _The Architect Beverly Willis: San Francisco and New York Years 1958–1995_ (20 min.); _Built for Ballet: An American Original_ (18 min.)
+
+    [Learn more](https://bwaf.square.site/product/the-artist-the-architect-and-built-for-ballet/1?cs=true&cst=custom)
 - template: section-break
 
 ---
