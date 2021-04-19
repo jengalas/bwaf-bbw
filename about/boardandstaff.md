@@ -237,7 +237,7 @@ page_blocks:
       planning, site engineering, and environmental consulting service firm for private
       developers, property owners, and public sector clients. \nMichele’s practice
       includes site engineering design and planning for a wide variety of commercial,
-      institutional, recreation, retail, and residential development projects.  Notable
+      institutional, recreation, retail, and residential development projects. Notable
       projects include Hudson Park and Boulevard in Manhattan, Gateway Center at Bronx
       Terminal Market in the Bronx, TWA Flight Center Hotel at John F. Kennedy International
       Airport in Queens, Fort Wadsworth in Staten Island and Dock 72 at Brooklyn Navy
