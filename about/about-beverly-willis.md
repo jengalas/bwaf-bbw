@@ -5,9 +5,9 @@ navCategory: About
 title: About Beverly Willis | Beverly Willis Architecture Foundation
 page_blocks:
 - template: image-block
-  image_caption_text: Caption info of photograph here teekay.
-  alt_text: Caption info of photograph here teekay.
-  image: "/v1610935737/8yilQ1yA_m9bt5r.jpg"
+  image_caption_text: Beverly Willis, FAIA
+  alt_text: Beverly Willis, FAIA
+  image: "/v1618329223/bev_1_zgox9n.jpg"
   include_left-hand_column_text_: true
   lefthand_text:
     header_type: Large Header
