@@ -12,12 +12,10 @@ page_blocks:
     download: ''
     link_url: ''
     link_text: ''
-  text_block: General intro info about films produced by the Foundation here. Convallis
-    tellus id interdum velit laoreet id donec ultrices. Quam adipiscing vitae proin
-    sagittis nisl. Enim tortor at auctor urna nunc. Lacus sed turpis tincidunt id
-    aliquet risus feugiat. Mauris commodo quis imperdiet massa tincidunt. In hac habitasse
-    platea dictumst quisque. Lacinia at quis risus sed vulputate. Non curabitur gravida
-    arcu ac.
+  text_block: The BWAF Film Collection furthers our awareness-raising work in acknowledging
+    and celebrating women's achievements and contributions to the built environment.
+    Available to stream online, as DVDs, and for special screenings, each film presents
+    a unique view and seeks to expand the canon.
 - template: image-block
   include_left-hand_column_text_: true
   lefthand_text:
