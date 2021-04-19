@@ -317,10 +317,16 @@ page_blocks:
   - title: Phoebe Yee, AIA
     title_role: Senior Vice President, Design for Related California
     image: "/v1618329168/Yee-722x349_dsjmio.jpg"
-    description: |-
-      As Senior Vice President of Design for Related California, Ms. Yee is responsible for the management of architecture and design for all market rate and mixed-income residential developments in California. Ms. Yee works closely with the architectural team, sales and marketing, and development executives throughout the entire development process to ensure seamless design and execution. A registered architect with extensive experience on major residential, commercial, hotel, retail and corporate developments, she recently oversaw the design and completion of The Century, a luxury high rise condominium in Los Angeles that has set per square foot sales price records for its market area.
-
-      Prior to joining Related in 2006, Ms. Yee served as Vice President at HKS Architects, Inc., in Beverly Hills. A recipient of the Asian Women in Business Corporate Leadership Award, Ms. Yee holds a Master in Architecture from the University of California, Los Angeles and a bachelor’s degree from Georgetown University. She was editor of the Dallas Chapter American Institute of Architects newsletter and served on the Urban Design Advisory Committee for the City of Dallas. She is a current member of the American Institute of Architects (AIA) and has been a speaker at AIA conferences and Urban Land Institute events.
+    description: "As Senior Vice President of Design for Related California, Ms. Yee
+      is responsible for the management of architecture and design for all market
+      rate and mixed-income residential developments in California. Ms. Yee works
+      closely with the architectural team, sales and marketing, and development executives
+      throughout the entire development process to ensure seamless design and execution.
+      \nA recipient of the Asian Women in Business Corporate Leadership Award, Ms.
+      Yee holds a Master in Architecture from the University of California, Los Angeles
+      and a bachelor’s degree from Georgetown University. She is a current member
+      of the American Institute of Architects (AIA) and has been a speaker at AIA
+      conferences and Urban Land Institute events."
 
 ---
 <!-- <img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937006/s_170713_webview_xiipdh.jpg"><img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937099/JoanBlumenfeld_jwkiz9.jpg"><img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937147/2017_Burton_Melissa_01_980x780_mbfswt.jpg"><img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937178/sml_DiMaggio_Peter_headshot_n6xpkd.jpg"><img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937222/PatriciaHarrisHeadshot-2-e1454609739415_pokx25.jpg"><div class="main-two-up">
