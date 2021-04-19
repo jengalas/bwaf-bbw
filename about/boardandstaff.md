@@ -163,14 +163,14 @@ page_blocks:
     image: "/v1618331280/sml_HS_McFadden-R_gt7mcj.jpg"
     description: 'Rich McFadden joined JB&B in 2003, and has acted as Project Manager
       and Partner-in-Charge in the Electrical Department on a wide variety of projects
-      and building types.  With a strong background in facilities operations, Rich
+      and building types. With a strong background in facilities operations, Rich
       has lent his expertise to the live upgrade of large mission-critical systems
       supporting projects such as Citigroup’s New York headquarters at 388-390 Greenwich
-      Street.  He has also played an instrumental role in the development of Brookfield’s
-      multi-building complex at Manhattan West for which he serves as the Partner-in-Charge.  Rich
-      currently serves as National Director on the ACEC New York Executive Committee.  He
-      holds a Bachelor of Science degree in Electrical Engineering from Bucknell University,
-      and is a licensed Professional Engineer and LEED Accredited Professional.  '
+      Street. He has also played an instrumental role in the development of Brookfield’s
+      multi-building complex at Manhattan West for which he serves as the Partner-in-Charge.
+      Rich currently serves as National Director on the ACEC New York Executive Committee.
+      He holds a Bachelor of Science degree in Electrical Engineering from Bucknell
+      University, and is a licensed Professional Engineer and LEED Accredited Professional.  '
   - title: Mary McLeod
     title_role: Professor of Architecture, Columbia University
     image: "/v1618331199/McLeod-headshot_prd2h9.jpg"
