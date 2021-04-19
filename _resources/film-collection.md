@@ -54,8 +54,8 @@ page_blocks:
   include_left-hand_column_text_: true
   lefthand_text:
     header_type: Link
-    text: "Purchase a copy \Lof Beverly Willis: \LThe Artist and the Architect"
-    link_url: "/"
+    text: "Purchase a copy of Beverly Willis: \LThe Artist and the Architect"
+    link_url: https://bwaf.square.site/product/the-artist-the-architect-and-built-for-ballet/1?cs=true&cst=custom
   text_block: "A suite of films tracing the long, richly varied, and distinguished
     career of Beverly Willis. Starting as a multi-media artist, Willis evolved into
     an architectural designer. Her practice included residential, commercial, institutional,
