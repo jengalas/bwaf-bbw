@@ -14,10 +14,10 @@ page_blocks:
     link_text: ''
   text_block: The Beverly Willis Architecture Foundation Emerging Leaders program
     is a New York-based, selective professional development opportunity for women
-    5–10 years out of school. In small group format, (maximum of 20 selected participants)
-    invitees engage with significant senior women in architecture, engineering, construction,
-    real estate, law, and financial services to advance their own career goals. Participants
-    share common experiences and trade personal strategies for success.
+    5–10 years out of school. In small group format, invitees engage with significant
+    senior women in architecture, engineering, construction, real estate, law, and
+    financial services to advance their own career goals. Participants share common
+    experiences and trade personal strategies for success.
 - template: image-block
   include_left-hand_column_text_: true
   lefthand_text:
