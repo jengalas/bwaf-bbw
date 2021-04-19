@@ -246,20 +246,19 @@ page_blocks:
       and the engineering community. This dedication inspired her to co-found Women@Langan
       in September 2015."
   - title: Ann Rolland, FAIA, LEED AP
-    title_role: Partner, FXCollaborative
+    title_role: Partner, FXCollaborative Architects
     image: "/v1618330597/ARolland_web_farbmn.jpg"
-    description: Ann Rolland, FAIA, LEED AP, is Partner at FXCollaborative, a New
-      York City-based architecture, interiors, and planning design firm. Ann directs
-      the firm’s Cultural and Educational practice, and has been instrumental in its
-      development from its inception. She is inquisitive and optimistic by nature,
-      and with a keen blend of analytical and organizational skills, Ann uncovers
-      possibilities, unlocks potentials, and maximizes outcomes. Ann is a Fellow of
-      the American Institute of Architects, a registered architect in New York, and
-      a graduate of Washington University in St. Louis, where she earned both Bachelor
-      of Arts and Master of Architecture degrees. A frequent speaker and active member
-      of the design community, she has served on the advisory boards of several organizations
-      and is active in the AIA New York Committee on Architecture for Education, Non-Traditional
-      Employment for Women (NEW), and the Beverly Willis Architecture Foundation (BWAF).
+    description: Ann directs FXCollaborative Architects’ Cultural and Educational
+      practice, and has been instrumental in its development from its inception. She
+      is inquisitive and optimistic by nature, and with a keen blend of analytical
+      and organizational skills, Ann uncovers possibilities, unlocks potentials, and
+      maximizes outcomes. Ann is a Fellow of the AIA, a registered architect in New
+      York, and a graduate of Washington University in St. Louis, where she earned
+      both Bachelor of Arts and Master of Architecture degrees. A frequent speaker
+      and active member of the design community, she has served on the advisory boards
+      of several organizations and is active in the AIA New York Committee on Architecture
+      for Education, Non-Traditional Employment for Women (NEW), and Beverly Willis
+      Architecture Foundation (BWAF).
   - title: Victoria Rosner, Ph.D.
     title_role: 'Dean, Academic Affairs at Columbia University School of General Studies '
     image: "/v1618329946/victoria-rosner-columbia_d4ppc3.jpg"
