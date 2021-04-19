@@ -68,7 +68,7 @@ page_blocks:
       facilities and courthouses. His diverse portfolio also includes office buildings,
       educational facilities, hotels, stadiums, laboratories, residential towers and
       unique structures around the world.
-  - title: Patricia Harris, Esq
+  - title: Patricia Harris, Esq.
     title_role: Founder and CEO, LicenseSure LLC/ Special Counsel, Zetlin & De Chiara
       LLP
     image: "/v1610937223/PatriciaHarrisHeadshot-2-e1454609739415_rkq5sz.jpg"
