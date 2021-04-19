@@ -20,7 +20,7 @@ page_blocks:
     download: ''
     link_url: ''
   portrait:
-  - title: Angelica Trevino Baccon, AIA
+  - title: Angelica T. Baccon, AIA
     title_role: Principal, SHoP Architects
     image: "/v1610937006/s_170713_webview_jkbimz.jpg"
     description: Angelica Trevino Baccon is a principal of SHoP. She has a particular
