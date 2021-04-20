@@ -61,9 +61,9 @@ page_blocks:
   include_left-hand_column_text_: true
   lefthand_text:
     header_type: Text with Download
-    text: December 2–3, 2019 Los Angeles, CA
+    text: 'December 9, 2020 - February 16, 2021 '
     link_text: Download the brochure
-    download: ''
+    download: "/v1618939192/Industry_Leaders_2020_Dec9_rcigp5.pdf"
     link_url: ''
   text_block: |-
     ## Why attend?
