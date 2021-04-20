@@ -94,7 +94,7 @@ page_blocks:
       buildings around the world. She sits on numerous national industry boards and
       teaches at the Yale University School of Architecture.   "
   - title: Latoya Nelson Kamdang, AIA, RA, NCARB, NCIDQ, LEED AP BD+C, RID
-    title_role: Director of New York Operations, Moody Nolan
+    title_role: Officer
     image: "/v1618332981/20191107_Latoya16463-cropped_xjlbgz.jpg"
     description: Latoya Nelson Kamdang is the Director of NY Operations for Moody
       Nolan. She is also a U.S. Fulbright Senior Scholar, Registered Architect, Certified
