@@ -16,7 +16,7 @@ page_blocks:
   include_left-hand_column_text_: true
   lefthand_text:
     header_type: Medium Header
-    text: 2021 Board of Trustees
+    text: Board of Trustees
     download: ''
     link_url: ''
   portrait:
