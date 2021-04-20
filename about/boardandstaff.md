@@ -259,7 +259,7 @@ page_blocks:
       Victoria Rosner is Dean of Academic Affairs at Columbia University School of General Studies and teaches in the Columbia University Department of English and Comparative Literature. Much of her scholarship focuses on modernism across diverse forms of cultural production, notably literature and architecture. She is the author, most recently, of Machines for Living: Modernism and Domestic Life (Oxford University Press, 2020). 
       A growing component of her work examines gender in the professions: Victoria is co-editor of Beverly Willis Architecture Foundation’s web-based archive Pioneering Women of American Architecture.
   - title: Kirsten Sibilia, Assoc. AIA, LEED AP
-    title_role: Managing Principal, Dattner Architects
+    title_role: Officer
     image: "/v1618329835/191218-Sibilia_Kirsten-7042_2019-12-20_12_54_18_qp8tam.jpg"
     description: |-
       Kirsten Sibilia is a vocal advocate for the value of design and the need for social justice. She is the Managing Principal at Dattner Architects, she focuses on the firm’s health and vitality. Her design training and entrepreneurial spirit have allowed her to approach the business side of the practice as a design project; with each initiative, she reflects the firm’s commitment to improving public life, through the creation of resilient and sustainable urban density.
