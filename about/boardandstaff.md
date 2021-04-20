@@ -158,7 +158,7 @@ page_blocks:
       LaGuardia Community College, and the New York State Unified Court System."
     image: "/v1618331492/Loewenson_Carol_1355_tg8dv5.jpg"
   - title: 'Richard M. McFadden, PE, LEED AP '
-    title_role: Partner, Jaros, Baum & Bolles
+    title_role: Officer
     image: "/v1618331280/sml_HS_McFadden-R_gt7mcj.jpg"
     description: 'Rich McFadden joined JB&B in 2003, and has acted as Project Manager
       and Partner-in-Charge in the Electrical Department on a wide variety of projects
