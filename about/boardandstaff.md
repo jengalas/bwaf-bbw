@@ -81,7 +81,7 @@ page_blocks:
       practice focuses on mergers and acquisitions, business organization and management
       issues, succession, strategy and licensing issues.
   - title: Erleen Hatfield, PE, AIA
-    title_role: Managing Partner, Hatfield Group
+    title_role: Officer
     image: "/v1618333098/2019_Hatfield_Headshot-use_this_one_l0xibt.jpg"
     description: "Erleen Hatfield, PE, AIA, is the Managing Partner of the Hatfield
       Group, a multi-disciplinary engineering consulting firm based in New York. She
