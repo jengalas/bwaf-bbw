@@ -19,7 +19,7 @@ page_blocks:
 
     We cultivate leaders at all levels and seek to build global change. Support our efforts and become a BWAF Friend today.
 - template: image-block
-  image: "/v1611546946/orionthemes-placeholder-image_lf0srf.png"
+  image: "/v1618939391/5_15_19_03_q5seh9.jpg"
   image_caption_text: Caption info of photograph here teekay.
 - template: text-block
   text_block: |-
