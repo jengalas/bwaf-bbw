@@ -55,7 +55,7 @@ page_blocks:
       extends to beyond code approaches using advanced analytical tools to quantify
       and reduce design risk from wind loading.
   - title: Peter DiMaggio, PE, SECB
-    title_role: Co-CEO, Thornton Tomasetti
+    title_role: Secretary
     image: "/v1610937178/sml_DiMaggio_Peter_headshot_srramp.jpg"
     description: Peter DiMaggio is Co-CEO of Thornton Tomasetti and is responsible
       for defining, articulating and driving the firm’s strategic vision. In addition
