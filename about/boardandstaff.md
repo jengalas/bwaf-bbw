@@ -253,7 +253,7 @@ page_blocks:
       for Education, Non-Traditional Employment for Women (NEW), and Beverly Willis
       Architecture Foundation (BWAF).
   - title: Victoria Rosner, Ph.D.
-    title_role: 'Dean, Academic Affairs at Columbia University School of General Studies '
+    title_role: 'Consulting Historian/ Editor of Pioneering Women of American Architecture '
     image: "/v1618329946/victoria-rosner-columbia_d4ppc3.jpg"
     description: |-
       Victoria Rosner is Dean of Academic Affairs at Columbia University School of General Studies and teaches in the Columbia University Department of English and Comparative Literature. Much of her scholarship focuses on modernism across diverse forms of cultural production, notably literature and architecture. She is the author, most recently, of Machines for Living: Modernism and Domestic Life (Oxford University Press, 2020). 
