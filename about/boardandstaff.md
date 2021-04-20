@@ -108,7 +108,7 @@ page_blocks:
       Her spatial focus was the Slavery & Freedom History Gallery. Latoya’s experience
       has also spanned to overseas federal projects.
   - title: Sabrina Kanner
-    title_role: Executive Vice President, Development, Design and Construction
+    title_role: Officer
     image: "/v1618331682/SK_Updated_headshot_Nov_2018_jmoamd.jpg"
     description: "Sabrina Kanner is the Executive Vice President of Development, Design
       and Construction and responsible for overseeing Development in the Northeast
