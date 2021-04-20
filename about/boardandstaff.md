@@ -284,33 +284,6 @@ page_blocks:
     description: |-
       Victoria Rosner is Dean of Academic Affairs at Columbia University School of General Studies and teaches in the Columbia University Department of English and Comparative Literature. Much of her scholarship focuses on modernism across diverse forms of cultural production, notably literature and architecture. She is the author, most recently, of Machines for Living: Modernism and Domestic Life (Oxford University Press, 2020). 
       A growing component of her work examines gender in the professions: Victoria is co-editor of Beverly Willis Architecture Foundation’s web-based archive Pioneering Women of American Architecture.
-  - title: Cynthia Kracauer, AIA
-    title_role: Executive Director
-    image: "/v1618333357/Cynthia_HS_qd6dqf.jpg"
-    description: 'Cynthia is an architect and currently serves as the Executive Director
-      for the Beverly Willis Architecture Foundation (BWAF). She joins the Foundation
-      following ten years as the Managing Director of the American Institute of Architects
-      New York Chapter, Center for Architecture. Both an architect and a creative
-      institutional administrator, Cynthia was responsible for the creation of Archtober,
-      the New York City month-long festival of architecture and design. As one of
-      the early pioneers of co-education in the 1970’s, Cynthia graduated from Princeton
-      University receiving both a magna cum laude, and Masters of Architecture. She
-      worked for Philip Johnson in the 80’s and taught at the University of Virginia,
-      New Jersey Institute of Technology and her alma mater. '
-  - title: Aislinn McNamara
-    title_role: Communications and Programs Coordinator
-    image: "/v1618333453/Amcnamara_headshot_18_rospy6.jpg"
-    description: "Aislinn is the Communications and Program Coordinator for Beverly
-      Willis Architecture Foundation. Aislinn earned her MFA from Städelschule in
-      Frankfurt am Main, Germany, and her BFA from the University of Oxford, UK. She
-      has exhibited sculpture and drawings and performed collaboratively with artists
-      internationally, and has participated in a writing program at Aarhus Litturaturcenter,
-      Denmark. Aislinn has worked on a number of international publishing and art
-      projects, including leading research on and providing editorial assistance with
-      ‘The One and The Many’, a public sculpture by artist Peter Randall-Page located
-      in Fitzroy Place, London, UK. \nIn 2016, Aislinn participated in the Montreal
-      Biennial, and in 2017, she participated in the Litturaturfest in Aarhus, Denmark,
-      showcasing international writers and artists."
 - template: portrait-gallery-template
   include_left-hand_column_text_: true
   lefthand_text:
