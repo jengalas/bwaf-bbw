@@ -227,7 +227,7 @@ page_blocks:
       Women Executives in Real Estate and is Chair of Beverly Willis Architecture
       Foundation. "
   - title: Michele O’Connor, PE, LEED AP
-    title_role: Principal, Langan Engineering
+    title_role: Chair Elect
     image: "/v1618330674/MOC_headshot_do3brf.jpg"
     description: "Michele O’Connor is a Principal at Langan and a director of the
       firm’s civil engineering practice in New York City. Langan is an integrated
