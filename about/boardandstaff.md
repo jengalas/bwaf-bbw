@@ -265,7 +265,7 @@ page_blocks:
       Kirsten Sibilia is a vocal advocate for the value of design and the need for social justice. She is the Managing Principal at Dattner Architects, she focuses on the firm’s health and vitality. Her design training and entrepreneurial spirit have allowed her to approach the business side of the practice as a design project; with each initiative, she reflects the firm’s commitment to improving public life, through the creation of resilient and sustainable urban density.
       Kirsten holds a Bachelor of Fine Arts from Parsons School of Design and a Bachelor of Arts from the New School.
   - title: Jennifer Stone, AIA
-    title_role: Partner, Robert A.M. Stern Architects LLP
+    title_role: Officer
     image: "/v1618329715/Stone_ltb0db.jpg"
     description: |-
       Experienced in managing complex institutional planning and design projects, as Partner at Robert A.M. Stern Architects LLP, Jennifer Stone brings a love of contextually appropriate, sustainable architecture to her work with clients, communities, and building industry partners. 
