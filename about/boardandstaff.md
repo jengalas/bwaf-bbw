@@ -213,7 +213,7 @@ page_blocks:
       a range of buildings to the National Register of Historic Places. She is currently
       Senior Family Historian at Ascent Private Capital Management of U.S. Bank.
   - title: Julia Murphy, AIA
-    title_role: Director, SOM
+    title_role: Chair
     image: "/v1618330990/j_murphy_headshot_mfhzye.png"
     description: "A director at SOM, Julia Murphy is integral to the firm's engagement
       with the built environment of New York City. In her decade of experience at
