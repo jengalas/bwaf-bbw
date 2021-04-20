@@ -297,7 +297,7 @@ page_blocks:
       in 2002. She served as President of the California Council of American Institute
       of Architects. Beverly was a founding trustee of the National Building Museum
       in Washington, D.C., a position she still holds.
-    title_role: Founder, Beverly Willis Architecture Foundation
+    title_role: Founder
   - title: Phoebe Yee, AIA
     title_role: Senior Vice President, Design for Related California
     image: "/v1618329168/Yee-722x349_dsjmio.jpg"
