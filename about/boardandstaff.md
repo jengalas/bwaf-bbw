@@ -171,7 +171,7 @@ page_blocks:
       He holds a Bachelor of Science degree in Electrical Engineering from Bucknell
       University, and is a licensed Professional Engineer and LEED Accredited Professional.  '
   - title: Mary McLeod, Ph.D.
-    title_role: Professor of Architecture, Columbia University
+    title_role: Consulting Historian/ Editor of Pioneering Women of American Architecture
     image: "/v1618331199/McLeod-headshot_prd2h9.jpg"
     description: 'Mary McLeod is a professor of architecture at Columbia University,
       where she teaches architecture history and theory. She has also taught at Yale
