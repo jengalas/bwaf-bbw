@@ -20,26 +20,40 @@ page_blocks:
     download: ''
     link_url: ''
   portrait:
-  - title: Angelica T. Baccon, AIA
-    title_role: Officer
-    image: "/v1610937006/s_170713_webview_jkbimz.jpg"
-    description: Angelica Trevino Baccon is a principal of SHoP. She has a particular
-      specialty in leading complex mixed-use and workplace design projects, often
-      at the intersection of enterprise and technology. These include the new Uber
-      headquarters in San Francisco and several confidential projects for global leaders
-      in Silicon Valley. She holds a Bachelor in Architecture degree from ITESM in
-      Monterrey, Mexico, and a Master of Architecture from Harvard University, where
-      she has also served as a professor. Her work on New York City’s South Street
-      Seaport established her deep expertise in fast-paced, high-profile design and
-      delivery challenges with multilayered stakeholder groups, successfully leveraging
-      programs to promote vitality, equity and community in the private sector and
-      public realm.
-  - title: Joan Blumenfeld, FAIA, FIIDA, LEED ID+C
-    title_role: Chair Nominating Committee
-    image: "/v1610937099/JoanBlumenfeld_gzuyea.jpg"
-    description: |-
-      Joan Blumenfeld, Contract Magazine’s 2018 Legend, is a design principal at Perkins+Will, a global architecture and interiors firm. Over the past 10 years she has been committed to achieving gender equity across all aspects of the design and construction business. As the first president of the Beverly Willis Architecture Foundation (BWAF) she facilitated broadening its mission to include changing culture throughout the industry. She remained President for five years, helping to grow the organization to have national recognition, and since 2011 served on the Executive Committee, stepping down in 2020.
-      Previous and parallel to her work with BWAF she has been an active advocate for building better and more healthy interiors, buildings and communities. As 2007 President of AIA NYC, she worked with city agencies and the Mayor's Office, resulting in the first revamping of citywide workplace standards since 1971.
+  - title: Beverly Willis, FAIA
+    image: "/v1618329223/bev_1_zgox9n.jpg"
+    description: Beverly Willis, FAIA, is an artist, architect, author and philanthropist.
+      After 50 years of practice, she founded the Beverly Willis Architecture Foundation
+      in 2002. She served as President of the California Council of American Institute
+      of Architects. Beverly was a founding trustee of the National Building Museum
+      in Washington, D.C., a position she still holds.
+    title_role: Founder
+  - title: Julia Murphy, AIA
+    title_role: Chair
+    image: "/v1618330990/j_murphy_headshot_mfhzye.png"
+    description: "A director at SOM, Julia Murphy is integral to the firm's engagement
+      with the built environment of New York City. In her decade of experience at
+      SOM, she has worked on some of the most complex projects in Manhattan, emerging
+      as an expert project manager. She has a diverse range of project responsibilities,
+      from day-to-day interaction with the client and coordination with the consultant
+      team to maintaining staffing, schedule, and budget. Much of her work involves
+      mitigating risk for clients who must build their projects within the exigencies
+      of New York’s physical and regulatory environments.\nShe was featured in Architect
+      Magazine’s feature piece, “Workers in Progress.” Murphy is a member of the WX
+      Women Executives in Real Estate and is Chair of Beverly Willis Architecture
+      Foundation. "
+  - title: Michele O’Connor, PE, LEED AP
+    title_role: Chair Elect
+    image: "/v1618330674/MOC_headshot_do3brf.jpg"
+    description: "Michele O’Connor is a Principal at Langan and a director of the
+      firm’s civil engineering practice in New York City. Langan is an integrated
+      planning, site engineering, and environmental consulting service firm for private
+      developers, property owners, and public sector clients. \nMichele’s practice
+      includes site engineering design and planning for a wide variety of commercial,
+      institutional, recreation, retail, and residential development projects. \nBesides
+      her passion for civil engineering, Michele is also extremely passionate about
+      supporting, mentoring, and empowering women in STEM and the engineering community.
+      This dedication inspired her to co-found Women@Langan in September 2015."
   - title: Melissa Burton, Ph.D.
     title_role: Treasurer
     image: "/v1610937147/2017_Burton_Melissa_01_980x780_aev98l.jpg"
@@ -80,6 +94,26 @@ page_blocks:
       and licensing compliance services to design professionals. Ms. Harris’ legal
       practice focuses on mergers and acquisitions, business organization and management
       issues, succession, strategy and licensing issues.
+  - title: Joan Blumenfeld, FAIA, FIIDA, LEED ID+C
+    title_role: Chair Nominating Committee
+    image: "/v1610937099/JoanBlumenfeld_gzuyea.jpg"
+    description: |-
+      Joan Blumenfeld, Contract Magazine’s 2018 Legend, is a design principal at Perkins+Will, a global architecture and interiors firm. Over the past 10 years she has been committed to achieving gender equity across all aspects of the design and construction business. As the first president of the Beverly Willis Architecture Foundation (BWAF) she facilitated broadening its mission to include changing culture throughout the industry. She remained President for five years, helping to grow the organization to have national recognition, and since 2011 served on the Executive Committee, stepping down in 2020.
+      Previous and parallel to her work with BWAF she has been an active advocate for building better and more healthy interiors, buildings and communities. As 2007 President of AIA NYC, she worked with city agencies and the Mayor's Office, resulting in the first revamping of citywide workplace standards since 1971.
+  - title: Angelica T. Baccon, AIA
+    title_role: Officer
+    image: "/v1610937006/s_170713_webview_jkbimz.jpg"
+    description: Angelica Trevino Baccon is a principal of SHoP. She has a particular
+      specialty in leading complex mixed-use and workplace design projects, often
+      at the intersection of enterprise and technology. These include the new Uber
+      headquarters in San Francisco and several confidential projects for global leaders
+      in Silicon Valley. She holds a Bachelor in Architecture degree from ITESM in
+      Monterrey, Mexico, and a Master of Architecture from Harvard University, where
+      she has also served as a professor. Her work on New York City’s South Street
+      Seaport established her deep expertise in fast-paced, high-profile design and
+      delivery challenges with multilayered stakeholder groups, successfully leveraging
+      programs to promote vitality, equity and community in the private sector and
+      public realm.
   - title: Erleen Hatfield, PE, AIA
     title_role: Officer
     image: "/v1618333098/2019_Hatfield_Headshot-use_this_one_l0xibt.jpg"
@@ -120,19 +154,6 @@ page_blocks:
       Avenue, Halley Rise, the restoration/renovation of the Winter Garden at World
       Financial Center after 9/11, and Manhattan West.   \nSabrina holds a B.A. from
       Union College and is a member of WX and the National Academy of Construction."
-  - title: Cynthia Kracauer, AIA
-    title_role: Executive Director
-    image: "/v1618333357/Cynthia_HS_qd6dqf.jpg"
-    description: 'Cynthia is an architect and currently serves as the Executive Director
-      for the Beverly Willis Architecture Foundation (BWAF). She joins the Foundation
-      following ten years as the Managing Director of the American Institute of Architects
-      New York Chapter, Center for Architecture. Both an architect and a creative
-      institutional administrator, Cynthia was responsible for the creation of Archtober,
-      the New York City month-long festival of architecture and design. As one of
-      the early pioneers of co-education in the 1970’s, Cynthia graduated from Princeton
-      University receiving both a magna cum laude, and Masters of Architecture. She
-      worked for Philip Johnson in the 80’s and taught at the University of Virginia,
-      New Jersey Institute of Technology and her alma mater. '
   - title: Alexandra Lange
     title_role: Officer
     image: "/v1618331574/Curbed_Alexandra_Lange-IMG_7033-Edit_yb3ayd.jpg"
@@ -170,33 +191,6 @@ page_blocks:
       Rich currently serves as National Director on the ACEC New York Executive Committee.
       He holds a Bachelor of Science degree in Electrical Engineering from Bucknell
       University, and is a licensed Professional Engineer and LEED Accredited Professional.  '
-  - title: Mary McLeod, Ph.D.
-    title_role: Consulting Historian/ Editor of Pioneering Women of American Architecture
-    image: "/v1618331199/McLeod-headshot_prd2h9.jpg"
-    description: 'Mary McLeod is a professor of architecture at Columbia University,
-      where she teaches architecture history and theory. She has also taught at Yale
-      University, Harvard University, University of Kentucky, and the Institute for
-      Architecture and Urban Studies. Her research and publications have focused on
-      the history of the modern movement and on contemporary architecture theory,
-      examining issues concerning the connections between architecture and politics.
-      She is co-editor of Architecture, Criticism, Ideology and Architecture Reproduction,
-      and is the editor of and contributor to the book Charlotte Perriand: An Art
-      of Living (Abrams, 2003). In addition, she is co-editor of the website Pioneering
-      Women of American Architecture (Beverly Willis Architectural Foundation). '
-  - title: Aislinn McNamara
-    title_role: Communications and Programs Coordinator
-    image: "/v1618333453/Amcnamara_headshot_18_rospy6.jpg"
-    description: "Aislinn is the Communications and Program Coordinator for Beverly
-      Willis Architecture Foundation. Aislinn earned her MFA from Städelschule in
-      Frankfurt am Main, Germany, and her BFA from the University of Oxford, UK. She
-      has exhibited sculpture and drawings and performed collaboratively with artists
-      internationally, and has participated in a writing program at Aarhus Litturaturcenter,
-      Denmark. Aislinn has worked on a number of international publishing and art
-      projects, including leading research on and providing editorial assistance with
-      ‘The One and The Many’, a public sculpture by artist Peter Randall-Page located
-      in Fitzroy Place, London, UK. \nIn 2016, Aislinn participated in the Montreal
-      Biennial, and in 2017, she participated in the Litturaturfest in Aarhus, Denmark,
-      showcasing international writers and artists."
   - title: Karen McNeill, Ph.D.
     title_role: Officer
     image: "/v1618331108/McNeill_Head_shot_csuk9r.jpg"
@@ -212,32 +206,13 @@ page_blocks:
       authoring several context statements for major surveys and successfully nominating
       a range of buildings to the National Register of Historic Places. She is currently
       Senior Family Historian at Ascent Private Capital Management of U.S. Bank.
-  - title: Julia Murphy, AIA
-    title_role: Chair
-    image: "/v1618330990/j_murphy_headshot_mfhzye.png"
-    description: "A director at SOM, Julia Murphy is integral to the firm's engagement
-      with the built environment of New York City. In her decade of experience at
-      SOM, she has worked on some of the most complex projects in Manhattan, emerging
-      as an expert project manager. She has a diverse range of project responsibilities,
-      from day-to-day interaction with the client and coordination with the consultant
-      team to maintaining staffing, schedule, and budget. Much of her work involves
-      mitigating risk for clients who must build their projects within the exigencies
-      of New York’s physical and regulatory environments.\nShe was featured in Architect
-      Magazine’s feature piece, “Workers in Progress.” Murphy is a member of the WX
-      Women Executives in Real Estate and is Chair of Beverly Willis Architecture
-      Foundation. "
-  - title: Michele O’Connor, PE, LEED AP
-    title_role: Chair Elect
-    image: "/v1618330674/MOC_headshot_do3brf.jpg"
-    description: "Michele O’Connor is a Principal at Langan and a director of the
-      firm’s civil engineering practice in New York City. Langan is an integrated
-      planning, site engineering, and environmental consulting service firm for private
-      developers, property owners, and public sector clients. \nMichele’s practice
-      includes site engineering design and planning for a wide variety of commercial,
-      institutional, recreation, retail, and residential development projects. \nBesides
-      her passion for civil engineering, Michele is also extremely passionate about
-      supporting, mentoring, and empowering women in STEM and the engineering community.
-      This dedication inspired her to co-found Women@Langan in September 2015."
+  - title: Bolanle Williams-Olley
+    title_role: Officer
+    image: "/v1618329337/Bolanle_Williams-Olley_Headshot_yza38d.jpg"
+    description: |-
+      Bolanle Williams-Olley is the Chief Financial Officer at Mancini Duffy, a technology-first design firm, where she oversees the firm’s financial and operational performance. With a strong background in financial analysis and strategic initiatives, Bola thrives on building relationships between finance and management teams to ensure the overall financial success of projects and her firm.
+
+      She holds a Master’s in Education & Social Policy from NYU, Master’s in Applied Mathematics and Bachelor’ in Mathematics from City University of New York, Hunter College. She is passionate about service and is the founder of four impact organizations: SheBuildsWaves, SheBuildsLives, SheBuildsMoney and REACH Nigeria.
   - title: Ann Rolland, FAIA, LEED AP
     title_role: Officer
     image: "/v1618330597/ARolland_web_farbmn.jpg"
@@ -252,12 +227,6 @@ page_blocks:
       of several organizations and is active in the AIA New York Committee on Architecture
       for Education, Non-Traditional Employment for Women (NEW), and Beverly Willis
       Architecture Foundation (BWAF).
-  - title: Victoria Rosner, Ph.D.
-    title_role: 'Consulting Historian/ Editor of Pioneering Women of American Architecture '
-    image: "/v1618329946/victoria-rosner-columbia_d4ppc3.jpg"
-    description: |-
-      Victoria Rosner is Dean of Academic Affairs at Columbia University School of General Studies and teaches in the Columbia University Department of English and Comparative Literature. Much of her scholarship focuses on modernism across diverse forms of cultural production, notably literature and architecture. She is the author, most recently, of Machines for Living: Modernism and Domestic Life (Oxford University Press, 2020). 
-      A growing component of her work examines gender in the professions: Victoria is co-editor of Beverly Willis Architecture Foundation’s web-based archive Pioneering Women of American Architecture.
   - title: Kirsten Sibilia, Assoc. AIA, LEED AP
     title_role: Officer
     image: "/v1618329835/191218-Sibilia_Kirsten-7042_2019-12-20_12_54_18_qp8tam.jpg"
@@ -283,21 +252,6 @@ page_blocks:
       Architects and the American Society of Landscape Architecture for her design
       accomplishments. Her projects range in scale from urban plans, to public spaces,
       to infrastructure, to architecture. "
-  - title: Bolanle Williams-Olley
-    title_role: Officer
-    image: "/v1618329337/Bolanle_Williams-Olley_Headshot_yza38d.jpg"
-    description: |-
-      Bolanle Williams-Olley is the Chief Financial Officer at Mancini Duffy, a technology-first design firm, where she oversees the firm’s financial and operational performance. With a strong background in financial analysis and strategic initiatives, Bola thrives on building relationships between finance and management teams to ensure the overall financial success of projects and her firm.
-
-      She holds a Master’s in Education & Social Policy from NYU, Master’s in Applied Mathematics and Bachelor’ in Mathematics from City University of New York, Hunter College. She is passionate about service and is the founder of four impact organizations: SheBuildsWaves, SheBuildsLives, SheBuildsMoney and REACH Nigeria.
-  - title: Beverly Willis, FAIA
-    image: "/v1618329223/bev_1_zgox9n.jpg"
-    description: Beverly Willis, FAIA, is an artist, architect, author and philanthropist.
-      After 50 years of practice, she founded the Beverly Willis Architecture Foundation
-      in 2002. She served as President of the California Council of American Institute
-      of Architects. Beverly was a founding trustee of the National Building Museum
-      in Washington, D.C., a position she still holds.
-    title_role: Founder
   - title: Phoebe Yee, AIA
     title_role: Officer
     image: "/v1618329168/Yee-722x349_dsjmio.jpg"
@@ -311,6 +265,57 @@ page_blocks:
       and a bachelor’s degree from Georgetown University. She is a current member
       of the American Institute of Architects (AIA) and has been a speaker at AIA
       conferences and Urban Land Institute events."
+  - title: Mary McLeod, Ph.D.
+    title_role: Consulting Historian/ Editor of Pioneering Women of American Architecture
+    image: "/v1618331199/McLeod-headshot_prd2h9.jpg"
+    description: 'Mary McLeod is a professor of architecture at Columbia University,
+      where she teaches architecture history and theory. She has also taught at Yale
+      University, Harvard University, University of Kentucky, and the Institute for
+      Architecture and Urban Studies. Her research and publications have focused on
+      the history of the modern movement and on contemporary architecture theory,
+      examining issues concerning the connections between architecture and politics.
+      She is co-editor of Architecture, Criticism, Ideology and Architecture Reproduction,
+      and is the editor of and contributor to the book Charlotte Perriand: An Art
+      of Living (Abrams, 2003). In addition, she is co-editor of the website Pioneering
+      Women of American Architecture (Beverly Willis Architectural Foundation). '
+  - title: Victoria Rosner, Ph.D.
+    title_role: 'Consulting Historian/ Editor of Pioneering Women of American Architecture '
+    image: "/v1618329946/victoria-rosner-columbia_d4ppc3.jpg"
+    description: |-
+      Victoria Rosner is Dean of Academic Affairs at Columbia University School of General Studies and teaches in the Columbia University Department of English and Comparative Literature. Much of her scholarship focuses on modernism across diverse forms of cultural production, notably literature and architecture. She is the author, most recently, of Machines for Living: Modernism and Domestic Life (Oxford University Press, 2020). 
+      A growing component of her work examines gender in the professions: Victoria is co-editor of Beverly Willis Architecture Foundation’s web-based archive Pioneering Women of American Architecture.
+  - title: Cynthia Kracauer, AIA
+    title_role: Executive Director
+    image: "/v1618333357/Cynthia_HS_qd6dqf.jpg"
+    description: 'Cynthia is an architect and currently serves as the Executive Director
+      for the Beverly Willis Architecture Foundation (BWAF). She joins the Foundation
+      following ten years as the Managing Director of the American Institute of Architects
+      New York Chapter, Center for Architecture. Both an architect and a creative
+      institutional administrator, Cynthia was responsible for the creation of Archtober,
+      the New York City month-long festival of architecture and design. As one of
+      the early pioneers of co-education in the 1970’s, Cynthia graduated from Princeton
+      University receiving both a magna cum laude, and Masters of Architecture. She
+      worked for Philip Johnson in the 80’s and taught at the University of Virginia,
+      New Jersey Institute of Technology and her alma mater. '
+  - title: Aislinn McNamara
+    title_role: Communications and Programs Coordinator
+    image: "/v1618333453/Amcnamara_headshot_18_rospy6.jpg"
+    description: "Aislinn is the Communications and Program Coordinator for Beverly
+      Willis Architecture Foundation. Aislinn earned her MFA from Städelschule in
+      Frankfurt am Main, Germany, and her BFA from the University of Oxford, UK. She
+      has exhibited sculpture and drawings and performed collaboratively with artists
+      internationally, and has participated in a writing program at Aarhus Litturaturcenter,
+      Denmark. Aislinn has worked on a number of international publishing and art
+      projects, including leading research on and providing editorial assistance with
+      ‘The One and The Many’, a public sculpture by artist Peter Randall-Page located
+      in Fitzroy Place, London, UK. \nIn 2016, Aislinn participated in the Montreal
+      Biennial, and in 2017, she participated in the Litturaturfest in Aarhus, Denmark,
+      showcasing international writers and artists."
+- template: portrait-gallery-template
+  include_left-hand_column_text_: true
+  lefthand_text:
+    header_type: Medium Header
+    text: Staff
 
 ---
 <!-- <img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937006/s_170713_webview_xiipdh.jpg"><img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937099/JoanBlumenfeld_jwkiz9.jpg"><img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937147/2017_Burton_Melissa_01_980x780_mbfswt.jpg"><img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937178/sml_DiMaggio_Peter_headshot_n6xpkd.jpg"><img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937222/PatriciaHarrisHeadshot-2-e1454609739415_pokx25.jpg"><div class="main-two-up">
