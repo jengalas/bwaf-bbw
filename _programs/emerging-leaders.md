@@ -22,7 +22,7 @@ page_blocks:
   include_left-hand_column_text_: true
   lefthand_text:
     header_type: Text with Download
-    text: Applications for the fellowship are now open
+    text: Applications for the Spring program are now closed
     download: "/v1610940166/Test-PDF_k0terd.pdf"
     link_url: ''
     link_text: Download the application
