@@ -290,6 +290,19 @@ page_blocks:
     header_type: Medium Header
     text: Staff
   portrait:
+  - title: Cynthia Phifer Kracauer, AIA
+    title_role: Executive Director
+    image: "/v1618333357/Cynthia_HS_qd6dqf.jpg"
+    description: 'Cynthia is an architect and currently serves as the Executive Director
+      for Beverly Willis Architecture Foundation (BWAF). She joins the Foundation
+      following ten years as the Managing Director of the American Institute of Architects
+      New York Chapter, Center for Architecture. Both an architect and a creative
+      institutional administrator, Cynthia was responsible for the creation of Archtober,
+      the New York City month-long festival of architecture and design. As one of
+      the early pioneers of co-education in the 1970’s, Cynthia graduated from Princeton
+      University receiving both a magna cum laude, and Masters of Architecture. She
+      worked for Philip Johnson in the 80’s and taught at the University of Virginia,
+      New Jersey Institute of Technology and her alma mater. '
   - title: Aislinn McNamara
     title_role: Programs and Communications Coordinator
     image: "/v1618333453/Amcnamara_headshot_18_rospy6.jpg"
@@ -306,19 +319,6 @@ page_blocks:
       showcasing international writers and artists.
 
 '
-  - title: Cynthia Phifer Kracauer, AIA
-    title_role: Executive Director
-    image: "/v1618333357/Cynthia_HS_qd6dqf.jpg"
-    description: 'Cynthia is an architect and currently serves as the Executive Director
-      for Beverly Willis Architecture Foundation (BWAF). She joins the Foundation
-      following ten years as the Managing Director of the American Institute of Architects
-      New York Chapter, Center for Architecture. Both an architect and a creative
-      institutional administrator, Cynthia was responsible for the creation of Archtober,
-      the New York City month-long festival of architecture and design. As one of
-      the early pioneers of co-education in the 1970’s, Cynthia graduated from Princeton
-      University receiving both a magna cum laude, and Masters of Architecture. She
-      worked for Philip Johnson in the 80’s and taught at the University of Virginia,
-      New Jersey Institute of Technology and her alma mater. '
 
 ---
 <!-- <img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937006/s_170713_webview_xiipdh.jpg"><img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937099/JoanBlumenfeld_jwkiz9.jpg"><img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937147/2017_Burton_Melissa_01_980x780_mbfswt.jpg"><img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937178/sml_DiMaggio_Peter_headshot_n6xpkd.jpg"><img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937222/PatriciaHarrisHeadshot-2-e1454609739415_pokx25.jpg"><div class="main-two-up">
