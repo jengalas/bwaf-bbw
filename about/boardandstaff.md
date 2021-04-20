@@ -134,7 +134,7 @@ page_blocks:
       worked for Philip Johnson in the 80’s and taught at the University of Virginia,
       New Jersey Institute of Technology and her alma mater. '
   - title: Alexandra Lange
-    title_role: Design Critic
+    title_role: Officer
     image: "/v1618331574/Curbed_Alexandra_Lange-IMG_7033-Edit_yb3ayd.jpg"
     description: 'Alexandra Lange is a design critic. Her essays, reviews, and profiles
       have appeared in numerous design publications including Architect, Harvard Design
