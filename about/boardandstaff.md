@@ -299,7 +299,7 @@ page_blocks:
       in Washington, D.C., a position she still holds.
     title_role: Founder
   - title: Phoebe Yee, AIA
-    title_role: Senior Vice President, Design for Related California
+    title_role: Officer
     image: "/v1618329168/Yee-722x349_dsjmio.jpg"
     description: "As Senior Vice President of Design for Related California, Ms. Yee
       is responsible for the management of architecture and design for all market
