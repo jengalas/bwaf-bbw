@@ -93,10 +93,9 @@ page_blocks:
     download: ''
     link_url: ''
     link_text: ''
-  text_block: 'Fill out the form below to register for the 2019 BWAF Industry Leaders
-    Roundtable Retreat: Inclusion: Cultures, Policies, Practices. Held at SOM offices,
-    Los Angeles, CA, December 2-3, 2019. As the retreat is limited to 20 participants,
-    we recommend prompt registration.'
+  text_block: Fill out the form below to register for the 2021 BWAF Industry Leaders
+    Roundtable Retreat. As the retreat is limited to 20 participants, we recommend
+    prompt registration.
   section_break: true
 
 ---
