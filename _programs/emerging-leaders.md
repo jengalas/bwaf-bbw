@@ -37,9 +37,9 @@ page_blocks:
     header_type: Medium Header
     text: Priorities, Personhood, Profits
   text_block: In response to the coronavirus outbreak and federal guidance on gatherings,
-    the 2020 Emerging Leaders will be hosted as three virtual sessions with three
-    inspirational speakers, and limited to 20 participants. We are offering the program
-    free of charge for the selected participants.
+    the 2020 and current 2021 Emerging Leaders programs are being hosted as virtual
+    sessions with  inspirational speakers, and limited to 20 participants. We are
+    offering the program at a reduced cost for the selected participants.
 - template: portrait-gallery-block-small
   header: Meet our 2021 Spring Emerging Leaders
   portrait:
