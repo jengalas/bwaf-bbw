@@ -284,7 +284,7 @@ page_blocks:
       accomplishments. Her projects range in scale from urban plans, to public spaces,
       to infrastructure, to architecture. "
   - title: Bolanle Williams-Olley
-    title_role: Chief Financial Officer, Mancini Duffy
+    title_role: Officer
     image: "/v1618329337/Bolanle_Williams-Olley_Headshot_yza38d.jpg"
     description: |-
       Bolanle Williams-Olley is the Chief Financial Officer at Mancini Duffy, a technology-first design firm, where she oversees the firm’s financial and operational performance. With a strong background in financial analysis and strategic initiatives, Bola thrives on building relationships between finance and management teams to ensure the overall financial success of projects and her firm.
