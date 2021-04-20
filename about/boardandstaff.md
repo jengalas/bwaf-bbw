@@ -144,7 +144,7 @@ page_blocks:
       in June 2018. She is currently at work on a new book about the history and future
       of the American shopping mall.'
   - title: Carol Loewenson, FAIA, LEED AP
-    title_role: Partner, Mitchell Giurgola
+    title_role: Officer
     description: "Carol Loewenson’s expertise ranges from highly technical buildings,
       renovations and façade replacements to work involving both the private and public
       sector. Her approach to architecture is deeply rooted in a commitment to public
