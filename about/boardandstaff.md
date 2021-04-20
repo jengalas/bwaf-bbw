@@ -198,8 +198,7 @@ page_blocks:
       Biennial, and in 2017, she participated in the Litturaturfest in Aarhus, Denmark,
       showcasing international writers and artists."
   - title: Karen McNeill, Ph.D.
-    title_role: Senior Family Historian, Ascent Private Capital Management of U.S.
-      Bank
+    title_role: Officer
     image: "/v1618331108/McNeill_Head_shot_csuk9r.jpg"
     description: Karen McNeill, Ph.D., is an expert of Julia Morgan and currently
       working on a multiple publications about the architect. Dr. McNeill’s scholarship
