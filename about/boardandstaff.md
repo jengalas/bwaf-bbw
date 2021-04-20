@@ -239,7 +239,7 @@ page_blocks:
       supporting, mentoring, and empowering women in STEM and the engineering community.
       This dedication inspired her to co-found Women@Langan in September 2015."
   - title: Ann Rolland, FAIA, LEED AP
-    title_role: Partner, FXCollaborative Architects
+    title_role: Officer
     image: "/v1618330597/ARolland_web_farbmn.jpg"
     description: Ann directs FXCollaborative Architects’ Cultural and Educational
       practice, and has been instrumental in its development from its inception. She
