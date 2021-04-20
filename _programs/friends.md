@@ -20,7 +20,8 @@ page_blocks:
     We cultivate leaders at all levels and seek to build global change. Support our efforts and become a BWAF Friend today.
 - template: image-block
   image: "/v1618939391/5_15_19_03_q5seh9.jpg"
-  image_caption_text: Caption info of photograph here teekay.
+  image_caption_text: Inaugural Friends event at the Ford Foundation, May 2019
+  alt_text: Inaugural Friends event at the Ford Foundation, May 2019
 - template: text-block
   text_block: |-
     ## **Annual Membership**
