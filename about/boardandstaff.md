@@ -69,8 +69,7 @@ page_blocks:
       educational facilities, hotels, stadiums, laboratories, residential towers and
       unique structures around the world.
   - title: Patricia Harris, Esq.
-    title_role: Founder and CEO, LicenseSure LLC/ Special Counsel, Zetlin & De Chiara
-      LLP
+    title_role: Of Counsel
     image: "/v1610937223/PatriciaHarrisHeadshot-2-e1454609739415_rkq5sz.jpg"
     description: Patti Harris, Founder and CEO of LicenseSure LLC and Special Counsel
       to Zetlin & De Chiara LLP, provides legal and business counsel to architects
