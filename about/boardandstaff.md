@@ -121,7 +121,7 @@ page_blocks:
       Financial Center after 9/11, and Manhattan West.   \nSabrina holds a B.A. from
       Union College and is a member of WX and the National Academy of Construction."
   - title: Cynthia Kracauer, AIA
-    title_role: Executive Director, Beverly Willis Architecture Foundation
+    title_role: Executive Director
     image: "/v1618333357/Cynthia_HS_qd6dqf.jpg"
     description: 'Cynthia is an architect and currently serves as the Executive Director
       for the Beverly Willis Architecture Foundation (BWAF). She joins the Foundation
