@@ -184,8 +184,7 @@ page_blocks:
       of Living (Abrams, 2003). In addition, she is co-editor of the website Pioneering
       Women of American Architecture (Beverly Willis Architectural Foundation). '
   - title: Aislinn McNamara
-    title_role: Communications and Program Coordinator, Beverly Willis Architecture
-      Foundation
+    title_role: Communications and Programs Coordinator
     image: "/v1618333453/Amcnamara_headshot_18_rospy6.jpg"
     description: "Aislinn is the Communications and Program Coordinator for Beverly
       Willis Architecture Foundation. Aislinn earned her MFA from Städelschule in
