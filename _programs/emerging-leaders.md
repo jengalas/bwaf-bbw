@@ -35,7 +35,7 @@ page_blocks:
   include_left-hand_column_text_: true
   lefthand_text:
     header_type: Medium Header
-    text: Priorities, Personhood, Profits
+    text: Perseverance, Politics, Power
   text_block: In response to the coronavirus outbreak and federal guidance on gatherings,
     the 2020 and current 2021 Emerging Leaders programs are being hosted as virtual
     sessions with  inspirational speakers, and limited to 20 participants. We are
