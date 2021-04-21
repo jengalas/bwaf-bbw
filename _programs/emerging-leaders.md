@@ -99,6 +99,7 @@ page_blocks:
     image: "/v1618423393/Rice_Headshot_z30tnw.jpg"
   - title: Sophia Tampakis
     title_role: Project Engineer, JB&B
+    image: "/v1619015046/Tampakis_2411_Headshot_a4dh9u.jpg"
   - title: Florence Tang
     title_role: Design and Engineering Project Manager, Houston Zoo
     image: "/v1618423615/Florence_-_For_Web_fa2hul.jpg"
