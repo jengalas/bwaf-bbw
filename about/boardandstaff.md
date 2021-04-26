@@ -192,7 +192,7 @@ page_blocks:
       He holds a Bachelor of Science degree in Electrical Engineering from Bucknell
       University, and is a licensed Professional Engineer and LEED Accredited Professional.  '
   - title: Karen McNeill, Ph.D.
-    title_role: Officer
+    title_role: Trustee
     image: "/v1618331108/McNeill_Head_shot_csuk9r.jpg"
     description: Karen McNeill, Ph.D., is an expert of Julia Morgan and currently
       working on a multiple publications about the architect. Dr. McNeill’s scholarship
