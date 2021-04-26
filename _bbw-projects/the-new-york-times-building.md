@@ -5,7 +5,7 @@ bbw-year: _bbw-years/bbw-2018.md
 project_categories: []
 title: The New York Times Building
 architects:
-- title: MaryAnne Gilmartin
+- title: MaryAnne Gilmartin (developer)
   role: Forest City Ratner Companies
 location: 620 Eighth Avenue, New York, NY
 year: 2007
