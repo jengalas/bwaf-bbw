@@ -253,7 +253,7 @@ page_blocks:
       accomplishments. Her projects range in scale from urban plans, to public spaces,
       to infrastructure, to architecture. "
   - title: Phoebe Yee, AIA
-    title_role: Officer
+    title_role: Trustee
     image: "/v1618329168/Yee-722x349_dsjmio.jpg"
     description: "As Senior Vice President of Design for Related California, Ms. Yee
       is responsible for the management of architecture and design for all market
