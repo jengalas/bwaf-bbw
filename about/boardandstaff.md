@@ -214,7 +214,7 @@ page_blocks:
 
       She holds a Master’s in Education & Social Policy from NYU, Master’s in Applied Mathematics and Bachelor’ in Mathematics from City University of New York, Hunter College. She is passionate about service and is the founder of four impact organizations: SheBuildsWaves, SheBuildsLives, SheBuildsMoney and REACH Nigeria.
   - title: Ann Rolland, FAIA, LEED AP
-    title_role: Officer
+    title_role: Trustee
     image: "/v1618330597/ARolland_web_farbmn.jpg"
     description: Ann directs FXCollaborative Architects’ Cultural and Educational
       practice, and has been instrumental in its development from its inception. She
