@@ -8,7 +8,7 @@ architects:
 - title: Liz Diller
   role: Diller Scofidio + Renfro
 - title: Sylvia Smith
-  role: FXFowle Architects
+  role: FXFOWLE
 - role: Matthews Nielsen Landscape Architects
   title: Signe Nielsen
 location: 10 Lincoln Center Plaza
