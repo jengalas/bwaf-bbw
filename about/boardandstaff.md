@@ -207,7 +207,7 @@ page_blocks:
       a range of buildings to the National Register of Historic Places. She is currently
       Senior Family Historian at Ascent Private Capital Management of U.S. Bank.
   - title: Bolanle Williams-Olley
-    title_role: Officer
+    title_role: Trustee
     image: "/v1618329337/Bolanle_Williams-Olley_Headshot_yza38d.jpg"
     description: |-
       Bolanle Williams-Olley is the Chief Financial Officer at Mancini Duffy, a technology-first design firm, where she oversees the firm’s financial and operational performance. With a strong background in financial analysis and strategic initiatives, Bola thrives on building relationships between finance and management teams to ensure the overall financial success of projects and her firm.
