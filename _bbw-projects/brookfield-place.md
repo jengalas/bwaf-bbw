@@ -5,7 +5,7 @@ bbw-year: _bbw-years/bbw-2018.md
 project_categories: []
 title: Brookfield Place
 architects:
-- title: Sabrina Kanner
+- title: Sabrina Kanner (developer)
   role: 'Brookfield Office Properties '
 location: 230 Vesey Street, New York, NY
 year: 2015
