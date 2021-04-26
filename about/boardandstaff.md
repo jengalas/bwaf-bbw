@@ -155,7 +155,7 @@ page_blocks:
       Financial Center after 9/11, and Manhattan West.   \nSabrina holds a B.A. from
       Union College and is a member of WX and the National Academy of Construction."
   - title: Alexandra Lange
-    title_role: Officer
+    title_role: Trustee
     image: "/v1618331574/Curbed_Alexandra_Lange-IMG_7033-Edit_yb3ayd.jpg"
     description: 'Alexandra Lange is a design critic. Her essays, reviews, and profiles
       have appeared in numerous design publications including Architect, Harvard Design
