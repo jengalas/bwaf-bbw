@@ -115,7 +115,7 @@ page_blocks:
       programs to promote vitality, equity and community in the private sector and
       public realm.
   - title: Erleen Hatfield, PE, AIA
-    title_role: Officer
+    title_role: Trustee
     image: "/v1618333098/2019_Hatfield_Headshot-use_this_one_l0xibt.jpg"
     description: "Erleen Hatfield, PE, AIA, is the Managing Partner of the Hatfield
       Group, a multi-disciplinary engineering consulting firm based in New York. She
@@ -128,7 +128,7 @@ page_blocks:
       buildings around the world. She sits on numerous national industry boards and
       teaches at the Yale University School of Architecture.   "
   - title: Latoya Nelson Kamdang, AIA, RA, NCARB, NCIDQ, LEED AP BD+C, RID
-    title_role: Officer
+    title_role: Trustee
     image: "/v1618332981/20191107_Latoya16463-cropped_xjlbgz.jpg"
     description: Latoya Nelson Kamdang is the Director of NY Operations for Moody
       Nolan. She is also a U.S. Fulbright Senior Scholar, Registered Architect, Certified
