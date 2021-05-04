@@ -36,20 +36,20 @@ sponsors:
     - Thornton Tomasetti, Inc.
   - amt: Champion
     sponsors:
-    - Turner Construction Company
-    - Sciame
-    - Robert A.M. Stern Architects
-    - Levien & Company
-    - LANGAN Engineering
-    - Jaros, Baum & Bolles
-    - Ingram Yuzek Gainen Carroll & Bertolotti, LLP
-    - Ikon.5 Architects
-    - IDC Foundation
-    - HOK
-    - Foster + Partners
-    - Dattner Architects
     - Arup
+    - Dattner Architects
+    - Foster + Partners
+    - HOK
+    - IDC Foundation
+    - Ikon.5 Architects
+    - Ingram Yuzek Gainen Carroll & Bertolotti, LLP
+    - Jaros, Baum & Bolles
+    - LANGAN Engineering
+    - Levien & Company
     - Loring Consulting Engineers
+    - Robert A.M. Stern Architects
+    - Sciame
+    - Turner Construction Company
   - amt: Catalyst
     sponsors:
     - Davis Brody Bond
