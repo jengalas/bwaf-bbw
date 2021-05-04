@@ -185,6 +185,7 @@ page_blocks:
   - title: Firstname M. Lastname
     title_role: Title Teekay and Title Teekay
     image: "/v1610937223/PatriciaHarrisHeadshot-2-e1454609739415_rkq5sz.jpg"
+- template: featured-portrait
 - template: media-gallery-block
   media:
   - image/video: ''
@@ -266,6 +267,9 @@ page_blocks:
                 {% elsif block.template == "portrait-gallery-block-small" %}
                 <figcaption><mark><b>Portrait Gallery (Small)</b></mark><br><br></figcaption>
                 {% include block_r_portraits_sm.html %}
+                {% elsif block.template == "featured-portrait" %}
+                <figcaption><mark><b>Featured Portrait</b></mark><br><br></figcaption>
+                {% include block_r_featured-portrait.html %}
                 {% elsif block.template == "media-gallery-block"%}
                 <figcaption><mark><b>Media Gallery</b></mark><br><br></figcaption>
                 {% include block_r_media_gallery.html %}

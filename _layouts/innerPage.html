@@ -34,6 +34,8 @@
         {% include block_r_portraits.html %}
         {% elsif block.template == "portrait-gallery-block-small" %}
         {% include block_r_portraits_sm.html %}
+        {% elsif block.template == "featured-portrait" %}
+        {% include block_r_featured-portrait.html %}
         {% elsif block.template == "media-gallery-block"%}
         {% include block_r_media_gallery.html %}
         {% endif %}
@@ -93,62 +95,6 @@
 {% endif %}
 
 {% if page.title == "Emerging Leaders" %}
-<div class="main-two-up">
-    <div>
-    </div>
-    <div>
-        <div class="event-block">
-            <h2><b>Priorities</b></h2>
-            <div>
-                <div>
-                    <img src="/assets/img/event-placeholder.png">
-                </div>
-                <div>
-                    <h6>Speaker</h6>
-                    <h5><b>Margaret Newman, FAIA, LEED AP BD+C</b>
-                        <br>Principal, Integrated Planning Team | Arup
-                    </h5>
-                    <p>How do we ever know what to do first? How do our priorities change as our career develops? Discuss these challenges with Bloomberg administration veteran New York City Department of Transportation Commissioner Chief of Staff, Arup Urban Planner and Principal, Margaret Newman.</p>
-                    <h6>Time and location</h6>
-                    <p class="time-location">
-                        <b>
-                            April 14, 2020
-                            <br>Virtual session
-                        </b>
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<div class="main-two-up">
-    <div>
-    </div>
-    <div>
-        <div class="event-block">
-            <h2><b>Priorities</b></h2>
-            <div>
-                <div>
-                    <img src="/assets/img/event-placeholder.png">
-                </div>
-                <div>
-                    <h6>Personhood</h6>
-                    <h5><b>Ann Rolland, FAIA</b>
-                        <br>Partner | FXCollaborative
-                    </h5>
-                    <p>Are there challenges for non-heteronormative professionals in the workplace? How can you learn to bring your full self to work? Hear from Annie Rolland, FAIA, Partner at FXCollaborative on her journey.</p>
-                    <h6>Time and location</h6>
-                    <p class="time-location">
-                        <b>
-                            April 14, 2020
-                            <br>Virtual session
-                        </b>
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
 <div class="main-two-up">
     <div>
     </div>
