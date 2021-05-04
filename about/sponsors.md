@@ -23,15 +23,12 @@ supporters:
 sponsors:
 - sponsors-header: Leadership Awards Gala Sponsors
   sponsors:
-  - amt: 15,000 or more
+  - amt: Legacy
     sponsors:
-    - Thornton Tomasseti
-    - Turner Construction Company
-    - WSP|Parsons Brinckerff
-  - amt: 20,000 or more
+    - Brookfield Properties
+  - amt: Visionary
     sponsors:
-    - Stantec
-    - Skidmore, Owings & Merrill
+    - Silman
 - sponsors-header: Pioneering Women of American Architecture
   sponsors:
   - amt: 15,000 or more
