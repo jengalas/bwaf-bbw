@@ -23,6 +23,11 @@ supporters:
 sponsors:
 - sponsors-header: Leadership Awards Gala Sponsors
   sponsors:
+  - amt: Transformational
+    sponsors:
+    - Thornton Tomasetti, Inc.
+    - Skidmore, Owings and Merrill LLP
+    - New York University
   - amt: Legacy
     sponsors:
     - Brookfield Properties
