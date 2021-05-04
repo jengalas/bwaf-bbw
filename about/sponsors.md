@@ -23,6 +23,19 @@ supporters:
 sponsors:
 - sponsors-header: Leadership Awards Gala Sponsors
   sponsors:
+  - amt: Catalyst
+    sponsors:
+    - Davis Brody Bond
+    - Diller, Scofidio + Renfro
+    - Ennead Architects
+    - Kohler Ronan, LLC Consulting Engineers
+    - Mancini Duffy
+    - Marble Fairbanks
+    - Perkins&Will
+    - Shildan Group
+    - Spacesmith
+    - WSP Global Inc.
+    - Zetlin & De Chiara LLP
   - amt: Champion
     sponsors:
     - Turner Construction Company
