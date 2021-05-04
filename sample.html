@@ -185,7 +185,7 @@ page_blocks:
   - title: Firstname M. Lastname
     title_role: Title Teekay and Title Teekay
     image: "/v1610937223/PatriciaHarrisHeadshot-2-e1454609739415_rkq5sz.jpg"
-- template: featured-portrait
+- template: featured-portrait-block
   header: Priorities
   image: /v1618424460/Jenna_Wandishin_headshot_rvldp9.jpg
   label: Speaker
@@ -276,7 +276,7 @@ page_blocks:
                 {% elsif block.template == "portrait-gallery-block-small" %}
                 <figcaption><mark><b>Portrait Gallery (Small)</b></mark><br><br></figcaption>
                 {% include block_r_portraits_sm.html %}
-                {% elsif block.template == "featured-portrait" %}
+                {% elsif block.template == "featured-portrait-block" %}
                 <figcaption><mark><b>Featured Portrait</b></mark><br><br></figcaption>
                 {% include block_r_featured-portrait.html %}
                 {% elsif block.template == "media-gallery-block"%}
