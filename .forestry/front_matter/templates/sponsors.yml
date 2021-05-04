@@ -11,69 +11,71 @@ fields:
 - type: text
   name: permalink
   label: permalink
+  hidden: true
 - type: text
   name: navCategory
   label: navCategory
+  hidden: true
 - type: textarea
   name: description
   label: description
 - type: text
   name: supporters-header
-  label: supporters-header
+  label: Supporters Header
 - type: field_group_list
   name: supporters
-  label: supporters
+  label: Supporters
   fields:
   - type: text
     name: name
-    label: name
+    label: Name
   - type: file
     name: image
-    label: image
+    label: Logo
 - type: field_group_list
   name: sponsors
-  label: sponsors
+  label: Sponsors
   fields:
   - type: text
     name: sponsors-header
-    label: sponsors-header
+    label: Header
   - type: field_group_list
     name: sponsors
-    label: sponsors
+    label: Sponsor Groups
     fields:
     - type: text
       name: amt
-      label: amt
+      label: Amount/Header
     - type: list
       name: sponsors
-      label: sponsors
+      label: Sponsors
 - type: field_group
   name: pioneering-women
-  label: pioneering-women
+  label: Pioneering Women
   fields:
   - type: text
     name: header
-    label: header
+    label: Header
   - type: field_group_list
     name: sponsors-groups
-    label: sponsors-groups
+    label: Sponsor Groups
     fields:
     - type: text
       name: amt
-      label: amt
+      label: Amount/Header
     - type: list
       name: sponsors
-      label: sponsors
+      label: Sponsors
   - type: textarea
     name: additional-supporters
-    label: additional-supporters
+    label: Additional Supporters
 - type: field_group_list
   name: previous-years
-  label: previous-years
+  label: Previous Years
   fields:
   - type: text
     name: name
-    label: name
+    label: Name
   - type: file
     name: image
-    label: image
+    label: Logo
