@@ -122,5 +122,6 @@ page_blocks:
   time-location:
     line-1: 'When: Tuesday, March 30, 2021, 6:30-8PM  '
     line-2: Virtual session
+  include_left-hand_column_text_: true
 
 ---
