@@ -31,5 +31,19 @@ page_blocks:
   time-location:
     line-1: 'When: Tuesday, April 27, 2021, 6:30-8PM'
     line-2: Virtual session
+- template: featured-portrait-block
+  image: "/v1620142964/Yee-722x349_kvzhez.jpg"
+  include_left-hand_column_text_: true
+  header: POWER
+  label: Speaker
+  title: Phoebe Yee, AIA
+  subtitle: Senior Vice President, Design, Related California
+  description: Hear from architect turned developer, Phoebe Yee, Senior Vice President,
+    Design, Related California, about both the importance of realizing your personal
+    power, and the necessity of understanding where the power is in the real estate
+    industry.
+  time-location:
+    line-1: 'When: Tuesday, May 25, 2021, 6:30-8PM'
+    line-2: Virtual session
 
 ---
