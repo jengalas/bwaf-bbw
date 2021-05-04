@@ -71,6 +71,8 @@ fields:
   - type: text
     name: caption
     label: Caption
+  description: The first image will be the one that shows up as the main thumbnail
+    for the project.
 pages:
 - _bbw-projects/10-hudson-yards.md
 - _bbw-projects/103rd-street-community-garden.md

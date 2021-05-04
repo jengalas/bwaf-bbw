@@ -64,36 +64,37 @@ fields:
     max: 
     labelField: 
   label: Featured Portrait
+  hidden: true
 - name: header
   type: text
   config:
     required: false
   label: Header
-  hidden: true
+  hidden: false
 - name: image
   type: file
   config:
     maxSize: 64
   label: Image/Portrait
-  hidden: true
+  hidden: false
 - name: label
   type: text
   config:
     required: false
   label: Label
-  hidden: true
+  hidden: false
 - name: title
   type: text
   config:
     required: false
   label: Title
-  hidden: true
+  hidden: false
 - name: subtitle
   type: text
   config:
     required: false
   label: Subtitle
-  hidden: true
+  hidden: false
 - name: description
   type: textarea
   default: ''
@@ -103,7 +104,7 @@ fields:
     schema:
       format: markdown
   label: Description
-  hidden: true
+  hidden: false
 - name: time-location
   type: field_group
   config: {}
@@ -119,11 +120,4 @@ fields:
       required: false
     label: Line 2
   label: Time and Location
-  hidden: true
-- name: template
-  type: text
-  config:
-    required: false
-  label: Template
-  default: featured-portrait
   hidden: true
