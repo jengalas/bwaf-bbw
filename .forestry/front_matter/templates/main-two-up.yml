@@ -30,6 +30,7 @@ fields:
   - media-gallery-block
   - slideshow-block
   - timeline-block
+  - featured-portrait-block
   - section-break
   - miscellaneous-block
   config:
