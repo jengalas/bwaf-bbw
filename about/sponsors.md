@@ -91,6 +91,7 @@ pioneering-women:
     Muntz, AIA; Nancy Nguyen; Alison Paul; Mardelle Shepley, Ph.D.; Judith Major,
     Ph.D.; Andrew Watiker; Laura Watiker
 previous-years:
+- {}
 - name: logo1
   image: "/assets/img/logo-placeholder.png"
 - name: logo1
