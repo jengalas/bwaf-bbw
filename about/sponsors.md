@@ -31,9 +31,9 @@ sponsors:
     - Silman
   - amt: Transformational
     sponsors:
-    - Thornton Tomasetti, Inc.
-    - Skidmore, Owings and Merrill LLP
     - New York University
+    - Skidmore, Owings and Merrill
+    - Thornton Tomasetti, Inc.
   - amt: Champion
     sponsors:
     - Turner Construction Company
