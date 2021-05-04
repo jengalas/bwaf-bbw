@@ -110,17 +110,17 @@ page_blocks:
     title_role: " Project Architect, Morris Adjmi Architects"
     image: "/v1618424530/Nicole_Wiznitzer-200x200_tpbh0d.jpg"
 - template: featured-portrait-block
-  header: Priorities TEST
-  image: "/v1619015046/Tampakis_2411_Headshot_a4dh9u.jpg"
-  subtitle: Principal, Integrated Planning Team | Arup
-  title: Margaret Newman, FAIA, LEED AP BD+C
+  header: PERSEVERANCE
+  image: "/v1620142658/s_170713_webview_pqzp7z.jpg"
+  subtitle: Principal, SHoP Architects
+  title: Angelica T. Baccon, AIA
   label: Speaker
-  description: How do we ever know what to do first? How do our priorities change
-    as our career develops? Discuss these challenges with Bloomberg administration
-    veteran New York City Department of Transportation Commissioner Chief of Staff,
-    Arup Urban Planner and Principal, Margaret Newman.
+  description: This has been a really challenging year to “hang in there.” And what
+    about managing with two little ones at home? That takes perseverance, grace, and
+    imagination – Angelica T. Baccon, AIA, Principal, SHoP Architects, will share
+    insights with us.
   time-location:
-    line-1: jaj
-    line-2: njnkn
+    line-1: 'When: Tuesday, March 30, 2021, 6:30-8PM  '
+    line-2: Virtual session
 
 ---
