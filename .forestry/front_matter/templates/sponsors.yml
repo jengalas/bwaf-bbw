@@ -5,9 +5,10 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
 - type: text
   name: title
-  label: title
+  label: Page Title
 - type: text
   name: permalink
   label: permalink
@@ -18,7 +19,7 @@ fields:
   hidden: true
 - type: textarea
   name: description
-  label: description
+  label: Description
 - type: text
   name: supporters-header
   label: Supporters Header
