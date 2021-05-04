@@ -1,5 +1,5 @@
 ---
-layout: innerPage
+layout: default
 permalink: "/beverlywillis"
 navCategory: About
 title: About Beverly Willis | Beverly Willis Architecture Foundation
@@ -14,6 +14,8 @@ page_blocks:
     text: About Beverly Willis
     download: ''
     link_url: ''
+    link_text: ''
+  section_break: false
 - template: text-block
   text_block: "Beverly Willis, FAIA (b. 1928) began her career as an independent artist
     in 1954 and established her own firm as an architect in 1966. In 1980 she was
@@ -45,6 +47,8 @@ page_blocks:
     text: ''
     download: ''
     link_url: ''
+    link_text: ''
+  section_break: false
 - template: media-gallery-block
   media:
   - image/video: ''
@@ -55,5 +59,7 @@ page_blocks:
     text: ''
     download: ''
     link_url: ''
+    link_text: ''
+  section_break: false
 
 ---
