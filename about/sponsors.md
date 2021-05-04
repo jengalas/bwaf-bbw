@@ -63,17 +63,6 @@ sponsors:
     - Spacesmith
     - WSP Global Inc.
     - Zetlin & De Chiara LLP
-- sponsors-header: Pioneering Women of American Architecture
-  sponsors:
-  - amt: 15,000 or more
-    sponsors:
-    - Thornton Tomasseti
-    - Turner Construction Company
-    - WSP|Parsons Brinckerff
-  - amt: 20,000 or more
-    sponsors:
-    - Stantec
-    - Skidmore, Owings & Merrill
 pioneering-women:
   header: Major Supporters of the Pioneering Women of American Architecture Project
   sponsors-groups:
