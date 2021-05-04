@@ -612,6 +612,7 @@ p.lg{
     }
     .img-block img{
         max-height: calc(66vw - var(--margin)*2 - var(--gutter));
+        // max-height: calc(50vw - var(--margin)*2 - var(--gutter));
         object-fit: cover;
     }
     .media-gallery-block, .other-film{

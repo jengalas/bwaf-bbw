@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: innerPage
 permalink: "/beverlywillis"
 navCategory: About
 title: About Beverly Willis | Beverly Willis Architecture Foundation

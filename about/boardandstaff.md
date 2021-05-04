@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: innerPage
 title: Board and Staff | Beverly Willis Architecture Foundation
 permalink: "/boardandstaff"
 navCategory: About
