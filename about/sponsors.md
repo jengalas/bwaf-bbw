@@ -23,6 +23,22 @@ supporters:
 sponsors:
 - sponsors-header: Leadership Awards Gala Sponsors
   sponsors:
+  - amt: Champion
+    sponsors:
+    - Turner Construction Company
+    - Sciame
+    - Robert A.M. Stern Architects
+    - Levien & Company
+    - LANGAN Engineering
+    - Jaros, Baum & Bolles
+    - Ingram Yuzek Gainen Carroll & Bertolotti, LLP
+    - Ikon.5 Architects
+    - IDC Foundation
+    - HOK
+    - Foster + Partners
+    - Dattner Architects
+    - Arup
+    - Loring Consulting Engineers
   - amt: Transformational
     sponsors:
     - Thornton Tomasetti, Inc.
