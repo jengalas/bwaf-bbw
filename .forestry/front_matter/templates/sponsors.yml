@@ -1,0 +1,79 @@
+---
+label: Sponsors
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: navCategory
+  label: navCategory
+- type: textarea
+  name: description
+  label: description
+- type: text
+  name: supporters-header
+  label: supporters-header
+- type: field_group_list
+  name: supporters
+  label: supporters
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: file
+    name: image
+    label: image
+- type: field_group_list
+  name: sponsors
+  label: sponsors
+  fields:
+  - type: text
+    name: sponsors-header
+    label: sponsors-header
+  - type: field_group_list
+    name: sponsors
+    label: sponsors
+    fields:
+    - type: text
+      name: amt
+      label: amt
+    - type: list
+      name: sponsors
+      label: sponsors
+- type: field_group
+  name: pioneering-women
+  label: pioneering-women
+  fields:
+  - type: text
+    name: header
+    label: header
+  - type: field_group_list
+    name: sponsors-groups
+    label: sponsors-groups
+    fields:
+    - type: text
+      name: amt
+      label: amt
+    - type: list
+      name: sponsors
+      label: sponsors
+  - type: textarea
+    name: additional-supporters
+    label: additional-supporters
+- type: field_group_list
+  name: previous-years
+  label: previous-years
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: file
+    name: image
+    label: image
