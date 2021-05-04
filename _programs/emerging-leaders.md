@@ -109,4 +109,15 @@ page_blocks:
   - title: Nicole Wiznitzer
     title_role: " Project Architect, Morris Adjmi Architects"
     image: "/v1618424530/Nicole_Wiznitzer-200x200_tpbh0d.jpg"
+- template: featured-portrait-block
+  header: Priorities TEST
+  image: "/v1619015046/Tampakis_2411_Headshot_a4dh9u.jpg"
+  subtitle: Principal, Integrated Planning Team | Arup
+  title: Margaret Newman, FAIA, LEED AP BD+C
+  label: Speaker
+  description: How do we ever know what to do first? How do our priorities change
+    as our career develops? Discuss these challenges with Bloomberg administration
+    veteran New York City Department of Transportation Commissioner Chief of Staff,
+    Arup Urban Planner and Principal, Margaret Newman.
+
 ---
