@@ -20,6 +20,9 @@ fields:
 - type: text
   name: title
   label: Project Title
+- name: historical
+  type: boolean
+  label: Historical
 - name: bbw-year
   type: select
   default: []
