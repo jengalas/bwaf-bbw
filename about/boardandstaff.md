@@ -1,5 +1,5 @@
 ---
-layout: innerPage
+layout: default
 title: Board and Staff | Beverly Willis Architecture Foundation
 permalink: "/boardandstaff"
 navCategory: About
@@ -10,8 +10,10 @@ page_blocks:
     text: Board and Staff
     download: ''
     link_url: ''
+    link_text: ''
   include_left-hand_column_text_: true
   text_block: ''
+  section_break: false
 - template: portrait-gallery-template
   include_left-hand_column_text_: true
   lefthand_text:
@@ -19,6 +21,7 @@ page_blocks:
     text: Board of Trustees
     download: ''
     link_url: ''
+    link_text: ''
   portrait:
   - title: Beverly Willis, FAIA
     image: "/v1618329223/bev_1_zgox9n.jpg"
@@ -284,11 +287,15 @@ page_blocks:
     description: |-
       Victoria Rosner is Dean of Academic Affairs at Columbia University School of General Studies and teaches in the Columbia University Department of English and Comparative Literature. Much of her scholarship focuses on modernism across diverse forms of cultural production, notably literature and architecture. She is the author, most recently, of Machines for Living: Modernism and Domestic Life (Oxford University Press, 2020). 
       A growing component of her work examines gender in the professions: Victoria is co-editor of Beverly Willis Architecture Foundation’s web-based archive Pioneering Women of American Architecture.
+  section_break: false
 - template: portrait-gallery-template
   include_left-hand_column_text_: true
   lefthand_text:
     header_type: Medium Header
     text: Staff
+    download: ''
+    link_url: ''
+    link_text: ''
   portrait:
   - title: Cynthia Phifer Kracauer, AIA
     title_role: Executive Director
@@ -319,6 +326,7 @@ page_blocks:
       showcasing international writers and artists.
 
 '
+  section_break: false
 
 ---
 <!-- <img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937006/s_170713_webview_xiipdh.jpg"><img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937099/JoanBlumenfeld_jwkiz9.jpg"><img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937147/2017_Burton_Melissa_01_980x780_mbfswt.jpg"><img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937178/sml_DiMaggio_Peter_headshot_n6xpkd.jpg"><img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937222/PatriciaHarrisHeadshot-2-e1454609739415_pokx25.jpg"><div class="main-two-up">
