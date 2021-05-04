@@ -699,8 +699,9 @@ p.lg{
                 margin-bottom:10px;
                 height: 0px;
                 padding-top:100%;
-                background-position:center;
+                // background-position:center;
                 background-size: cover;
+                background-position:center 10%;
             }
         }
         > div:nth-child(4n+4){

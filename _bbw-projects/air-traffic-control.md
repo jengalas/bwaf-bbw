@@ -4,7 +4,7 @@ title: Air Traffic Control Tower at LAX
 permalink: "/built-by-women/2020/test-project"
 bbw-year: _bbw-years/bbw-2020.md
 navCategory: Programs
-historical: true
+historical: false
 architects:
 - title: Kate Diamond
   role: 'Kate Diamond, HDR INC. '
