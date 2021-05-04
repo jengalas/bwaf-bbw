@@ -8,8 +8,8 @@ description: Beverly Willis Architecture Foundation would not exist without the 
   listed on this page.
 supporters-header: 2021 Supporters and Partners
 supporters:
-- name: logo1
-  image: "/assets/img/logo-placeholder.png"
+- name: Brookfield Properties
+  image: "/v1620155874/B-prop_id_rgb_q198gs.jpg"
 - name: logo1
   image: "/assets/img/logo-placeholder.png"
 - name: logo1
