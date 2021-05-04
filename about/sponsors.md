@@ -10,8 +10,8 @@ supporters-header: 2021 Supporters and Partners
 supporters:
 - name: Brookfield Properties
   image: "/v1620155874/B-prop_id_rgb_q198gs.jpg"
-- name: logo1
-  image: "/assets/img/logo-placeholder.png"
+- name: Silman
+  image: "/v1620155920/Silman_Logo_djgqp7.jpg"
 - name: logo1
   image: "/assets/img/logo-placeholder.png"
 - name: logo1
