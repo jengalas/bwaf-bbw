@@ -23,19 +23,17 @@ supporters:
 sponsors:
 - sponsors-header: Leadership Awards Gala Sponsors
   sponsors:
-  - amt: Catalyst
+  - amt: Legacy
     sponsors:
-    - Davis Brody Bond
-    - Diller, Scofidio + Renfro
-    - Ennead Architects
-    - Kohler Ronan, LLC Consulting Engineers
-    - Mancini Duffy
-    - Marble Fairbanks
-    - Perkins&Will
-    - Shildan Group
-    - Spacesmith
-    - WSP Global Inc.
-    - Zetlin & De Chiara LLP
+    - Brookfield Properties
+  - amt: Visionary
+    sponsors:
+    - Silman
+  - amt: Transformational
+    sponsors:
+    - Thornton Tomasetti, Inc.
+    - Skidmore, Owings and Merrill LLP
+    - New York University
   - amt: Champion
     sponsors:
     - Turner Construction Company
@@ -52,17 +50,19 @@ sponsors:
     - Dattner Architects
     - Arup
     - Loring Consulting Engineers
-  - amt: Transformational
+  - amt: Catalyst
     sponsors:
-    - Thornton Tomasetti, Inc.
-    - Skidmore, Owings and Merrill LLP
-    - New York University
-  - amt: Legacy
-    sponsors:
-    - Brookfield Properties
-  - amt: Visionary
-    sponsors:
-    - Silman
+    - Davis Brody Bond
+    - Diller, Scofidio + Renfro
+    - Ennead Architects
+    - Kohler Ronan, LLC Consulting Engineers
+    - Mancini Duffy
+    - Marble Fairbanks
+    - Perkins&Will
+    - Shildan Group
+    - Spacesmith
+    - WSP Global Inc.
+    - Zetlin & De Chiara LLP
 - sponsors-header: Pioneering Women of American Architecture
   sponsors:
   - amt: 15,000 or more
