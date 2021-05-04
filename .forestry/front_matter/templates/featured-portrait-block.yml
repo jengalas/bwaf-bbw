@@ -120,4 +120,4 @@ fields:
       required: false
     label: Line 2
   label: Time and Location
-  hidden: true
+  hidden: false
