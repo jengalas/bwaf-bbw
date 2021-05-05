@@ -27,9 +27,6 @@ sections:
   new_doc_ext: md
   templates:
   - main-two-up
-- type: document
-  path: _data/nav.yaml
-  label: Nav
 - type: heading
   label: Built By Women
 - type: directory
