@@ -4,9 +4,19 @@
         {% assign subnav = item.subnav %}
         {% endif %}{%endfor%}
         {% for item in subnav %}
-        {% if item.link != page.permalink %}
-        <li><a href="{{item.link}}" class="h2">{{item.label}}</a></li>
-        {% endif %}
+            {% if item.link != page.permalink %}
+
+            {% if item.label == "Emerging Leaders" %}
+                {% assign els = site.emerging-leaders | sort: 'date' | reverse %}
+                {% for el in els limit: 1 %}
+                    {% assign link = el.url %}
+                {% endfor %}
+            {% else %}
+                {% assign link = item.link %}
+            {% endif %}
+
+            <li><a href="{{link}}" class="h2">{{item.label}}</a></li>
+            {% endif %}
         {% endfor %}
     </ul>
 </div>
