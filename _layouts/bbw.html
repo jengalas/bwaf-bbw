@@ -31,8 +31,21 @@
         <div class="text-block spacer">
             {{ page.description | markdownify }}
         </div>
+
+    {% for bbw-year in site.bbw-years %}
+        {% if bbw-year.path == page.current-year %}
+            {% assign currentYear = bbw-year.url %}
+        {% endif %}
+    {% endfor %}
+
+    {% for bbw-jury in site.bbw-juries %}
+        {% if bbw-jury.bbw_year == page.current-year %}
+            {% assign currentJury = bbw-jury.url %}
+        {% endif %}
+    {% endfor %}
+
         <div class="img-block">
-            <a href="{{page.map.link}}" target="_blank">
+            <a href="{{currentYear.map_link}}" target="_blank">
                 <img src="{{page.map.image}}" alt="{{block.alt_text}}">
                 {% if page.map.caption %}
                 <figcaption>{{page.map.caption}}</figcaption>
@@ -42,22 +55,11 @@
     </div>
 </div>
 <div class="main-two-up">
-    {% for bbw-year in site.bbw-years %}
-        {% if bbw-year.path == page.current-year %}
-            {% assign currentYear = bbw-year.url %}
-        {% endif %}
-    {% endfor %}
-
-    {% for bbw-jury in site.bbw-juries %}
-        {% if bbw-jury.bbw-year == page.current-year %}
-            {% assign currentJury = bbw-jury.url %}
-        {% endif %}
-    {% endfor %}
     <div>
         {% if currentJury %}
         <a href="{{currentJury}}" target="_blank" class="lefthand-link">Meet the Jury→</a><br>
         {% endif %}
-        <a href="{{page.map.link}}" target="_blank" class="lefthand-link">Buy the Map→</a>
+        <a href="{{currentYear.map_link}}" target="_blank" class="lefthand-link">Buy the Map→</a>
     </div>
     <div>
         <div class="text-block spacer">
