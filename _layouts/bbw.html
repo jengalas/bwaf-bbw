@@ -30,13 +30,12 @@
     <div>
         <div class="text-block spacer">
             {{ page.description }}
-            <p>Women are underrepresented in the building professions. Built by Women’s goal is to change this. Increasing the number of women in science, technology, engineering, architecture and mathematics is critical to our country’s ability to compete globally. Teams that reflect diverse skills, backgrounds, and gender identities achieve greater innovation, leading to increased economic growth.</p>
         </div>
         <div class="img-block">
             <a href="{{page.map.link}}" target="_blank">
                 <img src="{{page.map.image}}" alt="{{block.alt_text}}">
                 {% if page.map.caption %}
-                <figcaption>Caption info of photographs here teekay.</figcaption>
+                <figcaption>{{page.map.caption}}</figcaption>
                 {% endif %}
             </a>
         </div>
