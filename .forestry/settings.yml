@@ -30,7 +30,6 @@ sections:
 - type: document
   path: _data/nav.yaml
   label: Nav
-  match: "**/*"
 - type: heading
   label: Built By Women
 - type: directory
