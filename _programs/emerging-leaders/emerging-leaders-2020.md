@@ -1,8 +1,8 @@
 ---
 layout: innerPage
 navCategory: Programs
-title: Emerging Leaders
-permalink: "/programs/emerging-leaders"
+title: Emerging Leaders 2020
+permalink: "/programs/emerging-leaders-2020"
 page_blocks:
 - template: text-block
   include_left-hand_column_text_: true
