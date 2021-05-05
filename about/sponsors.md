@@ -12,14 +12,6 @@ supporters:
   image: "/v1620155874/B-prop_id_rgb_q198gs.jpg"
 - name: Silman
   image: "/v1620155920/Silman_Logo_djgqp7.jpg"
-- name: logo1
-  image: "/assets/img/logo-placeholder.png"
-- name: logo1
-  image: "/assets/img/logo-placeholder.png"
-- name: logo1
-  image: "/assets/img/logo-placeholder.png"
-- name: logo1
-  image: "/assets/img/logo-placeholder.png"
 sponsors:
 - sponsors-header: Leadership Awards Gala Sponsors
   sponsors:
@@ -91,19 +83,10 @@ pioneering-women:
     Muntz, AIA; Nancy Nguyen; Alison Paul; Mardelle Shepley, Ph.D.; Judith Major,
     Ph.D.; Andrew Watiker; Laura Watiker
 previous-years:
-- {}
-- name: logo1
-  image: "/assets/img/logo-placeholder.png"
-- name: logo1
-  image: "/assets/img/logo-placeholder.png"
-- name: logo1
-  image: "/assets/img/logo-placeholder.png"
-- name: logo1
-  image: "/assets/img/logo-placeholder.png"
-- name: logo1
-  image: "/assets/img/logo-placeholder.png"
-- name: logo1
-  image: "/assets/img/logo-placeholder.png"
+- name: Brookfield Properties
+  image: "/v1620155874/B-prop_id_rgb_q198gs.jpg"
+- name: Silman
+  image: "/v1620155920/Silman_Logo_djgqp7.jpg"
 
 ---
 <div class="main-two-up">
@@ -120,7 +103,7 @@ previous-years:
     </div>
     <div class="logos-block">
         {% for supporter in page.supporters %}
-        <div><img src="{{supporter.image}}" alt="{{supporter.name}}"></div>
+        <div><img src="{{site.cloudinary}}/w_200/{{supporter.image}}" alt="{{supporter.name}}"></div>
         {% endfor %}
     </div>
 </div>
@@ -197,7 +180,7 @@ previous-years:
     </div>
     <div class="logos-block">
         {% for supporter in page.previous-years %}
-        <div><img src="{{supporter.image}}" alt="{{supporter.name}}"></div>
+        <div><img src="{{site.cloudinary}}/w_200/{{supporter.image}}" alt="{{supporter.name}}"></div>
         {% endfor %}
     </div>
 </div>
