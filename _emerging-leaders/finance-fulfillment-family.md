@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: innerPage
 date: 2018-05-05 11:29:12 +0000
-navCategory: ''
+navCategory: Programs
 title: Finance, Fulfillment, Family
 page_blocks:
 - template: text-block
-  section_break: true
+  section_break: false
   include_left-hand_column_text_: true
   lefthand_text:
     header_type: Medium Header
