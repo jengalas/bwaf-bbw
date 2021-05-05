@@ -45,6 +45,14 @@ collections:
   emerging-leaders:
     output: true
     permalink: programs/emerging-leaders/:year/:title
+defaults:
+  -
+    scope:
+      path: ""
+      type: "emerging-leaders" # a collection in your site, in plural form
+    values:
+      layout: "innerPage"
+      navCategory: "Programs"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
