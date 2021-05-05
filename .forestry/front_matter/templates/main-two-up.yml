@@ -39,13 +39,14 @@ fields:
 - name: date
   type: datetime
   label: Date
-  description: ''
+  description: Use for dating the Emerging Leaders section. Will hide once old posts
+    are made so it's automatic.
   config:
     required: false
     date_format: 
     time_format: 
     display_utc: true
-  hidden: true
+  hidden: false
   default: now
 pages:
 - _emerging-leaders/test-test-test.md
