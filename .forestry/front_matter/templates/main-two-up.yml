@@ -36,6 +36,17 @@ fields:
   config:
     min: 
     max: 
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: true
+  hidden: true
+  default: now
 pages:
 - _programs/industry-leaders-roundtable-retreat.md
 - about/about-beverly-willis.md
