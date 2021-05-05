@@ -1,8 +1,8 @@
 ---
 layout: innerPage
 navCategory: Programs
-title: Emerging Leaders 2020
-permalink: "/programs/emerging-leaders-2020"
+date: 2021-05-05 11:29:12 +0000
+title: Perseverance, Politics, Power
 page_blocks:
 - template: text-block
   include_left-hand_column_text_: true

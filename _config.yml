@@ -42,6 +42,9 @@ collections:
     output: true
   films:
     output: true
+  emerging-leaders:
+    output: true
+    permalink: emerging-leaders/:year/:title
 
 # Exclude from processing.
 # The following items will not be processed, by default.
