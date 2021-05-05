@@ -19,3 +19,15 @@ fields:
     - type: text
       name: link
       label: link
+    - name: page
+      type: select
+      default: []
+      config:
+        required: false
+        options: []
+        source:
+          type: pages
+          section: 
+          file: 
+          path: 
+      label: Page
