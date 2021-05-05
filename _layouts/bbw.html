@@ -29,7 +29,7 @@
     </div>
     <div>
         <div class="text-block spacer">
-            {{ page.description }}
+            {{ page.description | markdownify }}
         </div>
         <div class="img-block">
             <a href="{{page.map.link}}" target="_blank">
