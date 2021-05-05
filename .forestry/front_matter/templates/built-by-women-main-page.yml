@@ -1,0 +1,71 @@
+---
+label: Built By Women Main Page
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: title
+  label: title
+- type: text
+  name: navCategory
+  label: navCategory
+- type: field_group_list
+  name: slideshow-images
+  label: slideshow-images
+  fields:
+  - type: file
+    name: image
+    label: image
+  - type: text
+    name: caption
+    label: caption
+- type: textarea
+  name: description
+  label: description
+- type: field_group
+  name: map
+  label: map
+  fields:
+  - type: text
+    name: link
+    label: link
+  - type: file
+    name: image
+    label: image
+  - type: text
+    name: caption
+    label: caption
+- type: field_group_list
+  name: stats
+  label: stats
+  fields:
+  - type: text
+    name: number
+    label: number
+  - type: text
+    name: label
+    label: label
+- type: text
+  name: current-year
+  label: current-year
+- type: textarea
+  name: current-year-blurb
+  label: current-year-blurb
+- type: field_group_list
+  name: page_blocks
+  label: page_blocks
+  fields:
+  - type: text
+    name: template
+    label: template
+  - type: boolean
+    name: include_left-hand_column_text_
+    label: include_left-hand_column_text_
+  - type: textarea
+    name: text_block
+    label: text_block
