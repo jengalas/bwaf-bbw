@@ -70,6 +70,11 @@ fields:
   - type: textarea
     name: additional-supporters
     label: Additional Supporters
+- name: previous-years-header
+  type: text
+  config:
+    required: false
+  label: Previous Years Header
 - type: field_group_list
   name: previous-years
   label: Previous Years
