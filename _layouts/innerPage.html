@@ -94,15 +94,18 @@
 </div>
 {% endif %}
 
-{% if page.title == "Emerging Leaders" %}
+{% if page.url contains "emerging-leaders" %}
 <div class="main-two-up">
     <div>
     </div>
     <div>
         <h5>View previous sessions from recent years:</h5>
-        <a href="#" class="btn-secondary">2018: Finance, Fulfillment, Family→</a><br>
-        <a href="#" class="btn-secondary">2018: Networking, Negotiating, “Nice”→</a><br>
-        <a href="#" class="btn-secondary">2017: Risk, Rain-Making, Resilience→</a><br>
+            {% assign els = site.emerging-leaders | sort: 'date' | reverse %}
+            {% for el in els %}
+                {% if page.url != el.url %}
+                <a href="{{el.url}}" class="btn-secondary">{{ el.date | date: "%Y" }}: {{el.title}}→</a><br>
+                {% endif %}
+            {% endfor %}
     </div>
 </div>
 
