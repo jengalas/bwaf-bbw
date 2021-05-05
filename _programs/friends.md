@@ -18,10 +18,19 @@ page_blocks:
     Your annual support directly enables Beverly Willis Architecture Foundation, a nonprofit 501(c)(3) organization, in leading a cultural revolution in the building industry that acknowledges, cultivates and values women’s contributions and achievements- past, present and future.
 
     We cultivate leaders at all levels and seek to build global change. Support our efforts and become a BWAF Friend today.
+  section_break: false
 - template: image-block
   image: "/v1618939391/5_15_19_03_q5seh9.jpg"
   image_caption_text: Inaugural Friends event at the Ford Foundation, May 2019
   alt_text: Inaugural Friends event at the Ford Foundation, May 2019
+  section_break: false
+  include_left-hand_column_text_: false
+  lefthand_text:
+    header_type: ''
+    text: ''
+    download: ''
+    link_url: ''
+    link_text: ''
 - template: text-block
   text_block: |-
     ## **Annual Membership**
@@ -42,5 +51,14 @@ page_blocks:
     * Monthly BWAF newsletter
     * Copy of BWAF film
     * Prominent listing on BWAF website (Corporate Friendship only)
+  section_break: false
+  include_left-hand_column_text_: false
+  lefthand_text:
+    header_type: ''
+    text: ''
+    download: ''
+    link_url: ''
+    link_text: ''
+date: 2021-05-05 13:33:04 +0000
 
 ---
