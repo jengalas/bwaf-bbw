@@ -60,6 +60,13 @@ sections:
   match: "**/*"
   templates:
   - film
+- type: directory
+  path: _emerging-leaders
+  label: Emerging Leaders
+  create: documents
+  match: "**/*"
+  templates:
+  - main-two-up
 - type: heading
   label: Msc. Pages
 - type: document

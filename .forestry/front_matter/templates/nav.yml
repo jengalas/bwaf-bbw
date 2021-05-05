@@ -1,0 +1,33 @@
+---
+label: Nav
+hide_body: true
+fields:
+- type: field_group_list
+  name: Nav
+  label: Nav
+  fields:
+  - type: text
+    name: label
+    label: label
+  - type: field_group_list
+    name: subnav
+    label: subnav
+    fields:
+    - type: text
+      name: label
+      label: label
+    - type: text
+      name: link
+      label: link
+    - name: page
+      type: select
+      default: []
+      config:
+        required: false
+        options: []
+        source:
+          type: pages
+          section: 
+          file: 
+          path: 
+      label: Page

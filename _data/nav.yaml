@@ -1,42 +1,60 @@
+---
 - label: About
   subnav:
-    - label: Our Mission
-      link: /mission
-    - label: About Beverly Willis
-      link: /beverlywillis
-    - label: History of The Foundation
-      link: /history
-    - label: Board and Staff
-      link: /boardandstaff
-    - label: Sponsors
-      link: /sponsors
+  - label: Our Mission
+    link: "/mission"
+    page: ''
+  - label: About Beverly Willis
+    link: "/beverlywillis"
+    page: ''
+  - label: History of The Foundation
+    link: "/history"
+    page: ''
+  - label: Board and Staff
+    link: "/boardandstaff"
+    page: ''
+  - label: Sponsors
+    link: "/sponsors"
+    page: ''
 - label: Programs
   subnav:
   - label: Emerging Leaders
-    link: /programs/emerging-leaders
+    link: "/programs/emerging-leaders"
+    page: ''
   - label: Friends
-    link: /programs/friends
+    link: "/programs/friends"
+    page: ''
   - label: Built by Women
-    link: /built-by-women
+    link: "/built-by-women"
+    page: ''
   - label: Leadership Awards Gala
-    link: /programs/leadership-awards-gala
+    link: "/programs/leadership-awards-gala"
+    page: ''
   - label: Industry Leaders Roundtable Retreat
-    link: /programs/industry-leaders-roundtable-retreat
+    link: "/programs/industry-leaders-roundtable-retreat"
+    page: ''
 - label: Resources
   subnav:
   - label: Dynamic National Archive
-    link: /
+    link: "/"
     external: true
+    page: ''
   - label: Film Collection
-    link: /resources/film-collection
+    link: "/resources/film-collection"
+    page: ''
   - label: Newsletter Archive
-    link: /resources/newsletter-archive
+    link: "/resources/newsletter-archive"
+    page: ''
   - label: Pioneering Women of American Architecture
     link: https://pioneeringwomen.bwaf.org
     external: true
+    page: ''
   - label: Podcast (coming soon)
-    link: /
+    link: "/"
+    page: ''
 - label: Support
-  link: /support
+  link: "/support"
+  subnav: []
 - label: Search
-  link: /search
+  link: "/search"
+  subnav: []
