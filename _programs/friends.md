@@ -33,7 +33,7 @@ page_blocks:
     link_text: ''
 - template: text-block
   text_block: |-
-    ## **Annual Membership**
+    ### **Annual Membership**
 
     Early Professional (up to ten years of professional experience): $250
 
@@ -43,7 +43,7 @@ page_blocks:
 
     ###### *Allows for 4 participants per event
 
-    ## **For your annual donation, you will receive:**
+    ### **For your annual donation, you will receive:**
 
     * Invitation to three BWAF Friends events per year
     * Built By Women tote bag
@@ -59,6 +59,6 @@ page_blocks:
     download: ''
     link_url: ''
     link_text: ''
-date: 2021-05-05 13:33:04 +0000
+date: 2021-05-05T13:33:04.000+00:00
 
 ---
