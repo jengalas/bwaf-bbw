@@ -31,3 +31,5 @@ fields:
           file: 
           path: 
       label: Page
+pages:
+- _data/nav.yaml
