@@ -7,7 +7,7 @@ fields:
   name: layout
   label: layout
   hidden: true
-  default: default
+  default: innerPage
 - type: text
   name: permalink
   label: permalink
