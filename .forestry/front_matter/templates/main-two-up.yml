@@ -48,6 +48,7 @@ fields:
   hidden: true
   default: now
 pages:
+- _programs/emerging-leaders/emerging-leaders-2019.md
 - _programs/industry-leaders-roundtable-retreat.md
 - about/about-beverly-willis.md
 - about/boardandstaff.md
