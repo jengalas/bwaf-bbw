@@ -26,6 +26,7 @@ sections:
   match: "**/*"
   new_doc_ext: md
   templates:
+  - built-by-women-main-page
   - main-two-up
 - type: heading
   label: Built By Women
