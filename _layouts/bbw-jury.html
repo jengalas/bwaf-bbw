@@ -17,7 +17,7 @@
             {% for person in page.jury_members %}
             <div>
                 <div class="image-container">
-                    <img src="{{site.cloudinary}}{{person.image}}">
+                    <img src="{{site.cloudinary}}/w_400,h_400,g_face,c_fill/{{person.image}}">
                 </div>
                 <div>
                     <h2><b>{{person.title}}</b>
