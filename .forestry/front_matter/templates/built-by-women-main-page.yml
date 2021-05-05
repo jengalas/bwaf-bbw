@@ -5,18 +5,24 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
+  default: bbw
 - type: text
   name: permalink
   label: permalink
+  default: "/built-by-women"
+  hidden: true
 - type: text
   name: title
-  label: title
+  label: Title
 - type: text
   name: navCategory
   label: navCategory
+  hidden: true
+  default: Programs
 - type: field_group_list
   name: slideshow-images
-  label: slideshow-images
+  label: Slideshow Images
   fields:
   - type: file
     name: image
@@ -26,10 +32,14 @@ fields:
     label: caption
 - type: textarea
   name: description
-  label: description
+  label: Description
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
 - type: field_group
   name: map
-  label: map
+  label: Map
   fields:
   - type: text
     name: link
@@ -42,30 +52,28 @@ fields:
     label: caption
 - type: field_group_list
   name: stats
-  label: stats
+  label: Stats
   fields:
   - type: text
     name: number
-    label: number
+    label: Number
   - type: text
     name: label
-    label: label
-- type: text
-  name: current-year
-  label: current-year
+    label: Label
+  config:
+    labelField: label
+- name: current-year
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: bbw-years
+      file: 
+      path: 
+  label: Current Year
 - type: textarea
   name: current-year-blurb
-  label: current-year-blurb
-- type: field_group_list
-  name: page_blocks
-  label: page_blocks
-  fields:
-  - type: text
-    name: template
-    label: template
-  - type: boolean
-    name: include_left-hand_column_text_
-    label: include_left-hand_column_text_
-  - type: textarea
-    name: text_block
-    label: text_block
+  label: Current Year Blurb
