@@ -16,15 +16,21 @@ page_blocks:
   text_block: ''
 - template: portrait-gallery-block-small
   section_break: false
-  include_left-hand_column_text_: false
+  include_left-hand_column_text_: true
   lefthand_text:
     header_type: ''
     text: ''
     download: ''
     link_url: ''
     link_text: ''
-  header: ''
-  portrait: []
+  header: Meet our 2017 Emerging Leaders
+  portrait:
+  - title: Diana M. Zakem, PE, LEED, AP
+    title_role: Director, Construction, Brookfield Property Partners
+    image: "/v1620319771/IMG_0067_yqdfxw.jpg"
+  - title: Allison Robin Zampetti, LEED AP
+    title_role: Project Manager, Levien & Co.
+    image: "/v1620319657/Levien_Co-618_copy_d1aqwz.jpg"
 - template: featured-portrait-block
   section_break: false
   include_left-hand_column_text_: false
