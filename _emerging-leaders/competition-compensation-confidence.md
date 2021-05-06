@@ -95,7 +95,7 @@ page_blocks:
     image: "/v1620316819/MaggieZou_ahucre.jpg"
 - template: featured-portrait-block
   section_break: false
-  include_left-hand_column_text_: false
+  include_left-hand_column_text_: true
   lefthand_text:
     header_type: ''
     text: ''
@@ -114,7 +114,7 @@ page_blocks:
     line-2: 'Where: Mitchell Giurgola Architects LLP '
 - template: featured-portrait-block
   section_break: false
-  include_left-hand_column_text_: false
+  include_left-hand_column_text_: true
   lefthand_text:
     header_type: ''
     text: ''
@@ -133,7 +133,7 @@ page_blocks:
     line-2: 'Where: Dattner Architects'
 - template: featured-portrait-block
   section_break: false
-  include_left-hand_column_text_: false
+  include_left-hand_column_text_: true
   lefthand_text:
     header_type: ''
     text: ''
