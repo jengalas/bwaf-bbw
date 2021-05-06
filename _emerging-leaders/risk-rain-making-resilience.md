@@ -25,6 +25,15 @@ page_blocks:
     link_text: ''
   header: Meet our 2017 Emerging Leaders
   portrait:
+  - title: Shaina Saporta, PE
+    title_role: " Structural Engineer, Arup"
+    image: "/v1620321991/Saporta_Shaina_03_xznife.jpg"
+  - title: Amy Stroud
+    title_role: Marketing Manager, Dattner Architects
+    image: "/v1620321525/Amy_Stroud_-_Dattner_Architects_Headshot_uhpfy6.jpg"
+  - title: Ksenia Tretiakov
+    title_role: Senior Design Engineer, Leslie E. Robertson Associates
+    image: "/v1620321447/fasmar_20140710_0855_2x2_glchqx.jpg"
   - title: Jenny Werbell
     title_role: Lighting Designer, BuroHappold Engineering
     image: "/v1620320259/Werbell_BW_uokvq1.jpg"
