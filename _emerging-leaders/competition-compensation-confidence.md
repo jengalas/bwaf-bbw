@@ -25,6 +25,9 @@ page_blocks:
     link_text: ''
   header: Meet our 2019 Emerging Leaders
   portrait:
+  - title: Maeve K. Weiden, LEED AP BD+C
+    title_role: Project Engineer, Jaros, Baum & Bolles
+    image: ''
   - title: Natalia Zawisny
     title_role: Senior Protective Design and Structural Engineer, Thornton Tomasetti,
       Inc.
