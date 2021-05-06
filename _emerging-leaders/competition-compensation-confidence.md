@@ -25,12 +25,18 @@ page_blocks:
     link_text: ''
   header: Meet our 2019 Emerging Leaders
   portrait:
-  - title: ''
-    title_role: ''
-    image: ''
+  - title: Tori August
+    title_role: Associate/Project Architect, Cooper Carry
+    image: "/v1620318649/Hospitality_Feature_Photo_-_Tori_hdx0vu.jpg"
+  - title: Liza K. Billings, EIT
+    title_role: 'Project Engineer, '
+    image: "/v1620318541/Liza_Billings_resume_nck3pr.jpg"
+  - title: Samantha Biscottini
+    title_role: Senior Mechanical Engineer, Arup
+    image: "/v1620318375/S_Biscottini_-_Small_wcvn4i.jpg"
   - title: Hendy Bloch, Assoc. AIA
     title_role: 'Project Manager | Project Architect '
-    image: ''
+    image: "/v1620318309/Bloch_Hendy_ocmydh.jpg"
   - title: Alysha E. Buck, AIA
     title_role: Senior Associate, Cooper Carry
     image: "/v1620318128/AlyshaBuck-096_kwcxuy.jpg"
