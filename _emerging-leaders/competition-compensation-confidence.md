@@ -101,6 +101,5 @@ page_blocks:
   time-location:
     line-1: ''
     line-2: ''
-published: false
 
 ---
