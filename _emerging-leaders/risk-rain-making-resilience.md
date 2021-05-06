@@ -57,7 +57,7 @@ page_blocks:
     title_role: Senior Digital Data Specialist, Arup
     image: "/v1620322786/Jinsol_Kim_yd2yof.jpg"
   - title: Emily R. Kirwan
-    title_role: Junior Architect, Skidmore , Owings , and Merrill
+    title_role: Junior Architect, Skidmore, Owings, and Merrill
     image: "/v1620322722/Kirwan_Emily_2017_crop_pgf8dv.jpg"
   - title: Yun Jennifer Lan, PE, SE, LEED, AP
     title_role: Associate, Gilsanz Murray Steficek LLP
