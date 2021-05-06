@@ -99,8 +99,18 @@ page_blocks:
     title_role: Project Manager, Levien & Co.
     image: "/v1620319657/Levien_Co-618_copy_d1aqwz.jpg"
 - template: featured-portrait-block
+  header: RISK
+  include_left-hand_column_text_: true
+  label: Speaker
+  title: Mary Byron
+  subtitle: Independent Investor
+  description: Emerging leaders explore taking risks along multiple paths to success.
+    Senior women leaders share experiences of courage and risk taking to achieve daring
+    careers and personal power.
+  time-location:
+    line-1: 'When: May 9, 2017'
+    line-2: 'Where: Skidmore, Owings & Merrill'
   section_break: false
-  include_left-hand_column_text_: false
   lefthand_text:
     header_type: ''
     text: ''
@@ -108,14 +118,50 @@ page_blocks:
     link_url: ''
     link_text: ''
   featured-portrait: []
-  header: ''
   image: ''
-  label: ''
-  title: ''
-  subtitle: ''
-  description: ''
+- template: featured-portrait-block
+  header: RAIN-MAKING
+  include_left-hand_column_text_: true
+  label: Speaker
+  title: Jill Lerner, FAIA
+  subtitle: Principal | Kohn Pedersen Fox
+  description: Explore the power of your personal magnetism, friendships, and authentic
+    relationships in small group setting and understand the role of strong allies
+    in your career trajectory.
   time-location:
-    line-1: ''
-    line-2: ''
+    line-1: 'When: June 13, 2017'
+    line-2: 'Where: Kohn Pedersen Fox Associates'
+  section_break: false
+  lefthand_text:
+    header_type: ''
+    text: ''
+    download: ''
+    link_url: ''
+    link_text: ''
+  featured-portrait: []
+  image: ''
+- template: featured-portrait-block
+  section_break: false
+  include_left-hand_column_text_: true
+  lefthand_text:
+    header_type: ''
+    text: ''
+    download: ''
+    link_url: ''
+    link_text: ''
+  featured-portrait: []
+  header: RESILIENCE
+  image: "/v1620324785/SK_Updated_headshot_Nov_2018_q9bygv.jpg"
+  label: Speaker
+  title: Sabrina Kanner
+  subtitle: Executive Vice President of Design & Construction | Brookfield Office
+    Properties
+  description: Have a conversation about common work situations from an expert in
+    construction and development with other influential women who have taken unexpected
+    career turns and landed on their feet. Are you getting what you deserve? Do you
+    know how to ask for it?
+  time-location:
+    line-1: 'When: July 11, 2017'
+    line-2: 'Where: TBA'
 
 ---
