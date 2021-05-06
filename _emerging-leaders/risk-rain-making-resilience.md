@@ -6,10 +6,10 @@ title: Risk, Rain-Making, Resilience
 page_blocks:
 - template: text-block
   section_break: false
-  include_left-hand_column_text_: false
+  include_left-hand_column_text_: true
   lefthand_text:
-    header_type: ''
-    text: ''
+    header_type: Medium Header
+    text: Finance, Fulfillment, Family
     download: ''
     link_url: ''
     link_text: ''

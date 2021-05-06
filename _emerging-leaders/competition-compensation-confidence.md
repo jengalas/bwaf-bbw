@@ -8,7 +8,7 @@ page_blocks:
   include_left-hand_column_text_: true
   lefthand_text:
     text: Confidence, Compensation, Competition
-    header_type: ''
+    header_type: Medium Header
     download: ''
     link_url: ''
     link_text: ''

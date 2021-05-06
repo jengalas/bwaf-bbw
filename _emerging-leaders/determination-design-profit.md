@@ -8,7 +8,7 @@ page_blocks:
   section_break: false
   include_left-hand_column_text_: true
   lefthand_text:
-    header_type: ''
+    header_type: Medium Header
     text: Determination, Design, Disruption
     download: ''
     link_url: ''
