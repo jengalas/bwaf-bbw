@@ -27,7 +27,7 @@ page_blocks:
   portrait:
   - title: Ivy Hume
     title_role: Architect, FOSTER + PARTNERS ARCHITECTS
-    image: ''
+    image: "/v1620316693/IvyHume_wag7y2.jpg"
   - title: Ellyn E. Plappert
     title_role: Senior Project Engineer, Jaros, Baum & Bolles
     image: ''
