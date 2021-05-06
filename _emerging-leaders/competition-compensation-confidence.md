@@ -25,6 +25,9 @@ page_blocks:
     link_text: ''
   header: Meet our 2019 Emerging Leaders
   portrait:
+  - title: " Courtney Higgins"
+    title_role: Associate Principal, Kohn Pedersen Fox Associates
+    image: ''
   - title: Ivy Hume
     title_role: Architect, FOSTER + PARTNERS ARCHITECTS
     image: "/v1620316693/IvyHume_wag7y2.jpg"
