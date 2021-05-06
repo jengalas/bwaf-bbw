@@ -23,8 +23,11 @@ page_blocks:
     download: ''
     link_url: ''
     link_text: ''
-  header: ''
-  portrait: []
+  header: Meet our 2019 Emerging Leaders
+  portrait:
+  - title: Tori August
+    title_role: Associate/Project Architect, Cooper Carry
+    image: ''
 - template: featured-portrait-block
   section_break: false
   include_left-hand_column_text_: false
