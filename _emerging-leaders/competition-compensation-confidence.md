@@ -103,15 +103,15 @@ page_blocks:
     link_url: ''
     link_text: ''
   featured-portrait: []
-  header: ''
-  image: ''
-  label: ''
-  title: ''
-  subtitle: ''
+  header: CONFIDENCE
+  image: "/v1620319083/Loewenson_Carol_1355_zixpvm.jpg"
+  label: Speaker
+  title: Carol Loewenson, FAIA, LEED AP
+  subtitle: Partner | Mitchell Giurgola Architects LLP
   description: ''
   time-location:
-    line-1: ''
-    line-2: ''
+    line-1: 'When: June 26, 2019'
+    line-2: 'Where: Mitchell Giurgola Architects LLP '
 - template: featured-portrait-block
   section_break: false
   include_left-hand_column_text_: false
@@ -122,15 +122,15 @@ page_blocks:
     link_url: ''
     link_text: ''
   featured-portrait: []
-  header: ''
-  image: ''
-  label: ''
-  title: ''
-  subtitle: ''
+  header: COMPENSATION
+  image: "/v1620318998/suzanne-spennasilico_headshot_980x780_g421vc.jpg"
+  label: Speakers
+  title: Suzanne Pennasilico, SPHR
+  subtitle: Managing Principal | Dattner Architects
   description: ''
   time-location:
-    line-1: ''
-    line-2: ''
+    line-1: 'When: July 25, 2019'
+    line-2: 'Where: Dattner Architects'
 - template: featured-portrait-block
   section_break: false
   include_left-hand_column_text_: false
@@ -141,33 +141,14 @@ page_blocks:
     link_url: ''
     link_text: ''
   featured-portrait: []
-  header: ''
-  image: ''
-  label: ''
-  title: ''
-  subtitle: ''
+  header: COMPETITION
+  image: "/v1620318830/AAEAAQAAAAAAAAsGAAAAJDRhYTI3YjcwLWM3YjMtNGZmZC1hZjUzLWMxNTZkYmFlNzFlMg_opao6k.jpg"
+  label: Speaker
+  title: Susan Hayes
+  subtitle: Founder and CEO | Susan Hayes Enterprises
   description: ''
   time-location:
-    line-1: ''
-    line-2: ''
-- template: featured-portrait-block
-  section_break: false
-  include_left-hand_column_text_: false
-  lefthand_text:
-    header_type: ''
-    text: ''
-    download: ''
-    link_url: ''
-    link_text: ''
-  featured-portrait: []
-  header: ''
-  image: ''
-  label: ''
-  title: ''
-  subtitle: ''
-  description: ''
-  time-location:
-    line-1: ''
-    line-2: ''
+    line-1: 'When: August 27, 2019'
+    line-2: 'Where: Skidmore, Owings and Merrill, LLP'
 
 ---
