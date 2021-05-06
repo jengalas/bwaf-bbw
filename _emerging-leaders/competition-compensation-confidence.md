@@ -25,6 +25,10 @@ page_blocks:
     link_text: ''
   header: Meet our 2019 Emerging Leaders
   portrait:
+  - title: Emily Snead
+    title_role: Project Manager, Langan Engineering, Environmental, Surveying, Landscape
+      Architecture, and Geology, D.P.C
+    image: ''
   - title: Athina Spyridaki
     title_role: Structural Engineer Professional, Skidmore, Owings & Merrill LLP
     image: ''
