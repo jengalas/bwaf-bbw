@@ -25,8 +25,8 @@ page_blocks:
     link_text: ''
   header: Meet our 2019 Emerging Leaders
   portrait:
-  - title: Tori August
-    title_role: Associate/Project Architect, Cooper Carry
+  - title: Maggie Zou
+    title_role: Architectural Designer, Perkins Eastman
     image: ''
 - template: featured-portrait-block
   section_break: false
