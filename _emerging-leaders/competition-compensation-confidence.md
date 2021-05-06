@@ -25,6 +25,9 @@ page_blocks:
     link_text: ''
   header: Meet our 2019 Emerging Leaders
   portrait:
+  - title: Ellyn E. Plappert
+    title_role: Senior Project Engineer, Jaros, Baum & Bolles
+    image: ''
   - title: Rubina Ramponi
     title_role: Senior Engineer, Arup
     image: ''
