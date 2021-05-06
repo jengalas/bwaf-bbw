@@ -25,6 +25,9 @@ page_blocks:
     link_text: ''
   header: Meet our 2019 Emerging Leaders
   portrait:
+  - title: Maryanne Wachter
+    title_role: Structural Design Engineer, LERA Consulting Structural Engineers
+    image: ''
   - title: Maeve K. Weiden, LEED AP BD+C
     title_role: Project Engineer, Jaros, Baum & Bolles
     image: ''
