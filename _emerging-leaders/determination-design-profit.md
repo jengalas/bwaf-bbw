@@ -9,11 +9,11 @@ page_blocks:
   include_left-hand_column_text_: true
   lefthand_text:
     header_type: ''
-    text: ''
+    text: Determination, Design, Disruption
     download: ''
     link_url: ''
     link_text: ''
-  text_block: Determination, Design, Disruption
+  text_block: ''
 - template: portrait-gallery-block-small
   section_break: false
   include_left-hand_column_text_: false
