@@ -49,6 +49,7 @@ fields:
   hidden: false
   default: now
 pages:
+- _emerging-leaders/competition-compensation-confidence.md
 - _emerging-leaders/risk-rain-making-resilience.md
 - _programs/friends.md
 - _programs/industry-leaders-roundtable-retreat.md
