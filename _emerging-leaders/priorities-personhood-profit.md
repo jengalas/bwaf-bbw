@@ -6,10 +6,10 @@ title: Priorities, Personhood, Profit
 page_blocks:
 - template: text-block
   section_break: false
-  include_left-hand_column_text_: false
+  include_left-hand_column_text_: true
   lefthand_text:
-    header_type: ''
-    text: ''
+    header_type: Medium Header
+    text: Priorities, Personhood, Profit
     download: ''
     link_url: ''
     link_text: ''
