@@ -25,6 +25,9 @@ page_blocks:
     link_text: ''
   header: Meet our 2019 Emerging Leaders
   portrait:
+  - title: Athina Spyridaki
+    title_role: Structural Engineer Professional, Skidmore, Owings & Merrill LLP
+    image: ''
   - title: Carisa Sweeney
     title_role: Senior Architect, Urban Architecture LLC
     image: ''
