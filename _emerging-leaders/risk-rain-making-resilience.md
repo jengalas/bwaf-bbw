@@ -25,6 +25,9 @@ page_blocks:
     link_text: ''
   header: Meet our 2017 Emerging Leaders
   portrait:
+  - title: Jenny Werbell
+    title_role: Lighting Designer, BuroHappold Engineering
+    image: "/v1620320259/Werbell_BW_uokvq1.jpg"
   - title: Erika Yaroni
     title_role: Structural Engineer, Buro Happold
     image: "/v1620319977/Screen_Shot_2021-05-06_at_12.52.42_PM_xudjwe.png"
