@@ -25,6 +25,10 @@ page_blocks:
     link_text: ''
   header: Meet our 2019 Emerging Leaders
   portrait:
+  - title: Natalia Zawisny
+    title_role: Senior Protective Design and Structural Engineer, Thornton Tomasetti,
+      Inc.
+    image: ''
   - title: Maggie Zou
     title_role: Architectural Designer, Perkins Eastman
     image: ''
