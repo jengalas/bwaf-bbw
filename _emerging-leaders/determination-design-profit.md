@@ -6,14 +6,14 @@ title: Determination, Design, Disruption
 page_blocks:
 - template: text-block
   section_break: false
-  include_left-hand_column_text_: false
+  include_left-hand_column_text_: true
   lefthand_text:
     header_type: ''
     text: ''
     download: ''
     link_url: ''
     link_text: ''
-  text_block: ''
+  text_block: Determination, Design, Disruption
 - template: portrait-gallery-block-small
   section_break: false
   include_left-hand_column_text_: false
