@@ -25,41 +25,68 @@ page_blocks:
     link_text: ''
   header: Meet our 2019 Emerging Leaders
   portrait:
+  - title: ''
+    title_role: ''
+    image: ''
+  - title: Hendy Bloch, Assoc. AIA
+    title_role: 'Project Manager | Project Architect '
+    image: ''
+  - title: Alysha E. Buck, AIA
+    title_role: Senior Associate, Cooper Carry
+    image: "/v1620318128/AlyshaBuck-096_kwcxuy.jpg"
+  - title: Alanna Conner
+    title_role: Associate, Cooper Carry
+    image: "/v1620317954/Screen_Shot_2021-05-06_at_12.18.53_PM_sjpsxv.png"
+  - title: May ElKhattab
+    title_role: Senior Geotechnical Engineer, Arup
+    image: "/v1620317857/May_ElKhattab_03_hs0hmj.jpg"
+  - title: Caroline Frantz
+    title_role: Intermediate Architect, Marvel Architects
+    image: "/v1620317789/Caroline_Frantz_howux8.jpg"
+  - title: Jessica Friscia
+    title_role: Project Engineer, Langan
+    image: "/v1620317723/Friscia-Jessica-cropped_lbaosj.jpg"
+  - title: Ishita Gaur
+    title_role: Architectural and Urban Designer, Marvel Architect
+    image: "/v1620317652/Ishita_Gaur_B_W_square_ncvm1t.jpg"
+  - title: Madeleine Haslam
+    title_role: Designer, Cooper Carry
+    image: "/v1620317534/Haslam_Headshot_qofwe9.jpg"
   - title: " Courtney Higgins"
     title_role: Associate Principal, Kohn Pedersen Fox Associates
-    image: ''
+    image: "/v1620317278/HIGGINS_headshot_y16ghe.png"
   - title: Ivy Hume
     title_role: Architect, FOSTER + PARTNERS ARCHITECTS
     image: "/v1620316693/IvyHume_wag7y2.jpg"
   - title: Ellyn E. Plappert
     title_role: Senior Project Engineer, Jaros, Baum & Bolles
-    image: ''
+    image: "/v1620317327/Plappert_0195_qrs1ta.jpg"
   - title: Rubina Ramponi
     title_role: Senior Engineer, Arup
-    image: ''
+    image: "/v1620317201/Rubina_Ramponi_2018-alternate1_psaac3.jpg"
   - title: Emily Snead
     title_role: Project Manager, Langan Engineering, Environmental, Surveying, Landscape
       Architecture, and Geology, D.P.C
-    image: ''
+    image: "/v1620317426/Headshot_ESnead_afdus9.jpg"
   - title: Athina Spyridaki
     title_role: Structural Engineer Professional, Skidmore, Owings & Merrill LLP
-    image: ''
+    image: "/v1620317471/Headshot_-_Athina_Spyridaki_ximwmn.jpg"
   - title: Carisa Sweeney
     title_role: Senior Architect, Urban Architecture LLC
-    image: ''
+    image: "/v1620317079/Carisa_Sweeney_-_head_shot_afnxey.jpg"
   - title: Maryanne Wachter
     title_role: Structural Design Engineer, LERA Consulting Structural Engineers
-    image: ''
+    image: "/v1620317029/Screen_Shot_2021-05-06_at_12.03.38_PM_tpgojv.png"
   - title: Maeve K. Weiden, LEED AP BD+C
     title_role: Project Engineer, Jaros, Baum & Bolles
-    image: ''
+    image: "/v1620316968/HS_Weiden-M_asyket.jpg"
   - title: Natalia Zawisny
     title_role: Senior Protective Design and Structural Engineer, Thornton Tomasetti,
       Inc.
-    image: ''
+    image: "/v1620316906/NZawinsny_jilab6.jpg"
   - title: Maggie Zou
     title_role: Architectural Designer, Perkins Eastman
-    image: ''
+    image: "/v1620316819/MaggieZou_ahucre.jpg"
 - template: featured-portrait-block
   section_break: false
   include_left-hand_column_text_: false
