@@ -25,6 +25,15 @@ page_blocks:
     link_text: ''
   header: Meet our 2017 Emerging Leaders
   portrait:
+  - title: Cristina Rodriguez
+    title_role: Designer, FXFOWLE
+    image: "/v1620322363/CRodriguez_DSC_3572_xjlwvj.jpg"
+  - title: Michelle Roelofs, PE
+    title_role: Senior Structural Engineer, Arup
+    image: "/v1620322303/Roelofs_Michelle_2015_pax4ea.jpg"
+  - title: 'Layla Safiani '
+    title_role: Associate, Project Architect, Mancini Duffy
+    image: "/v1620322217/DSC04204_lbgtak.jpg"
   - title: Shaina Saporta, PE
     title_role: " Structural Engineer, Arup"
     image: "/v1620321991/Saporta_Shaina_03_xznife.jpg"
