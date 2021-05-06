@@ -25,6 +25,9 @@ page_blocks:
     link_text: ''
   header: Meet our 2019 Emerging Leaders
   portrait:
+  - title: Carisa Sweeney
+    title_role: Senior Architect, Urban Architecture LLC
+    image: ''
   - title: Maryanne Wachter
     title_role: Structural Design Engineer, LERA Consulting Structural Engineers
     image: ''
