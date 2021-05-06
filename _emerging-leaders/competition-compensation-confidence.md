@@ -25,6 +25,9 @@ page_blocks:
     link_text: ''
   header: Meet our 2019 Emerging Leaders
   portrait:
+  - title: Rubina Ramponi
+    title_role: Senior Engineer, Arup
+    image: ''
   - title: Emily Snead
     title_role: Project Manager, Langan Engineering, Environmental, Surveying, Landscape
       Architecture, and Geology, D.P.C
