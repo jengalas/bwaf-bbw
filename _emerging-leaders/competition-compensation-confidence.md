@@ -122,15 +122,15 @@ page_blocks:
     link_url: ''
     link_text: ''
   featured-portrait: []
-  header: COMPENSATION
-  image: "/v1620318998/suzanne-spennasilico_headshot_980x780_g421vc.jpg"
-  label: Speakers
-  title: Suzanne Pennasilico, SPHR
-  subtitle: Managing Principal | Dattner Architects
+  header: COMPETITION
+  image: "/v1620318830/AAEAAQAAAAAAAAsGAAAAJDRhYTI3YjcwLWM3YjMtNGZmZC1hZjUzLWMxNTZkYmFlNzFlMg_opao6k.jpg"
+  label: Speaker
+  title: Susan Hayes
+  subtitle: Founder and CEO | Susan Hayes Enterprises
   description: ''
   time-location:
-    line-1: 'When: July 25, 2019'
-    line-2: 'Where: Dattner Architects'
+    line-1: 'When: August 27, 2019'
+    line-2: 'Where: Skidmore, Owings and Merrill, LLP'
 - template: featured-portrait-block
   section_break: false
   include_left-hand_column_text_: true
@@ -141,14 +141,33 @@ page_blocks:
     link_url: ''
     link_text: ''
   featured-portrait: []
-  header: COMPETITION
-  image: "/v1620318830/AAEAAQAAAAAAAAsGAAAAJDRhYTI3YjcwLWM3YjMtNGZmZC1hZjUzLWMxNTZkYmFlNzFlMg_opao6k.jpg"
+  header: COMPENSATION
+  image: "/v1620318998/suzanne-spennasilico_headshot_980x780_g421vc.jpg"
   label: Speaker
-  title: Susan Hayes
-  subtitle: Founder and CEO | Susan Hayes Enterprises
+  title: Suzanne Pennasilico, SPHR
+  subtitle: Managing Principal | Dattner Architects
   description: ''
   time-location:
-    line-1: 'When: August 27, 2019'
-    line-2: 'Where: Skidmore, Owings and Merrill, LLP'
+    line-1: 'When: July 25, 2019'
+    line-2: 'Where: Dattner Architects'
+- template: featured-portrait-block
+  include_left-hand_column_text_: true
+  title: Kirsten Sibilia, Assoc. AIA, LEED AP
+  label: Speaker
+  header: COMPENSATION
+  subtitle: Managing Principal | Dattner Architects
+  time-location:
+    line-1: 'When: July 25, 2019'
+    line-2: 'Where: Dattner Architects'
+  image: "/v1620319314/Screen_Shot_2021-05-06_at_12.40.14_PM_m0t6eb.png"
+  section_break: false
+  lefthand_text:
+    header_type: ''
+    text: ''
+    download: ''
+    link_url: ''
+    link_text: ''
+  featured-portrait: []
+  description: ''
 
 ---
