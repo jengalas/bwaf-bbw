@@ -25,6 +25,9 @@ page_blocks:
     link_text: ''
   header: Meet our 2017 Emerging Leaders
   portrait:
+  - title: Erika Yaroni
+    title_role: Structural Engineer, Buro Happold
+    image: "/v1620319977/Screen_Shot_2021-05-06_at_12.52.42_PM_xudjwe.png"
   - title: Diana M. Zakem, PE, LEED, AP
     title_role: Director, Construction, Brookfield Property Partners
     image: "/v1620319771/IMG_0067_yqdfxw.jpg"
