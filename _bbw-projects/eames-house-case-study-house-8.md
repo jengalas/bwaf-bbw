@@ -12,6 +12,5 @@ location: 'Pacific Palisades, Los Angeles '
 year: 
 description: ''
 images: []
-published: false
 
 ---
