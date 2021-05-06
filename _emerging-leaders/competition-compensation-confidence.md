@@ -25,6 +25,9 @@ page_blocks:
     link_text: ''
   header: Meet our 2019 Emerging Leaders
   portrait:
+  - title: Ivy Hume
+    title_role: Architect, FOSTER + PARTNERS ARCHITECTS
+    image: ''
   - title: Ellyn E. Plappert
     title_role: Senior Project Engineer, Jaros, Baum & Bolles
     image: ''
