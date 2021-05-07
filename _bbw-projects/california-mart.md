@@ -16,7 +16,7 @@ description: Lauded for her numerous pioneering achievements as one of the first
   her to overcome racism and sexism and become a prominent architect and a leader
   in the profession.
 images:
-- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
+- image: "/v1620415992/6.-entry-57-calmart01-1000x802_rc3ghv.jpg"
   caption: ''
 
 ---
