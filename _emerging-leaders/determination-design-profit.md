@@ -81,7 +81,7 @@ page_blocks:
     image: "/v1620399046/Screen_Shot_2021-05-07_at_10.50.25_AM_sfgt42.png"
 - template: featured-portrait-block
   section_break: false
-  include_left-hand_column_text_: false
+  include_left-hand_column_text_: true
   lefthand_text:
     header_type: ''
     text: ''
@@ -89,14 +89,58 @@ page_blocks:
     link_url: ''
     link_text: ''
   featured-portrait: []
-  header: ''
-  image: ''
-  label: ''
-  title: ''
-  subtitle: ''
-  description: ''
+  header: DETERMINATION
+  image: "/v1620401129/DSC_6068_CC_d7uzop.jpg"
+  label: Speaker
+  title: Juliet Hernandez-Eli
+  subtitle: Founding Partner, Hernandez-Eli Architecture
+  description: Possibly the single most significant facet in every leader’s success
+    story, determination is nevertheless difficult to sustain against the odds. Gain
+    insights with Juliet Hernandez, Founding Partner of Hernandez-Eli.
   time-location:
-    line-1: ''
-    line-2: ''
+    line-1: 'When: October 13, 2020'
+    line-2: Virtual session
+- template: featured-portrait-block
+  include_left-hand_column_text_: true
+  header: DESIGN
+  label: Speaker
+  title: Pat Bosch
+  subtitle: Design Director and Principal, Perkins&Will
+  description: Explore the challenges and rewards of collaboratively pursuing good
+    design, and the importance of undertaking responsible research involving multiple
+    perspectives and customs, with Pat Bosch, Design Director and Principal at Perkins+Will.
+  time-location:
+    line-1: 'When: November 12, 2020'
+    line-2: Virtual session
+  image: "/v1620401208/141_Pat_Bosch_31017_High_Resolution_ce1orp.jpg"
+  section_break: false
+  lefthand_text:
+    header_type: ''
+    text: ''
+    download: ''
+    link_url: ''
+    link_text: ''
+  featured-portrait: []
+- template: featured-portrait-block
+  include_left-hand_column_text_: true
+  header: DISRUPTION
+  label: Speaker
+  title: Frances Bronet
+  subtitle: President at Pratt Institute
+  description: Disruption always creates new connections. But taking the leap into
+    disrupting your own trajectory for the better takes courage and confidence. Learn
+    with Frances Bronet, architect, and President of Pratt Institute.
+  time-location:
+    line-1: 'When: December 3, 2020'
+    line-2: Virtual session
+  image: "/v1620401288/33C8F1FF-848F-4DFA-BA1E-2BDF29F2D433_k2a4bm.png"
+  section_break: false
+  lefthand_text:
+    header_type: ''
+    text: ''
+    download: ''
+    link_url: ''
+    link_text: ''
+  featured-portrait: []
 
 ---
