@@ -15,6 +15,8 @@ description: 'With its animated sign, colorful interior, and shining plate glass
   (circa 1958) brings back the detail and finesse of Fong''s original vision. Meant
   to attract the passerby at 30 miles per hour, Pann''s expresses all the exuberance
   of the LA aerospace culture. '
-images: []
+images:
+- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
+  caption: ''
 
 ---
