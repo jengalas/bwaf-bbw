@@ -25,6 +25,9 @@ page_blocks:
     link_text: ''
   header: 'Meet our 2018 #2 Emerging Leaders'
   portrait:
+  - title: Luisa F Méndez
+    title_role: Senior Associate, SHoP Architects
+    image: "/v1620395285/Luisa_Mendez_upljuk.jpg"
   - title: Laurie Mendez
     title_role: Designer, Stantec Architecture
     image: "/v1620395121/headshot_digttk.jpg"
