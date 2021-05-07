@@ -10,6 +10,9 @@ architects:
 location: 1220 5th Avenue at 103rd Street, New York, NY
 year: 2015
 description: ''
-images: []
+images:
+- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
+  caption: ''
+historical: false
 
 ---
