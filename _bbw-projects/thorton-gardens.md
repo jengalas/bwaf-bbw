@@ -18,6 +18,8 @@ description: 'Cinematic fantasy, corporate glamour, and grandeur surround the Tu
   opulence of this private San Marino mansion. Through nine acres of reflecting pools,
   broad lawns, and paired anchoring rose gardens, Yoch, Council and Bashford capture
   European formality and naturalistic Southern California. '
-images: []
+images:
+- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
+  caption: ''
 
 ---
