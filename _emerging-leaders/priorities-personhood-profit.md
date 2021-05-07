@@ -23,8 +23,44 @@ page_blocks:
     download: ''
     link_url: ''
     link_text: ''
-  header: ''
+  header: Meet our 2020 Emerging Leaders
   portrait:
+  - title: Caitlin Baransky Getman
+    title_role: Senior Associate, Robert A. M. Stern Architects
+    image: "/v1620404810/Caitlin_Getman_Headshot_jgoryf.jpg"
+  - title: Caroline Shannon
+    title_role: Associate, Howeler + Yoon Architecture, LLP
+    image: "/v1620404748/CS_Headshot_ocw3mk.jpg"
+  - title: Casie Kowalski
+    title_role: Project Manager, Andrea Steele Architecture
+    image: "/v1620404704/Casie-Kowalski_EDIT-720x774_p6a7lr.jpg"
+  - title: Chelsea Hyduk
+    title_role: Senior Associate, SHoP Architects
+    image: "/v1620404654/Chelsea_Hyduk_Headshot_bhtszq.jpg"
+  - title: Daniela Beraún
+    title_role: Architect, Reynaldo Ledgard Arquitectos (Lima - Peru)
+    image: "/v1620404596/headshot_jt7gza.jpg"
+  - title: Devon Telberg
+    title_role: Architectural Professional, AAI Architects
+    image: "/v1620404469/Devon_5_ocbcky.jpg"
+  - title: Emily Walport
+    title_role: Senior Engineer, Arup
+    image: "/v1620404396/Emily_headshot_k44okl.jpg"
+  - title: Jasmin Sadegh
+    title_role: Project Engineer, Silman
+    image: "/v1620404351/JSadegh_headshot_p2232z.jpg"
+  - title: Jennifer Greenawalt
+    title_role: Senior Engineer, Thornton Tomasetti
+    image: "/v1620404289/TT_200313_N58_rwhqcn.jpg"
+  - title: Lauren G. Pavlat , LEED AP BD+C
+    title_role: Senior Project Engineer, Jaros, Baum & Bolles
+    image: "/v1620404168/HS_Pavlat-L_lakfjb.jpg"
+  - title: Melanie R. Gargano
+    title_role: Senior Project Engineer, Jaros, Baum, & Bolles
+    image: "/v1620404103/HS_Gargano-M_hckeds.jpg"
+  - title: Rebecca McCarthy
+    title_role: " Designer, Dattner Architects"
+    image: "/v1620404049/McCarthy_Rebecca_H_wnktbw.jpg"
   - title: Robyn Engel, AIA
     title_role: Project Architect, IKM Architects
     image: "/v1620402651/Robyn-Engel_m6gflo.jpg"
