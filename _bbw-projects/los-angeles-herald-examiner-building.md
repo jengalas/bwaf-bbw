@@ -15,6 +15,8 @@ description: Julia Morgan was the first female licensed architect in California 
   level windows exposed the whirring presses of the twice daily newspaper to passers-by.
   Designed in a Spanish Colonial Revival style and recently renovated, the building
   remains a landmark of distinguished regional character.
-images: []
+images:
+- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
+  caption: ''
 
 ---
