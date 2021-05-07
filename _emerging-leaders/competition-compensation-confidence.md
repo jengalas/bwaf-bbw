@@ -126,7 +126,7 @@ page_blocks:
   image: "/v1620318998/suzanne-spennasilico_headshot_980x780_g421vc.jpg"
   label: Speaker
   title: Suzanne Pennasilico, SPHR
-  subtitle: Managing Principal | Dattner Architects
+  subtitle: ''
   description: ''
   time-location:
     line-1: 'When: July 25, 2019'
