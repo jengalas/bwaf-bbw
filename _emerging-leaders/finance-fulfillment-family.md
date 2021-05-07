@@ -95,17 +95,14 @@ page_blocks:
 - template: featured-portrait-block
   image: "/v1620142964/Yee-722x349_kvzhez.jpg"
   include_left-hand_column_text_: true
-  header: POWER
+  header: FAMILY
   label: Speaker
-  title: Phoebe Yee, AIA
-  subtitle: Senior Vice President, Design, Related California
-  description: Hear from architect turned developer, Phoebe Yee, Senior Vice President,
-    Design, Related California, about both the importance of realizing your personal
-    power, and the necessity of understanding where the power is in the real estate
-    industry.
+  title: Jill Lerner, FAIA
+  subtitle: Principal | Kohn Pedersen Fox
+  description: ''
   time-location:
-    line-1: 'When: Tuesday, May 25, 2021, 6:30-8PM'
-    line-2: Virtual session
+    line-1: 'When: December 18, 2018'
+    line-2: 'Where: KPF, 11 W. 42nd Street, New York, NY 10036'
 
 ---
 ---
