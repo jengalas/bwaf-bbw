@@ -16,7 +16,7 @@ description: Julia Morgan was the first female licensed architect in California 
   Designed in a Spanish Colonial Revival style and recently renovated, the building
   remains a landmark of distinguished regional character.
 images:
-- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
-  caption: ''
+- image: "/v1620416246/Postcard-ca-los-angeles-examiner-building_hsbsae.png"
+  caption: Los Angeles Herald Examiner Building, exterior view
 
 ---
