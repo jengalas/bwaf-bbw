@@ -10,6 +10,9 @@ architects:
 location: 530 West 21st Street, New York, NY
 year: 2008
 description: ''
-images: []
+images:
+- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
+  caption: ''
+historical: false
 
 ---
