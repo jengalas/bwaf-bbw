@@ -77,8 +77,20 @@ page_blocks:
     title_role: Associate, LERA Consulting Structural Engineers
     image: "/v1620402364/Yun_Luo_Headshot_LERA_bl557u.jpg"
 - template: featured-portrait-block
+  header: PRIORITIES
+  label: Speaker
+  title: Margaret Newman, FAIA, LEED AP BD+C
+  subtitle: Principal, Integrated Planning Team | Arup
+  description: How do we ever know what to do first? How do our priorities change
+    as our career develops? Discuss these challenges with Bloomberg administration
+    veteran New York City Department of Transportation Commissioner Chief of Staff,
+    Arup Urban Planner and Principal, Margaret Newman.
+  time-location:
+    line-1: 'When: April 14, 2020'
+    line-2: Virtual session
+  image: "/v1620405004/1_n6cdm9.jpg"
+  include_left-hand_column_text_: true
   section_break: false
-  include_left-hand_column_text_: false
   lefthand_text:
     header_type: ''
     text: ''
@@ -86,14 +98,47 @@ page_blocks:
     link_url: ''
     link_text: ''
   featured-portrait: []
-  header: ''
-  image: ''
-  label: ''
-  title: ''
-  subtitle: ''
-  description: ''
+- template: featured-portrait-block
+  section_break: false
+  include_left-hand_column_text_: true
+  lefthand_text:
+    header_type: ''
+    text: ''
+    download: ''
+    link_url: ''
+    link_text: ''
+  featured-portrait: []
+  header: PERSONHOOD
+  image: "/v1620404929/ARolland_web_qffqzq.jpg"
+  label: Speaker
+  title: Ann Rolland, FAIA
+  subtitle: Partner | FXCollaborative
+  description: Are there challenges for non-heteronormative professionals in the workplace?
+    How can you learn to bring your full self to work? Hear from Annie Rolland, FAIA,
+    Partner at FXCollaborative on her journey.
   time-location:
-    line-1: ''
-    line-2: ''
+    line-1: 'When: April 28, 2020'
+    line-2: Virtual session
+- template: featured-portrait-block
+  section_break: false
+  include_left-hand_column_text_: true
+  lefthand_text:
+    header_type: ''
+    text: ''
+    download: ''
+    link_url: ''
+    link_text: ''
+  featured-portrait: []
+  header: PROFIT
+  image: "/v1618329337/Bolanle_Williams-Olley_Headshot_yza38d.jpg"
+  label: Speaker
+  title: Bolanle Williams-Olley
+  subtitle: Chief Financial Officer | Mancini Duffy
+  description: Meet industry CFO Bolanle Williams-Olley to discuss profit in professional
+    services, how best to talk about it with your clients and how to retain it in
+    difficult times.
+  time-location:
+    line-1: 'When: June 23, 2020'
+    line-2: 'When: June 23, 2020'
 
 ---
