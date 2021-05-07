@@ -10,7 +10,11 @@ architects:
   role: Armet and Davis
 location: Ladera Heights, Los Angeles
 year: 
-description: ''
+description: 'With its animated sign, colorful interior, and shining plate glass revealing
+  a riot of planting, the 1993 renovation of this classic Los Angeles Googie building
+  (circa 1958) brings back the detail and finesse of Fong''s original vision. Meant
+  to attract the passerby at 30 miles per hour, Pann''s expresses all the exuberance
+  of the LA aerospace culture. '
 images: []
 
 ---
