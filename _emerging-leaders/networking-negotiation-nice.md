@@ -25,6 +25,27 @@ page_blocks:
     link_text: ''
   header: 'Meet our 2018 #2 Emerging Leaders'
   portrait:
+  - title: Francesca Brando
+    title_role: Senior Project Engineer, Thornton Tomasetti
+    image: "/v1620396516/Francesca_Brando_t46rvm.jpg"
+  - title: Michelle DeCarlo, PE, LEED AP BD+C
+    title_role: Associate, Jaros, Baum & Bolles Consulting Engineers, LLP
+    image: "/v1620396461/DeCarlo_0266_ocrmmb.jpg"
+  - title: Colette DiLauro
+    title_role: Senior Staff Engineer, Langan
+    image: "/v1620396361/DiLauro_qr5zrb.jpg"
+  - title: Mary Ferguson
+    title_role: Senior Structural Engineer, Arup
+    image: "/v1620396301/Mary_Ferguson_2016_smaller_b4gxxi.jpg"
+  - title: Frances Fox , AIA
+    title_role: Architect & Academic Planner, Senior Associate, CannonDesign
+    image: "/v1620396246/DSC_6876_ret_FrancesFoxBackground_3_cohrxf.jpg"
+  - title: Marti Gottsch
+    title_role: Senior Designer, Skidmore, Owings, and Merrill
+    image: "/v1620396155/MartiGottsch_Headshot_uaq823.jpg"
+  - title: Jennifer Grosso, AIA
+    title_role: Licensed Architect, Skidmore Owings & Merrill
+    image: "/v1620396026/Grosso_Jennifer_2018_SOM_LucasBlair_0946_ejlzlw.jpg"
   - title: Grete Grubelich
     title_role: Architectural Professional, Skidmore, Owings & Merrill
     image: "/v1620395809/GreteGrubelich_hcv58x.jpg"
