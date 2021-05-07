@@ -25,6 +25,9 @@ page_blocks:
     link_text: ''
   header: 'Meet our 2018 #2 Emerging Leaders'
   portrait:
+  - title: Amanda Snelson
+    title_role: Associate, ZGF
+    image: "/v1620394571/Amanda_intranet_ptpcvu.jpg"
   - title: Joohyun Son, LEED AP, WELL AP
     title_role: Design Manager, Gensler
     image: "/v1620326325/Screen_Shot_2021-05-06_at_2.38.26_PM_pdxtly.png"
