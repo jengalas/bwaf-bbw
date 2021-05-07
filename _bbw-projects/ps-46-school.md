@@ -10,6 +10,9 @@ architects:
 location: 2987 Fredrick Douglass Boulevard, New York, NY
 year: 1950
 description: ''
-images: []
+images:
+- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
+  caption: ''
+historical: false
 
 ---
