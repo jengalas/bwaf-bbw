@@ -15,6 +15,8 @@ description: 'These space expanding mid-century modernist homes just confidently
   by Frances Nelson, the house is one of over fourteen architectural projects in Los
   Angeles completed by the renowned architect and designer and lover of jazz. '
 images:
+- image: "/v1620416598/N14_oxlwiw.jpg"
+  caption: Nelson House, exterior view
 - image: "/v1620416570/N9_xf4one.jpg"
   caption: Nelson House, interior view
 
