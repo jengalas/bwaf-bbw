@@ -82,18 +82,16 @@ page_blocks:
     line-2: 'Where: KPF, 11 W. 42nd Street, New York, NY 10036'
   include_left-hand_column_text_: true
 - template: featured-portrait-block
-  image: "/v1620142823/Screen_Shot_2021-03-03_at_11.49.06_AM_cen3he.png"
+  image: ''
   include_left-hand_column_text_: true
-  header: POLITICS
+  header: FULFILLMENT
   label: Speaker
-  title: Sherida E. Paulsen, FAIA
-  subtitle: Principal, PKSB Architects
-  description: You can’t make it to the top by professional competence alone. Sherida
-    Paulsen, Principal PKSB Architects, and former Chair, Landmarks Preservation Commission,
-    will discuss politics with a small “p” and Politics… now.
+  title: Fiona Cousins, PE
+  subtitle: Arup
+  description: ''
   time-location:
-    line-1: 'When: Tuesday, April 27, 2021, 6:30-8PM'
-    line-2: Virtual session
+    line-1: 'When: November 13, 2018'
+    line-2: 'Where: Arup, 77 Water Street, New York, NY 10005'
 - template: featured-portrait-block
   image: "/v1620142964/Yee-722x349_kvzhez.jpg"
   include_left-hand_column_text_: true
