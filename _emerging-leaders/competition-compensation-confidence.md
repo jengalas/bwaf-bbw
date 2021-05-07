@@ -122,25 +122,6 @@ page_blocks:
     link_url: ''
     link_text: ''
   featured-portrait: []
-  header: COMPETITION
-  image: "/v1620318830/AAEAAQAAAAAAAAsGAAAAJDRhYTI3YjcwLWM3YjMtNGZmZC1hZjUzLWMxNTZkYmFlNzFlMg_opao6k.jpg"
-  label: Speaker
-  title: Susan Hayes
-  subtitle: Founder and CEO | Susan Hayes Enterprises
-  description: ''
-  time-location:
-    line-1: 'When: August 27, 2019'
-    line-2: 'Where: Skidmore, Owings and Merrill, LLP'
-- template: featured-portrait-block
-  section_break: false
-  include_left-hand_column_text_: true
-  lefthand_text:
-    header_type: ''
-    text: ''
-    download: ''
-    link_url: ''
-    link_text: ''
-  featured-portrait: []
   header: COMPENSATION
   image: "/v1620318998/suzanne-spennasilico_headshot_980x780_g421vc.jpg"
   label: Speaker
@@ -169,5 +150,24 @@ page_blocks:
     link_text: ''
   featured-portrait: []
   description: ''
+- template: featured-portrait-block
+  section_break: false
+  include_left-hand_column_text_: true
+  lefthand_text:
+    header_type: ''
+    text: ''
+    download: ''
+    link_url: ''
+    link_text: ''
+  featured-portrait: []
+  header: COMPETITION
+  image: "/v1620318830/AAEAAQAAAAAAAAsGAAAAJDRhYTI3YjcwLWM3YjMtNGZmZC1hZjUzLWMxNTZkYmFlNzFlMg_opao6k.jpg"
+  label: Speaker
+  title: Susan Hayes
+  subtitle: Founder and CEO | Susan Hayes Enterprises
+  description: ''
+  time-location:
+    line-1: 'When: August 27, 2019'
+    line-2: 'Where: Skidmore, Owings and Merrill, LLP'
 
 ---
