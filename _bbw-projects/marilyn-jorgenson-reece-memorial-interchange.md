@@ -10,7 +10,10 @@ architects:
   title: Marilyn Jorgenson Reece
 location: West Los Angeles
 year: 
-description: ''
+description: 'Whether you are sputtering north on the 10 or crawling south on the
+  405, the trip-level complex, and visually arrest Marilyn Jorgenson Reece Memorial
+  Interchange (formerly the San Diego-Santa Monica Freeway Interchange) is a Los Angeles
+  road trip highlight and a triumph of engineering. '
 images: []
 
 ---
