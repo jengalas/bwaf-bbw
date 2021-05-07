@@ -25,6 +25,9 @@ page_blocks:
     link_text: ''
   header: 'Meet our 2018 #2 Emerging Leaders'
   portrait:
+  - title: Valerie Resnick
+    title_role: Project Manager, Urban Atelier Group
+    image: "/v1620394818/Valerie_Resnick_Headshot_hv0aqs.jpg"
   - title: Burgess Rice
     title_role: " Architectural Designer, Kohn Pedersen Fox Associates"
     image: "/v1620394714/BRice_PinUp_fpmxho.jpg"
