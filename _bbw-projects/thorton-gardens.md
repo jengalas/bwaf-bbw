@@ -19,6 +19,8 @@ description: 'Cinematic fantasy, corporate glamour, and grandeur surround the Tu
   broad lawns, and paired anchoring rose gardens, Yoch, Council and Bashford capture
   European formality and naturalistic Southern California. '
 images:
+- image: "/v1620417276/Screen_Shot_2021-05-07_at_3.53.18_PM_hdflfo.png"
+  caption: Thornton Gardens, exterior view
 - image: "/v1620417242/Screen_Shot_2021-05-07_at_3.53.45_PM_luqej7.png"
   caption: Thornton Gardens, exterior view
 
