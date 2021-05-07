@@ -15,6 +15,8 @@ description: As part of the Case Study House program sponsored by _Arts & Archit
   design, conceived in collaboration with Saarinen, was for two steel-framed glass
   boxes raised up on steel supports, which gave uninterrupted views of the Pacific
   Ocean.
-images: []
+images:
+- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
+  caption: ''
 
 ---
