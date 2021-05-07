@@ -14,6 +14,8 @@ description: 'These space expanding mid-century modernist homes just confidently
   of the Hollywood Hills thanks to the architect''s ingenious use of cantilever. Commissioned
   by Frances Nelson, the house is one of over fourteen architectural projects in Los
   Angeles completed by the renowned architect and designer and lover of jazz. '
-images: []
+images:
+- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
+  caption: ''
 
 ---
