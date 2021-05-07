@@ -14,6 +14,8 @@ description: 'Whether you are sputtering north on the 10 or crawling south on th
   405, the trip-level complex, and visually arrest Marilyn Jorgenson Reece Memorial
   Interchange (formerly the San Diego-Santa Monica Freeway Interchange) is a Los Angeles
   road trip highlight and a triumph of engineering. '
-images: []
+images:
+- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
+  caption: ''
 
 ---
