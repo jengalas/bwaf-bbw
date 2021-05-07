@@ -25,6 +25,9 @@ page_blocks:
     link_text: ''
   header: 'Meet our 2018 #2 Emerging Leaders'
   portrait:
+  - title: Burgess Rice
+    title_role: " Architectural Designer, Kohn Pedersen Fox Associates"
+    image: "/v1620394714/BRice_PinUp_fpmxho.jpg"
   - title: Lillian Simon
     title_role: Senior Architectural Professional, Skidmore, Owings & Merrill
     image: "/v1620394635/IMG_8925_c3jga2.jpg"
