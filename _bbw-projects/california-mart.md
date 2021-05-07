@@ -10,7 +10,11 @@ architects:
   role: Gruen Associates
 location: 'Downtown Los Angeles '
 year: 
-description: ''
+description: Lauded for her numerous pioneering achievements as one of the first African
+  American women architects in the United States, Norma Merrick Sklarek has been called
+  the "Rosa Parks of architecture." Her intelligence, talent, and tenacity allowed
+  her to overcome racism and sexism and become a prominent architect and a leader
+  in the profession.
 images: []
 
 ---
