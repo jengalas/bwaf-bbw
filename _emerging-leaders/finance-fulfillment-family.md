@@ -93,7 +93,7 @@ page_blocks:
     line-1: 'When: November 13, 2018'
     line-2: 'Where: Arup, 77 Water Street, New York, NY 10005'
 - template: featured-portrait-block
-  image: "/v1620142964/Yee-722x349_kvzhez.jpg"
+  image: ''
   include_left-hand_column_text_: true
   header: FAMILY
   label: Speaker
