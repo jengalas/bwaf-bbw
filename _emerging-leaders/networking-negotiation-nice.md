@@ -25,6 +25,9 @@ page_blocks:
     link_text: ''
   header: 'Meet our 2018 #2 Emerging Leaders'
   portrait:
+  - title: Laurie Mendez
+    title_role: Designer, Stantec Architecture
+    image: "/v1620395121/headshot_digttk.jpg"
   - title: Valerie Resnick
     title_role: Project Manager, Urban Atelier Group
     image: "/v1620394818/Valerie_Resnick_Headshot_hv0aqs.jpg"
