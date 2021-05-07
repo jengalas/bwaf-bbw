@@ -15,7 +15,7 @@ description: 'Whether you are sputtering north on the 10 or crawling south on th
   Interchange (formerly the San Diego-Santa Monica Freeway Interchange) is a Los Angeles
   road trip highlight and a triumph of engineering. '
 images:
-- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
-  caption: ''
+- image: "/v1620416416/Screen_Shot_2021-05-07_at_3.39.45_PM_ptvots.png"
+  caption: Marilyn Jorgenson Reece Memorial Interchange, exterior view
 
 ---
