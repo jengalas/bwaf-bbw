@@ -15,6 +15,8 @@ description: Lauded for her numerous pioneering achievements as one of the first
   the "Rosa Parks of architecture." Her intelligence, talent, and tenacity allowed
   her to overcome racism and sexism and become a prominent architect and a leader
   in the profession.
-images: []
+images:
+- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
+  caption: ''
 
 ---
