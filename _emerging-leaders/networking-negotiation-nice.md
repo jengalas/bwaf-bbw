@@ -25,6 +25,9 @@ page_blocks:
     link_text: ''
   header: 'Meet our 2018 #2 Emerging Leaders'
   portrait:
+  - title: Lillian Simon
+    title_role: Senior Architectural Professional, Skidmore, Owings & Merrill
+    image: "/v1620394635/IMG_8925_c3jga2.jpg"
   - title: Amanda Snelson
     title_role: Associate, ZGF
     image: "/v1620394571/Amanda_intranet_ptpcvu.jpg"
