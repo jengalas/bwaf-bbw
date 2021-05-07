@@ -41,7 +41,7 @@ page_blocks:
     sessions with  inspirational speakers, and limited to 20 participants. We are
     offering the program at a reduced cost for the selected participants.
 - template: portrait-gallery-block-small
-  header: Meet our 2021 Spring Emerging Leaders
+  header: Meet the Spring 2021 Emerging Leaders Program participants
   portrait:
   - title: Jennifer Allen
     title_role: Senior Staff Engineer, Langan
