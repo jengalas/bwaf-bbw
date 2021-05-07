@@ -10,7 +10,11 @@ architects:
   role: ''
 location: Downtown Los Angeles
 year: 
-description: ''
+description: Julia Morgan was the first female licensed architect in California and
+  the first female recipient of the AIA Gold Medal (2014). The building's large street
+  level windows exposed the whirring presses of the twice daily newspaper to passers-by.
+  Designed in a Spanish Colonial Revival style and recently renovated, the building
+  remains a landmark of distinguished regional character.
 images: []
 
 ---
