@@ -1,6 +1,6 @@
 ---
 layout: innerPage
-date: 2018-05-05 11:29:12 +0000
+date: 2018-05-05T11:29:12.000+00:00
 navCategory: Programs
 title: Finance, Fulfillment, Family
 page_blocks:
@@ -10,79 +10,66 @@ page_blocks:
   lefthand_text:
     header_type: Medium Header
     text: Finance, Fulfillment, Family
-  text_block: In response to the coronavirus outbreak and federal guidance on gatherings,
-    the 2020 and current 2021 Emerging Leaders programs are being hosted as virtual
-    sessions with  inspirational speakers, and limited to 20 participants. We are
-    offering the program at a reduced cost for the selected participants.
+  text_block: ''
 - template: portrait-gallery-block-small
-  header: Meet our 2021 Spring Emerging Leaders
+  header: 'Meet our 2018 #2 Emerging Leaders'
   portrait:
-  - title: Jennifer Allen
-    title_role: Senior Staff Engineer, Langan
-    image: "/v1618421261/Jennifer_Imbro_resume_bt0dai.jpg"
-  - title: Jovanni Carter-Davis
-    title_role: Urban Designer III, Perkins&Will, Los Angeles Office
-    image: "/v1618421371/Jovanni_Carter-Davis_ugtglv.jpg"
-  - title: Brenna Decker, AIA NCARB LEED AP
-    title_role: 'Senior Associate, Robert A.M. Stern Architects  '
-    image: "/v1618421501/2018-10-24_Brenna_Decker_0023_Color_svdk7r.jpg"
-  - title: Michelle Duong
-    title_role: Senior Engineer, Jaros, Baum & Bolles
-    image: "/v1618421589/MDuong_gwazcc.jpg"
-  - title: Amanda R Lukacs Faryar, PE
-    title_role: Senior Transportation Engineer, ARUP
-    image: "/v1618421704/AmandaFaryarHeadshot_lzu0d1.jpg"
-  - title: Madina Guillerm
-    title_role: Senior Structural Designer, ARUP
-    image: "/v1618421835/ILG_1991_hc5zoi.jpg"
-  - title: Rebecca Henriques
-    title_role: Senior Engineer, Langan Engineering
-    image: "/v1618421957/Rebecca_Henriques_-_Headshot_sjw60v.jpg"
-  - title: Fernanda Hernandez
-    title_role: Interior Designer, Perkins&Will
-    image: "/v1618422262/Hernandez_Fernanda_Headshot_mpfiu5.jpg"
-  - title: Aimee Hultquist
-    title_role: Project Architect, Dattner Architects
-    image: "/v1618422349/210412_-_Headshot_-_AHultquist_pcatui.png"
-  - title: " Erin Kelly"
-    title_role: Associate, Mancini Duffy
-    image: "/v1618422425/S_190910_N2_fjpg_vbwxfj.jpg"
-  - title: Darian Lu
-    title_role: Development Project Manager, WeWork
-    image: "/v1618422670/headshot_ke2mvn.jpg"
-  - title: Maya Madison
-    title_role: Project Coordinator, Moody Nolan
-    image: "/v1618422798/Maya_Madison_izplxm.jpg"
-  - title: Stephanie W. Moore
-    title_role: Senior Project Engineer, Thornton Tomasetti
-    image: "/v1618422866/SMoore_Headshot_webview_jcmpqv.jpg"
-  - title: Elsa Mullin
-    title_role: Project Director, Thornton Tomasetti
-    image: "/v1618422945/Elsa_Mullin_Headhshot_sjntsy.jpg"
-  - title: Sucheta Nadig
-    title_role: Architect, Morris Adjmi Architects
-    image: "/v1618423128/Headshot_Cropped_Color_kkccyk.jpg"
-  - title: Shinjinee Pathak
-    title_role: Associate, Silman
-    image: "/v1618423210/headshot_Pathak_q9u9k4.jpg"
-  - title: Anazette W. Ray
-    title_role: Associate, Zetlin & De Chiara, LLP
-    image: "/v1618423309/Anazette_W._Ray_-_photo_cktyld.jpg"
-  - title: " Anneli Rice"
-    title_role: " Senior Associate,  SHoP Architects"
-    image: "/v1618423393/Rice_Headshot_z30tnw.jpg"
-  - title: Sophia Tampakis
-    title_role: Project Engineer, JB&B
-    image: "/v1619015046/Tampakis_2411_Headshot_a4dh9u.jpg"
-  - title: Florence Tang
-    title_role: Design and Engineering Project Manager, Houston Zoo
-    image: "/v1618423615/Florence_-_For_Web_fa2hul.jpg"
-  - title: Jenna Leigh Wandishin
-    title_role: Project Architect, Moody Nolan
-    image: "/v1618424460/Jenna_Wandishin_headshot_rvldp9.jpg"
-  - title: Nicole Wiznitzer
-    title_role: " Project Architect, Morris Adjmi Architects"
-    image: "/v1618424530/Nicole_Wiznitzer-200x200_tpbh0d.jpg"
+  - title: Marissa Barresi
+    image: "/v1620398640/MBarresi_Head_Shot_s7ndoq.jpg"
+  - title: Daphne Binder
+    title_role: " Utile / Space ODT"
+    image: "/v1620398610/Daphne_2_lycbfz.jpg"
+  - title: Deena Crimaldi
+    title_role: Zetlin & De Chiara
+    image: "/v1620398561/Crimaldi_Deena_5x7_eovpvu.jpg"
+  - title: Gabee Cho
+    title_role: ZGF Architects
+    image: "/v1620398521/Gabee_Cho_le0pjy.jpg"
+  - title: Angel Eng
+    title_role: WSP
+    image: "/v1620398471/Angel_Eng_PE_WSP_qsfizt.jpg"
+  - title: Mary DeLaurentis
+    title_role: Mancini Duffy
+    image: "/v1620398372/Mary_DeLaurentis_jy4ncn.jpg"
+  - title: Barrett Feldman
+    title_role: PSF Projects Architecture
+    image: "/v1620398428/Headshot_BF_knhtmd.jpg"
+  - title: Amy Garlock
+    title_role: SOM
+    image: "/v1620398186/Garlock-Amy_2018_qplg4s.jpg"
+  - title: Sean Haviland
+    title_role: LandDesign
+    image: "/v1620398280/Sean_HeadShot_2_xgr5u1.jpg"
+  - title: Stephanie He
+    title_role: ZGF Architects
+    image: "/v1620398234/Stephanie_He_s0s6yq.jpg"
+  - title: Samantha Josaphat
+    title_role: Studio 397 Architecture
+    image: "/v1620398133/josephat_vjbr7z.jpg"
+  - title: Magdalena Naydekova
+    title_role: Steven Holl Architects
+    image: "/v1620398068/Magdalena-I-Naydekova_BWAF_500x500dpi_1_xypohh.jpg"
+  - title: Lizzie Olson
+    title_role: Silman
+    image: "/v1620397956/headshot_olson_tkvumx.jpg"
+  - title: Amanda Prins
+    title_role: KPF
+    image: "/v1620397854/headshot_koyvgd.jpg"
+  - title: Maya Stuhlbarg
+    title_role: Thornton Tomasetti
+    image: "/v1620397691/Maya_Stuhlbarg_bdu7nr.jpg"
+  - title: Jen Switala
+    title_role: Dattner Architects
+    image: "/v1620397572/Switala_Jen_560_i6coz9.jpg"
+  - title: Kathryn Thiele
+    title_role: URBAN Architecture
+    image: "/v1620397478/Thiele_HEADSHOT_pwqfwm.jpg"
+  - title: Bolanle Williams-Olley
+    title_role: Mancini Duffy
+    image: "/v1620398006/BWO_Headshot_ulqvgf.jpg"
+  - title: Adalgisa Zeppetelli
+    title_role: JLL
+    image: "/v1620397414/Zeppetilli_Adalgisa_BW_fv2r3o.jpg"
 - template: featured-portrait-block
   header: PERSEVERANCE
   image: "/v1620142658/s_170713_webview_pqzp7z.jpg"
@@ -126,5 +113,4 @@ page_blocks:
     line-2: Virtual session
 
 ---
-
 ---
