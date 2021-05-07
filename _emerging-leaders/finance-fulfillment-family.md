@@ -71,18 +71,15 @@ page_blocks:
     title_role: JLL
     image: "/v1620397414/Zeppetilli_Adalgisa_BW_fv2r3o.jpg"
 - template: featured-portrait-block
-  header: PERSEVERANCE
-  image: "/v1620142658/s_170713_webview_pqzp7z.jpg"
-  subtitle: Principal, SHoP Architects
-  title: Angelica T. Baccon, AIA
+  header: FINANCE
+  image: ''
+  subtitle: President and CEO | YMCA of Greater New York
+  title: Sharon Greenberger
   label: Speaker
-  description: This has been a really challenging year to “hang in there.” And what
-    about managing with two little ones at home? That takes perseverance, grace, and
-    imagination – Angelica T. Baccon, AIA, Principal, SHoP Architects, will share
-    insights with us.
+  description: ''
   time-location:
-    line-1: 'When: Tuesday, March 30, 2021, 6:30-8PM  '
-    line-2: Virtual session
+    line-1: 'When: November 5, 2018'
+    line-2: 'Where: KPF, 11 W. 42nd Street, New York, NY 10036'
   include_left-hand_column_text_: true
 - template: featured-portrait-block
   image: "/v1620142823/Screen_Shot_2021-03-03_at_11.49.06_AM_cen3he.png"
