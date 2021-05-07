@@ -10,6 +10,9 @@ architects:
 location: 535 West 179th Street, New York, NY
 year: 2011
 description: ''
-images: []
+images:
+- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
+  caption: ''
+historical: false
 
 ---
