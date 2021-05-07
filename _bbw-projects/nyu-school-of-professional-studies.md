@@ -10,6 +10,9 @@ architects:
 location: 7 East 12th Street, New York, NY
 year: 2012
 description: ''
-images: []
+images:
+- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
+  caption: ''
+historical: false
 
 ---
