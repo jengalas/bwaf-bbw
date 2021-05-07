@@ -18,5 +18,7 @@ description: 'With its animated sign, colorful interior, and shining plate glass
 images:
 - image: "/v1620417031/Panns_photo_ws04gx.jpg"
   caption: Pann's Restaurant and Coffee Shop, exterior view
+- image: "/v1620417057/PDRM0157_vbknpe.jpg"
+  caption: Pann's Restaurant and Coffee Shop, exterior view
 
 ---
