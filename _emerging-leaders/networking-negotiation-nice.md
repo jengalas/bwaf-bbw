@@ -25,6 +25,21 @@ page_blocks:
     link_text: ''
   header: 'Meet our 2018 #2 Emerging Leaders'
   portrait:
+  - title: Grete Grubelich
+    title_role: Architectural Professional, Skidmore, Owings & Merrill
+    image: "/v1620395809/GreteGrubelich_hcv58x.jpg"
+  - title: Catherine Joseph
+    title_role: 'Junior Architect, FXCollaborative '
+    image: "/v1620395693/CJoseph_headshot_q9l5ls.jpg"
+  - title: Katherine Kliphuis
+    title_role: Senior Staff Engineer, Langan Engineering
+    image: "/v1620395537/Katherine_Kliphuis_lxlrxq.jpg"
+  - title: Siobhan Lee
+    title_role: Architecture lb/ Junior Architecture, CannonDesign
+    image: "/v1620395475/slee_headshot_g2nqhy.jpg"
+  - title: Lulu Li
+    title_role: Senior Architecture Professional, SOM
+    image: "/v1620395342/2018_Lulu_Li_i2q3di.jpg"
   - title: Luisa F Méndez
     title_role: Senior Associate, SHoP Architects
     image: "/v1620395285/Luisa_Mendez_upljuk.jpg"
