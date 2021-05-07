@@ -14,6 +14,9 @@ architects:
 location: 10 Lincoln Center Plaza
 year: 2010
 description: ''
-images: []
+images:
+- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
+  caption: ''
+historical: false
 
 ---
