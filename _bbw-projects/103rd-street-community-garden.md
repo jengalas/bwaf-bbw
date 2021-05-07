@@ -10,6 +10,9 @@ architects:
 location: 103rd Street & Park Avenue
 year: 2011
 description: ''
-images: []
+images:
+- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
+  caption: ''
+historical: false
 
 ---
