@@ -16,7 +16,7 @@ description: 'With its animated sign, colorful interior, and shining plate glass
   to attract the passerby at 30 miles per hour, Pann''s expresses all the exuberance
   of the LA aerospace culture. '
 images:
-- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
-  caption: ''
+- image: "/v1620417031/Panns_photo_ws04gx.jpg"
+  caption: Pann's Restaurant and Coffee Shop, exterior view
 
 ---
