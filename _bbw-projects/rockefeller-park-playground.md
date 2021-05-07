@@ -12,6 +12,9 @@ architects:
 location: 75 Battery Place, New York, NY
 year: 1992
 description: ''
-images: []
+images:
+- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
+  caption: ''
+historical: false
 
 ---
