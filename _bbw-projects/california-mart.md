@@ -17,6 +17,6 @@ description: Lauded for her numerous pioneering achievements as one of the first
   in the profession.
 images:
 - image: "/v1620415992/6.-entry-57-calmart01-1000x802_rc3ghv.jpg"
-  caption: ''
+  caption: California Mart, exterior view
 
 ---
