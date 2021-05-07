@@ -99,7 +99,7 @@ page_blocks:
     image: "/v1620325561/JZellar_TT_Headshot_2013_wwcjbv.jpg"
 - template: featured-portrait-block
   section_break: false
-  include_left-hand_column_text_: false
+  include_left-hand_column_text_: true
   lefthand_text:
     header_type: ''
     text: ''
@@ -107,14 +107,83 @@ page_blocks:
     link_url: ''
     link_text: ''
   featured-portrait: []
-  header: ''
+  header: NETWORKING
   image: ''
-  label: ''
-  title: ''
-  subtitle: ''
-  description: ''
+  label: Speaker
+  title: Victoria J. Cerami
+  subtitle: CEO | Cerami & Associates
+  description: Explore the power of your personal magnetism, friendships, and authentic
+    relationships in small group setting with the guidance of a seasoned networker.
+    Understand the importance of making strong connections and how to use them to
+    advance your career.
   time-location:
-    line-1: ''
-    line-2: ''
+    line-1: 'When: February 27, 2018'
+    line-2: 'Where: Cerami & Associates'
+- template: featured-portrait-block
+  include_left-hand_column_text_: true
+  header: NEGOTIATING
+  label: Speaker
+  description: Learn from a master demonstration of a compensation negotiation between
+    two attorneys well versed in the dark art. Hear from the experts and your peers
+    on developing the best strategy to get what you deserve.
+  title: Patricia Harris, Esq., LEED AP
+  subtitle: Chair | BWAF; Special Counsel | Zetlin & De Chiara LLP; Founder and CEO
+    | LicenseSure LLC
+  time-location:
+    line-1: 'When: March 27, 2018'
+    line-2: 'Where: Skidmore, Owings & Merrill'
+  image: "/v1620396778/PatriciaHarrisHeadshot-2-e1454609739415_xwy6wh.jpg"
+  section_break: false
+  lefthand_text:
+    header_type: ''
+    text: ''
+    download: ''
+    link_url: ''
+    link_text: ''
+  featured-portrait: []
+- template: featured-portrait-block
+  include_left-hand_column_text_: true
+  header: NEGOTIATING
+  label: Speaker
+  title: Elyssa Cohen Muldoon, CCEP
+  subtitle: Senior Associate General Counsel | Skidmore, Owings & Merrill LLP
+  description: Learn from a master demonstration of a compensation negotiation between
+    two attorneys well versed in the dark art. Hear from the experts and your peers
+    on developing the best strategy to get what you deserve.
+  time-location:
+    line-1: 'When: March 27, 2018'
+    line-2: 'Where: Skidmore, Owings & Merrill'
+  section_break: false
+  lefthand_text:
+    header_type: ''
+    text: ''
+    download: ''
+    link_url: ''
+    link_text: ''
+  featured-portrait: []
+  image: ''
+- template: featured-portrait-block
+  include_left-hand_column_text_: true
+  header: "“NICE”"
+  label: Speaker
+  title: Diana Taylor
+  subtitle: Chair | Hudson River Park Trust Board of Directors | Former Superintendent;
+    Banking for NYS | Vice Chairman; Solera Capital
+  description: Meet with an established industry leader to unpack the implications
+    of being perceived as “nice” in the business world. Senior women leaders reveal
+    secret strategies to navigate the double standard for professional behavior and
+    transcend the necessity of “nice.”
+  time-location:
+    line-1: 'When: April 26, 2018'
+    line-2: 'Where: Brookfield'
+  section_break: false
+  lefthand_text:
+    header_type: ''
+    text: ''
+    download: ''
+    link_url: ''
+    link_text: ''
+  featured-portrait: []
+  image: ''
 
 ---
