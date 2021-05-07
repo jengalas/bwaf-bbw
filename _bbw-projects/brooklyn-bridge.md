@@ -10,6 +10,9 @@ architects:
 location: Pearl Street & Frankfort Street, New York, NY
 year: 1885
 description: ''
-images: []
+images:
+- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
+  caption: ''
+historical: false
 
 ---
