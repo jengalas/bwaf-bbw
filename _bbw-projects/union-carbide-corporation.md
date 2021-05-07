@@ -10,6 +10,9 @@ architects:
 location: 270 Park Avenue, New York, NY
 year: 1960
 description: ''
-images: []
+images:
+- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
+  caption: ''
+historical: false
 
 ---
