@@ -10,6 +10,9 @@ architects:
 location: 43 West 22nd Street, New York, NY
 year: 1996
 description: ''
-images: []
+images:
+- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
+  caption: ''
+historical: false
 
 ---
