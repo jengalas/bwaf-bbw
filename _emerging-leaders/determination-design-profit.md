@@ -25,6 +25,42 @@ page_blocks:
     link_text: ''
   header: Meet the Fall 2020 Emerging Leaders Program participants
   portrait:
+  - title: Shruti Agrawal
+    title_role: Designer II, Cooper Carry
+    image: "/v1620400725/Shruti_Headshot_Large_hp1jgk.jpg"
+  - title: Kristin Akin-Zimmerman
+    title_role: Architect, Designer (Level E), Skidmore, Owings, and Merrill
+    image: "/v1620400657/Kristin_Akin-Zimmerman_d6ugrm.jpg"
+  - title: Pascale Baladi
+    title_role: Project Architect (office only), Dattner Architects
+    image: "/v1620400336/Baladi_Pascale_Headshot_dwlir2.jpg"
+  - title: Alexandria M. Davis
+    title_role: Designer II, Cooper Carry, Inc.
+    image: "/v1620400270/Davis_Image_zqp9zu.jpg"
+  - title: Grace Falone
+    title_role: Project Engineer, Jaros, Baum & Bolles
+    image: "/v1620400220/HS_Falone-G_xoshko.jpg"
+  - title: Sayantani Ghosh
+    title_role: Project Engineer, Langan Engineer
+    image: "/v1620400154/Ghosh_Sayantani_aqytpn.jpg"
+  - title: Mariana Giraldo
+    title_role: Planning & Strategist Consultant, Perkins & Will
+    image: "/v1620399973/image001_u1blta.jpg"
+  - title: Chelsea Granado , AIA, LEED AP, WELL AP
+    title_role: Associate, Project Architect, Cooper Carry
+    image: "/v1620399921/ChelseaGranado-130_ynz3bl.jpg"
+  - title: Khamini Harinarain
+    title_role: Senior Staff Engineer, Langan Engineering
+    image: "/v1620399852/Harinarain_Khamini_ay15eq.jpg"
+  - title: Colleen Harper
+    title_role: Senior Engineer, Thornton Tomasetti
+    image: "/v1620399797/Harper_Headshot_hz1zvg.jpg"
+  - title: Victoria Inola Kocian
+    title_role: Associate, Project Manager, Studios Architecture
+    image: "/v1620399745/VIctoriaKocian__s9bmzj.jpg"
+  - title: Ana Koleva, AIA
+    title_role: Project Architect, Cooper Carry
+    image: "/v1620399679/Staff_Photo_Shoot_3_083_Desktop_Resolution_fs29zu.jpg"
   - title: Katherine Kudlaty, P.E.
     title_role: 'Senior Engineer, Thornton Tomasetti, Inc. '
     image: ''
