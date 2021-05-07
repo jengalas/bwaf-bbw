@@ -16,6 +16,8 @@ description: As part of the Case Study House program sponsored by _Arts & Archit
   boxes raised up on steel supports, which gave uninterrupted views of the Pacific
   Ocean.
 images:
+- image: "/v1620416176/1.-entry-21-julius_shulman_eames_house_exterior-1300x847_a5ljxs.jpg"
+  caption: Eames House, exterior view
 - image: "/v1620416159/2.-entry-21-julius_shulman_eames_house_interior-700x896_vzpnrw.jpg"
   caption: Eames House, interior view
 
