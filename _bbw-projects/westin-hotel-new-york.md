@@ -10,6 +10,9 @@ architects:
 location: 270 West 43rd Street, New York, NY
 year: 2002
 description: ''
-images: []
+images:
+- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
+  caption: ''
+historical: false
 
 ---
