@@ -205,12 +205,46 @@ page_blocks:
     text: ''
     download: ''
     link_url: ''
-- template: miscellaneous
-  text_block: |-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nec mi efficitur, faucibus ante et, hendrerit eros. Curabitur malesuada mi felis, sed venenatis leo efficitur non. Nunc sed interdum dolor. Proin maximus aliquam facilisis. Donec id hendrerit tellus. Nulla ut dignissim nisl. Nullam at odio felis. Ut bibendum, erat at placerat egestas, mauris nunc convallis risus, ut porttitor arcu dolor vitae enim. In facilisis scelerisque tristique. Nullam semper risus sit amet lacinia fringilla. Aenean et volutpat sem, ac vestibulum urna.
-
-    Etiam in aliquam purus. Suspendisse id arcu nunc. Morbi quis tincidunt augue. Sed finibus id justo ut pharetra. Nullam ut lacus rutrum, iaculis turpis vel, tristique nibh. Proin nulla turpis, sagittis ac mauris vitae, vehicula commodo nulla. Sed aliquam sagittis fermentum. Duis sit amet felis lorem. Suspendisse ultricies, orci quis varius egestas, tortor diam varius tortor, et congue ligula orci vel orci. Sed porttitor lectus turpis, in laoreet mi maximus id.
+- template: miscellaneous-block
   include_left-hand_column_text_: true
+  lefthand_text:
+    header_type: ''
+    text: ''
+    download: ''
+    link_url: ''
+  text_block: |-
+    # Heading 1 (not recommended)
+
+    ## Heading 2
+    ## **Heading 2 + Bold**
+
+    ### Heading 3
+    ### **Heading 3 + Bold**
+
+    #### Heading 4
+    #### **Heading 4 + Bold**
+
+    ##### Heading 5
+    ##### **Heading 5 + Bold**
+
+    ###### Heading 6
+    ###### **Heading 6 + Bold**
+
+    * Bullet 1
+    * Bullet 2
+    * Bullet 3
+
+    1. Numbered 1
+    2. Numbered 2
+    3. Numbered 3
+
+    > Blockquote. (Not recommended). Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac nunc erat.
+
+        Codeblock. (Not recommended).
+
+    **Bold text.** _Italic text._ [Inline link.](/ "link")
+
+    Paragraph text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac nunc erat. Etiam egestas facilisis arcu, ac mattis eros fermentum ut. Fusce ex urna, luctus sed dictum id, luctus ac magna. Quisque a blandit risus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 ---
 
 <!DOCTYPE html>
@@ -282,9 +316,10 @@ page_blocks:
                 {% elsif block.template == "media-gallery-block"%}
                 <figcaption><mark><b>Media Gallery</b></mark><br><br></figcaption>
                 {% include block_r_media_gallery.html %}
-                {% elsif block.template == "miscellaneous"%}
-                <figcaption><mark><b>Miscellaneous</b></mark><br><br></figcaption>
+                {% elsif block.template == "miscellaneous-block"%}
+                <figcaption><mark><b>Miscellaneous</b></mark><br>Recommended to use "Heading 2 + Bold" or "Heading 3 + Bold" styles for headers<br><br></figcaption>
                 {% include block_r_text.html %}
+                
                 {% endif %}
             </div>
         </div>

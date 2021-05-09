@@ -4,7 +4,8 @@ let scrollTop = window.pageYOffset || (document.documentElement || document.body
 let footer = document.querySelector("footer");
 
 for (btn of navBtns){
-    btn.addEventListener("click", function(){
+    btn.addEventListener("click", function(event){
+        event.stopPropagation();
         let activeBtn = document.querySelector("nav button.active");
         if (activeBtn != null && activeBtn != this){
             document.querySelector("nav button.active").classList.remove("active");
@@ -20,6 +21,14 @@ for (btn of navBtns){
         }
 
     })
+}
+
+// Close the dropdown menu if the user clicks outside of it
+window.onclick = function() {
+  console.log(nav);
+  nav.classList.remove("subnav-open");
+  document.querySelector("nav button.active").classList.remove("active");
+   
 }
 
 

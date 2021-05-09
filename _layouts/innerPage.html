@@ -24,6 +24,8 @@
     <div>
         {% if block.template == "text-block" %}
         {% include block_r_text.html %}
+        {% elsif block.template == "miscellaneous-block" %}
+        {% include block_r_misc.html %}
         {% elsif block.template == "image-block"%}
         {% include block_r_image.html %}
         {% elsif block.template == "slideshow-block" %}

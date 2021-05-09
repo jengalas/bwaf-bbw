@@ -153,6 +153,5 @@ page_blocks:
     download: ''
     link_url: ''
     link_text: ''
-date: 
 
 ---

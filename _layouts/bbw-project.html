@@ -1,8 +1,16 @@
 {% include head.html %}
 {% include nav.html %}
 {% include nav-bbw.html %}
+
+    {% for bbw-year in site.bbw-years %}
+        {% if bbw-year.path == page.bbw-year %}
+            {% assign bbwCity = bbw-year.city %}
+            {% assign bbwYear = bbw-year.year %}
+        {% endif %}
+    {% endfor %}
+
 <div class="main-two-up">
-    <h3><b>{{page.city}} {{page.year}}: Selected Projects</b></h3>
+    <h3><b>{{bbwCity}} {{bbwYear}}: Selected Projects</b></h3>
 </div>
 <div class="main-two-up bbw-project-page">
     <div>
