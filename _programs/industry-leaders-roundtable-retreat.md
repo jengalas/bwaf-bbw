@@ -125,6 +125,34 @@ page_blocks:
     Roundtable Retreat. As the retreat is limited to 20 participants, we recommend
     prompt registration.
   section_break: true
+- template: miscellaneous-block
+  miscellaneous: |-
+    ## **Why attend?**
+
+    The full integration of women into the workplace produces firm-wide benefits including expanded markets, improved recruitment, and retention of key talent. This two-day retreat is the only event of its kind where participants develop targeted plans to combat bias, promote and retain leaders, and effect change in the organizational culture. Join with best-selling author Maria Semple to explore the public perception of female architects.
+
+    ## **Who attends?**
+
+    * Principals in architecture, engineering, and construction
+    * Directors of Human Resources in the AEC industries
+    * Attorneys in related fields
+    * Academic leaders in business management, architecture, planning, and engineering
+
+    ## **Cost to attend**
+
+    $2500/person or $4500 for two from the same firm. This includes lunches, coffee breaks, a cocktail reception, dinner, and tours. Hotel accommodations not included.
+
+    ## **Apply**
+
+    Space is limited. Registrants will receive complete agenda and bibliography in advance of the event. Also, attendees will receive a copy of Where’d You Go Bernadette, by Maria Semple, with their paid registration. All registrants will be listed as sponsors in the final schedule.
+  section_break: false
+  include_left-hand_column_text_: false
+  lefthand_text:
+    header_type: ''
+    text: ''
+    download: ''
+    link_url: ''
+    link_text: ''
 date: 
 
 ---
