@@ -37,6 +37,11 @@ fields:
   showOnly:
     field: link_out
     value: true
+- name: map_year
+  type: text
+  config:
+    required: false
+  label: Map Year
 pages:
 - _bbw-years/bbw-2016.md
 - _bbw-years/bbw-2018.md
