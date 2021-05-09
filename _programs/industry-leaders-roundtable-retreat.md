@@ -66,7 +66,35 @@ page_blocks:
     download: "/v1618939192/Industry_Leaders_2020_Dec9_rcigp5.pdf"
     link_url: ''
   text_block: |-
-    ## Why attend?
+    # Heading 1
+
+    ## Heading 2
+
+    ### Heading 3
+
+    #### Heading 4
+
+    ##### Heading 5
+
+    ###### Heading 6
+
+    * Bullet 1
+    * Bullet 2
+    * Bullet 3
+
+    1. Numbered 1
+    2. Numbered 2
+    3. Numbered 3
+
+    > Blockquote. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac nunc erat.
+
+        Codeblock. Not recommended
+
+    **Bold text.** _Italic text._ [Inline link.](/ "link")
+
+    Paragraph text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac nunc erat. Etiam egestas facilisis arcu, ac mattis eros fermentum ut. Fusce ex urna, luctus sed dictum id, luctus ac magna. Quisque a blandit risus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+    ## **Why attend?**
 
     The full integration of women into the workplace produces firm-wide benefits including expanded markets, improved recruitment, and retention of key talent. This two-day retreat is the only event of its kind where participants develop targeted plans to combat bias, promote and retain leaders, and effect change in the organizational culture. Join with best-selling author Maria Semple to explore the public perception of female architects.
 
@@ -97,5 +125,6 @@ page_blocks:
     Roundtable Retreat. As the retreat is limited to 20 participants, we recommend
     prompt registration.
   section_break: true
+date: 
 
 ---
