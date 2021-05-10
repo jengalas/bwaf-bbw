@@ -12,7 +12,7 @@ year: 2000
 description: ''
 images:
 - image: "/v1620675418/ROCK_Bridge_04_jwbsk1.jpg"
-  caption: 'Rockefeller University Pedestrian Bridge. '
+  caption: Rockefeller University Pedestrian Bridge. Photography by Wyatt Gallery
 - image: "/v1620675489/ROCK_Bridge_07_q5c7lm.jpg"
   caption: Rockefeller University Pedestrian Bridge.
 historical: false
