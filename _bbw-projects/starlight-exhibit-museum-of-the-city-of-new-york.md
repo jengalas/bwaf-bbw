@@ -12,7 +12,7 @@ year: 2015
 description: ''
 images:
 - image: "/v1620675716/05_Starlight_qvrbf4.jpg"
-  caption: Starlight Exhibit, interior view.
+  caption: Starlight Exhibit, interior view. Photograph by Eduard Hueber/Arch Photo
 historical: false
 
 ---
