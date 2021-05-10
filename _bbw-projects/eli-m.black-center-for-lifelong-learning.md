@@ -11,8 +11,9 @@ location: 11 East 89th Street, New York, NY
 year: 2017
 description: ''
 images:
-- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
-  caption: ''
+- image: "/v1620668582/EliBlack_Chapel_FrankOudeman_ywdro9.jpg"
+  caption: Eli M. Black Center for Lifelong Learning, interior view. Photograph by
+    Frank Oudeman
 historical: false
 
 ---
