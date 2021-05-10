@@ -16,8 +16,8 @@ slideshow-images:
   caption: Image 5
 - image: "/v1620415992/6.-entry-57-calmart01-1000x802_rc3ghv.jpg"
   caption: Image 6
-- image: "/assets/img/placeholder1.png"
-  caption: Lorem ipsum
+- image: "/v1617907445/9_Dots-02_ptlwd7.jpg"
+  caption: Image 7
 - image: "/assets/img/placeholder1.png"
   caption: Lorem ipsum
 - image: "/assets/img/placeholder1.png"
