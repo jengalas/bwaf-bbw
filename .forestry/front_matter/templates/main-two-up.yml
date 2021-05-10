@@ -39,8 +39,7 @@ fields:
 - name: date
   type: datetime
   label: Date
-  description: Use for dating the Emerging Leaders section. Will hide once old posts
-    are made so it's automatic.
+  description: Used only for dating the Emerging Leaders pages.
   config:
     required: false
     date_format: 
