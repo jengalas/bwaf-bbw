@@ -1,6 +1,6 @@
 ---
 layout: innerPage
-title: Board and Staff | Beverly Willis Architecture Foundation
+title: Board and Staff
 permalink: "/boardandstaff"
 navCategory: About
 page_blocks:
@@ -327,6 +327,8 @@ page_blocks:
 
 '
   section_break: false
+description: ''
+date: 
 
 ---
 <!-- <img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937006/s_170713_webview_xiipdh.jpg"><img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937099/JoanBlumenfeld_jwkiz9.jpg"><img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937147/2017_Burton_Melissa_01_980x780_mbfswt.jpg"><img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937178/sml_DiMaggio_Peter_headshot_n6xpkd.jpg"><img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937222/PatriciaHarrisHeadshot-2-e1454609739415_pokx25.jpg"><div class="main-two-up">

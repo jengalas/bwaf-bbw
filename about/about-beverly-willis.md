@@ -2,7 +2,7 @@
 layout: innerPage
 permalink: "/beverlywillis"
 navCategory: About
-title: About Beverly Willis | Beverly Willis Architecture Foundation
+title: About Beverly Willis
 page_blocks:
 - template: image-block
   image_caption_text: Beverly Willis, FAIA
@@ -62,7 +62,7 @@ page_blocks:
     link_text: ''
   section_break: false
 date: 
-description:  In 2002, Beverly Willis, FAIA founded the Beverly
-  Willis Architecture Foundation.
+description: In 2002, Beverly Willis, FAIA founded the Beverly Willis Architecture
+  Foundation.
 
 ---

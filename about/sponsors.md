@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sponsors | Beverly Willis Architecture Foundation
+title: Sponsors
 permalink: "/sponsors"
 navCategory: About
 description: Beverly Willis Architecture Foundation would not exist without the financial
