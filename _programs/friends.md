@@ -21,7 +21,9 @@ page_blocks:
   section_break: false
 - template: image-block
   image: "/v1618939391/5_15_19_03_q5seh9.jpg"
-  image_caption_text: Inaugural Friends event at the Ford Foundation, May 2019
+  image_caption_text: 'Inaugural Friends event at the Ford Foundation, May 2019. Cathleen
+    McGuigan, Editor in Chief, Architectural Record, in conversation with writer Eva
+    Hagberg '
   alt_text: Inaugural Friends event at the Ford Foundation, May 2019
   section_break: false
   include_left-hand_column_text_: false
@@ -60,5 +62,6 @@ page_blocks:
     link_url: ''
     link_text: ''
 date: 2021-05-05T13:33:04.000+00:00
+description: ''
 
 ---
