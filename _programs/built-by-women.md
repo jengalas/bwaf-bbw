@@ -18,8 +18,8 @@ slideshow-images:
   caption: Image 6
 - image: "/v1617907445/9_Dots-02_ptlwd7.jpg"
   caption: Image 7
-- image: "/assets/img/placeholder1.png"
-  caption: Lorem ipsum
+- image: "/v1617911230/Nakahouse-04_izqzht.jpg"
+  caption: Image 8
 - image: "/assets/img/placeholder1.png"
   caption: Lorem ipsum
 description: |-
