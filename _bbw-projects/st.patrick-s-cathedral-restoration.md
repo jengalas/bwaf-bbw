@@ -11,8 +11,9 @@ location: 5th Avenue, New York, NY
 year: 2017
 description: ''
 images:
-- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
-  caption: ''
+- image: "/v1620668729/St_Patricks_Cathedral_Exterior_JohnBaer_wyn0hw.jpg"
+  caption: 'St. Patrick''s Cathedral Restoration, exterior view. Photograph by John
+    Baer '
 historical: false
 
 ---
