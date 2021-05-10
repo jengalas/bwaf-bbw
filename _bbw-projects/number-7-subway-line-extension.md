@@ -12,7 +12,7 @@ year: 2015
 description: ''
 images:
 - image: "/v1620665759/smlDattnerArchitects_DavidSundberg_7Line-1_wmcovg.jpg"
-  caption: Number 7 Subway Line Extension. Photograph by David Sundberg
+  caption: Number 7 Subway Line Extension, interior view. Photograph by David Sundberg
 - image: "/v1620665871/smlDattnerArchitects_DavidSundberg_7Line-2_aycnzi.jpg"
   caption: Number 7 Subway Line Extension. Photograph by David Sundberg
 historical: false
