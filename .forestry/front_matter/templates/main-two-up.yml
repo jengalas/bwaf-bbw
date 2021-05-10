@@ -36,6 +36,11 @@ fields:
   config:
     min: 
     max: 
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+  description: Add tags by which users can search in the search page.
 - name: date
   type: datetime
   label: Date
