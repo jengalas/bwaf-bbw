@@ -12,8 +12,8 @@ slideshow-images:
   caption: Image 3
 - image: "/v1620667892/sml0016aaC_mq4erd.jpg"
   caption: Image 4
-- image: "/assets/img/placeholder1.png"
-  caption: Lorem ipsum
+- image: "/v1620416416/Screen_Shot_2021-05-07_at_3.39.45_PM_ptvots.png"
+  caption: Image 5
 - image: "/assets/img/placeholder1.png"
   caption: Lorem ipsum
 - image: "/assets/img/placeholder1.png"
