@@ -11,7 +11,7 @@ location: 520 West 28th Street, New York, NY
 year: 2017
 description: ''
 images:
-- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
+- image: "/v1620667595/sml15_ZHA_520_W_28th_Street__Hufton_Crow_kce71c.jpg"
   caption: ''
 historical: false
 
