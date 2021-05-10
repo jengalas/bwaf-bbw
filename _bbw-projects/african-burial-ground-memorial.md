@@ -11,8 +11,8 @@ location: 290 Broadway, New York, NY
 year: 2007
 description: ''
 images:
-- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
-  caption: ''
+- image: "/v1620667892/sml0016aaC_mq4erd.jpg"
+  caption: African Burial Ground Memorial, exterior view. Courtesy Nicole Hollant-Denis
 historical: false
 
 ---
