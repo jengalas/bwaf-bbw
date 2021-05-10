@@ -61,11 +61,8 @@ page_blocks:
     link_url: ''
     link_text: ''
   section_break: false
-tags: []
 date: 
-description: Beverly Willis, FAIA (b. 1928) began her career as an independent artist
-  in 1954 and established her own firm as an architect in 1966. In 1980 she was one
-  of the founders of the National Building Museum. In 2002, she founded the Beverly
+description:  In 2002, Beverly Willis, FAIA founded the Beverly
   Willis Architecture Foundation.
 
 ---

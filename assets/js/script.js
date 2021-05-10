@@ -70,8 +70,16 @@ for (let imgContainer of imgContainers){
 
 // scroll to load image
 function fadeInImage(element){
-    if (scrollpos >= element.offsetTop) { element.classList.add("fade-in") }
-    else { element.classList.remove("fade-in") }
+    if (scrollpos >= element.offsetTop) { 
+      element.classList.add("fade-in");
+      setTimeout(function(){
+        element.style.display = "inline";
+      },500)
+    }
+    else { 
+      element.classList.remove("fade-in");
+      element.style.display = "inline-block";
+    }
 }
 
 window.addEventListener('scroll', function() { 
@@ -79,6 +87,25 @@ window.addEventListener('scroll', function() {
     for (let imgContainer of imgContainers){
         fadeInImage(imgContainer);
     }
+})
+
+
+// SCREENSAVER
+let timer = 0;
+
+setInterval(function(){
+  timer++;
+  if (timer >= 15){
+    document.body.classList.add("screensaver")
+  } else {
+    document.body.classList.remove("screensaver")
+  }
+  console.log(timer)
+},1000)
+
+document.addEventListener("mousemove", function(){
+  timer = 0;
+  document.body.classList.remove("screensaver")
 })
 
 

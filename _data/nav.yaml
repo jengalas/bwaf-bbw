@@ -54,7 +54,5 @@
     page: ''
 - label: Support
   link: "/support"
-  subnav: []
 - label: Search
   link: "/search"
-  subnav: []

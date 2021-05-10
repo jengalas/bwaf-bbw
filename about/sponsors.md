@@ -108,19 +108,16 @@ previous-years:
         {% endfor %}
     </div>
 </div>
+{% for sponsorsgroup in page.sponsors %}
 <div class="main-two-up">
     <div>
+        <h2 class="h3"><b>{{sponsorsgroup.sponsors-header}}</b></h2>
     </div>
     <div>
-        {% for sponsorsgroup in page.sponsors %}
-          <ul class="sponsors-amounts">
-              <li class="smallest">
-                  <b>{{sponsorsgroup.sponsors-header}}</b>
-              </li>
+          <div class="text-block">
               {% for sponsorgroup in sponsorsgroup.sponsors %}
-              <li class="smallest">
-                  <div>{{sponsorgroup.amt}}</div>
-                  <div>
+              <p>
+                  <strong>{{sponsorgroup.amt}}</strong><br>
                       {% for sponsor in sponsorgroup.sponsors %}
                           {% if forloop.index > 1 %}
                               <br>{{sponsor}}
@@ -128,14 +125,13 @@ previous-years:
                               {{sponsor}}
                           {% endif %}
                       {% endfor %}
-                  </div>
-              </li>
+              </p>
               {% endfor %}
-          </ul>
+          </div>
           <br>
-        {% endfor %}
     </div>
 </div>
+{% endfor %}
 <div class="hr"></div>
 <div class="main-two-up">
     <div>

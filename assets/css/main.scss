@@ -196,7 +196,13 @@ nav{
             height:100%;
             width:50px;
             transition: width 400ms;
+            path{
+                transition:fill 400ms;
+            }
         }
+    }
+    #logo:hover{
+        svg path{fill:var(--red)}
     }
     .subnav{
         position:fixed;
@@ -337,6 +343,28 @@ footer{
     a.btn{margin-left:15px;}
 }
 
+body.screensaver{
+    * {
+        filter: grayscale(100%);
+    }
+    #screensaver{display:block}
+}
+#screensaver{
+    display:none;
+    width:100vw;
+    height:100vh;
+    position:fixed;
+    background:rgba(255,255,255,0.5);
+    top:0px;
+    left:0px;
+    z-index:10;
+    img{
+        width:50px;
+        height:46px;
+        position:fixed;
+        filter: none !important;
+    }
+}
 
 .easter-egg{
     height:65vh;
@@ -496,6 +524,7 @@ p.lg{
     position: relative;
     width: 100%;
     border:1px solid var(--green);
+    display:inline-block;
     img{
         display:block;
         width:100%;
@@ -508,10 +537,15 @@ p.lg{
 }
 .image-container.fade-in {
     border:0px;
+    // animation:removeDisplay 0s 1s forwards;
     img{
         opacity:1;
     }
 }
+// @keyframes removeDisplay{
+//     0%{display:inline-block}
+//     100%{display:inline !important}
+// }
 .home.main {
     display:flex;
     > div {
@@ -1134,6 +1168,51 @@ figcaption, .smallest{
         font-family: "William Text Regular", serif;
         font-size: 34px;
         line-height: 42px;
+    }
+}
+
+.searchbar{
+    width:100%;
+    border:0px;
+    border-bottom:5px solid var(--green);
+    font-size:36px;
+    font-family:'GT America', sans-serif;
+    margin-bottom:118px;
+}
+.searchbar:after{
+    content:'→';
+    display:block;
+    position:absolute;
+    right:0px;
+    color:var(--green);
+}
+.searchbar:focus{
+    // border-bottom:5px solid black;
+    // color:var(--green);
+    outline:none;
+    background:#6BCABA26;
+}
+#search-results{
+    > a{
+        display:flex;
+        align-items: flex-start; 
+        justify-content: flex-start;
+        margin-bottom:80px;
+        // flex-wrap:wrap;
+        div:last-child{
+            max-width:930px;
+        }
+    }
+    .thumbnail{
+        img{
+            width:180px;
+            height:180px;
+            opacity:1;
+        }
+        margin-right:var(--gutter);
+        width:auto;
+        height:auto;
+        border:1px solid #969696;
     }
 }
 
