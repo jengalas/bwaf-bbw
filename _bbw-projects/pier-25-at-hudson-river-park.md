@@ -11,8 +11,8 @@ location: 225 West Street, New York, NY
 year: 2010
 description: ''
 images:
-- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
-  caption: ''
+- image: "/v1620684786/smlHRP-Pier_25-water_play_at_sunset_06.11-S_fh2bmd.jpg"
+  caption: 'Pier 25 at Hudson River Park. Photo credit: Signe Nielsen'
 historical: false
 
 ---
