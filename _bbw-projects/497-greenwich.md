@@ -11,8 +11,8 @@ location: 497 Greenwich Street, New York, NY
 year: 2003
 description: ''
 images:
-- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
-  caption: ''
+- image: "/v1620665959/GW497_Final-Photos_Exterior_Day_Rev2_wj8b48.jpg"
+  caption: 497 Greenwich. Photograph by Floto & Warner.
 historical: false
 
 ---
