@@ -11,8 +11,8 @@ location: 250 Greenwich Street, New York, NY
 year: 2006
 description: ''
 images:
-- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
-  caption: ''
+- image: "/v1620677996/201319_000_N413_jpg_tbgcvg.jpg"
+  caption: 7 World Trade Center, exterior view. Courtesy SOM © James Ewing | OTTO
 historical: false
 
 ---
