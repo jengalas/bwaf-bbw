@@ -19,6 +19,17 @@ fields:
 - type: text
   name: title
   label: Page Title
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Short Description
+  description: Page description shows up in website search results, search engines,
+    and when the page is shared on social media.
 - name: page_blocks
   type: blocks
   label: Page Blocks
