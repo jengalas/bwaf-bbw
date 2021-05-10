@@ -14,6 +14,9 @@ images:
 - image: "/v1620668582/EliBlack_Chapel_FrankOudeman_ywdro9.jpg"
   caption: Eli M. Black Center for Lifelong Learning, interior view. Photograph by
     Frank Oudeman
+- image: "/v1620668640/smlEliBlack_Exterior_FrankOudeman_coywdb.jpg"
+  caption: Eli M. Black Center for Lifelong Learning, exterior view. Photograph by
+    Frank Oudeman
 historical: false
 
 ---
