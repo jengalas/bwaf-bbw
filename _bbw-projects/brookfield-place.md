@@ -12,7 +12,7 @@ year: 2015
 description: ''
 images:
 - image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
-  caption: ''
+  caption: 'Brookfield Place, interior view. '
 historical: false
 
 ---
