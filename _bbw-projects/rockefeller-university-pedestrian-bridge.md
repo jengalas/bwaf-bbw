@@ -11,8 +11,8 @@ location: 'East 63rd Street, near York Avenue, New York, NY '
 year: 2000
 description: ''
 images:
-- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
-  caption: ''
+- image: "/v1620675418/ROCK_Bridge_04_jwbsk1.jpg"
+  caption: 'Rockefeller University Pedestrian Bridge. '
 historical: false
 
 ---
