@@ -13,6 +13,8 @@ description: ''
 images:
 - image: "/v1620667892/sml0016aaC_mq4erd.jpg"
   caption: African Burial Ground Memorial, exterior view. Courtesy Nicole Hollant-Denis
+- image: "/v1620667972/004_ABG_visit_jwapil.jpg"
+  caption: African Burial Ground Memorial, interior view. Courtesy Nicole Hollant-Denis
 historical: false
 
 ---
