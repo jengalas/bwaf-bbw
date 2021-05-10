@@ -3,7 +3,7 @@ layout: bbw-project
 navCategory: Programs
 bbw-year: _bbw-years/bbw-2018.md
 project_categories: []
-title: MSK
+title: Memorial Sloan Kettering Mortimer B. Zuckerman Research Center
 architects:
 - title: Marilyn Jordan Taylor
   role: Skidmore, Owings & Merrill
