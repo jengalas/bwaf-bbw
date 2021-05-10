@@ -11,6 +11,9 @@ location: 2950 Broadway, New York, NY
 year: 2008
 description: ''
 images:
+- image: "/v1620684575/smlMFA_Tony_Stabile_Student_Center_Columbia_University_School_of_Journalism_Jongseo_Kim_Marble_Fairbanks_2_abhjao.jpg"
+  caption: Tony Stabile Student Center, Columbia University School of Journalism.
+    Jongseo Kim; Marble Fairbanks
 - image: "/v1620684540/smlMFA_Tony_Stabile_Student_Center_Columbia_University_School_of_Journalism_Jongseo_Kim_Marble_Fairbanks_1_hs0b5f.jpg"
   caption: Tony Stabile Student Center, Columbia University School of Journalism.
     Jongseo Kim; Marble Fairbanks
