@@ -11,8 +11,8 @@ location: 285 Fulton Street, New York, NY
 year: 2014
 description: ''
 images:
-- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
-  caption: ''
+- image: "/v1620678201/smlWTC205221_000_N252_jpg_i5oajq.jpg"
+  caption: One World Trade Center, exterior view. Courtesy SOM © Dave Sundberg | Esto
 historical: false
 
 ---
