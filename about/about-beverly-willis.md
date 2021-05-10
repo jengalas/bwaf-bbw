@@ -61,5 +61,13 @@ page_blocks:
     link_url: ''
     link_text: ''
   section_break: false
+tags:
+- Beverly
+- Willis
+- Beverly Willis
+- Union Street Shops
+- San Francisco
+- CARLA
+date: 
 
 ---
