@@ -11,6 +11,8 @@ location: 619 West 114th Street, New York, NY
 year: 2018
 description: ''
 images:
+- image: "/v1620669751/SHSH_AlumniCenter_PeterAaron_Esto_m10ti1.jpg"
+  caption: St. Hilda's St. Hugh's School interior view. Photograph by Frank Oudeman
 - image: "/v1620669623/smlSHSH_ClassroomKitchen_FrankOudeman_a95pyu.jpg"
   caption: St. Hilda's St. Hugh's School interior view. Photograph by Frank Oudeman
 historical: false
