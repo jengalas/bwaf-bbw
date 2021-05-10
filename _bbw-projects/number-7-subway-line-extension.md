@@ -11,8 +11,8 @@ location: 34th Street & 11th Avenue, New York, NY
 year: 2015
 description: ''
 images:
-- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
-  caption: ''
+- image: "/v1620665759/smlDattnerArchitects_DavidSundberg_7Line-1_wmcovg.jpg"
+  caption: Number 7 Subway. Photograph by David Sundberg
 historical: false
 
 ---
