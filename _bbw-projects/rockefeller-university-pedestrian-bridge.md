@@ -13,6 +13,8 @@ description: ''
 images:
 - image: "/v1620675418/ROCK_Bridge_04_jwbsk1.jpg"
   caption: 'Rockefeller University Pedestrian Bridge. '
+- image: "/v1620675489/ROCK_Bridge_07_q5c7lm.jpg"
+  caption: Rockefeller University Pedestrian Bridge.
 historical: false
 
 ---
