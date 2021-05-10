@@ -11,6 +11,8 @@ location: 10 River Terrace, New York, NY
 year: 2009
 description: ''
 images:
+- image: "/v1620675341/1_Poets_House_Louise_Braverman_Architect_Photo_Michael_Moran_z1kctg.jpg"
+  caption: Poets House, interior view. Photograph by Michael Moran
 - image: "/v1620675290/2_Poets_House__Louise_Braverman_Architect_Photo_Michael_Moran_gcoweg.jpg"
   caption: Poets House, interior view. Photograph by Michael Moran
 historical: false
