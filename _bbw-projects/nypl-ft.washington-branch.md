@@ -14,7 +14,7 @@ images:
 - image: "/v1620664207/SCA-NYPL2sml_njsuet.jpg"
   caption: NYPL Ft. Washington Branch, interior view. Photograph by Chuck Choi
 - image: "/v1620664253/SCA-NYPL3sml_vxeeuu.jpg"
-  caption: Photograph by Chuck Choi
+  caption: NYPL Ft. Washington Branch, interior view. Photograph by Chuck Choi
 historical: false
 
 ---
