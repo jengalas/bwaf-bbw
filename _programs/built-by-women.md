@@ -5,7 +5,7 @@ title: Built By Women
 navCategory: Programs
 slideshow-images:
 - image: "/v1620678201/smlWTC205221_000_N252_jpg_i5oajq.jpg"
-  caption: ''
+  caption: Image 1
 - image: "/assets/img/placeholder1.png"
   caption: Lorem ipsum
 - image: "/assets/img/placeholder1.png"
