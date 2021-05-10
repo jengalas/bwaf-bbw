@@ -8,8 +8,8 @@ slideshow-images:
   caption: Image 1
 - image: "/v1620675418/ROCK_Bridge_04_jwbsk1.jpg"
   caption: Image 2
-- image: "/assets/img/placeholder1.png"
-  caption: Lorem ipsum
+- image: "/v1620670086/200321_000_N1091_jpg_catnum.jpg"
+  caption: Image 3
 - image: "/assets/img/placeholder1.png"
   caption: Lorem ipsum
 - image: "/assets/img/placeholder1.png"
