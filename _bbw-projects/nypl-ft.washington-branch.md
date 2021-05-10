@@ -11,8 +11,8 @@ location: 535 West 179th Street, New York, NY
 year: 2011
 description: ''
 images:
-- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
-  caption: ''
+- image: "/v1620664207/SCA-NYPL2sml_njsuet.jpg"
+  caption: Photograph by Chuck Choi
 historical: false
 
 ---
