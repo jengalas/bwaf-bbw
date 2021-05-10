@@ -14,6 +14,9 @@ images:
 - image: "/v1620670086/200321_000_N1091_jpg_catnum.jpg"
   caption: Memorial Sloan Kettering Mortimer B. Zuckerman Research Center, exterior
     view. Courtesy SOM © David Sundberg | Esto
+- image: "/v1620670147/200321_000_N1095_jpg_m2lr0v.jpg"
+  caption: Memorial Sloan Kettering Mortimer B. Zuckerman Research Center, interior
+    view. Courtesy SOM © David Sundberg | Esto
 historical: false
 
 ---
