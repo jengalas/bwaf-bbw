@@ -11,8 +11,8 @@ location: 1220 5th Avenue at 103rd Street, New York, NY
 year: 2015
 description: ''
 images:
-- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
-  caption: ''
+- image: "/v1620675716/05_Starlight_qvrbf4.jpg"
+  caption: Starlight Exhibit, interior view.
 historical: false
 
 ---
