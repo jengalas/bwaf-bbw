@@ -6,8 +6,8 @@ navCategory: Programs
 slideshow-images:
 - image: "/v1620678201/smlWTC205221_000_N252_jpg_i5oajq.jpg"
   caption: Image 1
-- image: "/assets/img/placeholder1.png"
-  caption: Lorem ipsum
+- image: "/v1620675418/ROCK_Bridge_04_jwbsk1.jpg"
+  caption: Image 2
 - image: "/assets/img/placeholder1.png"
   caption: Lorem ipsum
 - image: "/assets/img/placeholder1.png"
