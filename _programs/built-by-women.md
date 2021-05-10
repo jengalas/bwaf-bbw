@@ -29,7 +29,8 @@ description: |-
 map:
   link: https://bwaf.square.site/product/built-by-women-los-angeles-2020-map-and-poster/11
   image: "/assets/img/bbw-map.png"
-  caption: Caption info of photographs here teekay.
+  caption: Map, designed by Yay Brigade, of selected projects in the Los Angeles metro
+    area.
 stats:
 - number: 38%
   label: Percentage of women in the architecture field
