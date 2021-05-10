@@ -82,7 +82,7 @@ pioneering-women:
     Willis; Jeanne Wills; Cynthia J. Wright, AIA; Laura Boyer; Nina Freedman; Jan
     Muntz, AIA; Nancy Nguyen; Alison Paul; Mardelle Shepley, Ph.D.; Judith Major,
     Ph.D.; Andrew Watiker; Laura Watiker
-previous-years-header: Continuing and General Support for BWAF Programs is Generously Provided By
+previous-years-header: Continuing and General Support is Generously Provided By
 previous-years:
 - name: Brookfield Properties
   image: "/v1620155874/B-prop_id_rgb_q198gs.jpg"
