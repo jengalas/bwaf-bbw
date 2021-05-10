@@ -14,8 +14,8 @@ slideshow-images:
   caption: Image 4
 - image: "/v1620416416/Screen_Shot_2021-05-07_at_3.39.45_PM_ptvots.png"
   caption: Image 5
-- image: "/assets/img/placeholder1.png"
-  caption: Lorem ipsum
+- image: "/v1620415992/6.-entry-57-calmart01-1000x802_rc3ghv.jpg"
+  caption: Image 6
 - image: "/assets/img/placeholder1.png"
   caption: Lorem ipsum
 - image: "/assets/img/placeholder1.png"
