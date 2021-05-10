@@ -11,8 +11,8 @@ location: 475 Tenth Avenue, New York, NY
 year: 2012
 description: ''
 images:
-- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
-  caption: ''
+- image: "/v1620675570/1247_02_apnjrb.jpg"
+  caption: Sean Kelly Gallery, interior view. Photograph by Michael Moran
 historical: false
 
 ---
