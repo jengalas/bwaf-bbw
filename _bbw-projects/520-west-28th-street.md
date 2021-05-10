@@ -12,7 +12,7 @@ year: 2017
 description: ''
 images:
 - image: "/v1620667595/sml15_ZHA_520_W_28th_Street__Hufton_Crow_kce71c.jpg"
-  caption: ''
+  caption: 520 West 28th Street, exterior view. Photograph by Hufton+Crow
 historical: false
 
 ---
