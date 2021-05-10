@@ -11,6 +11,8 @@ location: 103 Charlton Street, New York, NY
 year: 2011
 description: ''
 images:
+- image: "/v1620668302/smlCMA_Ari_Marcopoulos_8865_fbo5zn.jpg"
+  caption: Children's Museum of the Arts, exterior view. Photograph by Ari Marcopoulos
 - image: "/v1620668245/smlCMA_Ari_Marcopoulos_8555_eyltex.jpg"
   caption: Children's Museum of the Arts, interior view. Photograph by Ari Marcopoulos
 historical: false
