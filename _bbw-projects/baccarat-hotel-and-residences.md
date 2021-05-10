@@ -11,8 +11,9 @@ location: 28 West 53rd Street, New York, NY
 year: 2015
 description: ''
 images:
-- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
-  caption: ''
+- image: "/v1620677820/Baccarat_sml211152_000_N83_jpg_orl5ge.jpg"
+  caption: Baccarat Hotel and Residences, exterior view. Courtesy SOM © Albert Vecerka
+    | Esto
 historical: false
 
 ---
