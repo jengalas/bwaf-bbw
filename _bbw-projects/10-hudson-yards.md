@@ -11,8 +11,8 @@ location: 34th Street & 11th Avenue, New York, NY
 year: 2019
 description: ''
 images:
-- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
-  caption: ''
+- image: "/v1620760292/1_KPF_10HudsonYards_right___c_ConnieZhou_f49lbd.jpg"
+  caption: 10 Hudson Yards, exterior view. Photograph by Connie Zhou
 historical: false
 
 ---
