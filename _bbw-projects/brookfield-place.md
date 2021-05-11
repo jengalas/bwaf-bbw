@@ -11,8 +11,8 @@ location: 230 Vesey Street, New York, NY
 year: 2015
 description: ''
 images:
-- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
-  caption: 'Brookfield Place, interior view. '
+- image: "/v1620750224/sml_Brookfield_Place_Atrium_jbanop.jpg"
+  caption: Brookfield Place, interior view. Courtesy Brookfield Properties
 historical: false
 
 ---
