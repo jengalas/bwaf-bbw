@@ -11,8 +11,9 @@ location: 530 West 21st Street, New York, NY
 year: 2008
 description: ''
 images:
-- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
-  caption: ''
+- image: "/v1620761219/smlSelldorf_Gladstone_Gallery21_01_rbkdzi.jpg"
+  caption: 'Gladstone Gallery, exterior view. Credit: Photograph by Nikolas Koenig.
+    Courtesy of Selldorf Architects'
 historical: false
 
 ---
