@@ -11,8 +11,8 @@ location: 34th Street & Hudson Yards, New York, NY
 year: 2017
 description: ''
 images:
-- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
-  caption: ''
+- image: "/v1620750316/Manhattan_West_Skyline_Day_2017_kni1rk.jpg"
+  caption: Manhattan West, exterior view. Courtesy Brookfield Properties
 historical: false
 
 ---
