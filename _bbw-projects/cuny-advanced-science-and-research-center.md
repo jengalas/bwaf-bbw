@@ -11,8 +11,9 @@ location: 85 Saint Nicholas Terrace
 year: 2014
 description: ''
 images:
-- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
-  caption: ''
+- image: "/v1620760548/1_KPF_CUNY_ASRC__c_JeremyBittermann_h0imsf.jpg"
+  caption: CUNY Advanced Science and Research Center, exterior view. Photograph by
+    Jeremy Bittermann
 historical: false
 
 ---
