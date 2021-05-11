@@ -14,6 +14,9 @@ images:
 - image: "/v1620760966/smlSelldorf_Zwirner_01_fxxtyl.jpg"
   caption: David Zwirner, exterior view. Photograph by Jason Schmidt. Courtesy of
     Selldorf Architects
+- image: "/v1620761047/smlSelldorf_Zwirner_02_qwcrr0.jpg"
+  caption: David Zwirner, exterior view. Photograph by Jason Schmidt. Courtesy of
+    Selldorf Architects
 historical: false
 
 ---
