@@ -11,8 +11,9 @@ location: 1048 5th Avenue, New York, NY
 year: 2001
 description: ''
 images:
-- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
-  caption: ''
+- image: "/v1620761372/smlSelldorf_Neue_Galerie_02_g9cqhz.jpg"
+  caption: 'Neue Galerie of New York, interior view. Credit: Todd Eberle. Courtesy
+    of Selldorf Architects'
 historical: false
 
 ---
