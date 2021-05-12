@@ -11,8 +11,9 @@ location: 43 West 22nd Street, New York, NY
 year: 1996
 description: ''
 images:
-- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
-  caption: ''
+- image: "/v1620836336/01-0807-1-Manhattan-exterior-facade_glew9j.jpg"
+  caption: Manhattan Village Academy Entry, exterior view. Photograph courtesy Beverly
+    Willis Architects
 historical: false
 
 ---
