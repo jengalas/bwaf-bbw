@@ -11,8 +11,9 @@ location: 61 West 62nd Street, New York, NY
 year: 2009
 description: ''
 images:
-- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
-  caption: ''
+- image: "/v1620836827/HAR-E-NL-466.002_mopxl8.jpg"
+  caption: David Rubenstein Atrium at Lincoln Center, exterior view. Photograph ©Nic
+    Lehoux
 historical: false
 
 ---
