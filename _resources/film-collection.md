@@ -32,7 +32,7 @@ page_blocks:
     urban fabric of our great city.  \n  \n“Beverly Willis’ film takes us on a rapid
     ride through time and locations demonstrating how women have been and are, bold
     leaders and partners in creating the rich fabric of Gotham”. Frances Bronet, President,
-    Pratt Institute.  \n  \nDuration: 19 minutes."
+    Pratt Institute.  \n  \nDuration: 20 minutes."
   include_left-hand_column_text_: true
   lefthand_text:
     header_type: Link
