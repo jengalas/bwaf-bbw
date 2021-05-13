@@ -6,7 +6,7 @@ navCategory: About
 description: Beverly Willis Architecture Foundation would not exist without the financial
   support and generosity of our supporters. We give our deepest gratitude to our supporters
   listed on this page.
-supporters-header: 2021 Supporters and Partners
+supporters-header: ''
 supporters:
 - name: Brookfield Properties
   image: "/v1620155874/B-prop_id_rgb_q198gs.jpg"
