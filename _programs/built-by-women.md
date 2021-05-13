@@ -43,5 +43,8 @@ current-year-blurb: |-
   In 2020, Built By Women took place in the Los Angeles metro area. From 100 submissions, 56 architectural, engineering and constructions projects were selected by a jury of national professionals in the industries. A designed map of the selected projects was created to showcase the projects and the Built By Women initiative.
 
   Previous Built By Women initiatives focused on New York City (2014), Washington D.C. (2016) and Manhattan (2018).
+lefthand_link:
+  link_text: Learn how you can become a sponsor of the program
+  link_url: "/"
 
 ---
