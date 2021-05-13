@@ -13,7 +13,7 @@ supporters:
 - name: Silman
   image: "/v1620155920/Silman_Logo_djgqp7.jpg"
 sponsors:
-- sponsors-header: Leadership Awards Gala Sponsors
+- sponsors-header: 2020 Leadership Awards Gala Sponsors
   sponsors:
   - amt: Legacy
     sponsors:
