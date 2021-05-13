@@ -43,6 +43,7 @@ fields:
   - timeline-block
   - featured-portrait-block
   - section-break
+  - buttons-block
   - miscellaneous-block
   config:
     min: 
