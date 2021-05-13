@@ -201,8 +201,8 @@ nav{
             }
         }
     }
-    #logo:hover{
-        svg path{fill:var(--red)}
+    #logo svg:hover{
+         path{fill:var(--red)}
     }
     .subnav{
         position:fixed;
@@ -1224,6 +1224,12 @@ figcaption, .smallest{
 @media screen and (min-width: 1800px){
     body {
         font-size: 30px;
+    }
+}
+
+@media screen and (min-width: 1600px){
+    .main-two-up .img-block img{
+        max-height:80vh;
     }
 }
 

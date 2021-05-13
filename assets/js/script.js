@@ -91,23 +91,23 @@ window.addEventListener('scroll', function() {
 
 
 // SCREENSAVER
-let timer = 0;
+// let timer = 0;
 
-setInterval(function(){
-  timer++;
-  if (timer >= 15){
-    document.body.classList.add("screensaver")
-  } else {
-    document.body.classList.remove("screensaver")
-  }
-  console.log(timer)
-},1000)
+// setInterval(function(){
+//   timer++;
+//   if (timer >= 15){
+//     document.body.classList.add("screensaver")
+//   } else {
+//     document.body.classList.remove("screensaver")
+//   }
+//   console.log(timer)
+// },1000)
 
-document.addEventListener("mousemove", function(){
-  timer = 0;
-  document.body.classList.remove("screensaver")
-})
-
+// document.addEventListener("mousemove", function(){
+//   timer = 0;
+//   document.body.classList.remove("screensaver")
+// })
+// document.body.classList.add("screensaver")
 
 
 // EASTER EGG

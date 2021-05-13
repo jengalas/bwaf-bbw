@@ -3,13 +3,13 @@
 <div class="main-two-up">
     <div class="vertical-flex">
         <img id="bbw-logo" src="/assets/img/built-by-women.png">
-        <a href="{{block.lefthand_text.link_url}}" target="_blank" class="lefthand-link">Learn how you can become a sponsor of the program→</a>
+        <a href="{{page.lefthand_link.link_url}}" target="_blank" class="lefthand-link">{{page.lefthand_link.link_text}}→</a>
     </div>
     <div>
         <div>
             <div class="bbw-image-grid">
                 {% for image in page.slideshow-images | limit: 6 %}
-                <img src="{{image.image}}">
+                <img src="{{site.cloudinary}}{{image.image}}">
                 {% endfor %}
             </div>
             <figcaption>From top left clockwise: {% for image in page.slideshow-images | limit: 6%}{{image.caption}}, {% endfor %}</figcaption>
