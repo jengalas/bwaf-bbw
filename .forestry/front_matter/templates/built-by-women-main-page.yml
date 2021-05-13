@@ -30,6 +30,21 @@ fields:
   - type: text
     name: caption
     label: caption
+- name: lefthand_link
+  type: field_group
+  config: {}
+  fields:
+  - name: link_text
+    type: text
+    config:
+      required: false
+    label: Link Text
+  - name: link_url
+    type: text
+    config:
+      required: false
+    label: Link Url
+  label: Lefthand Link
 - type: textarea
   name: description
   label: Description
