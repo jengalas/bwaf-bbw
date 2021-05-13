@@ -56,33 +56,10 @@ sponsors:
     - WSP Global Inc.
     - Zetlin & De Chiara LLP
 pioneering-women:
-  header: Major Supporters of the Pioneering Women of American Architecture Project
-  sponsors-groups:
-  - amt: "$5,000 or more"
-    sponsors:
-    - MaryAnne Gilmartin, President and Chief Executive Officer
-    - Forest City Ratner Companies
-  - amt: "$5,000 or more"
-    sponsors:
-    - MaryAnne Gilmartin, President and Chief Executive Officer
-    - Forest City Ratner Companies
-  additional-supporters: Additional Supporters Heid Blau, FAIA; Sheila Cahnman, AIA;
-    Lila Shoshkes; Marion Weiss, FAIA; Denelle Wrightson, AIA; Zeitlin & De Chiara,
-    LLC.; Patricia Boyle, AIA; Marge Champion; Michael Crosbie, FAIA, Ph.D.; Peggy
-    Deamer, Ph.D.; Julia Donoho, AIA; Paul Edholm; Sarah Haga, AIA; Patricia Harris,
-    Esq., LEED AP; Cheryl A. Lazzaro; Kate Schwennsen, FAIA; Despina Stratigakos,
-    Ph.D.; Allyne Winderman, FAIA; Kim Yao, AIA; Zubatkin Owner Representation, LLC;
-    Shar Taylor; Dale B. Cohen, Assoc. AIA; Betsey Olenick Dougherty, FAIA; Karen
-    Fairbanks, AIA; Diane Favro, Ph.D.; Marcia Ferranto; Cynthia Hammond, Ph.D.; James
-    T. Hanley; Rena M. Klein, FAIA; Patricia Lancaster; Michele Lewis; Linda Lyons;
-    W. Brett McKenzie, Ed.D.; Paula McKenzie; Karen McNeil, Ph.D.; Robin Osler, AIA;
-    Kathryn Prigmore, FAIA; Deborah Rehn, AIA; Bruce Rosen; Victoria Rosner, Ph.D.;
-    Avigail Sachs, Ph.D.; Pauline Saliga, Ph.D.; Michael Seto; Ellen Shoshkes, Ph.D.;
-    Natividad Soto, AIA; Abigail Van Slyck Ph.D.; Jeffrey and Carla Watiker; Carol
-    Willis; Jeanne Wills; Cynthia J. Wright, AIA; Laura Boyer; Nina Freedman; Jan
-    Muntz, AIA; Nancy Nguyen; Alison Paul; Mardelle Shepley, Ph.D.; Judith Major,
-    Ph.D.; Andrew Watiker; Laura Watiker
-previous-years-header: Continuing and General Support is Generously Provided By
+  header: ''
+  sponsors-groups: []
+  additional-supporters: ''
+previous-years-header: Continued General Support is Generously Provided By
 previous-years:
 - name: Brookfield Properties
   image: "/v1620155874/B-prop_id_rgb_q198gs.jpg"
