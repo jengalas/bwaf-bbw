@@ -3,7 +3,7 @@ layout: bbw-project
 navCategory: Programs
 bbw-year: _bbw-years/bbw-2018.md
 project_categories: []
-title: City Homes
+title: City Homes Infill Housing
 architects:
 - title: Roberta Washington
   role: Roberta Washington Architects
