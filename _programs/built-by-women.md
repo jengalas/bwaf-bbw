@@ -7,7 +7,7 @@ slideshow-images:
 - image: "/v1620678201/smlWTC205221_000_N252_jpg_i5oajq.jpg"
   caption: Image 1
 - image: "/v1620675418/ROCK_Bridge_04_jwbsk1.jpg"
-  caption: Image 2
+  caption: Rockefeller Bridge
 - image: "/v1620670086/200321_000_N1091_jpg_catnum.jpg"
   caption: Image 3
 - image: "/v1620667892/sml0016aaC_mq4erd.jpg"
