@@ -13,7 +13,7 @@ slideshow-images:
 - image: "/v1620667892/sml0016aaC_mq4erd.jpg"
   caption: African Burial Ground Memorial
 - image: "/v1620416416/Screen_Shot_2021-05-07_at_3.39.45_PM_ptvots.png"
-  caption: Image 5
+  caption: Marilyn Jorgenson Reece Memorial Interchange
 - image: "/v1620415992/6.-entry-57-calmart01-1000x802_rc3ghv.jpg"
   caption: California Mart
 - image: "/v1617907445/9_Dots-02_ptlwd7.jpg"
