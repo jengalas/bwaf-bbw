@@ -343,27 +343,34 @@ footer{
     a.btn{margin-left:15px;}
 }
 
-body.screensaver{
-    * {
-        filter: grayscale(100%);
-    }
-    #screensaver{display:block}
-}
+
 #screensaver{
-    display:none;
-    width:100vw;
-    height:100vh;
+    opacity:0;
+    width:calc(100vw + 50px);
+    height:calc(100vh + 90px);
     position:fixed;
     background:rgba(255,255,255,0.5);
     top:0px;
-    left:0px;
+    left:-21px;
     z-index:10;
+    transition:opacity 400ms;
+    overflow:hidden;
+    display: flex;
+    flex-wrap: wrap;
     img{
         width:50px;
-        height:46px;
+        height:42px;
         position:fixed;
         filter: none !important;
+        margin-right:10px;
+        opacity:0;
     }
+}
+body.screensaver{
+    img, a {
+        filter: grayscale(100%);
+    }
+    #screensaver{opacity:1}
 }
 
 .easter-egg{

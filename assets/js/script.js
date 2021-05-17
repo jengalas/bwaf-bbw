@@ -24,12 +24,10 @@ for (btn of navBtns){
 }
 
 // Close the dropdown menu if the user clicks outside of it
-window.onclick = function() {
-  console.log(nav);
+window.addEventListener("click", function(){
   nav.classList.remove("subnav-open");
   document.querySelector("nav button.active").classList.remove("active");
-   
-}
+});
 
 
 
@@ -91,23 +89,46 @@ window.addEventListener('scroll', function() {
 
 
 // SCREENSAVER
-// let timer = 0;
+let timer = 0;
+//logo width 50px, logo height 46px, margin right 7px;
+let quantityX = Math.floor(window.innerWidth/(50+7));
+let quantityY = Math.floor(window.innerHeight/42);
 
-// setInterval(function(){
-//   timer++;
-//   if (timer >= 15){
-//     document.body.classList.add("screensaver")
-//   } else {
-//     document.body.classList.remove("screensaver")
-//   }
-//   console.log(timer)
-// },1000)
+for (let i=0;i<quantityY;i++){
+  for (let j=0;j<quantityX;j++){
+    let ss_img = document.createElement("IMG");
+    ss_img.style.top = i*42 + "px";
+    ss_img.style.left = j*60 + "px";
+    if (i%2==0){
+      ss_img.style.left = j*60 - 30 + "px";
+    }
+    ss_img.src = "/assets/img/logo-sm.svg";
+    document.getElementById("screensaver").appendChild(ss_img);
+  }
+}
 
-// document.addEventListener("mousemove", function(){
-//   timer = 0;
-//   document.body.classList.remove("screensaver")
-// })
-// document.body.classList.add("screensaver")
+setInterval(function(){
+  timer+=2;
+  var ssImgs = document.querySelectorAll('#screensaver img');
+  let randomImg = ssImgs[Math.floor((Math.random() * ssImgs.length))];
+  randomImg.style.opacity = 1;
+  if (timer >= 10){
+    document.body.classList.add("screensaver");
+  }
+  console.log(timer);
+},2000)
+
+document.addEventListener("mousemove", function(){stopScreensaver()});
+window.addEventListener("scroll", function(){stopScreensaver()});
+document.addEventListener("click", function(){stopScreensaver()});
+
+function stopScreensaver(){
+    timer = 0;
+    document.body.classList.remove("screensaver");
+    setTimeout(function(){
+      for (let img of document.querySelectorAll('#screensaver img')){img.style.opacity=0}
+    })
+}
 
 
 // EASTER EGG
