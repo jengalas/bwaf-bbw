@@ -85,6 +85,19 @@ page_blocks:
     download: ''
     link_url: ''
     link_text: ''
+- template: buttons-block
+  buttons_header__optional_: View previous PDFs (PLACEHOLDER)
+  button:
+  - button_text: Lorem ipsum
+    button_link: https://bwaf.netlify.app
+  section_break: false
+  include_left-hand_column_text_: false
+  lefthand_text:
+    header_type: ''
+    text: ''
+    download: ''
+    link_url: ''
+    link_text: ''
 - template: text-block
   include_left-hand_column_text_: true
   lefthand_text:
@@ -97,4 +110,7 @@ page_blocks:
     Roundtable Retreat. As the retreat is limited to 20 participants, we recommend
     prompt registration.
   section_break: true
+description: ''
+date: 
+
 ---

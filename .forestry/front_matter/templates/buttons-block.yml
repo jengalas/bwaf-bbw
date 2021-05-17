@@ -1,0 +1,32 @@
+---
+label: Buttons Block
+hide_body: true
+fields:
+- name: lefthand_text
+  type: include
+  config: {}
+  template: lefthand-text
+  label: Lefthand Text
+- name: buttons_header__optional_
+  type: text
+  config:
+    required: false
+  label: Buttons Header (optional)
+- name: button
+  type: field_group_list
+  fields:
+  - name: button_text
+    type: text
+    config:
+      required: false
+    label: Button Text
+  - name: button_link
+    type: text
+    config:
+      required: false
+    label: Button Link
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Button
