@@ -9,7 +9,7 @@ slideshow-images:
 - image: "/v1620675418/ROCK_Bridge_04_jwbsk1.jpg"
   caption: Rockefeller Bridge
 - image: "/v1620670086/200321_000_N1091_jpg_catnum.jpg"
-  caption: Image 3
+  caption: Memorial Sloan Kettering Center
 - image: "/v1620667892/sml0016aaC_mq4erd.jpg"
   caption: Image 4
 - image: "/v1620416416/Screen_Shot_2021-05-07_at_3.39.45_PM_ptvots.png"
