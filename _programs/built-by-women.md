@@ -11,7 +11,7 @@ slideshow-images:
 - image: "/v1620670086/200321_000_N1091_jpg_catnum.jpg"
   caption: Memorial Sloan Kettering Center
 - image: "/v1620667892/sml0016aaC_mq4erd.jpg"
-  caption: Image 4
+  caption: African Burial Ground Memorial
 - image: "/v1620416416/Screen_Shot_2021-05-07_at_3.39.45_PM_ptvots.png"
   caption: Image 5
 - image: "/v1620415992/6.-entry-57-calmart01-1000x802_rc3ghv.jpg"
