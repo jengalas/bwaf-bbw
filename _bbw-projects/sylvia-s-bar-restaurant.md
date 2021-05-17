@@ -11,6 +11,8 @@ location: 328 Lenox Avenue, New York, NY
 year: 1991
 description: ''
 images:
+- image: "/v1621271963/2.Sylvia_s_Also_jkwjaa.jpg"
+  caption: Sylvia's Also Bar and Restaurant, exterior view. Photograph by John Gallagher
 - image: "/v1621271879/1.Sylvia_s_Also_-_Housing_Resturant_s1gw1s.jpg"
   caption: Sylvia's Also Bar and Restaurant, exterior view. Photograph by John Gallagher
 historical: false
