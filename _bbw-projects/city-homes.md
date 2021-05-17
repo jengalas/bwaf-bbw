@@ -11,8 +11,8 @@ location: West 132nd & 5th Avenue, New York, NY
 year: 2003
 description: ''
 images:
-- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
-  caption: ''
+- image: "/v1621272075/Infill_Housing_Photo_1_ym3upk.tiff"
+  caption: City Homes Infill Housing, exterior view. Photograph by Robbin Valentin
 historical: false
 
 ---
