@@ -186,6 +186,9 @@ nav{
         a.newsletter-link{
             text-transform:unset;
         }
+        a.newsletter-link:hover{
+            color:var(--green);
+        }
     }
     #logo{
         height: 42px;
@@ -271,6 +274,10 @@ nav{
             display:flex;
             flex-direction: column;
             justify-content: center;
+            transition:transform 300ms;
+        }
+        .donateBtn:hover{
+            transform:scale(1.03);
         }
         .h1{
             max-width:740px;
@@ -873,6 +880,18 @@ figcaption, .smallest{
     padding:var(--margin);
     padding-bottom:var(--spacer);
     margin-top:120px;
+    li a span{
+        color:var(--green);
+        font-weight:bold;
+        position:inline-block;
+        margin-left:5px;
+    }
+    li a:hover{
+        color:var(--green);
+    }
+    li a:hover span{
+        margin-left:10px;
+    }
 }
 
 .support-page{

@@ -15,7 +15,7 @@
                 {% assign link = item.link %}
             {% endif %}
 
-            <li><a href="{{link}}" class="h2">{{item.label}}</a></li>
+            <li><a href="{{link}}" class="h2">{{item.label}}<span>→</span></a></li>
             {% endif %}
         {% endfor %}
     </ul>
