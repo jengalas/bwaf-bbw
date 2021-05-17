@@ -357,6 +357,8 @@ footer{
     overflow:hidden;
     display: flex;
     flex-wrap: wrap;
+    pointer-events:none;
+    user-select:none;
     img{
         width:50px;
         height:42px;
@@ -364,6 +366,8 @@ footer{
         filter: none !important;
         margin-right:10px;
         opacity:0;
+    pointer-events:none;
+    user-select:none;
     }
 }
 body.screensaver{

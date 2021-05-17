@@ -111,6 +111,5 @@ page_blocks:
     prompt registration.
   section_break: true
 description: ''
-date: 
 
 ---
