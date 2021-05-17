@@ -5,7 +5,7 @@ title: Built By Women
 navCategory: Programs
 slideshow-images:
 - image: "/v1620678201/smlWTC205221_000_N252_jpg_i5oajq.jpg"
-  caption: Image 1
+  caption: One World Trade Center
 - image: "/v1620675418/ROCK_Bridge_04_jwbsk1.jpg"
   caption: Rockefeller Bridge
 - image: "/v1620670086/200321_000_N1091_jpg_catnum.jpg"
