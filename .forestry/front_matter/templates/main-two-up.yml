@@ -44,6 +44,7 @@ fields:
   - featured-portrait-block
   - section-break
   - buttons-block
+  - cta-block
   - miscellaneous-block
   config:
     min: 
