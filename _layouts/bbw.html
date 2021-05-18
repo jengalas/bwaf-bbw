@@ -78,7 +78,8 @@
     <div>
         <div class="links">
             <span class="ss" style="margin-bottom:10px;display:block">View previous years' competitions:</span>
-            {% for bbw in site.bbw-years %}
+            {% assign yrs = (site.bbw-years | sort: 'date') | reverse %}
+            {% for bbw in yrs %}
                 {% if bbw.link_out %}
                 <a href="{{bbw.link_out_url}}" class="btn-secondary" target="_blank">{{bbw.city}} ({{bbw.year}}) →</a><br>
                 {% else %}

@@ -36,7 +36,7 @@
 - label: Resources
   subnav:
   - label: Dynamic National Archive
-    link: "/"
+    link: "https://dna.bwaf.org/"
     external: true
     page: ''
   - label: Film Collection
@@ -49,8 +49,8 @@
     link: https://pioneeringwomen.bwaf.org
     external: true
     page: ''
-  - label: Podcast (coming soon)
-    link: "/"
+  - label: Podcast
+    link: "/resources/podcast"
     page: ''
 - label: Support
   link: "/support"

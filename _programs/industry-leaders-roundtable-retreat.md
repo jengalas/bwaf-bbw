@@ -32,18 +32,6 @@ page_blocks:
     download: ''
     link_url: ''
     link_text: ''
-- template: image-block
-  image: "/v1611546946/orionthemes-placeholder-image_lf0srf.png"
-  image_caption_text: Caption info of photograph here teekay.
-  section_break: false
-  include_left-hand_column_text_: false
-  lefthand_text:
-    header_type: ''
-    text: ''
-    download: ''
-    link_url: ''
-    link_text: ''
-  alt_text: ''
 - template: text-block
   section_break: true
   include_left-hand_column_text_: true

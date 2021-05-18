@@ -48,7 +48,7 @@
     --red:#F4364C;
     --green:#6BCABA;
     --spacer: 80px;
-    --dark: var(--dark);
+    --dark: #333333;
 }
 
 html{
@@ -539,6 +539,11 @@ a.btn-secondary{
     padding:5px 15px;
     margin-bottom:7px;
     display:inline-block;
+    transition: color 300ms, background 300ms;
+}
+a.btn-secondary:hover{
+    background:#d1d1d1;
+    // color:var(--green);
 }
 a.btn-primary{
     font-weight:bold;
@@ -684,6 +689,9 @@ p.lg{
         h6{
             margin-bottom:2em;
         }
+        ul, p{
+            margin-bottom:2em;
+        }
     }
     .img-block img{
         max-height: calc(66vw - var(--margin)*2 - var(--gutter));
@@ -706,7 +714,7 @@ p.lg{
             width:100%;
             object-fit:fill;
         }
-        .img-container{position: relative;display:inline-block;width:100%}
+        .img-container{position: relative;display:inline-block !important;width:100%}
         .play{
             display:block;
             position:absolute;
@@ -1043,11 +1051,15 @@ figcaption, .smallest{
     > div{
         display:flex;
     }
+    .pretty-load{
+        width: 300px;
+        height: 300px;
+        margin-right:var(--gutter);
+    }
     img{
         width: 300px;
         height: 300px;
         object-fit: cover;
-        margin-right:var(--gutter);
     }
     .time-location{
         font-family:'GT America', sans-serif;

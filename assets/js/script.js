@@ -59,11 +59,10 @@ if (document.body.id == "homepage"){
 
 let scrollpos = window.scrollY + window.innerHeight*3/4;
 
-let imgContainers = document.querySelectorAll(".image-container");
+let imgContainers = document.querySelectorAll(".image-container, .pretty-load");
 for (let imgContainer of imgContainers){
     imgContainer.style.backgroundImage = "url('/assets/img/pattern-sm-"+Math.ceil(Math.random() * 3)+".png')";
     fadeInImage(imgContainer);
-    imgContainer.onclick=function(e){e.preventDefault();console.log(imgContainer.offsetTop)}
 }
 
 // scroll to load image
