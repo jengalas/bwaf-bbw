@@ -66,11 +66,11 @@ sponsors:
 pioneering-women:
   header: ''
   sponsors-groups:
-  - amt: Early Sponsors
+  - amt: Significant Support from
     sponsors:
-    - Forest City Realty Trust
-    - Erleen Hatfield
-    - Claire Weisz
+    - Art Works, a grants program of the National Endowment of the Arts
+    - The American Institute of Architects
+    - Beyond The Built Environment LLC
   additional-supporters: Claire Weisz; Erleen Hatfield; Forest City Realty Trust;
     Jacquiline Zehner; Jane Chmielinski; John Carey; Leers Weinzapfel Associates;
     Marion White; Mary-Jean Eastman; Nancy Alexander; Roger Williams University; Ronette
