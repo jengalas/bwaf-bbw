@@ -4,8 +4,8 @@ title: Sponsors
 permalink: "/sponsors"
 navCategory: About
 description: Beverly Willis Architecture Foundation would not exist without the financial
-  support and generosity of our supporters. We give our deepest gratitude to our supporters
-  listed on this page.
+  support and generosity of our supporters. We give our deepest gratitude to all the
+  supporters listed on this page.
 supporters-header: ''
 supporters:
 - name: Brookfield Properties
@@ -66,15 +66,21 @@ sponsors:
 pioneering-women:
   header: ''
   sponsors-groups:
-  - amt: Early Sponsors
+  - amt: Significant Support from
     sponsors:
-    - Forest City Realty Trust
-    - Erleen Hatfield
-    - Claire Weisz
+    - Art Works, a grants program of the National Endowment of the Arts
+    - The American Institute of Architects
+    - Beyond The Built Environment LLC
   additional-supporters: Claire Weisz; Erleen Hatfield; Forest City Realty Trust;
     Jacquiline Zehner; Jane Chmielinski; John Carey; Leers Weinzapfel Associates;
     Marion White; Mary-Jean Eastman; Nancy Alexander; Roger Williams University; Ronette
-    Riley; Susan Mitchell-Ketzes; Susan Rodriguez; Wanda Bubriski
+    Riley; Susan Mitchell-Ketzes; Susan Rodriguez; Wanda Bubriski; Jill Lerner, FAIA;
+    Renee Charles; Kelly Hayes McAlonie, AIA; Sanders Pace Architecture; The University
+    of Tennessee College of Architecture and Design; Women of FXFOWLE; Marilyn Jordan
+    Taylor, FAIA; Marion Weiss, FAIA; Despina Stratigakos; Jennifer Sage, FAIA; Sara
+    Caples, AIA; Architecture Research Office; Christina Davis; Leers Weinzapfel Associates;
+    Ronald Evitts Architect LLC; LandDesign, Inc. and Madlen Simon; Susan T. Rodriguez
+    Architecture; Kristi Ambrosetti.
 previous-years-header: Continued General Support is Generously Provided By
 previous-years:
 - name: Brookfield Properties
