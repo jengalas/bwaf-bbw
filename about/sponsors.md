@@ -81,12 +81,10 @@ pioneering-women:
     Caples, AIA; Architecture Research Office; Christina Davis; Leers Weinzapfel Associates;
     Ronald Evitts Architect LLC; LandDesign, Inc. and Madlen Simon; Susan T. Rodriguez
     Architecture; Kristi Ambrosetti.
-previous-years-header: Continued Support is Generously Provided By
+previous-years-header: Additional Programming Support is Generously Provided By
 previous-years:
 - name: New York Building Foundation
   image: "/v1621379817/nybf-logo-450x450_kyhv9k.png"
-- name: Silman
-  image: "/v1620155920/Silman_Logo_djgqp7.jpg"
 
 ---
 <div class="main-two-up">
