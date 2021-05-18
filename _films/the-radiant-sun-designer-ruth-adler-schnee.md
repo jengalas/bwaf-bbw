@@ -10,6 +10,5 @@ description: The Radiant Sun explores the life and work of mid-century American 
   Modernist–era and expands knowledge about women designers’ influence on the built
   environment.
 image: "/v1621355441/s305193471954483892_p2_i1_w540_wcriwc.png"
-published: false
 
 ---
