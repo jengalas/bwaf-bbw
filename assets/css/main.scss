@@ -1437,8 +1437,9 @@ figcaption, .smallest{
     }
     .donation-block-inner, .newsletter-block-inner {    
         padding:20px;
-        width:calc(100% - 40px);
+        width:  calc(100% - 40px);
     }
+    
 }
 
 @media screen and (max-width: 800px){
@@ -1481,6 +1482,15 @@ figcaption, .smallest{
             width:50%;
             margin-bottom:1em;
         }
+    }
+    .event-block .pretty-load{
+        display:block !important;
+    }
+    .event-block>div{
+        display:block;
+    }
+    .event-block .pretty-load{
+        margin-bottom:30px;
     }
     footer>*{width:50%;flex:none;margin-bottom:1em;margin-right:1em}
 }
