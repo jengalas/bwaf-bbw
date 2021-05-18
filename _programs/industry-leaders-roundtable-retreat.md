@@ -74,9 +74,9 @@ page_blocks:
   button:
   - button_text: '2016 Industry Leaders Roundtable '
     button_link: https://www.dropbox.com/s/z7l0lihn7movn5n/2016%20BWAF%20Industry%20Leaders%20Roundtable%20Agenda.pdf?dl=0
-  - button_text: 2015 Industry Leaders Roundtable Retreat
+  - button_text: 2015 Industry Leaders Roundtable
     button_link: https://www.dropbox.com/s/qqjfvae5h9wyf7l/2015%20BWAF%20Industry%20Leaders%20Roundtable%20Agenda.pdf?dl=0
-  - button_text: 2014 Industry Leaders Roundtable Retreat
+  - button_text: 2014 Industry Leaders Roundtable
     button_link: https://www.dropbox.com/s/txqhd6wb52xv0ne/2014%20BWAF%20Industry%20Leaders%20Roundtable%20Agenda.pdf?dl=0
   section_break: false
   include_left-hand_column_text_: false
