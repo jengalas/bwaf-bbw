@@ -11,8 +11,8 @@ location: Pearl Street & Frankfort Street, New York, NY
 year: 1885
 description: ''
 images:
-- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
-  caption: ''
+- image: "/v1621358487/brooklyn_bridge_lc2_pcjtie.tiff"
+  caption: Brooklyn Bridge, exterior view.
 historical: false
 
 ---
