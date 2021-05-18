@@ -22,8 +22,8 @@ page_blocks:
   include_left-hand_column_text_: true
   lefthand_text:
     header_type: Text with Download
-    text: Applications for the Spring program are now closed
-    download: ''
+    text: Applications for the Spring program are now closed.
+    download: "/"
     link_url: ''
     link_text: ''
   image: "/v1610938706/Un2iW_Pg_t68z8j.jpg"

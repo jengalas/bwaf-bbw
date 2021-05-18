@@ -56,7 +56,8 @@ fields:
     config:
       required: false
     label: Link Text
-    description: e.g. "Download the application"
+    description: e.g. "Download the application"<br>If this field is left blank, link
+      will not show up.
     showOnly:
       field: header_type
       value: Text with Download
