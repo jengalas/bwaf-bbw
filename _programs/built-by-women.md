@@ -17,7 +17,7 @@ slideshow-images:
 - image: "/v1620415992/6.-entry-57-calmart01-1000x802_rc3ghv.jpg"
   caption: California Mart
 - image: "/v1617907445/9_Dots-02_ptlwd7.jpg"
-  caption: Image 7
+  caption: 9 Dots
 - image: "/v1617911230/Nakahouse-04_izqzht.jpg"
   caption: Image 8
 - image: "/v1617906949/Blackbirds-02_qaf9rj.jpg"
