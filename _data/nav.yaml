@@ -35,22 +35,22 @@
     page: ''
 - label: Resources
   subnav:
-  - label: Dynamic National Archive
-    link: "https://dna.bwaf.org/"
-    external: true
+  - label: Newsletter Archive
+    link: "/resources/newsletter-archive"
+    page: ''
+  - label: Podcast
+    link: "/resources/podcast"
     page: ''
   - label: Film Collection
     link: "/resources/film-collection"
     page: ''
-  - label: Newsletter Archive
-    link: "/resources/newsletter-archive"
+  - label: Dynamic National Archive
+    link: "https://dna.bwaf.org/"
+    external: true
     page: ''
   - label: Pioneering Women of American Architecture
     link: https://pioneeringwomen.bwaf.org
     external: true
-    page: ''
-  - label: Podcast
-    link: "/resources/podcast"
     page: ''
 - label: Support
   link: "/support"
