@@ -58,13 +58,9 @@ page_blocks:
     * Attorneys in related fields
     * Academic leaders in business management, architecture, planning, and engineering
 
-    ## **Cost to attend**
-
-    $2500/person or $4500 for two from the same firm. This includes lunches, coffee breaks, a cocktail reception, dinner, and tours. Hotel accommodations not included.
-
     ## **Apply**
 
-    Space is limited. Registrants will receive complete agenda and bibliography in advance of the event. Also, attendees will receive a copy of Where’d You Go Bernadette, by Maria Semple, with their paid registration. All registrants will be listed as sponsors in the final schedule.
+    Space is limited. Registrants will receive complete agenda and bibliography in advance of the event. All registrants will be listed as sponsors in the final schedule.
   section_break: false
   include_left-hand_column_text_: false
   lefthand_text:
@@ -111,5 +107,6 @@ page_blocks:
   external: true
   section_break: false
 description: ''
+date: 
 
 ---
