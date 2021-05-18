@@ -680,6 +680,9 @@ p.lg{
                 margin-right:20px;
             }
         }
+        h6{
+            margin-bottom:2em;
+        }
     }
     .img-block img{
         max-height: calc(66vw - var(--margin)*2 - var(--gutter));
