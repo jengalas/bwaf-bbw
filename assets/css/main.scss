@@ -1385,6 +1385,12 @@ figcaption, .smallest{
         z-index:1;
         flex-wrap:wrap;
         overflow: scroll;
+        box-shadow:none;
+        height: calc(100vh - 77px);
+        transform: translateX(200%);
+    }
+    nav button.active+.subnav{
+        transform: translateX(0%);
     }
     nav .subnav li{
         margin-bottom:15px;
@@ -1393,7 +1399,7 @@ figcaption, .smallest{
         font-size:30px;
     }
     nav>ul li{
-        margin-right:0px;
+        // margin-right:0px;
     }
 }
 
