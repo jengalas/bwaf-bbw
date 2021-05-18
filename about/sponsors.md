@@ -4,8 +4,8 @@ title: Sponsors
 permalink: "/sponsors"
 navCategory: About
 description: Beverly Willis Architecture Foundation would not exist without the financial
-  support and generosity of our supporters. We give our deepest gratitude to our supporters
-  listed on this page.
+  support and generosity of our supporters. We give our deepest gratitude to all the
+  supporters listed on this page.
 supporters-header: ''
 supporters:
 - name: Brookfield Properties
