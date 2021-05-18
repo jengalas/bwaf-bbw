@@ -36,10 +36,10 @@ fields:
       required: false
     label: Text
   - name: download
-    type: file
+    type: text
     config:
-      maxSize: 64
-    label: Download File
+      required: false
+    label: Link to File
     showOnly:
       field: header_type
       value: Text with Download
