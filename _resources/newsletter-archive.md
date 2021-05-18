@@ -52,6 +52,9 @@ newsletters:
   month_year: August 2020
   link: https://mailchi.mp/bwaf/dispatches-from-phase-2-and-pioneering-women-of-american-architecture-patricia-weston-swan-2994946
   description: Votes for women!
+- title: Dispatches From Home
+  link: https://mailchi.mp/bwaf/dispatches-from-phase-2-and-pioneering-women-of-american-architecture-patricia-weston-swan-2994938
+  month_year: July 2020
 
 ---
 <div class="main-two-up">
