@@ -22,8 +22,8 @@ page_blocks:
     caption: Industry Leaders Roundtable Retreat, Los Angeles, CA, December 2-3, 2019
   - image: "/v1621354567/RT5_uiahzn.jpg"
     caption: Industry Leaders Roundtable Retreat, Miami, FL, December 3-4, 2018
-  - image: "/v1618427032/IMG_3803_2_ptmoav.jpg"
-    caption: Industry Leaders Roundtable Retreat, Los Angeles, December 2-3, 2019
+  - image: "/v1621354718/IMG_9661_wszhuh.jpg"
+    caption: Industry Leaders Roundtable Retreat, Chicago, IL, October 23-24, 2017
   section_break: false
   include_left-hand_column_text_: false
   lefthand_text:
