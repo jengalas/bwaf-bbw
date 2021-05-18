@@ -8,9 +8,10 @@ page_blocks:
   include_left-hand_column_text_: true
   lefthand_text:
     header_type: Large Header
-    text: Podcast
+    text: 'New Angle: Voice'
     download: ''
     link_url: ''
     link_text: ''
   text_block: General info about this podcast. Lorem ipsum dolor sit amet.
+
 ---
