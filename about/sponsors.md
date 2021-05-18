@@ -16,7 +16,8 @@ friends-header: 'Corporate Sponsors: Friends'
 friends:
 - image: "/v1621379339/LanganBlackCMYK-print_ic5idu.jpg"
   name: Langan Engineering
-- {}
+- image: "/v1621379372/Arup_Logo_2011_Black_CMYK_-_revised_bevczb.jpg"
+  name: Arup
 - name: Brookfield Properties
   image: "/v1620155874/B-prop_id_rgb_q198gs.jpg"
 - name: Silman
