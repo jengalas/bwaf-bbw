@@ -63,7 +63,39 @@ sponsors:
     - Zetlin & De Chiara LLP
 pioneering-women:
   header: ''
-  sponsors-groups: []
+  sponsors-groups:
+  - amt: Early Sponsors
+    sponsors:
+    - |-
+      Claire Weisz
+
+      Erleen Hatfield
+
+      Forest City Realty Trust
+
+      Jacquiline Zehner
+
+      Jane Chmielinski
+
+      John Carey
+
+      Leers Weinzapfel Associates
+
+      Marion White
+
+      Mary-Jean Eastman
+
+      Nancy Alexander
+
+      Roger Williams University
+
+      Ronette Riley
+
+      Susan Mitchell-Ketzes
+
+      Susan Rodriguez
+
+      Wanda Bubriski
   additional-supporters: ''
 previous-years-header: Continued General Support is Generously Provided By
 previous-years:

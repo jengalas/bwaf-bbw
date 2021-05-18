@@ -11,8 +11,10 @@ location: 447 West 18th Street, New York, NY
 year: 2008
 description: ''
 images:
-- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
-  caption: ''
+- image: "/v1621362219/3-MR_night_front_e0gbly.jpg"
+  caption: Chelsea Modern, exterior view. Photograph by Michael Roberto
+- image: "/v1621358619/ChelseaModern_Damonte_edit_yhmlkz.jpg"
+  caption: Chelsea Modern, exterior view. Photograph by Bruce Damonte
 historical: false
 
 ---

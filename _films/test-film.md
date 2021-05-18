@@ -11,7 +11,7 @@ description: "Frank Lloyd Wright, America's most influential architect, died in 
   100 women architects and designers worked with Wright, many of them going on to
   remarkable careers of their own. This film focuses on six of those women—Marion
   Mahony, Isabel Roberts, Lois Gottlieb, Jane Duncombe, Eleanore Pettersen, and Read
-  Weber.\n\nDuration: 19 minutes"
+  Weber."
 image: "/v1618940450/Screen_Shot_2021-04-20_at_1.40.40_PM_zwiijt.png"
 permalink: "/test-film"
 
