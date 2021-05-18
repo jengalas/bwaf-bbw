@@ -826,7 +826,7 @@ p.lg{
         flex-wrap:wrap;
         // justify-content: space-between;
         > div{
-            width:120px;
+            width:150px;
             margin-right:var(--gutter);
             display:flex;
             flex-direction: column;
@@ -1300,6 +1300,9 @@ figcaption, .smallest{
 @media screen and (min-width: 1800px){
     body {
         font-size: 30px;
+    }
+    .logos-block > div{
+        width:200px;
     }
 }
 

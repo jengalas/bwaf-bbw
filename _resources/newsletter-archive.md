@@ -3,7 +3,6 @@ layout: default
 navCategory: Resources
 title: Newsletter Archive
 permalink: "/resources/newsletter-archive"
-header: Newsletter Archive
 description: Angles (formerly Briefly News) is the monthly newsletter of Beverly Willis Architecture Foundation. Here you can view an archive of previous newsletters. You can also sign up to receive future newsletters in your inbox.
 sign-up-text: Sign up for the newsletter and get the latest news on upcoming programs and events
 newsletters:
