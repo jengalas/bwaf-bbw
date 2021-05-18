@@ -25,7 +25,10 @@ newsletters:
   month_year: February 2021
   description: Approaching a year...
   link: https://mailchi.mp/bwaf/b5rrdu42wi-2995034
-- {}
+- title: Angles
+  month_year: January 2021
+  link: https://mailchi.mp/bwaf/b5rrdu42wi
+  description: Angles has arrived!
 - {}
 
 ---
