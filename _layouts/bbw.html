@@ -35,7 +35,7 @@
 
     {% for bbw-year in site.bbw-years %}
         {% if bbw-year.path == page.current-year %}
-            {% assign currentYear = bbw-year.url %}
+            {% assign currentYear = bbw-year %}
         {% endif %}
     {% endfor %}
 
@@ -68,7 +68,7 @@
         </div>
         <br>
 
-        <a href="{{currentYear}}" class="btn-primary spacer">
+        <a href="{{currentYear.url}}" class="btn-primary spacer">
             View Selected Projects →
         </a>
     </div>
@@ -79,12 +79,15 @@
         <div class="links">
             <span class="ss" style="margin-bottom:10px;display:block">View previous years' competitions:</span>
             {% assign yrs = (site.bbw-years | sort: 'date') | reverse %}
+            
             {% for bbw in yrs %}
+            {% if bbw.year!= currentYear.year %}
                 {% if bbw.link_out %}
                 <a href="{{bbw.link_out_url}}" class="btn-secondary" target="_blank">{{bbw.city}} ({{bbw.year}}) →</a><br>
                 {% else %}
                 <a href="{{bbw.url}}" class="btn-secondary">{{bbw.city}} ({{bbw.year}}) →</a><br>
                 {% endif %}
+            {% endif %}
             {% endfor %}
             <!-- <a href="#" class="btn-secondary">District of Columbia (2016) →</a><br>
             <a href="#" class="btn-secondary">New York City, NY (2014) →</a><br> -->

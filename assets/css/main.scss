@@ -1381,6 +1381,20 @@ figcaption, .smallest{
     nav.subnav-open>ul>li>button, nav.subnav-open>ul>li>a{
         color:black;
     }
+    nav .subnav{
+        z-index:1;
+        flex-wrap:wrap;
+        overflow: scroll;
+    }
+    nav .subnav li{
+        margin-bottom:15px;
+    }
+    nav .subnav .h1 a{
+        font-size:30px;
+    }
+    nav>ul li{
+        margin-right:0px;
+    }
 }
 
 @media screen and (max-width: 950px){
