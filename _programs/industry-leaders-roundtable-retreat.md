@@ -110,6 +110,19 @@ page_blocks:
     Roundtable Retreat. As the retreat is limited to 20 participants, we recommend
     prompt registration.
   section_break: true
+- template: cta-block
+  include_left-hand_column_text_: true
+  lefthand_text:
+    text: Do you have questions? Send us an email→
+    header_type: Link
+    link_url: "/"
+    download: ''
+    link_text: ''
+  cta_text: Register Now
+  cta_link: "/"
+  external: true
+  section_break: false
 description: ''
+date: 
 
 ---
