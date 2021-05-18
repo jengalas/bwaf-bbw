@@ -1,0 +1,41 @@
+---
+label: Newsletter Archive
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: navCategory
+  label: navCategory
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: header
+  label: header
+- type: textarea
+  name: description
+  label: description
+- type: text
+  name: sign-up-text
+  label: sign-up-text
+- type: field_group_list
+  name: newsletters
+  label: newsletters
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: month_year
+    label: month_year
+  - type: text
+    name: link
+    label: link
+  - type: textarea
+    name: description
+    label: description
