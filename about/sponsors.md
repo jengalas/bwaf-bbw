@@ -140,7 +140,7 @@ previous-years:
 <div class="hr"></div>
 <div class="main-two-up">
     <div>
-      <h2><b>Supporters: <a href="https://pioneeringwomen.bwaf.org/" target="_blank">Pioneering Women of American Architecture</a></b></h2>
+      <h2><b>Sponsors: <a href="https://pioneeringwomen.bwaf.org/" target="_blank">Pioneering Women of American Architecture</a></b></h2>
     </div>
     <div>
         {% for sponsorsgroup in page.pioneering-women.sponsors-groups %}
