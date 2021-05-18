@@ -43,7 +43,7 @@ page_blocks:
     historians, family, colleagues, and the women themselves, how it was to be an
     architect coming up in the early 20th century. Imagine sitting with these pioneering
     women, who opened up the magic of the built environment professions to all who
-    had the gifts, grit and persistence to endure.  Episodes coming soon...
+    had the gifts, grit and persistence to endure.  Episode 1 coming soon...
 date: 2021-05-18T19:02:05.000+00:00
 description: ''
 
