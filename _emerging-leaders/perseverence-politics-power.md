@@ -23,9 +23,9 @@ page_blocks:
   lefthand_text:
     header_type: Text with Download
     text: Applications for the Spring program are now closed
-    download: "/v1610940166/Test-PDF_k0terd.pdf"
+    download: ''
     link_url: ''
-    link_text: Download the application
+    link_text: ''
   image: "/v1610938706/Un2iW_Pg_t68z8j.jpg"
   alt_text: 2019 Emerging Leaders Program participants, SOM offices, New York City
   image_caption_text: 2019 Emerging Leaders Program participants, SOM offices, New
