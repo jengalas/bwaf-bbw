@@ -14,6 +14,9 @@ images:
 - image: "/v1621358102/1._qdjorx.jpg"
   caption: African Burial Ground Interpretive Center, interior view. Photograph by
     Lem Peterkin
+- image: "/v1621358171/5._qwu7bd.jpg"
+  caption: African Burial Ground Interpretive Center, interior view. Photograph by
+    Lem Peterkin
 historical: false
 
 ---
