@@ -980,6 +980,9 @@ figcaption, .smallest{
             }
         }
     }
+    .payment-buttons{
+        margin-bottom:60px;
+    }
     .payment-buttons button{
         margin-right:60px;
         padding-bottom:7px;
@@ -1350,7 +1353,10 @@ figcaption, .smallest{
     footer{flex-wrap:wrap;}
     footer>*{width:33.333%;flex:none;margin-bottom:1em;}
     footer>*:first-child, footer>*:last-child{width:100%}
-
+    nav .subnav svg{
+        width:20px;
+        height:20px;
+    }
 
     // hamburger
     #hamburger{
@@ -1429,7 +1435,10 @@ figcaption, .smallest{
     .text-with-download{
         margin-bottom:var(--gutter);
     }
-    
+    .donation-block-inner, .newsletter-block-inner {    
+        padding:20px;
+        width:calc(100% - 40px);
+    }
 }
 
 @media screen and (max-width: 800px){
@@ -1474,6 +1483,17 @@ figcaption, .smallest{
         }
     }
     footer>*{width:50%;flex:none;margin-bottom:1em;margin-right:1em}
+}
+
+@media screen and (max-width:700px){
+    .donation-block-inner .sponsorship-buttons>div, .newsletter-block-inner .sponsorship-buttons>div{
+        display:block;
+        text-align: left;
+        padding: 10px 15px;
+        span{
+            display:block;
+        }
+    }
 }
 
 @media screen and (max-width:600px){
