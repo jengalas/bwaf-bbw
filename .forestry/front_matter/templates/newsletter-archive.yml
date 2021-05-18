@@ -5,37 +5,40 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: default
+  hidden: true
 - type: text
   name: navCategory
   label: navCategory
+  default: Resources
+  hidden: true
 - type: text
   name: title
-  label: title
+  label: Title
 - type: text
   name: permalink
   label: permalink
-- type: text
-  name: header
-  label: header
+  default: "/resources/newsletter-archive"
+  hidden: true
 - type: textarea
   name: description
-  label: description
+  label: Description
 - type: text
   name: sign-up-text
-  label: sign-up-text
+  label: Sign Up Text
 - type: field_group_list
   name: newsletters
-  label: newsletters
+  label: Newsletters
   fields:
   - type: text
     name: title
-    label: title
+    label: Title
   - type: text
     name: month_year
-    label: month_year
+    label: Month & Year
   - type: text
     name: link
-    label: link
+    label: Link
   - type: textarea
     name: description
-    label: description
+    label: Description
