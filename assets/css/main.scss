@@ -1242,8 +1242,8 @@ figcaption, .smallest{
 .bbw-project-page{
     h1{
         font-family: "William Text Regular", serif;
-        font-size: 34px;
-        line-height: 42px;
+        font-size: 30px;
+        line-height: 40px;
     }
 }
 
@@ -1429,6 +1429,7 @@ figcaption, .smallest{
     .text-with-download{
         margin-bottom:var(--gutter);
     }
+    
 }
 
 @media screen and (max-width: 800px){
@@ -1472,6 +1473,7 @@ figcaption, .smallest{
             margin-bottom:1em;
         }
     }
+    footer>*{width:50%;flex:none;margin-bottom:1em;margin-right:1em}
 }
 
 @media screen and (max-width:600px){
@@ -1487,6 +1489,15 @@ figcaption, .smallest{
     }
     .main-two-up .portrait-gallery-block-small>div:nth-child(odd){
         margin-right:var(--gutter);
+    }
+    #bbw-logo{
+        width:150px;
+        margin-bottom: 20px;
+    }
+    .bbw-image-grid img{
+        width:50%;
+        height: calc((100vw - var(--margin))/2 - 1px);
+        object-fit:cover;
     }
 }
 
