@@ -18,11 +18,11 @@ page_blocks:
   section_break: false
 - template: slideshow-block
   image:
-  - image: "/v1618427095/IMG_6938_sddsyf.jpg"
-    caption: Industry Leaders Roundtable Retreat, Los Angeles, December 2-3, 2019
-  - image: "/v1618427032/IMG_3803_2_ptmoav.jpg"
-    caption: Industry Leaders Roundtable Retreat, Los Angeles, December 2-3, 2019
   - image: "/v1618426963/IMG_1662_2_e5j5bi.jpg"
+    caption: Industry Leaders Roundtable Retreat, Los Angeles, December 2-3, 2019
+  - image: "/v1621354567/RT5_uiahzn.jpg"
+    caption: Industry Leaders Roundtable Retreat, Miami, FL, December 3-4, 2018
+  - image: "/v1618427032/IMG_3803_2_ptmoav.jpg"
     caption: Industry Leaders Roundtable Retreat, Los Angeles, December 2-3, 2019
   section_break: false
   include_left-hand_column_text_: false
