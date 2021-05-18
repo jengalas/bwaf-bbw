@@ -36,7 +36,7 @@ page_blocks:
     download: ''
     link_url: ''
   text_block: |-
-    Beverly Willis Architecture Foundation brings attention to the work of contemporary women in the fields of architecture, landscape architecture, engineering, development and construction. Since 2015, we have done this through a highly respected awards program, with the honorees celebrated at an annual gala.
+    Beverly Willis Architecture Foundation brings attention to the work of contemporary women in the fields of architecture, landscape architecture, engineering, development and construction. Since 2014, we have done this through a highly respected awards program, with the honorees celebrated at an annual gala.
 
     Each year a Gala Chair is selected by the Board to head up the selection of the annual honorees. Names put forth for consideration are presented by the Gala Committee to the Executive Committee of the Board of Trustees for consideration by the full board. In addition to names put forth by our constituency, the Gala Committee seeks to identify women who may not yet have come to the attention of the general public for recognition. We are interested in scholarship, professional distinction, journalism, corporate achievement, and impact in the advancement of women in the building industry.
 
