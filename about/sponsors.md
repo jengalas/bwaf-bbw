@@ -20,10 +20,8 @@ friends:
   name: Arup
 - name: Cooper Carry
   image: "/v1621379491/cc_identity_logo_black_nnig5h.jpg"
-- name: Silman
-  image: "/v1620155920/Silman_Logo_djgqp7.jpg"
 sponsors:
-- sponsors-header: 2020 Leadership Awards Gala Sponsors
+- sponsors-header: Leadership Awards Gala 2020 Sponsors
   sponsors:
   - amt: Legacy
     sponsors:
