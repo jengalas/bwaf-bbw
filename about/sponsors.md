@@ -14,6 +14,8 @@ supporters:
   image: "/v1620155920/Silman_Logo_djgqp7.jpg"
 friends-header: 'Corporate Sponsors: Friends'
 friends:
+- {}
+- {}
 - name: Brookfield Properties
   image: "/v1620155874/B-prop_id_rgb_q198gs.jpg"
 - name: Silman
@@ -69,7 +71,10 @@ pioneering-women:
     - Forest City Realty Trust
     - Erleen Hatfield
     - Claire Weisz
-  additional-supporters: ''
+  additional-supporters: Claire Weisz; Erleen Hatfield; Forest City Realty Trust;
+    Jacquiline Zehner; Jane Chmielinski; John Carey; Leers Weinzapfel Associates;
+    Marion White; Mary-Jean Eastman; Nancy Alexander; Roger Williams University; Ronette
+    Riley; Susan Mitchell-Ketzes; Susan Rodriguez; Wanda Bubriski
 previous-years-header: Continued General Support is Generously Provided By
 previous-years:
 - name: Brookfield Properties
