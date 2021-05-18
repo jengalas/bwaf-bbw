@@ -75,7 +75,7 @@ previous-years:
         <p>{{page.description}}</p>
     </div>
 </div>
-<div class="main-two-up">
+<!-- <div class="main-two-up">
     <div>
         <h2><b>{{page.supporters-header}}</b></h2>
     </div>
@@ -84,13 +84,19 @@ previous-years:
         <div><img src="{{site.cloudinary}}/w_200/{{supporter.image}}" alt="{{supporter.name}}"></div>
         {% endfor %}
     </div>
-</div>
+</div> -->
 {% for sponsorsgroup in page.sponsors %}
 <div class="main-two-up">
     <div>
         <h2 class="h3"><b>{{sponsorsgroup.sponsors-header}}</b></h2>
     </div>
     <div>
+          <div class="logos-block">
+            {% for supporter in page.supporters %}
+            <div><img src="{{site.cloudinary}}/w_200/{{supporter.image}}" alt="{{supporter.name}}"></div>
+            {% endfor %}
+            <br><br><br><br>
+          </div>
           <div class="text-block">
               {% for sponsorgroup in sponsorsgroup.sponsors %}
               <p>
@@ -112,7 +118,7 @@ previous-years:
 <div class="hr"></div>
 <div class="main-two-up">
     <div>
-      <h2><b>{{page.pioneering-women.header}}</b></h2>
+      <h2><b>Supporters: <a href="#">Pioneering Women of American Architecture</a></b></h2>
     </div>
     <div>
         {% for sponsorsgroup in page.pioneering-women.sponsors-groups %}

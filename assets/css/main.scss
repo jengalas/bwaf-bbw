@@ -104,6 +104,13 @@ h2, .h2{
     line-height:34px;
     font-family:'GT America', sans-serif;
 }
+h2 a{
+    border-bottom:3px solid var(--green);
+    transition: border 300ms;
+}
+h2 a:hover{
+    border-bottom:3px solid var(--red);
+}
 h3, .h3{
     font-size:36px;
     line-height:42px;
@@ -155,6 +162,9 @@ blockquote{
     margin-inline-start: 0px;
     margin-block-start:0px;
     font-family:'GT America', sans-serif;
+}
+blockquote p {
+  text-indent: -.4125em;
 }
 .hr{
     width:100%;
