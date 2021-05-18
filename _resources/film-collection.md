@@ -36,8 +36,9 @@ page_blocks:
   include_left-hand_column_text_: true
   lefthand_text:
     header_type: Link
-    text: Learn how you can license a film screening of Unknown New York
-    link_url: "/"
+    text: 'Learn how you can license a film screening of Unknown New York: The City
+      That Women Built'
+    link_url: https://www.dropbox.com/s/bubfvinn3vpgaqq/BWAF%20Film%20Licensing%20Information.pdf?dl=0
 - template: image-block
   include_left-hand_column_text_: true
   lefthand_text:
