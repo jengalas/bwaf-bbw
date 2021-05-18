@@ -66,36 +66,9 @@ pioneering-women:
   sponsors-groups:
   - amt: Early Sponsors
     sponsors:
-    - |-
-      Claire Weisz
-
-      Erleen Hatfield
-
-      Forest City Realty Trust
-
-      Jacquiline Zehner
-
-      Jane Chmielinski
-
-      John Carey
-
-      Leers Weinzapfel Associates
-
-      Marion White
-
-      Mary-Jean Eastman
-
-      Nancy Alexander
-
-      Roger Williams University
-
-      Ronette Riley
-
-      Susan Mitchell-Ketzes
-
-      Susan Rodriguez
-
-      Wanda Bubriski
+    - Forest City Realty Trust
+    - Erleen Hatfield
+    - Claire Weisz
   additional-supporters: ''
 previous-years-header: Continued General Support is Generously Provided By
 previous-years:
