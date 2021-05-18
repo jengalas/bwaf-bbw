@@ -12,7 +12,10 @@ page_blocks:
     download: ''
     link_url: ''
     link_text: ''
-  text_block: General info about this podcast. Lorem ipsum dolor sit amet.
+  text_block: "\"Why aren't women in the history books?\"  \nSince 2002, Beverly Willis
+    Architecture Foundation has worked to remedy this egregious omission, through
+    research, creating websites, making short films, and now... a podcast. Welcome
+    to New Angle: Voice. "
   section_break: false
 - template: image-block
   image: "/v1621364002/Screen_Shot_2021-05-18_at_2.53.07_PM_sglj7i.png"
@@ -36,7 +39,7 @@ page_blocks:
     link_url: ''
     link_text: ''
   text_block: ''
-date: 2021-05-18 19:02:05 +0000
+date: 2021-05-18T19:02:05.000+00:00
 description: ''
 
 ---
