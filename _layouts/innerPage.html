@@ -60,7 +60,7 @@
         <div class="other-film">
             {% for film in site.films %}
             <div>
-                <img src="{{ film.image }}">
+                <img src="{{site.cloudinary}}{{ film.image }}">
                 <h2><b><i>{{film.title}}</i></b></h2>
                 <p>{{film.description}}</p>
                 <p><a href="{{film.url}}">Learn More</a></p>
@@ -75,7 +75,7 @@
 <div class="hr"></div>
 <div class="main-two-up">
     <div>
-        <a href="{{block.lefthand_text.link_url}}" target="_blank" class="lefthand-link" style="color: var(--green)">Sign up for the newsletter and get the latest news on upcoming programs and events →</a>
+        <a href="/subscribe" target="_blank" class="lefthand-link" style="color: var(--green)">Sign up for the newsletter and get the latest news on upcoming programs and events →</a>
     </div>
     <div>
         <div class="newsletter-archive">
