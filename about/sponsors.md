@@ -18,8 +18,8 @@ friends:
   name: Langan Engineering
 - image: "/v1621379372/Arup_Logo_2011_Black_CMYK_-_revised_bevczb.jpg"
   name: Arup
-- name: Brookfield Properties
-  image: "/v1620155874/B-prop_id_rgb_q198gs.jpg"
+- name: Cooper Carry
+  image: "/v1621379491/cc_identity_logo_black_nnig5h.jpg"
 - name: Silman
   image: "/v1620155920/Silman_Logo_djgqp7.jpg"
 sponsors:
