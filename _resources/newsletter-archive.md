@@ -29,7 +29,7 @@ newsletters:
   month_year: January 2021
   link: https://mailchi.mp/bwaf/b5rrdu42wi
   description: Angles has arrived!
-- {}
+- title: Dispatches From Home
 
 ---
 <div class="main-two-up">
