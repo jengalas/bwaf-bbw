@@ -13,11 +13,10 @@ newsletters:
   month_year: May 2021
   link: https://mailchi.mp/bwaf/b5rrdu42wi-2995070
   description: On politics and standing up for equality
-- title: Briefly
-  month_year: October 2020
-  link: "/"
-  description: Announcing the new Beverly Willis Architecture Foundation podcast.
-    Feminist City, a new book by Leslie Kern. Emerging Leaders applications are open.
+- title: Angles
+  month_year: April 2021
+  link: https://mailchi.mp/bwaf/k0man47s2m-2995066
+  description: To all Emerging Leaders, perseverance takes passion
 
 ---
 <div class="main-two-up">
