@@ -35,7 +35,7 @@ for (let btn of radioBtns){
 
 donateBtn.onclick=function(){
     // console.log(email, first, last, donationAmt)
-    submitUrl = `https://www.paypal.com/donate/?business=director%40bwaf.org&first_name=${first}&last_name=${last}&email=${email}&amount=${donationAmt}&item_name=Donate&no_shipping=1&shipping=0&no_note=1&currency_code=USD&charset=UTF-8&custom=15156&rm=2&return=https%3A%2F%2Fwww.bwaf.org%2Fdonation-confirmation%2F%3Fpayment-confirmation%3Dpaypal%26payment-id%3D15156&cancel_return=https%3A%2F%2Fwww.bwaf.org%2Ftransaction-failed%2F&notify_url=https%3A%2F%2Fwww.bwaf.org%2Findex.php%3Fgive-listener%3DIPN&page_style=PayPal&cbt=Beverly+Willis+Architecture+Foundation&cmd=_donations`
+    // submitUrl = `https://www.paypal.com/donate/?business=director%40bwaf.org&first_name=${first}&last_name=${last}&email=${email}&amount=${donationAmt}&item_name=Donate&no_shipping=1&shipping=0&no_note=1&currency_code=USD&charset=UTF-8&custom=15156&rm=2&return=https%3A%2F%2Fwww.bwaf.org%2Fdonation-confirmation%2F%3Fpayment-confirmation%3Dpaypal%26payment-id%3D15156&cancel_return=https%3A%2F%2Fwww.bwaf.org%2Ftransaction-failed%2F&notify_url=https%3A%2F%2Fwww.bwaf.org%2Findex.php%3Fgive-listener%3DIPN&page_style=PayPal&cbt=Beverly+Willis+Architecture+Foundation&cmd=_donations`
     // console.log(submitUrl)
     window.open(submitUrl, "_blank");
 }
