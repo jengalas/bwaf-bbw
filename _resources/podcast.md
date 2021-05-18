@@ -13,10 +13,30 @@ page_blocks:
     link_url: ''
     link_text: ''
   text_block: General info about this podcast. Lorem ipsum dolor sit amet.
+  section_break: false
 - template: image-block
   image: "/v1621364002/Screen_Shot_2021-05-18_at_2.53.07_PM_sglj7i.png"
   alt_text: Pioneering Architect Julia Morgan, Paris, France, 1901
   image_caption_text: Pioneering Architect Julia Morgan, Paris, France, 1901
+  section_break: false
+  include_left-hand_column_text_: false
+  lefthand_text:
+    header_type: ''
+    text: ''
+    download: ''
+    link_url: ''
+    link_text: ''
 - template: text-block
+  section_break: false
+  include_left-hand_column_text_: false
+  lefthand_text:
+    header_type: ''
+    text: ''
+    download: ''
+    link_url: ''
+    link_text: ''
+  text_block: ''
+date: 2021-05-18 19:02:05 +0000
+description: ''
 
 ---
