@@ -111,13 +111,14 @@ page_blocks:
   lefthand_text:
     text: Do you have questions? Send us an email
     header_type: Link
-    link_url: "/"
+    link_url: mailto:info@bwaf.org
     download: ''
     link_text: ''
   cta_text: Register Now
-  cta_link: "/"
+  cta_link: https://bwaf.wufoo.com/forms/mnecxmb003e7em/
   external: true
   section_break: false
 description: ''
+date: 
 
 ---
