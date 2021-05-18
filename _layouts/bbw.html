@@ -7,14 +7,15 @@
     </div>
     <div>
         <div>
-            <div class="bbw-image-grid">
-                {% for image in page.slideshow-images | limit: 6 %}
+            <div class="bbw-image-grid" id="bbw-image-grid">
+                {% for image in page.slideshow-images %}
                 <img src="{{site.cloudinary}}{{image.image}}">
                 {% endfor %}
             </div>
-            <figcaption>From top left clockwise: {% for image in page.slideshow-images | limit: 6%}{{image.caption}}, {% endfor %}</figcaption>
+            <figcaption>From top left to right: {% for image in page.slideshow-images%}<span>{{image.caption}}</span>{% endfor %}</figcaption>
         </div>
     </div>
+    <script src="/assets/js/bbw-image-grid.js"></script>
 </div>
 <div class="main-two-up">
     <div class="vertical-flex-center">

@@ -115,7 +115,7 @@ setInterval(function(){
   if (timer >= 16){
     document.body.classList.add("screensaver");
   }
-  console.log(timer);
+  // console.log(timer);
 },2000)
 
 document.addEventListener("mousemove", function(){stopScreensaver()});
