@@ -44,7 +44,7 @@ current-year-blurb: |-
 
   Previous Built By Women initiatives focused on New York City (2014), Washington D.C. (2016) and Manhattan (2018).
 lefthand_link:
-  link_text: Learn how you can become a sponsor of the program
-  link_url: "/"
+  link_text: Become a sponsor of the program
+  link_url: https://bwaf.netlify.app/support
 
 ---
