@@ -30,13 +30,14 @@ newsletters:
   month_year: January 2021
   link: https://mailchi.mp/bwaf/b5rrdu42wi
   description: Angles has arrived!
-- title: Dispatches From Home
+- title: 'Special Blast: Welcoming our new Board Members'
   month_year: December 2020
   link: https://mailchi.mp/bwaf/b5rrdu42wi
-  description: We welcome our new Board Members!
+  description: ''
 - title: Dispatches From Home
   month_year: November 2020
   link: https://mailchi.mp/bwaf/bwaf-briefly-news-save-the-dates-2994994
+- {}
 
 ---
 <div class="main-two-up">
