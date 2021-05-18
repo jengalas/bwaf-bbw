@@ -83,8 +83,8 @@ pioneering-women:
     Architecture; Kristi Ambrosetti.
 previous-years-header: Continued Support is Generously Provided By
 previous-years:
-- name: Brookfield Properties
-  image: "/v1620155874/B-prop_id_rgb_q198gs.jpg"
+- name: New York Building Foundation
+  image: "/v1621379817/nybf-logo-450x450_kyhv9k.png"
 - name: Silman
   image: "/v1620155920/Silman_Logo_djgqp7.jpg"
 
