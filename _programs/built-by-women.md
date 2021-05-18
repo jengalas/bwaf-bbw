@@ -21,7 +21,7 @@ slideshow-images:
 - image: "/v1617911230/Nakahouse-04_izqzht.jpg"
   caption: Nakahouse
 - image: "/v1617906949/Blackbirds-02_qaf9rj.jpg"
-  caption: Bluebirds
+  caption: Blackbirds
 description: |-
   Started in 2014, Beverly Willis Architecture Foundation celebrates women’s contributions to the built environment. In addition to recognizing and supporting the diverse women working in the building professions, Built By Women provides strong role models and mentors for both current professionals and students.
 
