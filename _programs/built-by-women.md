@@ -19,7 +19,7 @@ slideshow-images:
 - image: "/v1617907445/9_Dots-02_ptlwd7.jpg"
   caption: 9 Dots
 - image: "/v1617911230/Nakahouse-04_izqzht.jpg"
-  caption: Image 8
+  caption: Nakahouse
 - image: "/v1617906949/Blackbirds-02_qaf9rj.jpg"
   caption: Image 9
 description: |-
