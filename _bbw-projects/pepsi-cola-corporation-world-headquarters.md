@@ -11,8 +11,9 @@ location: 500 Park Avenue, New York, NY
 year: 1960
 description: ''
 images:
-- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
-  caption: ''
+- image: "/v1621362632/6._Pepsi_Cola_Headquarters_Maurizio_Mucciola_cijcrr.jpg"
+  caption: Pepsi-Cola Corporation World Headquarters, exterior view. Photograph by
+    Maurizio Mucciola
 historical: false
 
 ---
