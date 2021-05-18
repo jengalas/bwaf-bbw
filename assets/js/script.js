@@ -112,7 +112,7 @@ setInterval(function(){
   var ssImgs = document.querySelectorAll('#screensaver img');
   let randomImg = ssImgs[Math.floor((Math.random() * ssImgs.length))];
   randomImg.style.opacity = 1;
-  if (timer >= 10){
+  if (timer >= 16){
     document.body.classList.add("screensaver");
   }
   console.log(timer);
