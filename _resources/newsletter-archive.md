@@ -48,6 +48,10 @@ newsletters:
   month_year: September 2020
   link: https://mailchi.mp/bwaf/bwaf-briefly-news-save-the-dates-2994954
   description: This new season
+- title: Dispatches From Home
+  month_year: August 2020
+  link: https://mailchi.mp/bwaf/dispatches-from-phase-2-and-pioneering-women-of-american-architecture-patricia-weston-swan-2994946
+  description: Votes for women!
 
 ---
 <div class="main-two-up">
