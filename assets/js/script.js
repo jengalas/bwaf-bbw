@@ -26,7 +26,9 @@ for (btn of navBtns){
 // Close the dropdown menu if the user clicks outside of it
 window.addEventListener("click", function(){
   nav.classList.remove("subnav-open");
-  document.querySelector("nav button.active").classList.remove("active");
+  if (document.querySelector("nav button.active")!=null){
+    document.querySelector("nav button.active").classList.remove("active");
+  }
 });
 
 
