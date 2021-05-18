@@ -15,5 +15,4 @@ page_blocks:
   text_block: Angles (formerly Briefly News) is the monthly newsletter of Beverly
     Willis Architecture Foundation. Here you can view an archive of previous newsletters.
     You can also sign up to receive future newsletters in your inbox.
-
 ---

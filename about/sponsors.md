@@ -12,6 +12,12 @@ supporters:
   image: "/v1620155874/B-prop_id_rgb_q198gs.jpg"
 - name: Silman
   image: "/v1620155920/Silman_Logo_djgqp7.jpg"
+friends-header: 'Corporate Sponsors: Friends'
+friends:
+- name: Brookfield Properties
+  image: "/v1620155874/B-prop_id_rgb_q198gs.jpg"
+- name: Silman
+  image: "/v1620155920/Silman_Logo_djgqp7.jpg"
 sponsors:
 - sponsors-header: 2020 Leadership Awards Gala Sponsors
   sponsors:
@@ -118,7 +124,18 @@ previous-years:
 <div class="hr"></div>
 <div class="main-two-up">
     <div>
-      <h2><b>Supporters: <a href="#">Pioneering Women of American Architecture</a></b></h2>
+        <h2><b>{{page.friends-header}}</b></h2>
+    </div>
+    <div class="logos-block">
+        {% for friend in page.friends %}
+        <div><img src="{{site.cloudinary}}/w_200/{{friend.image}}" alt="{{friend.name}}"></div>
+        {% endfor %}
+    </div>
+</div>
+<div class="hr"></div>
+<div class="main-two-up">
+    <div>
+      <h2><b>Supporters: <a href="https://pioneeringwomen.bwaf.org/" target="_blank">Pioneering Women of American Architecture</a></b></h2>
     </div>
     <div>
         {% for sponsorsgroup in page.pioneering-women.sponsors-groups %}
