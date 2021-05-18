@@ -59,6 +59,20 @@ page_blocks:
     At Columbia University \n\n**Scroll**   \nInga Saffron   \nArchitecture Critic
     \  \nThe Philadelphia Inquirer \n\n**Tribune**   \nSamantha Josaphat, RA, NOMA,
     NCARB, LEED GA   \nPrincipal   \nStudio 397 Architecture"
-date: 2021-05-05 13:32:44 +0000
+- template: buttons-block
+  button:
+  - button_text: Visit the Gala Website
+    button_link: http://gala.bwaf.org/
+  section_break: false
+  include_left-hand_column_text_: false
+  lefthand_text:
+    header_type: ''
+    text: ''
+    download: ''
+    link_url: ''
+    link_text: ''
+  buttons_header__optional_: ''
+date: 2021-05-05T13:32:44.000+00:00
+description: ''
 
 ---
