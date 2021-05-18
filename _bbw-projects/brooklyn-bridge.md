@@ -12,7 +12,7 @@ year: 1885
 description: ''
 images:
 - image: "/v1621358487/brooklyn_bridge_lc2_pcjtie.tiff"
-  caption: Brooklyn Bridge, exterior view.
+  caption: 'Brooklyn Bridge, exterior view. '
 historical: false
 
 ---
