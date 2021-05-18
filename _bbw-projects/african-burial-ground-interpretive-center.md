@@ -11,8 +11,9 @@ location: 290 Broadway, New York, NY
 year: 2010
 description: ''
 images:
-- image: "/v1620405232/sml_bxwlogo_ll44kn.jpg"
-  caption: ''
+- image: "/v1621358102/1._qdjorx.jpg"
+  caption: African Burial Ground Interpretive Center, interior view. Photograph by
+    Lem Peterkin
 historical: false
 
 ---
