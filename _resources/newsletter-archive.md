@@ -1,18 +1,42 @@
 ---
-layout: innerPage
+layout: default
 navCategory: Resources
 title: Newsletter Archive
 permalink: "/resources/newsletter-archive"
-page_blocks:
-- template: text-block
-  include_left-hand_column_text_: true
-  lefthand_text:
-    header_type: Large Header
-    text: Newsletter Archive
-    download: ''
-    link_url: ''
-    link_text: ''
-  text_block: Angles (formerly Briefly News) is the monthly newsletter of Beverly
-    Willis Architecture Foundation. Here you can view an archive of previous newsletters.
-    You can also sign up to receive future newsletters in your inbox.
+header: Newsletter Archive
+description: Angles (formerly Briefly News) is the monthly newsletter of Beverly Willis Architecture Foundation. Here you can view an archive of previous newsletters. You can also sign up to receive future newsletters in your inbox.
+sign-up-text: Sign up for the newsletter and get the latest news on upcoming programs and events
+newsletters:
+  - title: Angles
+    month_year: November 2020
+    link: /
+    description: Announcing the new Beverly Willis Architecture Foundation podcast. Feminist City, a new book by Leslie Kern. Emerging Leaders applications are open.
+  - title: Briefly
+    month_year: October 2020
+    link: /
+    description: Announcing the new Beverly Willis Architecture Foundation podcast. Feminist City, a new book by Leslie Kern. Emerging Leaders applications are open.
 ---
+<div class="main-two-up">
+    <div>
+        <h1>{{page.title}}</h1>
+    </div>
+    <div>
+        <p>{{page.description}}</p>
+    </div>
+</div>
+<div class="hr"></div>
+<div class="main-two-up">
+    <div>
+        <a href="/subscribe" target="_blank" class="lefthand-link" style="color: var(--green)">{{page.sign-up-text}} →</a>
+    </div>
+    <div>
+        <div class="newsletter-archive">
+        {% for newsletter in page.newsletters %}
+            <a href="{{newsletter.link}}">
+                <h3><b>{{newsletter.title}}</b> / {{newsletter.month_year}}</h3>
+                <p>{{newsletter.description}}</p>
+            </a>
+        {% endfor %}
+        </div>
+    </div>
+</div>

@@ -119,6 +119,4 @@ page_blocks:
   external: true
   section_break: false
 description: ''
-date: 
-
 ---
