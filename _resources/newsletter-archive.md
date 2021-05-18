@@ -21,7 +21,10 @@ newsletters:
   month_year: March 2021
   link: https://mailchi.mp/bwaf/k0man47s2m
   description: The DNA is open this Women's History Month
-- {}
+- title: Angles
+  month_year: February 2021
+  description: Approaching a year...
+  link: https://mailchi.mp/bwaf/b5rrdu42wi-2995034
 - {}
 - {}
 
