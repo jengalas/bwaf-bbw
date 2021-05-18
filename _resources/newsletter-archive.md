@@ -3,17 +3,23 @@ layout: default
 navCategory: Resources
 title: Newsletter Archive
 permalink: "/resources/newsletter-archive"
-description: Angles (formerly Briefly News) is the monthly newsletter of Beverly Willis Architecture Foundation. Here you can view an archive of previous newsletters. You can also sign up to receive future newsletters in your inbox.
-sign-up-text: Sign up for the newsletter and get the latest news on upcoming programs and events
+description: Angles (formerly Briefly News) is the monthly newsletter of Beverly Willis
+  Architecture Foundation. Here you can view an archive of previous newsletters. You
+  can also sign up to receive future newsletters in your inbox.
+sign-up-text: Sign up for the newsletter and get the latest news on upcoming programs
+  and events
 newsletters:
-  - title: Angles
-    month_year: November 2020
-    link: /
-    description: Announcing the new Beverly Willis Architecture Foundation podcast. Feminist City, a new book by Leslie Kern. Emerging Leaders applications are open.
-  - title: Briefly
-    month_year: October 2020
-    link: /
-    description: Announcing the new Beverly Willis Architecture Foundation podcast. Feminist City, a new book by Leslie Kern. Emerging Leaders applications are open.
+- title: Angles
+  month_year: May 2021
+  link: https://mailchi.mp/bwaf/b5rrdu42wi-2995070
+  description: Announcing the new Beverly Willis Architecture Foundation podcast.
+    Feminist City, a new book by Leslie Kern. Emerging Leaders applications are open.
+- title: Briefly
+  month_year: October 2020
+  link: "/"
+  description: Announcing the new Beverly Willis Architecture Foundation podcast.
+    Feminist City, a new book by Leslie Kern. Emerging Leaders applications are open.
+
 ---
 <div class="main-two-up">
     <div>
