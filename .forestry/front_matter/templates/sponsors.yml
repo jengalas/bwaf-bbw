@@ -33,6 +33,29 @@ fields:
   - type: file
     name: image
     label: Logo
+- name: friends-header
+  type: text
+  config:
+    required: false
+  label: Friends Header
+- name: friends
+  type: field_group_list
+  fields:
+  - name: name
+    type: text
+    config:
+      required: false
+    label: Name
+  - name: image
+    type: file
+    config:
+      maxSize: 64
+    label: Image
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Friends
 - type: field_group_list
   name: sponsors
   label: Sponsors
@@ -54,9 +77,6 @@ fields:
   name: pioneering-women
   label: Pioneering Women
   fields:
-  - type: text
-    name: header
-    label: Header
   - type: field_group_list
     name: sponsors-groups
     label: Sponsor Groups
