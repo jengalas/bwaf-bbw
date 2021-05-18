@@ -74,7 +74,13 @@ pioneering-women:
   additional-supporters: Claire Weisz; Erleen Hatfield; Forest City Realty Trust;
     Jacquiline Zehner; Jane Chmielinski; John Carey; Leers Weinzapfel Associates;
     Marion White; Mary-Jean Eastman; Nancy Alexander; Roger Williams University; Ronette
-    Riley; Susan Mitchell-Ketzes; Susan Rodriguez; Wanda Bubriski
+    Riley; Susan Mitchell-Ketzes; Susan Rodriguez; Wanda Bubriski; Jill Lerner, FAIA;
+    Renee Charles; Kelly Hayes McAlonie, AIA; Sanders Pace Architecture; The University
+    of Tennessee College of Architecture and Design; Women of FXFOWLE; Marilyn Jordan
+    Taylor, FAIA; Marion Weiss, FAIA; Despina Stratigakos; Jennifer Sage, FAIA; Sara
+    Caples, AIA; Architecture Research Office; Christina Davis; Leers Weinzapfel Associates;
+    Ronald Evitts Architect LLC; LandDesign, Inc. and Madlen Simon; Susan T. Rodriguez
+    Architecture; Kristi Ambrosetti.
 previous-years-header: Continued General Support is Generously Provided By
 previous-years:
 - name: Brookfield Properties
