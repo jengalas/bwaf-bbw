@@ -1,0 +1,7 @@
+{% if block_external %}
+<a href="{{block.cta_link}}" target="_blank" class="btn-primary spacer">
+{% else %}
+<a href="{{block.cta_link}}" class="btn-primary spacer">
+{% endif %}
+    {{block.cta_text}} →
+</a>

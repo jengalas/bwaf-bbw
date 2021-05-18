@@ -551,6 +551,11 @@ a.btn-primary{
     color:var(--red);
     border:5px solid var(--red);
     padding:20px 30px;
+    transition: background 200ms, color 200ms;
+}
+a.btn-primary:hover{
+    background:var(--red);
+    color:white;
 }
 div.text-block + a.btn-primary {
     margin-top:50px;

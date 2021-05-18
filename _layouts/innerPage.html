@@ -42,6 +42,8 @@
         {% include block_r_media_gallery.html %}
         {% elsif block.template == "buttons-block"%}
         {% include block_r_buttons.html %}
+        {% elsif block.template == "cta-block"%}
+        {% include block_r_cta.html %}
         {% endif %}
     </div>
 </div>
@@ -216,7 +218,7 @@
     </div>
 {% endif %}
 
-{% if page.title == "Industry Leaders Roundtable Retreat" %}
+<!-- {% if page.title == "Industry Leaders Roundtable Retreat" %}
 <div class="main-two-up">
         <div>
             <a href="#" target="_blank" class="lefthand-link">Do you have questions? Send us an email→</a>
@@ -256,7 +258,7 @@
             </div>
         </div>
     </div>
-{% endif %}
+{% endif %} -->
 
 {% include prefooter.html %}
 

@@ -101,7 +101,7 @@ page_blocks:
 - template: cta-block
   include_left-hand_column_text_: true
   lefthand_text:
-    text: Do you have questions? Send us an email→
+    text: Do you have questions? Send us an email
     header_type: Link
     link_url: "/"
     download: ''
@@ -111,6 +111,5 @@ page_blocks:
   external: true
   section_break: false
 description: ''
-date: 
 
 ---
