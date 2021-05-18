@@ -81,7 +81,7 @@ pioneering-women:
     Caples, AIA; Architecture Research Office; Christina Davis; Leers Weinzapfel Associates;
     Ronald Evitts Architect LLC; LandDesign, Inc. and Madlen Simon; Susan T. Rodriguez
     Architecture; Kristi Ambrosetti.
-previous-years-header: Continued General Support is Generously Provided By
+previous-years-header: Continued Support is Generously Provided By
 previous-years:
 - name: Brookfield Properties
   image: "/v1620155874/B-prop_id_rgb_q198gs.jpg"
