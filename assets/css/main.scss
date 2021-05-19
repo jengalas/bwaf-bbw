@@ -1555,13 +1555,13 @@ figcaption, .smallest{
     }
     footer>*{width:50%;flex:none;margin-bottom:1em;margin-right:1em}
     .bbw-projects>div{
-        width: calc((100vw - var(--margin)*2)/2 - var(--gutter)*1/2 - 13px)
+        width: calc((100vw - var(--margin)*2)/2 - var(--gutter)*1/2 - 5px)
     }
     .bbw-projects img{
-        height: calc((100vw - var(--margin)*2)/2 - var(--gutter)*1/2 - 13px)
+        height: calc((100vw - var(--margin)*2)/2 - var(--gutter)*1/2 - 5px)
     }
     .bbw-projects .historical{
-        width: calc((100vw - var(--margin)*2)/2 - var(--gutter)*1/2 - 5px - 38px);
+        width: calc((100vw - var(--margin)*2)/2 - var(--gutter)*1/2 - 5px - 30px);
     }
 }
 
@@ -1592,12 +1592,27 @@ figcaption, .smallest{
     }
     #bbw-logo{
         width:150px;
+        height:150px;
         margin-bottom: 20px;
     }
     .bbw-image-grid img{
         width:50%;
         height: calc((100vw - var(--margin))/2 - 1px);
         object-fit:cover;
+    }
+    .nav-bbw{
+        display:block;
+    }
+    .nav-bbw>div{
+        display:block;
+        text-align:left;
+        a{
+            display:block;
+            margin-bottom:0px;
+        }
+    }
+    .bbw-projects>div{
+        margin-right:0px;
     }
 }
 
