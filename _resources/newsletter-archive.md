@@ -13,7 +13,7 @@ newsletters:
 - title: Angles
   month_year: May 2021
   link: https://mailchi.mp/bwaf/b5rrdu42wi-2995070
-  description: On politics and standing up for equality
+  description: ''
 - title: Angles
   month_year: April 2021
   link: https://mailchi.mp/bwaf/k0man47s2m-2995066
