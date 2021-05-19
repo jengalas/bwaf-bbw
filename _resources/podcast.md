@@ -45,6 +45,9 @@ page_blocks:
     women, who opened up the magic of the built environment professions to all who
     had the gifts, grit and persistence to endure.  Episode 1 coming soon...
 date: 2021-05-18T19:02:05.000+00:00
-description: ''
+description: "\"Why aren't women in the history books?\"  \nSince 2002, Beverly Willis
+  Architecture Foundation has worked to remedy this egregious omission, through research,
+  creating websites, making short films, and now... a podcast. Welcome to New Angle:
+  Voice. "
 
 ---
