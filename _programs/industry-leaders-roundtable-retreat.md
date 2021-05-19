@@ -34,7 +34,7 @@ page_blocks:
     link_text: ''
 - template: text-block
   section_break: true
-  include_left-hand_column_text_: true
+  include_left-hand_column_text_: false
   lefthand_text:
     header_type: Medium Header
     text: 'Embracing Diversity: Beyond M/WBE Targets'
@@ -121,5 +121,6 @@ page_blocks:
 description: The Industry Leaders Roundtable program is designed to encourage firms
   and their representatives to undertake institutional change within their organizations,
   by providing them research, tools, and support to be change agents.
+date: 
 
 ---
