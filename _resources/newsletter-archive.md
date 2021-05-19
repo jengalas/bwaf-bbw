@@ -13,27 +13,27 @@ newsletters:
 - title: Angles
   month_year: May 2021
   link: https://mailchi.mp/bwaf/b5rrdu42wi-2995070
-  description: On politics and standing up for equality
+  description: ''
 - title: Angles
   month_year: April 2021
   link: https://mailchi.mp/bwaf/k0man47s2m-2995066
-  description: To all Emerging Leaders, perseverance takes passion
+  description: ''
 - title: Angles
   month_year: March 2021
   link: https://mailchi.mp/bwaf/k0man47s2m
-  description: The DNA is open this Women's History Month
+  description: ''
 - title: Angles
   month_year: February 2021
-  description: Approaching a year...
+  description: ''
   link: https://mailchi.mp/bwaf/b5rrdu42wi-2995034
 - title: Angles
   month_year: January 2021
   link: https://mailchi.mp/bwaf/b5rrdu42wi
-  description: Angles has arrived!
+  description: ''
 - title: Special Blast
   month_year: December 2020
   link: https://mailchi.mp/bwaf/b5rrdu42wi
-  description: Welcoming our new Board Members
+  description: ''
 - title: Dispatches From Home
   month_year: December 2020
   link: https://mailchi.mp/bwaf/bwaf-briefly-news-save-the-dates-2994994
@@ -42,16 +42,16 @@ newsletters:
   link: https://mailchi.mp/bwaf/bwaf-briefly-news-save-the-dates-2994982
 - title: Dispatches From Home
   link: https://mailchi.mp/bwaf/bwaf-briefly-news-save-the-dates-2994962
-  description: We need you
+  description: ''
   month_year: October 2020
 - title: Dispatches From Home
   month_year: September 2020
   link: https://mailchi.mp/bwaf/bwaf-briefly-news-save-the-dates-2994954
-  description: This new season
+  description: ''
 - title: Dispatches From Home
   month_year: August 2020
   link: https://mailchi.mp/bwaf/dispatches-from-phase-2-and-pioneering-women-of-american-architecture-patricia-weston-swan-2994946
-  description: Votes for women!
+  description: ''
 - title: Dispatches From Home
   link: https://mailchi.mp/bwaf/dispatches-from-phase-2-and-pioneering-women-of-american-architecture-patricia-weston-swan-2994938
   month_year: July 2020
@@ -61,7 +61,7 @@ newsletters:
 - title: Special Blast
   month_year: June 2020
   link: https://mailchi.mp/bwaf/in-solidarity
-  description: In Solidarity
+  description: ''
 - title: Dispatches From Home
   month_year: May 2020
   link: https://mailchi.mp/bwaf/bwaf-briefly-news-save-the-dates-2994906
