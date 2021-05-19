@@ -72,7 +72,7 @@ page_blocks:
     image: "/v1620397414/Zeppetilli_Adalgisa_BW_fv2r3o.jpg"
 - template: featured-portrait-block
   header: FINANCE
-  image: ''
+  image: "/v1621461550/Sharon-Greenberger-768x1152_xiky96.jpg"
   subtitle: President and CEO | YMCA of Greater New York
   title: Sharon Greenberger
   label: Speaker
