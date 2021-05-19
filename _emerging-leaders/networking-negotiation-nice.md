@@ -184,7 +184,7 @@ page_blocks:
     link_url: ''
     link_text: ''
   featured-portrait: []
-  image: ''
+  image: "/v1621461389/Diana-Taylor-2-e1452292916548_r9pxiw.jpg"
 description: ''
 
 ---
