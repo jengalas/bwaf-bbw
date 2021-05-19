@@ -83,7 +83,7 @@ newsletters:
     <div>
         <div class="newsletter-archive">
         {% for newsletter in page.newsletters %}
-            <a href="{{newsletter.link}}">
+            <a href="{{newsletter.link}}" target="_blank">
                 <h3><b>{{newsletter.title}}</b> / {{newsletter.month_year}}</h3>
                 <p>{{newsletter.description}}</p>
             </a>
