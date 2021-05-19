@@ -5,7 +5,7 @@
         <a href="{{media.link_to_video}}" target="_blank">
             <div class="img-container image-container">
                 {% if media.image != '' %}
-                <img src="{{media.image}}" alt="">
+                <img src="{{site.cloudinary}}{{media.image}}" alt="">
                 {% else %}
                 <img src="/assets/img/placeholder.png" alt="">
                 {% endif %}
