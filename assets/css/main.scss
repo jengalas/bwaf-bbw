@@ -734,6 +734,14 @@ p.lg{
             transform: translateY(-50%) translateX(-50%);
         }
         a:hover .play{border-left: 80px solid rgba(255,255,255,1);}
+        a h5 svg{
+            display:none;
+            width:16px;
+            height:16px;
+        }
+        a:hover h5 svg{
+            display:inline-block;
+        }
         h5{
             margin-bottom:var(--spacer);
         }
