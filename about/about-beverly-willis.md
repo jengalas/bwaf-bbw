@@ -57,7 +57,7 @@ page_blocks:
   - image: "/v1621452174/film2_ajqclh.png"
     title: Nature's Images
     link_to_video: https://beverlywillis.com/wp-content/uploads/2016/11/02_Invisible_Images_Silent_Language_Arcitecture.mp4
-  - image: "/v1621452184/placeholder_fomuup.png"
+  - image: "/v1621453945/04-0753-4-SF-Ballet-night-movement-perspective_nhoqp7.jpg"
     title: 'Interview: The Opening of the San Francisco Ballet Building'
     link_to_video: https://beverlywillis.com/wp-content/uploads/2016/11/sf_ballet.mp3
   - image: "/v1621452195/film4_ds9n5c.png"
