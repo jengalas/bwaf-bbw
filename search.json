@@ -2,27 +2,57 @@
 layout: none
 ---
 [
-  {% for post in site.pages %}
+  {% for p in site.pages %}
+    {% if p.images[0].image %}
+      {% assign img = site.cloudinary | append: p.images[0].image %}
+    {% elsif p.page_blocks[0].image %}
+      {% assign img = site.cloudinary | append: p.page_blocks[0].image %}
+    {% elsif p.page_blocks[1].image %}
+      {% assign img = site.cloudinary | append: p.page_blocks[1].image %}
+    {% else %}
+      {% assign img = '/assets/img/search-result.png' %}
+    {% endif %}
+
+    {% if p.navCategory %}
+      {% assign cat = p.navCategory %}
+    {% else %}
+      {% assign cat = ' ' %}
+    {% endif %}
     {
-      "title"    : "{{ post.title | escape }}",
-      "category" : "{{ post.navCategory }}",
-      "image"    : "{{ post.image }}",
-      "descript" : "{{ post.description }}",
-      "tags"     : "{{ post.tags | join: ', ' }}",
-      "url"      : "{{ site.baseurl }}{{ post.url }}",
-      "date"     : "{{ post.date }}"
+      "title"    : "{{ p.title | escape }}",
+      "category" : "{{ cat }}",
+      "image"    : "{{ img }}",
+      "descript" : "{{ p.description }}",
+      "tags"     : "{{ p.tags | join: ', ' }}",
+      "url"      : "{{ site.baseurl }}{{ p.url }}",
+      "date"     : "{{ p.date }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
   ,
-  {% for post in site.documents %}
+  {% for p in site.documents %}
+
+        {% if p.images[0].image %}
+          {% assign img2 = site.cloudinary | append: p.images[0].image %}
+        {% else %}
+          {% assign img2 = '/assets/img/search-result.png' %}
+        {% endif %}
+      
+
+      {% if p.navCategory %}
+        {% assign cat = p.navCategory %}
+      {% else %}
+        {% assign cat = ' ' %}
+      {% endif %}
+
     {
-      "title"    : "{{ post.title | escape }}",
-      "category" : "{{ post.navCategory }}",
-      "image"    : "{{ post.images[0].image | post.page_blocks[0].image | post.page_blocks[1].image | post.page_blocks[2].image}}",
-      "descript" : "{{ post.description | strip_html | strip_newlines | remove_chars | truncate: 156 | escape }}",
-      "tags"     : "{{ post.tags | join: ', ' }}",
-      "url"      : "{{ site.baseurl }}{{ post.url }}",
-      "date"     : "{{ post.date }}"
+      "title"    : "{{ p.title | escape }}",
+      "category" : "{{ cat }}",
+      "image"    : "{{ img2 }}",
+      "descript" : "{{ p.description | strip_html | strip_newlines | remove_chars | truncate: 156 | escape }}",
+      "tags"     : "{{ p.tags | join: ', ' }}",
+      "url"      : "{{ site.baseurl }}{{ p.url }}",
+      "date"     : "{{ p.date }}"
     } {% unless forloop.last %},{% endunless %}
+
   {% endfor %}
 ]

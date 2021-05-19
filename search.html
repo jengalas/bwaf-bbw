@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: "/search"
+title: Search
 ---
 
 <div class="main-two-up">
@@ -32,6 +33,6 @@ permalink: "/search"
         searchInput: document.getElementById('searchbar-page'),
         resultsContainer: document.getElementById('search-results'),
         json: '/search.json',
-        searchResultTemplate: '<a href="{{site.url}}{url}"><div class="thumbnail image-container"><img src="{{site.cloudinary}}{image}"></div><div><h6>{category}</h6><h2><b>{title}</b></h2><p>{descript}</p></div></a>'
+        searchResultTemplate: '<a href="{{site.url}}{url}"><div class="thumbnail image-container"><img src="{image}"></div><div><h6>{category}</h6><h2><b>{title}</b></h2><p>{descript}</p></div></a>'
     })
 </script>
