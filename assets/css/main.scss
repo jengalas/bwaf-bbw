@@ -1555,13 +1555,13 @@ figcaption, .smallest{
     }
     footer>*{width:50%;flex:none;margin-bottom:1em;margin-right:1em}
     .bbw-projects>div{
-        width: calc((100vw - var(--margin)*2)/2 - var(--gutter)*1/2 - 5px)
+        width: calc((100vw - var(--margin)*2)/2 - var(--gutter)*1/2 - 13px)
     }
     .bbw-projects img{
-        height: calc((100vw - var(--margin)*2)/2 - var(--gutter)*1/2 - 5px)
+        height: calc((100vw - var(--margin)*2)/2 - var(--gutter)*1/2 - 13px)
     }
     .bbw-projects .historical{
-        width: calc((100vw - var(--margin)*2)/2 - var(--gutter)*1/2 - 5px - 30px);
+        width: calc((100vw - var(--margin)*2)/2 - var(--gutter)*1/2 - 5px - 38px);
     }
 }
 
