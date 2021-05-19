@@ -62,6 +62,9 @@ newsletters:
   month_year: June 2020
   link: https://mailchi.mp/bwaf/in-solidarity
   description: In Solidarity
+- title: Dispatches From Home
+  month_year: May 2020
+  link: https://mailchi.mp/bwaf/bwaf-briefly-news-save-the-dates-2994906
 
 ---
 <div class="main-two-up">
