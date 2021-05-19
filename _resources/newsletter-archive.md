@@ -58,6 +58,10 @@ newsletters:
 - title: Dispatches From Home
   month_year: June 2020
   link: https://mailchi.mp/bwaf/dispatches-from-phase-2-and-pioneering-women-of-american-architecture-patricia-weston-swan
+- title: Special Blast
+  month_year: June 2020
+  link: https://mailchi.mp/bwaf/in-solidarity
+  description: In Solidarity
 
 ---
 <div class="main-two-up">
