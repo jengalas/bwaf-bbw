@@ -1,7 +1,7 @@
 ---
 layout: innerPage
 navCategory: Programs
-date: 2021-05-05T11:29:12.000+00:00
+date: 2021-05-05 11:29:12 +0000
 title: Perseverance, Politics, Power
 page_blocks:
 - template: text-block
