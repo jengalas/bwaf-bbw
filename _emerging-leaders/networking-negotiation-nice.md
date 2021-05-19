@@ -1,6 +1,6 @@
 ---
 layout: innerPage
-date: 2018-02-01 15:21:59 +0000
+date: 2018-02-01T15:21:59.000+00:00
 navCategory: ''
 title: Networking, Negotiation, Nice
 page_blocks:
@@ -108,7 +108,7 @@ page_blocks:
     link_text: ''
   featured-portrait: []
   header: NETWORKING
-  image: ''
+  image: "/v1621461118/Victoria-Cerami_faprlg.jpg"
   label: Speaker
   title: Victoria J. Cerami
   subtitle: CEO | Cerami & Associates
@@ -185,5 +185,6 @@ page_blocks:
     link_text: ''
   featured-portrait: []
   image: ''
+description: ''
 
 ---
