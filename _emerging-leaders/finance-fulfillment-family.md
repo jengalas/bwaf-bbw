@@ -82,7 +82,7 @@ page_blocks:
     line-2: 'Where: KPF, 11 W. 42nd Street, New York, NY 10036'
   include_left-hand_column_text_: true
 - template: featured-portrait-block
-  image: ''
+  image: "/v1621461514/fiona-cousins_fcmwde.png"
   include_left-hand_column_text_: true
   header: FULFILLMENT
   label: Speaker
