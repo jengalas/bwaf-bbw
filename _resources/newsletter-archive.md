@@ -24,12 +24,12 @@ newsletters:
   description: ''
 - title: Angles
   month_year: February 2021
-  description: Approaching a year...
+  description: ''
   link: https://mailchi.mp/bwaf/b5rrdu42wi-2995034
 - title: Angles
   month_year: January 2021
   link: https://mailchi.mp/bwaf/b5rrdu42wi
-  description: Angles has arrived!
+  description: ''
 - title: Special Blast
   month_year: December 2020
   link: https://mailchi.mp/bwaf/b5rrdu42wi
