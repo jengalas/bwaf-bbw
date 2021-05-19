@@ -327,7 +327,7 @@ page_blocks:
 
 '
   section_break: false
-description: ''
+description: Beverly Willis Architecture Foundation Board and Staff
 date: 
 
 ---

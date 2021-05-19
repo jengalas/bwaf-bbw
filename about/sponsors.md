@@ -14,14 +14,14 @@ supporters:
   image: "/v1620155920/Silman_Logo_djgqp7.jpg"
 friends-header: 'Corporate Sponsors: Friends'
 friends:
-- {}
-- {}
-- name: Brookfield Properties
-  image: "/v1620155874/B-prop_id_rgb_q198gs.jpg"
-- name: Silman
-  image: "/v1620155920/Silman_Logo_djgqp7.jpg"
+- image: "/v1621379339/LanganBlackCMYK-print_ic5idu.jpg"
+  name: Langan Engineering
+- image: "/v1621379372/Arup_Logo_2011_Black_CMYK_-_revised_bevczb.jpg"
+  name: Arup
+- name: Cooper Carry
+  image: "/v1621379491/cc_identity_logo_black_nnig5h.jpg"
 sponsors:
-- sponsors-header: 2020 Leadership Awards Gala Sponsors
+- sponsors-header: Leadership Awards Gala 2020 Sponsors
   sponsors:
   - amt: Legacy
     sponsors:
@@ -81,12 +81,10 @@ pioneering-women:
     Caples, AIA; Architecture Research Office; Christina Davis; Leers Weinzapfel Associates;
     Ronald Evitts Architect LLC; LandDesign, Inc. and Madlen Simon; Susan T. Rodriguez
     Architecture; Kristi Ambrosetti.
-previous-years-header: Continued General Support is Generously Provided By
+previous-years-header: Additional Programming Support is Generously Provided By
 previous-years:
-- name: Brookfield Properties
-  image: "/v1620155874/B-prop_id_rgb_q198gs.jpg"
-- name: Silman
-  image: "/v1620155920/Silman_Logo_djgqp7.jpg"
+- name: New York Building Foundation
+  image: "/v1621379817/nybf-logo-450x450_kyhv9k.png"
 
 ---
 <div class="main-two-up">

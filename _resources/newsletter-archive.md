@@ -3,17 +3,69 @@ layout: default
 navCategory: Resources
 title: Newsletter Archive
 permalink: "/resources/newsletter-archive"
-description: Angles (formerly Briefly News) is the monthly newsletter of Beverly Willis Architecture Foundation. Here you can view an archive of previous newsletters. You can also sign up to receive future newsletters in your inbox.
-sign-up-text: Sign up for the newsletter and get the latest news on upcoming programs and events
+description: Angles (formerly Dispatches From Home, formerly Briefly News) is the
+  monthly newsletter of Beverly Willis Architecture Foundation. Here you can view
+  an archive of previous newsletters. You can also sign up to receive future newsletters
+  in your inbox.
+sign-up-text: Sign up for the newsletter and get the latest news on upcoming programs
+  and events
 newsletters:
-  - title: Angles
-    month_year: November 2020
-    link: /
-    description: Announcing the new Beverly Willis Architecture Foundation podcast. Feminist City, a new book by Leslie Kern. Emerging Leaders applications are open.
-  - title: Briefly
-    month_year: October 2020
-    link: /
-    description: Announcing the new Beverly Willis Architecture Foundation podcast. Feminist City, a new book by Leslie Kern. Emerging Leaders applications are open.
+- title: Angles
+  month_year: May 2021
+  link: https://mailchi.mp/bwaf/b5rrdu42wi-2995070
+  description: On politics and standing up for equality
+- title: Angles
+  month_year: April 2021
+  link: https://mailchi.mp/bwaf/k0man47s2m-2995066
+  description: To all Emerging Leaders, perseverance takes passion
+- title: Angles
+  month_year: March 2021
+  link: https://mailchi.mp/bwaf/k0man47s2m
+  description: The DNA is open this Women's History Month
+- title: Angles
+  month_year: February 2021
+  description: Approaching a year...
+  link: https://mailchi.mp/bwaf/b5rrdu42wi-2995034
+- title: Angles
+  month_year: January 2021
+  link: https://mailchi.mp/bwaf/b5rrdu42wi
+  description: Angles has arrived!
+- title: Special Blast
+  month_year: December 2020
+  link: https://mailchi.mp/bwaf/b5rrdu42wi
+  description: Welcoming our new Board Members
+- title: Dispatches From Home
+  month_year: December 2020
+  link: https://mailchi.mp/bwaf/bwaf-briefly-news-save-the-dates-2994994
+- title: Dispatches From Home
+  month_year: November 2020
+  link: https://mailchi.mp/bwaf/bwaf-briefly-news-save-the-dates-2994982
+- title: Dispatches From Home
+  link: https://mailchi.mp/bwaf/bwaf-briefly-news-save-the-dates-2994962
+  description: We need you
+  month_year: October 2020
+- title: Dispatches From Home
+  month_year: September 2020
+  link: https://mailchi.mp/bwaf/bwaf-briefly-news-save-the-dates-2994954
+  description: This new season
+- title: Dispatches From Home
+  month_year: August 2020
+  link: https://mailchi.mp/bwaf/dispatches-from-phase-2-and-pioneering-women-of-american-architecture-patricia-weston-swan-2994946
+  description: Votes for women!
+- title: Dispatches From Home
+  link: https://mailchi.mp/bwaf/dispatches-from-phase-2-and-pioneering-women-of-american-architecture-patricia-weston-swan-2994938
+  month_year: July 2020
+- title: Dispatches From Home
+  month_year: June 2020
+  link: https://mailchi.mp/bwaf/dispatches-from-phase-2-and-pioneering-women-of-american-architecture-patricia-weston-swan
+- title: Special Blast
+  month_year: June 2020
+  link: https://mailchi.mp/bwaf/in-solidarity
+  description: In Solidarity
+- title: Dispatches From Home
+  month_year: May 2020
+  link: https://mailchi.mp/bwaf/bwaf-briefly-news-save-the-dates-2994906
+
 ---
 <div class="main-two-up">
     <div>
