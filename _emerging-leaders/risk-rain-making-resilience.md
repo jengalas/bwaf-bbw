@@ -118,7 +118,7 @@ page_blocks:
     link_url: ''
     link_text: ''
   featured-portrait: []
-  image: ''
+  image: "/v1621461012/Mary-Byron_dfwed6.jpg"
 - template: featured-portrait-block
   header: RAIN-MAKING
   include_left-hand_column_text_: true
