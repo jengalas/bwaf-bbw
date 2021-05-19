@@ -161,7 +161,7 @@ page_blocks:
     link_url: ''
     link_text: ''
   featured-portrait: []
-  image: ''
+  image: "/v1621461287/Screen_Shot_2021-05-19_at_5.54.23_PM_u8jthh.png"
 - template: featured-portrait-block
   include_left-hand_column_text_: true
   header: "“NICE”"
