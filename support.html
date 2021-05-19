@@ -5,7 +5,7 @@ layout: default
 header: Make a Donation
 link:
   text: To make a recurring donation, become a Friend and enjoy membership benefits
-  url: "/"
+  url: "/programs/friends"
 text-block: |-
   Our mission at Beverly Willis Architecture Foundation (BWAF) is to change the culture of the building industry for women through education and research. This work is proving more urgent and important than ever before. We depend on your donations to continue providing high-quality reference materials and for sustaining our educational programming.
 
@@ -31,23 +31,43 @@ text-block: |-
             <div class="donation-block-inner">
                 <div>
                     <h2><b>Select a donation amount</b></h2>
-                    <div class="donation-buttons">
-                        <div>$100</div>
-                        <div>$250</div>
-                        <div>$500</div>
-                        <div>$1,000</div>
-                        <div>$2,500</div>
-                        <div class="btn-other"><span class="h2">Other Amount</span></div>
+                    <div class="donation-buttons sponsorship-buttons">
+                        <label>
+                            $100
+                            <input type="radio" name="sponsorship-type" value="100">
+                        </label>
+                        <label>
+                            $250
+                            <input type="radio" name="sponsorship-type" value="250">
+                        </label>
+                        <label>
+                            $500
+                            <input type="radio" name="sponsorship-type" value="500">
+                        </label>
+                        <label>
+                            $1,000
+                            <input type="radio" name="sponsorship-type" value="1000">
+                        </label>
+                        <label>
+                            $2,500
+                            <input type="radio" name="sponsorship-type" value="2500">
+                        </label>
+                        <!-- <label class="btn-other">
+                            <input type="text" name="sponsorship-type" value="other" placeholder="Other Amount">
+                        </label> -->
+                        <input class="btn-other h2" type="number" name="sponsorship-type" placeholder="Other Amount">
                     </div>
+                    
                 </div>
+                <br>
                 <div>
                     <h2><b>Select payment method</b></h2>
                     <div class="payment-buttons">
-                        <button class="h2 active"><b>PayPal</b></button>
-                        <button class="h2"><b>Check</b></button>
+                        <button class="h2 active" id="btnPaypal"><b>PayPal</b></button>
+                        <button class="h2" id="btnPayByCheck"><b>Check</b></button>
                     </div>
                 </div>
-                <div>
+                <div id="view-paypal">
                     <h2><b>Enter your information</b></h2>
                     <label for="firstname">First name</label>
                     <input type="text" name="firstname" id="firstname" placeholder="First name"><br>
@@ -55,10 +75,19 @@ text-block: |-
                     <input type="text" name="lastname" id="lastname" placeholder="Last name"><br>
                     <label for="firstname">Email address</label>
                     <input type="text" name="emailaddress" id="emailaddress" placeholder="Email address"><br>
+                    <button id="donate-form--donate-btn"><span class="h2"><b>Donate Now</b></span></button>
                 </div>
-                <button id="donate-form--donate-btn"><span class="h2"><b>Donate Now</b></span></button>
+                <div id="view-pay-by-check">
+                    <h2>Please make your check payable to:<br><b>Beverly Willis Architecture Foundation</b></h2>
+                    
+                    <h2>Please mail your check to:
+                        <br><b>Beverly Willis Architecture Foundation</b>
+                        <br><b>141 West Broadway<br>New York, NY 10013</b>
+                    </h2>
+                    <figcaption>All contributions will be gratefully acknowledged and are 100% tax deductible.</figcaption>
+                </div>
             </div>
         </div>
     </div>
-    
 </div>
+<script src="/assets/js/form.js"></script>

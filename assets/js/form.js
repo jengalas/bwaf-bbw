@@ -22,13 +22,20 @@ lastNameInput.oninput=function(){
 }
 
 for (let btn of radioBtns){
-    btn.oninput=function(){
-        if(document.querySelector(".sponsorship-buttons label.selected") != null){
-            document.querySelector(".sponsorship-buttons label.selected").classList.remove("selected");
+    btn.onclick=function(){
+        if(document.querySelector(".sponsorship-buttons .selected") != null){
+            document.querySelector(".sponsorship-buttons .selected").classList.remove("selected");
         }
-        btn.parentElement.classList.add("selected");
-        btn.parentElement.parentElement.classList.add("level-selected");
-
+        if (this.classList.contains("btn-other")){
+            btn.classList.add("selected");
+            btn.parentElement.classList.add("level-selected");
+        } else {
+            btn.parentElement.classList.add("selected");
+            btn.parentElement.parentElement.classList.add("level-selected");
+        }
+        donationAmt = this.value;
+    }
+    btn.oninput=function(){
         donationAmt = this.value;
     }
 }

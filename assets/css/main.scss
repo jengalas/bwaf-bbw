@@ -950,7 +950,7 @@ figcaption, .smallest{
         display:flex;
         flex-wrap:wrap;
         justify-content: space-between;
-        > label{
+        > label, input[type="number"]{
             text-align:center;
             border:5px solid var(--red);
             color:var(--red);
@@ -960,26 +960,50 @@ figcaption, .smallest{
             font-family:'GT America', sans-serif;
             margin-bottom:35px;
             background:white;
+            position:static;
             cursor:pointer;
-            input{
+            input[type="radio"]{
                 position:fixed;
                 visibility:hidden;
                 top:-100px;
                 left:-100px;
             }
         }
-        .btn-other span{
-            position: relative;
-            top: -4px;
+        .btn-other::placeholder{
+            color:var(--red);
+            font-size:28px;
+            transition:color 300ms;
+        }
+        .btn-other:focus::placeholder{
+            color:#F4364C12;
+            // font-size:28px;
         }
     }
     .donation-buttons.level-selected, .sponsorship-buttons.level-selected{
-        > label:not(.selected){
+        > label:not(.selected),input[type="number"]:not(.selected){
             border:5px solid white;
             color: #969696;
         }
+        .btn-other:not(.selected)::placeholder{
+            color:#969696;
+        }
     }
-    .sponsorship-buttons{
+    input::-webkit-outer-spin-button,
+    input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+    }
+
+    /* Firefox */
+    input[type=number] {
+    -moz-appearance: textfield;
+    }
+    .donation-buttons.level-selected > label:not(.selected),
+    .donation-buttons.level-selected > input[type="number"]:not(.selected){
+        border-color:#c3c3c3;
+        color:#c3c3c3;
+    }
+    .sponsorship-buttons:not(.donation-buttons){
         > label{
             width:calc(100% - 70px);
             display:flex;
@@ -1006,6 +1030,7 @@ figcaption, .smallest{
         border-bottom:5px solid var(--red);
         background:transparent;
     }
+    
     label{
         position:fixed;
         visibility:none;
@@ -1023,72 +1048,6 @@ figcaption, .smallest{
         background:transparent;
         font-family: 'GT America', sans-serif;
     }
-
-
-    /* The container */
-.container {
-  display: block;
-  position: relative;
-  padding-left: 35px;
-  margin-bottom: 12px;
-  cursor: pointer;
-  font-size: 22px;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
-}
-
-/* Hide the browser's default radio button */
-.container input {
-  position: absolute;
-  opacity: 0;
-  cursor: pointer;
-}
-
-/* Create a custom radio button */
-.checkmark {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 25px;
-  width: 25px;
-  background-color: #eee;
-  border-radius: 50%;
-}
-
-/* On mouse-over, add a grey background color */
-.container:hover input ~ .checkmark {
-  background-color: #ccc;
-}
-
-/* When the radio button is checked, add a blue background */
-.container input:checked ~ .checkmark {
-  background-color: #2196F3;
-}
-
-/* Create the indicator (the dot/circle - hidden when not checked) */
-.checkmark:after {
-  content: "";
-  position: absolute;
-  display: none;
-}
-
-/* Show the indicator (dot/circle) when checked */
-.container input:checked ~ .checkmark:after {
-  display: block;
-}
-
-/* Style the indicator (dot/circle) */
-.container .checkmark:after {
- 	top: 9px;
-	left: 9px;
-	width: 8px;
-	height: 8px;
-	border-radius: 50%;
-	background: white;
-}
-
 
     input[type="text"]:focus, input[type="email"]:focus{
         outline:none;
