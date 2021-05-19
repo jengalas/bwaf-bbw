@@ -717,7 +717,8 @@ p.lg{
         }
         img{
             width:100%;
-            object-fit:fill;
+            height: 20vw;
+            object-fit:cover;
         }
         .img-container{position: relative;display:inline-block !important;width:100%}
         .play{

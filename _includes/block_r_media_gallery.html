@@ -1,38 +1,18 @@
 <div class="media-gallery-block">
+    {% for media in block.media %}
     <div>
-        <a href="#">
+        
+        <a href="{{media.link_to_video}}" target="_blank">
             <div class="img-container image-container">
-                <img src="/assets/img/beverly-willis-video.png" alt="">
+                {% if media.image != '' %}
+                <img src="{{media.image}}" alt="">
+                {% else %}
+                <img src="/assets/img/placeholder.png" alt="">
+                {% endif %}
                 <span class="play"></span>
             </div>
-            <h5><b>Title of media clip about Beverly Willis</b></h5>
+            <h5><b>{{media.title}}</b></h5>
         </a>
     </div>
-    <div>
-        <a href="#">
-            <div class="img-container image-container">
-                <img src="/assets/img/beverly-willis-video.png" alt="">
-                <span class="play"></span>
-            </div>
-            <h5><b>Title of media clip about Beverly Willis</b></h5>
-        </a>
-    </div>
-    <div>
-        <a href="#">
-            <div class="img-container image-container">
-                <img src="/assets/img/beverly-willis-video.png" alt="">
-                <span class="play"></span>
-            </div>
-            <h5><b>Title of media clip about Beverly Willis</b></h5>
-        </a>
-    </div>
-    <div>
-        <a href="#">
-            <div class="img-container image-container">
-                <img src="/assets/img/beverly-willis-video.png" alt="">
-                <span class="play"></span>
-            </div>
-            <h5><b>Title of media clip about Beverly Willis</b></h5>
-        </a>
-    </div>
+    {% endfor %}
 </div>

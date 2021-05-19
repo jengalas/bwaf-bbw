@@ -51,8 +51,18 @@ page_blocks:
   section_break: false
 - template: media-gallery-block
   media:
-  - image/video: ''
-    image_title: Title of media clip about Beverly Willis
+  - image: '/assets/img/film1.png'
+    title: Critic Suzannah Lessard Talks About Beverly Willis
+    link_to_video: https://beverlywillis.com/wp-content/uploads/2016/09/suze.mp4
+  - image: '/assets/img/film2.png'
+    title: Nature's Images
+    link_to_video: https://beverlywillis.com/wp-content/uploads/2016/11/02_Invisible_Images_Silent_Language_Arcitecture.mp4
+  - image: ''
+    title: 'Interview: The Opening of the San Francisco Ballet Building'
+    link_to_video: https://beverlywillis.com/wp-content/uploads/2016/11/sf_ballet.mp3
+  - image: '/assets/img/film4.png'
+    title: R.Dot Interview with Beverly Willis
+    link_to_video: https://beverlywillis.com/wp-content/uploads/2016/11/12_CBC_Steph_Tremblay_11Mar2002.mp4
   include_left-hand_column_text_: false
   lefthand_text:
     header_type: ''
@@ -61,7 +71,6 @@ page_blocks:
     link_url: ''
     link_text: ''
   section_break: false
-date: 
 description: In 2002, Beverly Willis, FAIA founded the Beverly Willis Architecture
   Foundation.
 
