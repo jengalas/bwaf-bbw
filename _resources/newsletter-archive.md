@@ -42,7 +42,7 @@ newsletters:
   link: https://mailchi.mp/bwaf/bwaf-briefly-news-save-the-dates-2994982
 - title: Dispatches From Home
   link: https://mailchi.mp/bwaf/bwaf-briefly-news-save-the-dates-2994962
-  description: We need you
+  description: ''
   month_year: October 2020
 - title: Dispatches From Home
   month_year: September 2020
