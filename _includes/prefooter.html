@@ -6,16 +6,29 @@
         {% for item in subnav %}
             {% if item.link != page.permalink %}
 
-            {% if item.label == "Emerging Leaders" %}
-                {% assign els = site.emerging-leaders | sort: 'date' | reverse %}
-                {% for el in els limit: 1 %}
-                    {% assign link = el.url %}
-                {% endfor %}
-            {% else %}
-                {% assign link = item.link %}
-            {% endif %}
+                {% if item.label == "Emerging Leaders" %}
+                    {% assign els = site.emerging-leaders | sort: 'date' | reverse %}
+                    {% for el in els limit: 1 %}
+                        {% assign link = el.url %}
+                    {% endfor %}
+                {% else %}
+                    {% assign link = item.link %}
+                {% endif %}
 
-            <li><a href="{{link}}" class="h2">{{item.label}}<span>→</span></a></li>
+                {% if item.external %}
+                <li>
+                    <a href="{{link}}" class="h2" target="_blank">
+                        {{item.label}}
+                        <span>
+                            <svg id="Launch" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+                            <path id="Path_13" data-name="Path 13" d="M26,3.005v9.059L22.386,8.449,11.765,19.07l-1.83-1.83L20.556,6.619,16.941,3.005ZM22.118,25H4V6.887H14.353V9.476H6.588V22.417H19.529V14.652h2.588Z" transform="translate(-4 -3.005)" fill="var(--green)" fill-rule="evenodd"/>
+                            </svg>
+                        </span>
+                    </a>
+                </li>
+                {% else %}
+                <li><a href="{{link}}" class="h2">{{item.label}}<span>→</span></a></li>
+                {% endif %}
             {% endif %}
         {% endfor %}
     </ul>
