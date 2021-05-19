@@ -1468,6 +1468,16 @@ figcaption, .smallest{
     nav .subnav li a{
         display:block;
     }
+
+    .bbw-projects>div{
+        width: calc((100vw - var(--margin)*2)/3 - var(--gutter)*2/3 - 5px)
+    }
+    .bbw-projects img{
+        height: calc((100vw - var(--margin)*2)/3 - var(--gutter)*2/3 - 5px)
+    }
+    .bbw-projects .historical{
+        width: calc((100vw - var(--margin)*2)/3 - var(--gutter)*2/3 - 5px - 30px);
+    }
 }
 
 @media screen and (max-width: 950px){
@@ -1544,6 +1554,15 @@ figcaption, .smallest{
         margin-bottom:30px;
     }
     footer>*{width:50%;flex:none;margin-bottom:1em;margin-right:1em}
+    .bbw-projects>div{
+        width: calc((100vw - var(--margin)*2)/2 - var(--gutter)*1/2 - 5px)
+    }
+    .bbw-projects img{
+        height: calc((100vw - var(--margin)*2)/2 - var(--gutter)*1/2 - 5px)
+    }
+    .bbw-projects .historical{
+        width: calc((100vw - var(--margin)*2)/2 - var(--gutter)*1/2 - 5px - 30px);
+    }
 }
 
 @media screen and (max-width:700px){

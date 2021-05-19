@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: innerPage
 title: 'The Radiant Sun: Designer Ruth Adler Schnee'
 description: "The Radiant Sun explores the life and work of mid-century American designer
   Ruth Adler Schnee, who has been called a “Detroit treasure” and an “American legacy.”
@@ -10,5 +10,6 @@ description: "The Radiant Sun explores the life and work of mid-century American
   American Modernist–era and expands knowledge about women designers’ influence on
   the built environment."
 image: "/v1621355441/s305193471954483892_p2_i1_w540_wcriwc.png"
-
+permalink: /resources/film-collection/radiant-sun
+navCategory: resources
 ---

@@ -13,6 +13,7 @@ description: "Frank Lloyd Wright, America's most influential architect, died in 
   Mahony, Isabel Roberts, Lois Gottlieb, Jane Duncombe, Eleanore Pettersen, and Read
   Weber."
 image: "/v1618940450/Screen_Shot_2021-04-20_at_1.40.40_PM_zwiijt.png"
-permalink: "/test-film"
+permalink: "/resources/film-collection/a-girl-is-a-fellow-here"
+navCategory: resources
 
 ---
