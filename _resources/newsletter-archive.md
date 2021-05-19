@@ -17,11 +17,11 @@ newsletters:
 - title: Angles
   month_year: April 2021
   link: https://mailchi.mp/bwaf/k0man47s2m-2995066
-  description: To all Emerging Leaders, perseverance takes passion
+  description: ''
 - title: Angles
   month_year: March 2021
   link: https://mailchi.mp/bwaf/k0man47s2m
-  description: The DNA is open this Women's History Month
+  description: ''
 - title: Angles
   month_year: February 2021
   description: Approaching a year...
