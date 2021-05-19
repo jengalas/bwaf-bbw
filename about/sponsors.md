@@ -85,6 +85,8 @@ previous-years-header: Additional Programming Support is Generously Provided By
 previous-years:
 - name: New York Building Foundation
   image: "/v1621379817/nybf-logo-450x450_kyhv9k.png"
+- image: "/v1621450161/Screen_Shot_2021-05-19_at_2.41.10_PM_mga58z.png"
+  name: Harry T Wilks Family Foundation
 
 ---
 <div class="main-two-up">
