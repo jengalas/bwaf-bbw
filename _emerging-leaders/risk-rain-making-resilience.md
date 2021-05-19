@@ -1,6 +1,6 @@
 ---
 layout: innerPage
-date: 2017-02-03 05:00:00 +0000
+date: 2017-02-03T05:00:00.000+00:00
 navCategory: ''
 title: Risk, Rain-Making, Resilience
 page_blocks:
@@ -139,7 +139,7 @@ page_blocks:
     link_url: ''
     link_text: ''
   featured-portrait: []
-  image: ''
+  image: "/v1621460906/generateImage_i6xzrd.jpg"
 - template: featured-portrait-block
   section_break: false
   include_left-hand_column_text_: true
@@ -163,5 +163,6 @@ page_blocks:
   time-location:
     line-1: 'When: July 11, 2017'
     line-2: 'Where: TBA'
+description: ''
 
 ---
