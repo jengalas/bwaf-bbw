@@ -23,6 +23,43 @@
         <meta name="msapplication-TileColor" content="#da532c">
         <meta name="theme-color" content="#ffffff">
 
+        {% if page.description %}
+            {% assign descript = page.description %}
+        {% else %}
+            {% assign descript = 'Beverly Willis Architecture Foundation is changing the industry of design and construction, for women, through education and research.' %}
+        {% endif %}
+
+        {% if page.homepage %}
+            {% assign pageTitle = 'Beverly Willis Architecture Foundation' %}
+        {% elsif page.title %}
+            {% assign pageTitle = page.title | append: '| Beverly Willis Architecture Foundation' %}
+        {% else %}
+            {% assign pageTitle = 'Beverly Willis Architecture Foundation' %}
+        {% endif %}
+
+        {% if page.images[0].image %}
+            {% assign img = site.cloudinary | append: page.images[0].image %}
+        {% else %}
+            {% assign img = 'https://bwaf.org/assets/img/LH_BeverlyWillis_03.jpeg' %}
+        {% endif %}
+        <meta name="description" content="{{descript}}">
+
+        <meta property="og:title" content="{{pageTitle}}">
+        <meta property="og:description" content="{{descript}}">
+        
+        <meta property="og:url" content="/">
+        <meta name="twitter:title" content="{{pageTitle}}">
+        <meta name="twitter:description" content="{{descript}}">
+
+        
+        <meta name="twitter:image" content="{{img}}">
+        <meta property="og:image" content="{{img}}">
+        
+        
+        <meta name="twitter:image:alt" content="{{title}}">
+        <meta property="og:site_name" content="{{title}}">
+
+
         <link rel="stylesheet" href="https://fonts.typotheque.com/WF-036280-011387.css" type="text/css" />
         <link rel="stylesheet" href="/assets/css/main.css">
     </head>
