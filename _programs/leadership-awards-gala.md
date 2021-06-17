@@ -1,7 +1,7 @@
 ---
 layout: innerPage
 navCategory: Programs
-title: Leadership Awards Gala
+title: Leadership Awards Celebration
 permalink: "/programs/leadership-awards-gala"
 page_blocks:
 - template: slideshow-block
