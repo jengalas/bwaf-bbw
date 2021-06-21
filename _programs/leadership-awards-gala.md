@@ -38,7 +38,7 @@ page_blocks:
     download: ''
     link_url: ''
   text_block: "Save the date for the 2021 the inaugural BEVY leadership award celebration:
-    Formerly the gala... October 6, 2021. 6-9PM. \nBeverly Willis Architecture Foundation
+    Formerly the gala... October 6, 2021. 6-9PM. \n\nBeverly Willis Architecture Foundation
     brings attention to the work of contemporary women in the fields of architecture,
     landscape architecture, engineering, development and construction. Since 2014,
     we have done this through a highly respected awards program, with the honorees
