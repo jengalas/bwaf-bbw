@@ -62,18 +62,18 @@ page_blocks:
   include_left-hand_column_text_: true
   lefthand_text:
     header_type: Medium Header
-    text: 2020 Honorees
+    text: 2021 Honorees
     download: ''
     link_url: ''
     link_text: ''
-  text_block: "**Foundation**  \nJoseph F Tortorella PE, Hon AIA NY  \nPresident  \nSilman\n\n**Keystone**
-    \ \nLinda Chiarelli  \nSenior Vice President For Capital Projects And Facilities
-    \ \nNYU\n\n**Pillar**  \nJoan Blumenfeld, FAIA, FIIDA, LEED AP  \nDesign Principal
-    \ \nPerkins&Will\n\n**Oculus**   \nDr. Sharon Egretta Sutton, FAIA   \nDistinguished
+  text_block: "**Organizational Excellence**  \nSara Kendall  \nVice President & General
+    Manager\nTurner Construction\n\n**Innovative Executive**  \nMiriam Harris  \nExecutive
+    Vice President  \nTrinity Place Holdings\n\n**Mentorship**  \nKim Yao, FAIA  \nPrincipal\nArchitecture
+    Research Office  \n\n**Oculus**   \nDr. Sharon Egretta Sutton, FAIA   \nDistinguished
     Visiting Professor Of Architecture At Parsons School Of Design   \nAdjunct Professor
-    At Columbia University \n\n**Scroll**   \nInga Saffron   \nArchitecture Critic
-    \  \nThe Philadelphia Inquirer \n\n**Tribune**   \nSamantha Josaphat, RA, NOMA,
-    NCARB, LEED GA   \nPrincipal   \nStudio 397 Architecture"
+    At Columbia University \n\n**Academic**   \nDr. Sarah Whiting   \nDean   \nHarvard
+    GSD \n\n**Emerging Leader**   \nMichelle DeCarlo, PE, LEED AP BD+C   \nDirector,
+    HVAC   \nJaros, Baum & Bolles"
 - template: buttons-block
   button:
   - button_text: Visit the Gala Website
