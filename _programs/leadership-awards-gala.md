@@ -69,11 +69,12 @@ page_blocks:
   text_block: "**Organizational Excellence**  \nSara Kendall  \nVice President & General
     Manager\nTurner Construction\n\n**Innovative Executive**  \nMiriam Harris  \nExecutive
     Vice President  \nTrinity Place Holdings\n\n**Mentorship**  \nKim Yao, FAIA  \nPrincipal\nArchitecture
-    Research Office  \n\n**Oculus**   \nDr. Sharon Egretta Sutton, FAIA   \nDistinguished
-    Visiting Professor Of Architecture At Parsons School Of Design   \nAdjunct Professor
-    At Columbia University \n\n**Academic**   \nDr. Sarah Whiting   \nDean   \nHarvard
-    GSD \n\n**Emerging Leader**   \nMichelle DeCarlo, PE, LEED AP BD+C   \nDirector,
-    HVAC   \nJaros, Baum & Bolles"
+    Research Office   \n\n**Academic**   \nDr. Sarah Whiting   \nDean   \nHarvard
+    GSD \n\n**Media Engagement**   \nMabel O. Wilson   \nNancy and George Rupp Professor
+    of Architecture, Planning and Preservation; Professor in African American and
+    African Diasporic Studies, and the Director of the Institute for Research in African
+    American Studies    \nColumbia University GSAPP\n\n**Emerging Leader**   \nMichelle
+    DeCarlo, PE, LEED AP BD+C   \nDirector, HVAC   \nJaros, Baum & Bolles"
 - template: buttons-block
   button:
   - button_text: Visit the Gala Website
