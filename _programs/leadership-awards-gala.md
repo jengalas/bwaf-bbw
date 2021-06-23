@@ -69,7 +69,7 @@ page_blocks:
   text_block: "**Organizational Excellence**  \nSara Kendall  \nVice President & General
     Manager\nTurner Construction\n\n**Innovative Executive**  \nMiriam Harris  \nExecutive
     Vice President  \nTrinity Place Holdings\n\n**Mentorship**  \nKim Yao, FAIA  \nPrincipal\nArchitecture
-    Research Office   \n\n**Academic**   \nDr. Sarah Whiting   \nDean   \nHarvard
+    Research Office   \n\n**Academic Excellence**   \nDr. Sarah Whiting   \nDean   \nHarvard
     GSD \n\n**Media Engagement**   \nMabel O. Wilson   \nNancy and George Rupp Professor
     of Architecture, Planning and Preservation; Professor in African American and
     African Diasporic Studies, and the Director of the Institute for Research in African
