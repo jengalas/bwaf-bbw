@@ -34,7 +34,7 @@ page_blocks:
   lefthand_text:
     header_type: Text with Download
     text: Support the Foundation by becoming a Bevy sponsor
-    link_text: Download the sponsorship form
+    link_text: Download the 2021 sponsorship form
     download: https://www.dropbox.com/s/04kjv5m7xwrl3dg/BWAF%20Bevy%202021_Sponsorship%20Form.pdf?dl=0
     link_url: ''
   text_block: "Save the date for the 2021 the inaugural BEVY leadership award celebration:
