@@ -33,9 +33,9 @@ page_blocks:
   include_left-hand_column_text_: true
   lefthand_text:
     header_type: Text with Download
-    text: Support the Foundation by becoming a sponsor of the Gala
+    text: Support the Foundation by becoming a Bevy sponsor
     link_text: Download the sponsorship form
-    download: ''
+    download: https://www.dropbox.com/s/04kjv5m7xwrl3dg/BWAF%20Bevy%202021_Sponsorship%20Form.pdf?dl=0
     link_url: ''
   text_block: "Save the date for the 2021 the inaugural BEVY leadership award celebration:
     Formerly the gala... October 6, 2021. 6-9PM. \n\nBeverly Willis Architecture Foundation
