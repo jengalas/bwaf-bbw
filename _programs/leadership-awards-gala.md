@@ -13,7 +13,7 @@ page_blocks:
     link_url: ''
     link_text: ''
   image:
-  - image: "/v1623952880/Bevy_STD-V2_hgc8hu.png"
+  - image: "/v1625587544/2021_BWAF_Gala_Microsite_v1_Text_BG_mpdiyw.png"
     caption: Save the date for this year's Inaugural BEVY leadership celebration!
   - image: "/v1610940900/BWAF_Gala_2020_The_Berman_Group_Chris_Bacarella_Photography-136_gp8rjc.jpg"
     caption: 6th Annual Leadership Awards Gala, 2020
