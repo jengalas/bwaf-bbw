@@ -89,7 +89,7 @@ page_blocks:
 date: 2021-05-05T13:32:44.000+00:00
 description: Beverly Willis Architecture Foundation brings attention to the work of
   contemporary women in the fields of architecture, landscape architecture, engineering,
-  development and construction. Since 2014, we have done this through a highly respected
+  development and construction. Since 2015, we have done this through a highly respected
   awards program, with the honorees celebrated at an annual gala.
 
 ---
