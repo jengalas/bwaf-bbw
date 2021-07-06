@@ -37,7 +37,7 @@ page_blocks:
     link_text: Download the 2021 sponsorship form
     download: https://www.dropbox.com/s/04kjv5m7xwrl3dg/BWAF%20Bevy%202021_Sponsorship%20Form.pdf?dl=0
     link_url: ''
-  text_block: "Save the date for the 2021 the inaugural BEVY leadership award celebration:
+  text_block: "Save the date for the 2021 the inaugural BEVY Leadership Awards celebration:
     Formerly the gala... October 6, 2021. 6-9PM. \n\nBeverly Willis Architecture Foundation
     brings attention to the work of contemporary women in the fields of architecture,
     landscape architecture, engineering, development and construction. Since 2014,
