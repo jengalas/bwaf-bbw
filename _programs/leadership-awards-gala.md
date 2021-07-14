@@ -8,7 +8,7 @@ page_blocks:
   include_left-hand_column_text_: true
   lefthand_text:
     header_type: Large Header
-    text: Leadership Awards Gala
+    text: Leadership Awards Celebration
     download: ''
     link_url: ''
     link_text: ''
