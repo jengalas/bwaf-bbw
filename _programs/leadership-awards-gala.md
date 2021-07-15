@@ -2,7 +2,7 @@
 layout: innerPage
 navCategory: Programs
 title: Leadership Awards Celebration
-permalink: "/programs/leadership-awards-gala"
+permalink: "/programs/leadership-awards-celebration"
 page_blocks:
 - template: slideshow-block
   include_left-hand_column_text_: true
