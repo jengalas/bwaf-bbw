@@ -83,6 +83,8 @@ pioneering-women:
     Architecture; Kristi Ambrosetti.
 previous-years-header: Additional Programming Support is Generously Provided By
 previous-years:
+- name: Thornton Tomasetti
+  image: "/v1628099307/TT_Logo_sfrylo.jpg"
 - name: New York Building Foundation
   image: "/v1621379817/nybf-logo-450x450_kyhv9k.png"
 - image: "/v1621452344/Screen_Shot_2021-05-19_at_3.25.29_PM_i4nbyo.png"
