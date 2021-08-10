@@ -67,6 +67,47 @@ page_blocks:
   time-location:
     line-1: 'When: Tuesday, September 21, 2021, 6:30-8PM'
     line-2: Virtual Session
+- template: featured-portrait-block
+  header: INTEGRITY
+  image: "/v1628631831/sml_DiMaggio_Peter_headshot_xbhsks.jpg"
+  label: Speaker
+  title: Peter DiMaggio
+  subtitle: Co-CEO, Thornton Tomasetti Inc
+  description: Whether it is in structural design or on the soccer pitch, hear how
+    personal integrity is the core of success from Peter DiMaggio, Co-CEO at Thornton
+    Tomasetti, expert in blast design, and lead engineer on US embassies in Moscow,
+    Berlin and Baghdad.
+  time-location:
+    line-1: 'When: Tuesday, October 26, 2021, 6:30-8PM'
+    line-2: Virtual Session
+  section_break: false
+  include_left-hand_column_text_: false
+  lefthand_text:
+    header_type: ''
+    text: ''
+    download: ''
+    link_url: ''
+    link_text: ''
+  featured-portrait: []
+- template: featured-portrait-block
+  section_break: false
+  include_left-hand_column_text_: false
+  lefthand_text:
+    header_type: ''
+    text: ''
+    download: ''
+    link_url: ''
+    link_text: ''
+  featured-portrait: []
+  header: ''
+  image: ''
+  label: ''
+  title: ''
+  subtitle: ''
+  description: ''
+  time-location:
+    line-1: ''
+    line-2: ''
 published: false
 
 ---
