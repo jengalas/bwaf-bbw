@@ -60,10 +60,13 @@ page_blocks:
   label: Speaker
   title: Katherine Chia, FAIA
   subtitle: Founding Principal
-  description: ''
+  description: Follow the dynamic career of Katherine Chia, Founding Principal of
+    Desai Chia Architecture, who has turned her creativity to collaborations with
+    artists, product design, and being a design award winning architect. Cultivate
+    your imagination, and channel it into success.
   time-location:
-    line-1: ''
-    line-2: ''
+    line-1: 'When: Tuesday, September 21, 2021, 6:30-8PM'
+    line-2: Virtual Session
 published: false
 
 ---
