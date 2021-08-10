@@ -31,7 +31,7 @@ page_blocks:
     link_text: ''
   section_break: false
   alt_text: ''
-  image_caption_text: ''
+  image_caption_text: Apply now for the Fall Emerging Leaders Program!
 published: false
 
 ---
