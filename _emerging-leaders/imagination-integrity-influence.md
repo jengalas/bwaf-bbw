@@ -99,15 +99,19 @@ page_blocks:
     link_url: ''
     link_text: ''
   featured-portrait: []
-  header: ''
-  image: ''
-  label: ''
-  title: ''
-  subtitle: ''
-  description: ''
+  header: INFLUENCE
+  image: "/v1628631986/IMG_0067_muzw8m.jpg"
+  label: Speaker
+  title: Diana Zakem
+  subtitle: Director, Construction, Brookfield Properties US Division
+  description: In this time of "influencers" how do we separate the sound from the
+    noise? What is really influencing your career decisions? Join Diana Zakem, Director,
+    Construction, US Division at Brookfield Properties, an alumna of the first class
+    of Emerging Leaders, to hear how The Knitting Club casual get togethers have expanded
+    her influence.
   time-location:
-    line-1: ''
-    line-2: ''
+    line-1: 'When: Tuesday November 16, 2021, 6:30-8PM'
+    line-2: Virtual Session
 published: false
 
 ---
