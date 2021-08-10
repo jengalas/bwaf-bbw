@@ -46,7 +46,7 @@ page_blocks:
     link_text: ''
   section_break: true
 - template: featured-portrait-block
-  header: Katherine Chia
+  header: IMAGINATION
   image: "/v1628631129/_KC-CROPPED_vdb1wc.jpg"
   section_break: false
   include_left-hand_column_text_: false
@@ -57,9 +57,9 @@ page_blocks:
     link_url: ''
     link_text: ''
   featured-portrait: []
-  label: ''
-  title: ''
-  subtitle: ''
+  label: Speaker
+  title: Katherine Chia, FAIA
+  subtitle: Founding Principal
   description: ''
   time-location:
     line-1: ''
