@@ -32,6 +32,19 @@ page_blocks:
   section_break: false
   alt_text: ''
   image_caption_text: Apply now for the Fall Emerging Leaders Program!
+- template: text-block
+  text_block: In response to the coronavirus outbreak and federal guidance on gatherings,
+    the 2020 and current 2021 Emerging Leaders programs are being hosted as virtual
+    sessions with  inspirational speakers, and limited to 20 participants. We are
+    offering the program at a reduced cost for the selected participants.
+  include_left-hand_column_text_: true
+  lefthand_text:
+    header_type: Medium Header
+    text: Imagination, Integrity, Influence
+    download: ''
+    link_url: ''
+    link_text: ''
+  section_break: false
 published: false
 
 ---
