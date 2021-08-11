@@ -36,10 +36,10 @@ page_blocks:
   lefthand_text:
     header_type: Medium Header
     text: Perseverance, Politics, Power
-  text_block: In response to the coronavirus outbreak and federal guidance on gatherings,
+  text_block: "In response to the coronavirus outbreak and federal guidance on gatherings,
     the 2020 and current 2021 Emerging Leaders programs are being hosted as virtual
-    sessions with  inspirational speakers, and limited to 20 participants. We are
-    offering the program at a reduced cost for the selected participants.
+    sessions with  inspirational speakers, and limited to 20 participants. \nWe are
+    offering the program at a reduced cost for the selected participants."
 - template: portrait-gallery-block-small
   header: Meet the Spring 2021 Emerging Leaders Program participants
   portrait:
