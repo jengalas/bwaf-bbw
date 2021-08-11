@@ -10,7 +10,7 @@ page_blocks:
 - template: text-block
   include_left-hand_column_text_: true
   lefthand_text:
-    text: Imagination, Integrity, Influence
+    text: Emerging Leaders
     header_type: Large Header
     download: ''
     link_url: ''
