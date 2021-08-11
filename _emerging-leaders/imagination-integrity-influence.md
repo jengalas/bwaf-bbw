@@ -112,6 +112,5 @@ page_blocks:
   time-location:
     line-1: 'When: Tuesday November 16, 2021, 6:30-8PM'
     line-2: Virtual Session
-published: false
 
 ---
