@@ -1,6 +1,6 @@
 ---
 layout: innerPage
-date: 2021-08-10 21:22:47 +0000
+date: 2021-08-11 16:11:47 +0000
 navCategory: ''
 title: Imagination, Integrity, Influence
 description: Beverly Willis Architecture Foundation Emerging Leaders program is a
