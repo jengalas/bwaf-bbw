@@ -33,7 +33,7 @@ page_blocks:
     link_text: ''
   section_break: false
   alt_text: ''
-  image_caption_text: Apply now for the Fall Emerging Leaders Program!
+  image_caption_text: ''
 - template: text-block
   text_block: "In response to the coronavirus outbreak and federal guidance on gatherings,
     the 2020 and current 2021 Emerging Leaders programs are being hosted as virtual
