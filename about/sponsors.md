@@ -83,6 +83,8 @@ pioneering-women:
     Architecture; Kristi Ambrosetti.
 previous-years-header: Additional Programming Support is Generously Provided By
 previous-years:
+- image: "/v1629124128/Screen_Shot_2021-08-16_at_10.04.59_AM_eavjeu.png"
+  name: Brookfield Properties
 - name: Thornton Tomasetti
   image: "/v1628099307/TT_Logo_sfrylo.jpg"
 - name: New York Building Foundation
