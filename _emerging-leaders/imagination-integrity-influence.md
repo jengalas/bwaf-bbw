@@ -24,8 +24,8 @@ page_blocks:
   include_left-hand_column_text_: true
   lefthand_text:
     header_type: Link
-    text: 'Download the application form '
-    link_url: https://www.dropbox.com/s/ja11mko5ayohi1s/BWAF%202021%20Fall%20Emerging%20Leaders%20Program%20Form.docx?dl=0
+    text: Applications for the Fall program are now closed.
+    link_url: ''
     download: ''
     link_text: ''
   section_break: false
