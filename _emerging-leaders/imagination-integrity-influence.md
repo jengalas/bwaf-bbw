@@ -47,7 +47,7 @@ page_blocks:
 - template: portrait-gallery-block-small
   portrait:
   - title: Caitlin Brady
-    title_role: Project Architect
+    title_role: Project Architect, RMW Architecture and Interiors
     image: "/v1632753674/brady_sml_rdhlvk.jpg"
   section_break: false
   include_left-hand_column_text_: false
