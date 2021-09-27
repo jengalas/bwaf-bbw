@@ -46,9 +46,9 @@ page_blocks:
   section_break: true
 - template: portrait-gallery-block-small
   portrait:
-  - title: ''
-    title_role: ''
-    image: ''
+  - title: Christine McPhee
+    title_role: Senior Project Engineer, Thornton Tomasetti
+    image: "/v1632754047/mcphee_sml_ekfvao.jpg"
   - title: Torrey Law
     title_role: Senior Associate, Cooper Carry
     image: "/v1632753986/law_sml_z0clnu.png"
