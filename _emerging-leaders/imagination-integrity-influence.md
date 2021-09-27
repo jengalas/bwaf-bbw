@@ -46,6 +46,9 @@ page_blocks:
   section_break: true
 - template: portrait-gallery-block-small
   portrait:
+  - title: Jessica Way
+    title_role: Senior Graphic Designer, JB&B
+    image: "/v1632754238/way_sml_tsrhjo.jpg"
   - title: Tammie Schneider
     title_role: Project Engineer, JB&B
     image: "/v1632754187/Untitled_sgbdku.jpg"
