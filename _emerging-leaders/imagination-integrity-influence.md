@@ -46,6 +46,9 @@ page_blocks:
   section_break: true
 - template: portrait-gallery-block-small
   portrait:
+  - title: Valerie Haase
+    title_role: Associate, Cooper Carry
+    image: "/v1632753919/haase_sml_y3mdej.jpg"
   - title: Kelly Finzel
     title_role: Senior Fire Engineer, Arup
     image: "/v1632753854/Finzel_Kelly-2_owvtxt.jpg"
