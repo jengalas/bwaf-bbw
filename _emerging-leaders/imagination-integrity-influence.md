@@ -46,6 +46,9 @@ page_blocks:
   section_break: true
 - template: portrait-gallery-block-small
   portrait:
+  - title: Monica Zahm
+    title_role: Associate, JB&B
+    image: "/v1632754293/zahm_sml_sdubgl.jpg"
   - title: Jessica Way
     title_role: Senior Graphic Designer, JB&B
     image: "/v1632754238/way_sml_tsrhjo.jpg"
