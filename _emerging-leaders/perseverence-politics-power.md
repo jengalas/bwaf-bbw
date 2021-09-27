@@ -18,18 +18,6 @@ page_blocks:
     women in architecture, engineering, construction, real estate, law, and financial
     services to advance their own career goals. Participants share common experiences
     and trade personal strategies for success.
-- template: image-block
-  include_left-hand_column_text_: true
-  lefthand_text:
-    header_type: Text with Download
-    text: Applications for the Spring program are now closed.
-    download: "/"
-    link_url: ''
-    link_text: ''
-  image: "/v1610938706/Un2iW_Pg_t68z8j.jpg"
-  alt_text: 2019 Emerging Leaders Program participants, SOM offices, New York City
-  image_caption_text: 2019 Emerging Leaders Program participants, SOM offices, New
-    York City
 - template: text-block
   section_break: true
   include_left-hand_column_text_: true
