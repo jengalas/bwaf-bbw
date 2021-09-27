@@ -46,6 +46,12 @@ page_blocks:
   section_break: true
 - template: portrait-gallery-block-small
   portrait:
+  - title: ''
+    title_role: ''
+    image: ''
+  - title: Torrey Law
+    title_role: Senior Associate, Cooper Carry
+    image: "/v1632753986/law_sml_z0clnu.png"
   - title: Valerie Haase
     title_role: Associate, Cooper Carry
     image: "/v1632753919/haase_sml_y3mdej.jpg"
