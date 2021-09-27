@@ -44,6 +44,20 @@ page_blocks:
     link_url: ''
     link_text: ''
   section_break: true
+- template: portrait-gallery-block-small
+  portrait:
+  - title: Caitlin Brady
+    title_role: Project Architect
+    image: "/v1632753674/brady_sml_rdhlvk.jpg"
+  section_break: false
+  include_left-hand_column_text_: false
+  lefthand_text:
+    header_type: ''
+    text: ''
+    download: ''
+    link_url: ''
+    link_text: ''
+  header: ''
 - template: featured-portrait-block
   header: IMAGINATION
   image: "/v1628631129/_KC-CROPPED_vdb1wc.jpg"
