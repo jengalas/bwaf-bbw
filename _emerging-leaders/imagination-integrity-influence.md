@@ -46,6 +46,9 @@ page_blocks:
   section_break: true
 - template: portrait-gallery-block-small
   portrait:
+  - title: Kelly Finzel
+    title_role: Senior Fire Engineer, Arup
+    image: "/v1632753854/Finzel_Kelly-2_owvtxt.jpg"
   - title: Caitlin Brady
     title_role: Project Architect, RMW Architecture and Interiors
     image: "/v1632753674/brady_sml_rdhlvk.jpg"
