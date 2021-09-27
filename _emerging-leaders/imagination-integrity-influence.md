@@ -46,33 +46,33 @@ page_blocks:
   section_break: true
 - template: portrait-gallery-block-small
   portrait:
-  - title: Monica Zahm
-    title_role: Associate, JB&B
-    image: "/v1632754293/zahm_sml_sdubgl.jpg"
-  - title: Jessica Way
-    title_role: Senior Graphic Designer, JB&B
-    image: "/v1632754238/way_sml_tsrhjo.jpg"
-  - title: Tammie Schneider
-    title_role: Project Engineer, JB&B
-    image: "/v1632754187/Untitled_sgbdku.jpg"
-  - title: Christine Ostermier
-    title_role: Principal, Ostermier Architecture
-    image: "/v1632754109/Untitled_kflu0r.jpg"
-  - title: Christine McPhee
-    title_role: Senior Project Engineer, Thornton Tomasetti
-    image: "/v1632754047/mcphee_sml_ekfvao.jpg"
-  - title: Torrey Law
-    title_role: Senior Associate, Cooper Carry
-    image: "/v1632753986/law_sml_z0clnu.png"
-  - title: Valerie Haase
-    title_role: Associate, Cooper Carry
-    image: "/v1632753919/haase_sml_y3mdej.jpg"
-  - title: Kelly Finzel
-    title_role: Senior Fire Engineer, Arup
-    image: "/v1632753854/Finzel_Kelly-2_owvtxt.jpg"
   - title: Caitlin Brady
     title_role: Project Architect, RMW Architecture and Interiors
     image: "/v1632753674/brady_sml_rdhlvk.jpg"
+  - title: Kelly Finzel
+    title_role: Senior Fire Engineer, Arup
+    image: "/v1632753854/Finzel_Kelly-2_owvtxt.jpg"
+  - title: Valerie Haase
+    title_role: Associate, Cooper Carry
+    image: "/v1632753919/haase_sml_y3mdej.jpg"
+  - title: Torrey Law
+    title_role: Senior Associate, Cooper Carry
+    image: "/v1632753986/law_sml_z0clnu.png"
+  - title: Christine McPhee
+    title_role: Senior Project Engineer, Thornton Tomasetti
+    image: "/v1632754047/mcphee_sml_ekfvao.jpg"
+  - title: Christine Ostermier
+    title_role: Principal, Ostermier Architecture
+    image: "/v1632754109/Untitled_kflu0r.jpg"
+  - title: Tammie Schneider
+    title_role: Project Engineer, JB&B
+    image: "/v1632754187/Untitled_sgbdku.jpg"
+  - title: Jessica Way
+    title_role: Senior Graphic Designer, JB&B
+    image: "/v1632754238/way_sml_tsrhjo.jpg"
+  - title: Monica Zahm
+    title_role: Associate, JB&B
+    image: "/v1632754293/zahm_sml_sdubgl.jpg"
   section_break: false
   include_left-hand_column_text_: false
   lefthand_text:
