@@ -46,6 +46,9 @@ page_blocks:
   section_break: true
 - template: portrait-gallery-block-small
   portrait:
+  - title: Tammie Schneider
+    title_role: Project Engineer, JB&B
+    image: "/v1632754187/Untitled_sgbdku.jpg"
   - title: Christine Ostermier
     title_role: Principal, Ostermier Architecture
     image: "/v1632754109/Untitled_kflu0r.jpg"
