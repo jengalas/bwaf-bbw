@@ -46,6 +46,9 @@ page_blocks:
   section_break: true
 - template: portrait-gallery-block-small
   portrait:
+  - title: Allison Lane
+    title_role: Project Manager; Architect, AECOM
+    image: "/v1632864803/sml_Lane_hib6rt.jpg"
   - title: Lindsey Judge
     title_role: Design Engineer, LERA Consulting Structural Engineers
     image: "/v1632864530/Lindsey_Judge_uewafz.jpg"
