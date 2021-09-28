@@ -46,6 +46,9 @@ page_blocks:
   section_break: true
 - template: portrait-gallery-block-small
   portrait:
+  - title: Lindsey Judge
+    title_role: Design Engineer, LERA Consulting Structural Engineers
+    image: "/v1632864530/Lindsey_Judge_uewafz.jpg"
   - title: Caitlin Brady
     title_role: Project Architect, RMW Architecture and Interiors
     image: "/v1632753674/brady_sml_rdhlvk.jpg"
