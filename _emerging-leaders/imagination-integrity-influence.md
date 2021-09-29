@@ -46,21 +46,9 @@ page_blocks:
   section_break: true
 - template: portrait-gallery-block-small
   portrait:
-  - title: Chrissy Perez
-    title_role: Project Architect, Cooper Carry
-    image: "/v1632927585/sml_perez_vna94w.jpg"
-  - title: Elizabeth Madden
-    title_role: Project Architect, Cooper Carry
-    image: "/v1632927367/madden_sml_iqtj1g.jpg"
-  - title: Makenzie Leukart
-    title_role: Intermediate Architect, Marvel
-    image: "/v1632927136/sml_leukart_lbb9ef.jpg"
-  - title: Allison Lane
-    title_role: Project Manager; Architect, AECOM
-    image: "/v1632864803/sml_Lane_hib6rt.jpg"
-  - title: Lindsey Judge
-    title_role: Design Engineer, LERA Consulting Structural Engineers
-    image: "/v1632864530/Lindsey_Judge_uewafz.jpg"
+  - title: Jennifer Fitzpatrick
+    title_role: Associate, Robert A.M. Stern Architects
+    image: "/v1632927951/fitzpatrick_sml_lmspej.jpg"
   - title: Caitlin Brady
     title_role: Project Architect, RMW Architecture and Interiors
     image: "/v1632753674/brady_sml_rdhlvk.jpg"
@@ -70,15 +58,30 @@ page_blocks:
   - title: Valerie Haase
     title_role: Associate, Cooper Carry
     image: "/v1632753919/haase_sml_y3mdej.jpg"
+  - title: Lindsey Judge
+    title_role: Design Engineer, LERA Consulting Structural Engineers
+    image: "/v1632864530/Lindsey_Judge_uewafz.jpg"
+  - title: Allison Lane
+    title_role: Project Manager; Architect, AECOM
+    image: "/v1632864803/sml_Lane_hib6rt.jpg"
   - title: Torrey Law
     title_role: Senior Associate, Cooper Carry
     image: "/v1632753986/law_sml_z0clnu.png"
+  - title: Makenzie Leukart
+    title_role: Intermediate Architect, Marvel
+    image: "/v1632927136/sml_leukart_lbb9ef.jpg"
+  - title: Elizabeth Madden
+    title_role: Project Architect, Cooper Carry
+    image: "/v1632927367/madden_sml_iqtj1g.jpg"
   - title: Christine McPhee
     title_role: Senior Project Engineer, Thornton Tomasetti
     image: "/v1632754047/mcphee_sml_ekfvao.jpg"
   - title: Christine Ostermier
     title_role: Principal, Ostermier Architecture
     image: "/v1632754109/Untitled_kflu0r.jpg"
+  - title: Chrissy Perez
+    title_role: Project Architect, Cooper Carry
+    image: "/v1632927585/sml_perez_vna94w.jpg"
   - title: Tammie Schneider
     title_role: Project Engineer, JB&B
     image: "/v1632754187/Untitled_sgbdku.jpg"
