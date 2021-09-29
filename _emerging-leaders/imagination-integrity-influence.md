@@ -66,7 +66,7 @@ page_blocks:
     image: "/v1632753674/brady_sml_rdhlvk.jpg"
   - title: Kelly Finzel
     title_role: Senior Fire Engineer, Arup
-    image: "/v1632753854/Finzel_Kelly-2_owvtxt.jpg"
+    image: "/v1632927698/finzel_sml_k1xc1p.jpg"
   - title: Valerie Haase
     title_role: Associate, Cooper Carry
     image: "/v1632753919/haase_sml_y3mdej.jpg"
