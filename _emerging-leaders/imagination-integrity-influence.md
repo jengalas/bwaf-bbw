@@ -23,7 +23,7 @@ page_blocks:
   image: "/v1628630816/III-Card_Draft12_pwarhf.jpg"
   include_left-hand_column_text_: true
   lefthand_text:
-    header_type: Link
+    header_type: Medium Header
     text: Applications for the Fall program are now closed.
     link_url: ''
     download: ''
