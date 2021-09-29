@@ -46,6 +46,9 @@ page_blocks:
   section_break: true
 - template: portrait-gallery-block-small
   portrait:
+  - title: Makenzie Leukart
+    title_role: Intermediate Architect, Marvel
+    image: "/v1632927136/sml_leukart_lbb9ef.jpg"
   - title: Allison Lane
     title_role: Project Manager; Architect, AECOM
     image: "/v1632864803/sml_Lane_hib6rt.jpg"
