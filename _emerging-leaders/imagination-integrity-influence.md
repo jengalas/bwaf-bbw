@@ -46,6 +46,9 @@ page_blocks:
   section_break: true
 - template: portrait-gallery-block-small
   portrait:
+  - title: Ashwini Rangaraju
+    title_role: Senior Designer, Thornton Tomasetti
+    image: "/v1632931264/sml_rangaraju_wsqd4e.jpg"
   - title: Jennifer Fitzpatrick
     title_role: Associate, Robert A.M. Stern Architects
     image: "/v1632927951/fitzpatrick_sml_lmspej.jpg"
