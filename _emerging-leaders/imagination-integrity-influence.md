@@ -46,6 +46,9 @@ page_blocks:
   section_break: true
 - template: portrait-gallery-block-small
   portrait:
+  - title: Chrissy Perez
+    title_role: Project Architect, Cooper Carry
+    image: "/v1632927585/sml_perez_vna94w.jpg"
   - title: Elizabeth Madden
     title_role: Project Architect, Cooper Carry
     image: "/v1632927367/madden_sml_iqtj1g.jpg"
