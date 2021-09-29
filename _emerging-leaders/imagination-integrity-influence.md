@@ -46,18 +46,15 @@ page_blocks:
   section_break: true
 - template: portrait-gallery-block-small
   portrait:
-  - title: Ashwini Rangaraju
-    title_role: Senior Designer, Thornton Tomasetti
-    image: "/v1632931264/sml_rangaraju_wsqd4e.jpg"
-  - title: Jennifer Fitzpatrick
-    title_role: Associate, Robert A.M. Stern Architects
-    image: "/v1632927951/fitzpatrick_sml_lmspej.jpg"
   - title: Caitlin Brady
     title_role: Project Architect, RMW Architecture and Interiors
     image: "/v1632753674/brady_sml_rdhlvk.jpg"
   - title: Kelly Finzel
     title_role: Senior Fire Engineer, Arup
     image: "/v1632927698/finzel_sml_k1xc1p.jpg"
+  - title: Jennifer Fitzpatrick
+    title_role: Associate, Robert A.M. Stern Architects
+    image: "/v1632927951/fitzpatrick_sml_lmspej.jpg"
   - title: Valerie Haase
     title_role: Associate, Cooper Carry
     image: "/v1632753919/haase_sml_y3mdej.jpg"
@@ -85,6 +82,9 @@ page_blocks:
   - title: Chrissy Perez
     title_role: Project Architect, Cooper Carry
     image: "/v1632927585/sml_perez_vna94w.jpg"
+  - title: Ashwini Rangaraju
+    title_role: Senior Designer, Thornton Tomasetti
+    image: "/v1632931264/sml_rangaraju_wsqd4e.jpg"
   - title: Tammie Schneider
     title_role: Project Engineer, JB&B
     image: "/v1632754187/Untitled_sgbdku.jpg"
