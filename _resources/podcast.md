@@ -31,12 +31,12 @@ page_blocks:
     link_text: ''
 - template: text-block
   section_break: false
-  include_left-hand_column_text_: false
+  include_left-hand_column_text_: true
   lefthand_text:
-    header_type: ''
-    text: ''
+    header_type: Link
+    text: 'Preview the first episode: Finding Julia Morgan'
     download: ''
-    link_url: ''
+    link_url: https://traffic.libsyn.com/secure/bwafnewanglevoice/01_New_Angle_Voice_Finding_Julia_Morgan_20210921.mp3
     link_text: ''
   text_block: "Enjoy hands free, the scholarly effort that brings Pioneering Women
     of American Architecture to the internet, through your headphones... Hear from
@@ -48,5 +48,6 @@ description: "\"Why aren't women in the history books?\"  \nSince 2002, Beverly 
   Architecture Foundation has worked to remedy this egregious omission, through research,
   creating websites, making short films, and now... a podcast. Welcome to New Angle:
   Voice. "
+date: 
 
 ---
