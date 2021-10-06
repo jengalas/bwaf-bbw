@@ -44,7 +44,8 @@ page_blocks:
     architect coming up in the early 20th century. Imagine sitting with these pioneering
     women, who opened up the magic of the built environment professions to all who
     had the gifts, grit and persistence to endure. \n\nEpisode 1, Finding Julia Morgan,
-    is now available. Listen now on Spotify, Apple Podcasts, on Android, and here!"
+    is now available. Listen to New Angle: Voice now on Spotify, Apple Podcasts, on
+    Android, and here!"
 description: "\"Why aren't women in the history books?\"  \nSince 2002, Beverly Willis
   Architecture Foundation has worked to remedy this egregious omission, through research,
   creating websites, making short films, and now... a podcast. Welcome to New Angle:
