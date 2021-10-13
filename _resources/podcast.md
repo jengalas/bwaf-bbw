@@ -31,12 +31,12 @@ page_blocks:
     link_text: ''
 - template: text-block
   section_break: false
-  include_left-hand_column_text_: false
+  include_left-hand_column_text_: true
   lefthand_text:
     header_type: Link
-    text: 'Subscribe to New Angle: Voice'
+    text: 'Sponsor New Angle: Voice'
     download: ''
-    link_url: bwafnewanglevoice.libsyn.com/rss
+    link_url: https://www.dropbox.com/s/l1an49030j9ym2w/BWAF%20PodcastNewAngle_Pitch%20Sheet.pdf?dl=0
     link_text: ''
   text_block: "Enjoy hands free, the scholarly effort that brings Pioneering Women
     of American Architecture to the internet, through your headphones... Hear from
