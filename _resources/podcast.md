@@ -63,6 +63,6 @@ description: "\"Why aren't women in the history books?\"  \nSince 2002, Beverly 
   Architecture Foundation has worked to remedy this egregious omission, through research,
   creating websites, making short films, and now... a podcast. Welcome to New Angle:
   Voice. "
-date: 
+date: 2021-10-13 00:00:00 +0000
 
 ---
