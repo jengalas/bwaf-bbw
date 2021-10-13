@@ -31,7 +31,7 @@ page_blocks:
     link_text: ''
 - template: text-block
   section_break: false
-  include_left-hand_column_text_: true
+  include_left-hand_column_text_: false
   lefthand_text:
     header_type: Link
     text: 'Subscribe to New Angle: Voice'
