@@ -49,34 +49,29 @@ page_blocks:
 - template: text-block
   include_left-hand_column_text_: true
   lefthand_text:
-    header_type: Text with Download
-    text: Support the Foundation by becoming a Bevy sponsor
+    header_type: Link
+    text: 2021 BEVY Sponsors and Event Photos
     link_text: Download the 2021 sponsorship form
     download: https://www.dropbox.com/s/04kjv5m7xwrl3dg/BWAF%20Bevy%202021_Sponsorship%20Form.pdf?dl=0
-    link_url: ''
-  text_block: "Tickets and Sponsorship Opportunities are open for 2021 the inaugural
-    BEVY Leadership Awards celebration: Formerly the gala... October 6, 2021. 6-9PM.
-    \n\n**The 2021 event will be held in an open-sided covered patio in the garden
-    at Bryant Park Grill. We will be following all vaccine mandates from the City
-    and State, and will be following all protocols issued by the venue. Additional
-    communication on protocols will be issued as the event nears. We are committed
-    to holding a safe and enjoyable event. Please email ckracauer@bwaf.org if you
-    have specific questions.**\n\nBeverly Willis Architecture Foundation brings attention
-    to the work of contemporary women in the fields of architecture, landscape architecture,
-    engineering, development and construction. Since 2014, we have done this through
-    a highly respected awards program, with the honorees celebrated at an annual gala.\n\nEach
-    year an event Chair is selected by the Board to head up the selection of the annual
-    honorees. Names put forth for consideration are presented by the Committee to
-    the Executive Committee of the Board of Trustees for consideration by the full
-    board. In addition to names put forth by our constituency, the Committee seeks
-    to identify women who may not yet have come to the attention of the general public
-    for recognition. We are interested in scholarship, professional distinction, journalism,
-    corporate achievement, and impact in the advancement of women in the building
-    industry.\n\nThe event is our major fundraising event, and is responsible for
-    a significant portion of our annual operating expense. It is a unique event within
-    our industry—A special evening of friends, family, and professional colleagues
-    provides an opportunity to expand contacts and demonstrate that networking with
-    women is good business."
+    link_url: http://gala.bwaf.org/2021-sponsors/
+  text_block: "Thank you to all who attended and supported the Inaugural BEVY Leadership
+    Awards Celebration on October 6, 2021! For a list of sponsors and a gallery of
+    photos of the event, click the link to the left of this paragraph. \n\nBeverly
+    Willis Architecture Foundation brings attention to the work of contemporary women
+    in the fields of architecture, landscape architecture, engineering, development
+    and construction. Since 2014, we have done this through a highly respected awards
+    program, with the honorees celebrated at an annual gala.\n\nEach year an event
+    Chair is selected by the Board to head up the selection of the annual honorees.
+    Names put forth for consideration are presented by the Committee to the Executive
+    Committee of the Board of Trustees for consideration by the full board. In addition
+    to names put forth by our constituency, the Committee seeks to identify women
+    who may not yet have come to the attention of the general public for recognition.
+    We are interested in scholarship, professional distinction, journalism, corporate
+    achievement, and impact in the advancement of women in the building industry.\n\nThe
+    event is our major fundraising event, and is responsible for a significant portion
+    of our annual operating expense. It is a unique event within our industry—A special
+    evening of friends, family, and professional colleagues provides an opportunity
+    to expand contacts and demonstrate that networking with women is good business."
   section_break: false
 - template: text-block
   section_break: true
