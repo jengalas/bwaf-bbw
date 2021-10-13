@@ -29,6 +29,8 @@ page_blocks:
     caption: Inaugural BEVY Leadership Awards Celebration, October 6, 2021
   - image: "/v1634144333/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-161_vbqavh.jpg"
     caption: Inaugural BEVY Leadership Awards Celebration, October 6, 2021
+  - image: "/v1634144367/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-168_vahnsq.jpg"
+    caption: Inaugural BEVY Leadership Awards Celebration, October 6, 2021
   section_break: false
 - template: text-block
   include_left-hand_column_text_: true
