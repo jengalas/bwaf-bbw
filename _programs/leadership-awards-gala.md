@@ -21,8 +21,8 @@ page_blocks:
     caption: Inaugural BEVY Leadership Awards Celebration, October 6, 2021
   - image: "/v1634144135/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-118_afmfw8.jpg"
     caption: Inaugural BEVY Leadership Awards Celebration, October 6, 2021
-  - image: "/v1610940811/BWAF_Gala_2020_The_Berman_Group_Chris_Bacarella_Photography-29_hhu42k.jpg"
-    caption: 6th Annual Leadership Awards Gala, 2020
+  - image: "/v1634144164/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-147_w6tht7.jpg"
+    caption: Inaugural BEVY Leadership Awards Celebration, October 6, 2021
   - image: "/v1610940789/BWAF_Gala_2020_The_Berman_Group_Chris_Bacarella_Photography-26_ohkwe0.jpg"
     caption: 6th Annual Leadership Awards Gala, 2020
   - image: "/v1610940736/BWAF_Gala_2020_The_Berman_Group_Chris_Bacarella_Photography-21_ktx20r.jpg"
