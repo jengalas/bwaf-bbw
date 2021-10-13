@@ -45,7 +45,9 @@ page_blocks:
     women, who opened up the magic of the built environment professions to all who
     had the gifts, grit and persistence to endure. \n\nEpisode 1, Finding Julia Morgan,
     is now available. Listen to New Angle: Voice now on Spotify, Apple Podcasts, on
-    Android, and here!"
+    Android, and here!\n\n<iframe title=\"Libsyn Player\" style=\"border: none\" src=\"//html5-player.libsyn.com/embed/episode/id/20703401/height/75/theme/legacy/thumbnail/no/direction/backward/\"
+    height=\"75\" width=\"100%\" scrolling=\"no\"  allowfullscreen webkitallowfullscreen
+    mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>"
 - template: text-block
   section_break: false
   include_left-hand_column_text_: true
