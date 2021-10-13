@@ -17,9 +17,8 @@ page_blocks:
     caption: Inaugural BEVY Leadership Awards Celebration, October 6, 2021
   - image: "/v1634144042/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-24_wwmoap.jpg"
     caption: Inaugural BEVY Leadership Awards Celebration, October 6, 2021
-  - image: "/v1610940879/BWAF_Gala_2020_The_Berman_Group_Chris_Bacarella_Photography-104_brv2jb.jpg"
-    caption: Dr. Sharon Sutton, Oculus Award Recipient, 6th Annual Leadership Awards
-      Gala, 2020
+  - image: "/v1634144090/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-33_e8kolw.jpg"
+    caption: Inaugural BEVY Leadership Awards Celebration, October 6, 2021
   - image: "/v1610940787/BWAF_Gala_2020_The_Berman_Group_Chris_Bacarella_Photography-22_jxjejm.jpg"
     caption: Honorees and Trustees, 6th Annual Leadership Awards Gala, 2020
   - image: "/v1610940811/BWAF_Gala_2020_The_Berman_Group_Chris_Bacarella_Photography-29_hhu42k.jpg"
