@@ -47,7 +47,13 @@ page_blocks:
     is now available. Listen to New Angle: Voice now on Spotify, Apple Podcasts, on
     Android, and here!\n\n<iframe title=\"Libsyn Player\" style=\"border: none\" src=\"//html5-player.libsyn.com/embed/episode/id/20703401/height/75/theme/legacy/thumbnail/no/direction/backward/\"
     height=\"75\" width=\"100%\" scrolling=\"no\"  allowfullscreen webkitallowfullscreen
-    mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>"
+    mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>\n\nSpecial thanks
+    in this episode to Brandi Howell, Alexandra Lange, Julia Donoho, Karen McNeill,
+    Victoria Kastner, Karen Fiene, Justin Hoover, Amy Hart and Jim Parks, Laura Sorvetti,
+    Mark Wilson, and Aislinn McNamara. The archival audio of Sara Holmes Boutelle
+    is from Boutelle's Julia Morgan collection at the Special Collections and Archives,
+    Cal Poly University, San Luis Obispo.\n\nNew Angle: Voice is produced by Beverly
+    Willis Architecture Foundation. Your host is Cynthia Phifer Kracauer, AIA.  "
 description: "\"Why aren't women in the history books?\"  \nSince 2002, Beverly Willis
   Architecture Foundation has worked to remedy this egregious omission, through research,
   creating websites, making short films, and now... a podcast. Welcome to New Angle:
