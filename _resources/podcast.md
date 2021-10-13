@@ -34,9 +34,9 @@ page_blocks:
   include_left-hand_column_text_: true
   lefthand_text:
     header_type: Link
-    text: 'Preview the first episode: Finding Julia Morgan'
+    text: 'Subscribe to New Angle: Voice'
     download: ''
-    link_url: https://traffic.libsyn.com/secure/bwafnewanglevoice/01_New_Angle_Voice_Finding_Julia_Morgan_20210921.mp3
+    link_url: bwafnewanglevoice.libsyn.com/rss
     link_text: ''
   text_block: "Enjoy hands free, the scholarly effort that brings Pioneering Women
     of American Architecture to the internet, through your headphones... Hear from
