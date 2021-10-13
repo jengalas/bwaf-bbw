@@ -48,19 +48,6 @@ page_blocks:
     Android, and here!\n\n<iframe title=\"Libsyn Player\" style=\"border: none\" src=\"//html5-player.libsyn.com/embed/episode/id/20703401/height/75/theme/legacy/thumbnail/no/direction/backward/\"
     height=\"75\" width=\"100%\" scrolling=\"no\"  allowfullscreen webkitallowfullscreen
     mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>"
-- template: text-block
-  section_break: false
-  include_left-hand_column_text_: true
-  lefthand_text:
-    header_type: Link
-    text: Listen Now
-    download: ''
-    link_text: ''
-    link_url: ''
-  text_block: |-
-    Episode 1, Finding Julia Morgan, is now available. Listen to New Angle: Voice now on Spotify, Apple Podcasts, on Android, and here!
-
-    <iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/20703401/height/360/theme/standard/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 description: "\"Why aren't women in the history books?\"  \nSince 2002, Beverly Willis
   Architecture Foundation has worked to remedy this egregious omission, through research,
   creating websites, making short films, and now... a podcast. Welcome to New Angle:
