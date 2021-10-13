@@ -51,8 +51,8 @@ page_blocks:
     mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>\n\n\nSpecial thanks
     in this episode to Brandi Howell, Alexandra Lange, Julia Donoho, Karen McNeill,
     Victoria Kastner, Karen Fiene, Justin Hoover, Amy Hart and Jim Parks, Laura Sorvetti,
-    Mark Wilson, and Aislinn McNamara. The archival audio of Sara Holmes Boutelle
-    is from Boutelle's Julia Morgan collection at the Special Collections and Archives,
+    Mark Wilson, and Aislinn McNamara. Archival audio of Sara Holmes Boutelle is from
+    Sara Holmes Boutelle's Julia Morgan papers at Special Collections and Archives,
     Cal Poly University, San Luis Obispo.\n\nNew Angle: Voice is produced by Beverly
     Willis Architecture Foundation. Your host is Cynthia Phifer Kracauer, AIA.  "
 description: "\"Why aren't women in the history books?\"  \nSince 2002, Beverly Willis
