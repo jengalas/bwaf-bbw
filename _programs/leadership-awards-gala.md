@@ -54,24 +54,14 @@ page_blocks:
     link_text: Download the 2021 sponsorship form
     download: https://www.dropbox.com/s/04kjv5m7xwrl3dg/BWAF%20Bevy%202021_Sponsorship%20Form.pdf?dl=0
     link_url: http://gala.bwaf.org/2021-sponsors/
-  text_block: "Thank you to all who attended and supported the Inaugural BEVY Leadership
-    Awards Celebration on October 6, 2021! For a list of sponsors and a gallery of
-    photos of the event, click the link to the left of this paragraph. \n\nBeverly
-    Willis Architecture Foundation brings attention to the work of contemporary women
-    in the fields of architecture, landscape architecture, engineering, development
-    and construction. Since 2014, we have done this through a highly respected awards
-    program, with the honorees celebrated at an annual gala.\n\nEach year an event
-    Chair is selected by the Board to head up the selection of the annual honorees.
-    Names put forth for consideration are presented by the Committee to the Executive
-    Committee of the Board of Trustees for consideration by the full board. In addition
-    to names put forth by our constituency, the Committee seeks to identify women
-    who may not yet have come to the attention of the general public for recognition.
-    We are interested in scholarship, professional distinction, journalism, corporate
-    achievement, and impact in the advancement of women in the building industry.\n\nThe
-    event is our major fundraising event, and is responsible for a significant portion
-    of our annual operating expense. It is a unique event within our industry—A special
-    evening of friends, family, and professional colleagues provides an opportunity
-    to expand contacts and demonstrate that networking with women is good business."
+  text_block: |-
+    Thank you to all who attended and supported the Inaugural BEVY Leadership Awards Celebration on October 6, 2021! For a list of sponsors and a gallery of photos of the event, click the left side link.
+
+    Beverly Willis Architecture Foundation brings attention to the work of contemporary women in the fields of architecture, landscape architecture, engineering, development and construction. Since 2014, we have done this through a highly respected awards program, with the honorees celebrated at an annual gala.
+
+    Each year an event Chair is selected by the Board to head up the selection of the annual honorees. Names put forth for consideration are presented by the Committee to the Executive Committee of the Board of Trustees for consideration by the full board. In addition to names put forth by our constituency, the Committee seeks to identify women who may not yet have come to the attention of the general public for recognition. We are interested in scholarship, professional distinction, journalism, corporate achievement, and impact in the advancement of women in the building industry.
+
+    The event is our major fundraising event, and is responsible for a significant portion of our annual operating expense. It is a unique event within our industry—A special evening of friends, family, and professional colleagues provides an opportunity to expand contacts and demonstrate that networking with women is good business.
   section_break: false
 - template: text-block
   section_break: true
