@@ -77,12 +77,12 @@ page_blocks:
   text_block: ''
 - template: text-block
   section_break: false
-  include_left-hand_column_text_: false
+  include_left-hand_column_text_: true
   lefthand_text:
-    header_type: ''
-    text: ''
+    header_type: Link
+    text: Listen and subscribe on Google Podcasts
     download: ''
-    link_url: ''
+    link_url: https://podcasts.google.com/feed/aHR0cHM6Ly9id2FmbmV3YW5nbGV2b2ljZS5saWJzeW4uY29tL3Jzcw?sa=X&ved=2ahUKEwiM6u3OwcrzAhUWElkFHQ7RCcUQ9sEGegQIARAC
     link_text: ''
   text_block: ''
 description: "\"Why aren't women in the history books?\"  \nSince 2002, Beverly Willis
