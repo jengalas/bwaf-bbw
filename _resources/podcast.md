@@ -22,7 +22,7 @@ page_blocks:
   alt_text: Pioneering Architect Julia Morgan, Paris, France, 1901
   image_caption_text: Pioneering Architect Julia Morgan, Paris, France, 1901
   section_break: false
-  include_left-hand_column_text_: true
+  include_left-hand_column_text_: false
   lefthand_text:
     header_type: Link
     text: ''
