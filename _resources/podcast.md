@@ -50,11 +50,12 @@ page_blocks:
     height=\"75\" width=\"100%\" scrolling=\"no\"  allowfullscreen webkitallowfullscreen
     mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>\n\n\nSpecial thanks
     in this episode to Brandi Howell, Alexandra Lange, Julia Donoho, Karen McNeill,
-    Victoria Kastner, Karen Fiene, Justin Hoover, Amy Hart and Jim Parks, Laura Sorvetti,
-    Mark Wilson, and Aislinn McNamara. Archival audio of Sara Holmes Boutelle is from
-    Sara Holmes Boutelle's Julia Morgan papers at Special Collections and Archives,
-    Cal Poly University, San Luis Obispo.\n\nNew Angle: Voice is produced by Beverly
-    Willis Architecture Foundation. Your host is Cynthia Phifer Kracauer, AIA.  "
+    Victoria Kastner, Karen Fiene, Justin Hoover, Amy Hart and Jim Parks, the women
+    of the Monday Club of San Luis Obispo, Laura Sorvetti, Mark Wilson, and Aislinn
+    McNamara. Archival audio of Sara Holmes Boutelle is from Sara Holmes Boutelle's
+    Julia Morgan papers at Special Collections and Archives, Cal Poly University,
+    San Luis Obispo.\n\nNew Angle: Voice is produced by Beverly Willis Architecture
+    Foundation. Your host is Cynthia Phifer Kracauer, AIA.  "
 - template: text-block
   include_left-hand_column_text_: true
   lefthand_text:
