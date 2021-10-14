@@ -59,7 +59,7 @@ page_blocks:
   include_left-hand_column_text_: true
   lefthand_text:
     header_type: Link
-    text: Subscribe and Listen on Apple Podcasts
+    text: Listen and subscribe on Apple Podcasts
     link_url: https://podcasts.apple.com/us/podcast/episode-1-finding-julia-morgan/id1589782338?i=1000538211822
     download: ''
     link_text: ''
