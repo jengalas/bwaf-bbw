@@ -67,12 +67,12 @@ page_blocks:
   text_block: ''
 - template: text-block
   section_break: false
-  include_left-hand_column_text_: false
+  include_left-hand_column_text_: true
   lefthand_text:
-    header_type: ''
-    text: ''
+    header_type: Link
+    text: Listen and follow on Spotify
     download: ''
-    link_url: ''
+    link_url: https://open.spotify.com/show/5O5Sl9LPlAxquTHneX37dZ
     link_text: ''
   text_block: ''
 - template: text-block
