@@ -54,7 +54,7 @@ page_blocks:
     of the Monday Club of San Luis Obispo, Laura Sorvetti, Mark Wilson, and Aislinn
     McNamara. Archival audio of Sara Holmes Boutelle is from Sara Holmes Boutelle's
     Julia Morgan papers at Special Collections and Archives, Cal Poly University,
-    San Luis Obispo.\n\nNew Angle: Voice is produced by Beverly Willis Architecture
+    San Luis Obispo.\n\nNew Angle: Voice is a production of Beverly Willis Architecture
     Foundation. Your host is Cynthia Phifer Kracauer, AIA.  "
 - template: text-block
   include_left-hand_column_text_: true
