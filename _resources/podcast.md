@@ -18,9 +18,9 @@ page_blocks:
     to New Angle: Voice. "
   section_break: false
 - template: image-block
-  image: "/v1621364002/Screen_Shot_2021-05-18_at_2.53.07_PM_sglj7i.png"
-  alt_text: Pioneering Architect Julia Morgan, Paris, France, 1901
-  image_caption_text: Pioneering Architect Julia Morgan, Paris, France, 1901
+  image: "/v1634069739/BWAF_New_Angle_cover_vq0shw.jpg"
+  alt_text: 'New Angle: Voice, a BWAF podcast'
+  image_caption_text: ''
   section_break: false
   include_left-hand_column_text_: false
   lefthand_text:
