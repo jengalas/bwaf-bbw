@@ -11,7 +11,7 @@ sign-up-text: Sign up for the newsletter and get the latest news on upcoming pro
   and events
 newsletters:
 - title: Angles
-  month_year: September, 2021
+  month_year: September 2021
 - title: Angles
   month_year: August 2021
   link: https://mailchi.mp/bwaf/b5rrdu42wi-2995110
