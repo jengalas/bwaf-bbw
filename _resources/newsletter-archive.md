@@ -10,7 +10,7 @@ description: Angles (formerly Dispatches From Home, formerly Briefly News) is th
 sign-up-text: Sign up for the newsletter and get the latest news on upcoming programs
   and events
 newsletters:
-- title: Angles
+- title: Special Blast
   month_year: September 2021
 - title: Angles
   month_year: August 2021
