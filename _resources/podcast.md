@@ -39,14 +39,14 @@ page_blocks:
     link_url: https://www.dropbox.com/s/l1an49030j9ym2w/BWAF%20PodcastNewAngle_Pitch%20Sheet.pdf?dl=0
     link_text: ''
   text_block: "Enjoy hands free, the scholarly effort that brings Pioneering Women
-    of American Architecture to the internet, through your headphones... Hear from
-    historians, family, colleagues, and the women themselves, how it was to be an
-    architect coming up in the early 20th century. Imagine sitting with these pioneering
-    women, who opened up the magic of the built environment professions to all who
-    had the gifts, grit and persistence to endure. \n\nEpisode 1, Finding Julia Morgan,
-    is now available. Subscribe and listen to New Angle: Voice now on Spotify, Apple
-    Podcasts, on Android, and here:\n<iframe title=\"Libsyn Player\" style=\"border:
-    none\" src=\"//html5-player.libsyn.com/embed/episode/id/20703401/height/75/theme/legacy/thumbnail/no/direction/backward/\"
+    of American Architecture, edited by Mary McLeod and Victoria Rosner, to the internet,
+    through your headphones... Hear from historians, family, colleagues, and the women
+    themselves, how it was to be an architect coming up in the early 20th century.
+    Imagine sitting with these pioneering women, who opened up the magic of the built
+    environment professions to all who had the gifts, grit and persistence to endure.
+    \n\nEpisode 1, Finding Julia Morgan, is now available. Subscribe and listen to
+    New Angle: Voice now on Spotify, Apple Podcasts, on Android, and here:\n<iframe
+    title=\"Libsyn Player\" style=\"border: none\" src=\"//html5-player.libsyn.com/embed/episode/id/20703401/height/75/theme/legacy/thumbnail/no/direction/backward/\"
     height=\"75\" width=\"100%\" scrolling=\"no\"  allowfullscreen webkitallowfullscreen
     mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>\n\n\nSpecial thanks
     in this episode to Brandi Howell, Alexandra Lange, Julia Donoho, Karen McNeill,
