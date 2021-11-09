@@ -41,10 +41,10 @@ page_blocks:
     download: ''
     link_url: ''
     link_text: ''
-  text_block: In its tenth year, the Industry Leaders Roundtable brings together thought
-    leaders in organizational psychology, sociology, law, architecture and engineering
-    to change culture by providing research, information and action-oriented programs
-    to achieve greater representation of women in the AEC industries.
+  text_block: In its twelfth year, the Industry Leaders Roundtable brings together
+    thought leaders in organizational psychology, sociology, law, architecture and
+    engineering to change culture by providing research, information and action-oriented
+    programs to achieve greater representation of women in the AEC industries.
 - template: miscellaneous-block
   miscellaneous: |-
     ## **Why attend?**
@@ -121,6 +121,6 @@ page_blocks:
 description: The Industry Leaders Roundtable program is designed to encourage firms
   and their representatives to undertake institutional change within their organizations,
   by providing them research, tools, and support to be change agents.
-date: 2019-06-11 14:43:21 +0000
+date: 2019-06-11T14:43:21.000+00:00
 
 ---
