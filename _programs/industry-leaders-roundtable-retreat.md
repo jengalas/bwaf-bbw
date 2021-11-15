@@ -18,6 +18,8 @@ page_blocks:
   section_break: false
 - template: slideshow-block
   image:
+  - image: "/v1636484060/Screen_Shot_2021-11-09_at_1.53.30_PM_rkyyon.png"
+    caption: Save the date for the 2022 Roundtable Retreat
   - image: "/v1618426963/IMG_1662_2_e5j5bi.jpg"
     caption: Industry Leaders Roundtable Retreat, Los Angeles, CA, December 2-3, 2019
   - image: "/v1621354567/RT5_uiahzn.jpg"
