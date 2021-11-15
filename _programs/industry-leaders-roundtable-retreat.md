@@ -38,10 +38,10 @@ page_blocks:
     link_text: ''
 - template: text-block
   section_break: true
-  include_left-hand_column_text_: false
+  include_left-hand_column_text_: true
   lefthand_text:
     header_type: Medium Header
-    text: 'Embracing Diversity: Beyond M/WBE Targets'
+    text: 'Flexibility: Chaos, Change, Opportunity'
     download: ''
     link_url: ''
     link_text: ''
