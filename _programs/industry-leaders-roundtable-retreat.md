@@ -119,7 +119,7 @@ page_blocks:
     download: ''
     link_text: ''
   cta_text: Register Now
-  cta_link: https://bwaf.wufoo.com/forms/mnecxmb003e7em/
+  cta_link: " https://bwaf.wufoo.com/forms/m7re94k15cvddg/"
   external: true
   section_break: false
 description: The Industry Leaders Roundtable program is designed to encourage firms
