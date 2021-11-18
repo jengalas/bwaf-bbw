@@ -84,7 +84,7 @@ page_blocks:
     image: "/v1632927585/sml_perez_vna94w.jpg"
   - title: Ashwini Rangaraju
     title_role: Senior Designer, Thornton Tomasetti
-    image: "/v1632931264/sml_rangaraju_wsqd4e.jpg"
+    image: "/v1637254539/ashwini_sml_lqk5zl.png"
   - title: Tammie Schneider
     title_role: Project Engineer, JB&B
     image: "/v1632754187/Untitled_sgbdku.jpg"
