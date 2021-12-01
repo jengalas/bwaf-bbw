@@ -21,7 +21,7 @@ page_blocks:
     Applications for the Fall program are now open! Please send completed applications to info@bwaf.org by Friday, September 3, 2021.
 - template: image-block
   image: "/v1628630816/III-Card_Draft12_pwarhf.jpg"
-  include_left-hand_column_text_: false
+  include_left-hand_column_text_: true
   lefthand_text:
     header_type: Text with Download
     text: Applications for the Fall program are now closed
