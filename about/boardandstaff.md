@@ -197,7 +197,7 @@ page_blocks:
   - title: Karen McNeill, Ph.D.
     title_role: Trustee
     image: "/v1618331108/McNeill_Head_shot_csuk9r.jpg"
-    description: Karen McNeill, Ph.D., is an expert of Julia Morgan and currently
+    description: Karen McNeill, Ph.D., is an expert on Julia Morgan and currently
       working on a multiple publications about the architect. Dr. McNeill’s scholarship
       focuses on women and gender in the architectural profession as well as how Progressive
       Era women used the built environment to expand their roles society as consumers,
