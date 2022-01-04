@@ -38,7 +38,7 @@ page_blocks:
     title_role: Housing Recovery Program Manager, New York City Office of Emergency
       Management
     image: "/v1620324021/CBarton_FlyNY_headshot_gfntzb.jpg"
-  - title: Samantha B. Rummell, EIT
+  - title: Samantha Brummell, EIT
     title_role: Senior Engineer, Severud Associates
     image: "/v1620323884/Brummell_Samantha_photo_mycxqd.jpg"
   - title: Danei Cesario, AIA, NCARB, NOMA
