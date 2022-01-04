@@ -18,7 +18,7 @@ page_blocks:
   section_break: false
 - template: slideshow-block
   image:
-  - image: "/v1640103350/Screen_Shot_2021-12-21_at_11.15.18_AM_azgbdp.png"
+  - image: "/v1641308144/ROUNDTABLE21_SAVEfront_FINALrev_kasnpk.jpg"
     caption: 'POSTPONED: 2022 Roundtable Retreat'
   - image: "/v1637006612/Screen_Shot_2021-11-15_at_3.01.20_PM_lyr1f7.png"
     caption: ''
