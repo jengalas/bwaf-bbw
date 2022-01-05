@@ -76,7 +76,7 @@ page_blocks:
   - title: Christine McPhee
     title_role: Senior Project Engineer, Thornton Tomasetti
     image: "/v1632754047/mcphee_sml_ekfvao.jpg"
-  - title: Christine Ostermier
+  - title: Christina Ostermier
     title_role: Principal, Ostermier Architecture
     image: "/v1632754109/Untitled_kflu0r.jpg"
   - title: Chrissy Perez
