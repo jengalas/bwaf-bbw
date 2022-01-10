@@ -32,7 +32,7 @@ page_blocks:
       in Washington, D.C., a position she still holds.
     title_role: Founder
   - title: Michele O’Connor, PE, LEED AP
-    title_role: Chair Elect
+    title_role: Chair
     image: "/v1618330674/MOC_headshot_do3brf.jpg"
     description: "Michele O’Connor is a Principal at Langan and a director of the
       firm’s civil engineering practice in New York City. Langan is an integrated
