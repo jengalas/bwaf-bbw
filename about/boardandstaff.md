@@ -31,20 +31,6 @@ page_blocks:
       of Architects. Beverly was a founding trustee of the National Building Museum
       in Washington, D.C., a position she still holds.
     title_role: Founder
-  - title: Julia Murphy, AIA
-    title_role: Chair
-    image: "/v1618330990/j_murphy_headshot_mfhzye.png"
-    description: "A director at SOM, Julia Murphy is integral to the firm's engagement
-      with the built environment of New York City. In her decade of experience at
-      SOM, she has worked on some of the most complex projects in Manhattan, emerging
-      as an expert project manager. She has a diverse range of project responsibilities,
-      from day-to-day interaction with the client and coordination with the consultant
-      team to maintaining staffing, schedule, and budget. Much of her work involves
-      mitigating risk for clients who must build their projects within the exigencies
-      of New York’s physical and regulatory environments.\nShe was featured in Architect
-      Magazine’s feature piece, “Workers in Progress.” Murphy is a member of the WX
-      Women Executives in Real Estate and is Chair of Beverly Willis Architecture
-      Foundation. "
   - title: Michele O’Connor, PE, LEED AP
     title_role: Chair Elect
     image: "/v1618330674/MOC_headshot_do3brf.jpg"
@@ -103,6 +89,20 @@ page_blocks:
     description: |-
       Joan Blumenfeld, Contract Magazine’s 2018 Legend, is a design principal at Perkins+Will, a global architecture and interiors firm. Over the past 10 years she has been committed to achieving gender equity across all aspects of the design and construction business. As the first president of the Beverly Willis Architecture Foundation (BWAF) she facilitated broadening its mission to include changing culture throughout the industry. She remained President for five years, helping to grow the organization to have national recognition, and since 2011 served on the Executive Committee, stepping down in 2020.
       Previous and parallel to her work with BWAF she has been an active advocate for building better and more healthy interiors, buildings and communities. As 2007 President of AIA NYC, she worked with city agencies and the Mayor's Office, resulting in the first revamping of citywide workplace standards since 1971.
+  - title: Julia Murphy, AIA
+    title_role: Immediate Past Chair, and Co-Chair, Chair Nominating Committee
+    image: "/v1618330990/j_murphy_headshot_mfhzye.png"
+    description: "A director at SOM, Julia Murphy is integral to the firm's engagement
+      with the built environment of New York City. In her decade of experience at
+      SOM, she has worked on some of the most complex projects in Manhattan, emerging
+      as an expert project manager. She has a diverse range of project responsibilities,
+      from day-to-day interaction with the client and coordination with the consultant
+      team to maintaining staffing, schedule, and budget. Much of her work involves
+      mitigating risk for clients who must build their projects within the exigencies
+      of New York’s physical and regulatory environments.\nShe was featured in Architect
+      Magazine’s feature piece, “Workers in Progress.” Murphy is a member of the WX
+      Women Executives in Real Estate and is the Immediate Past Chair of Beverly Willis
+      Architecture Foundation. "
   - title: Angelica T. Baccon, AIA
     title_role: Trustee
     image: "/v1610937006/s_170713_webview_jkbimz.jpg"
