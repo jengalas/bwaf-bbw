@@ -84,7 +84,7 @@ page_blocks:
       practice focuses on mergers and acquisitions, business organization and management
       issues, succession, strategy and licensing issues.
   - title: Joan Blumenfeld, FAIA, FIIDA, LEED ID+C
-    title_role: Chair Nominating Committee
+    title_role: Co-Chair, Chair Nominating Committee
     image: "/v1610937099/JoanBlumenfeld_gzuyea.jpg"
     description: |-
       Joan Blumenfeld, Contract Magazine’s 2018 Legend, is a design principal at Perkins+Will, a global architecture and interiors firm. Over the past 10 years she has been committed to achieving gender equity across all aspects of the design and construction business. As the first president of the Beverly Willis Architecture Foundation (BWAF) she facilitated broadening its mission to include changing culture throughout the industry. She remained President for five years, helping to grow the organization to have national recognition, and since 2011 served on the Executive Committee, stepping down in 2020.
