@@ -63,7 +63,7 @@ page_blocks:
   include_left-hand_column_text_: true
   lefthand_text:
     header_type: Link
-    text: "Purchase a copy of Beverly Willis: \LThe Artist and the Architect"
+    text: 'Purchase a copy of Beverly Willis: The Artist and the Architect'
     link_url: https://bwaf.square.site/product/the-artist-the-architect-and-built-for-ballet/1?cs=true&cst=custom
     download: ''
     link_text: ''
