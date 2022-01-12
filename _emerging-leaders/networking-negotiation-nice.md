@@ -1,7 +1,7 @@
 ---
 layout: innerPage
 date: 2018-02-01T15:21:59.000+00:00
-navCategory: ''
+navCategory: Programs
 title: Networking, Negotiation, Nice
 page_blocks:
 - template: text-block

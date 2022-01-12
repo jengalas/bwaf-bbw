@@ -1,7 +1,7 @@
 ---
 layout: innerPage
 date: 2019-06-11 14:43:21 +0000
-navCategory: ''
+navCategory: Programs
 title: Confidence, Compensation, Competition
 page_blocks:
 - template: text-block

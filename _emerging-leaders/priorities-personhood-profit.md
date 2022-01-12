@@ -1,7 +1,7 @@
 ---
 layout: innerPage
 date: 2020-06-04 15:20:03 +0000
-navCategory: ''
+navCategory: Programs
 title: Priorities, Personhood, Profit
 page_blocks:
 - template: text-block

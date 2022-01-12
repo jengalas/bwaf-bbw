@@ -1,7 +1,7 @@
 ---
 layout: innerPage
 date: 2020-01-08 15:18:34 +0000
-navCategory: ''
+navCategory: Programs
 title: Determination, Design, Disruption
 page_blocks:
 - template: text-block
