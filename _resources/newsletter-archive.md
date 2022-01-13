@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: newsletter-page
 navCategory: Resources
 title: Newsletter Archive
 permalink: "/resources/newsletter-archive"
