@@ -37,7 +37,7 @@ fields:
   showOnly:
     field: link_out
     value: true
-- name: link_to_a_map_
+- name: link_to_a_map
   type: boolean
   label: Link to a map?
 - name: map_link
