@@ -2,25 +2,28 @@
     <img id="bbw-logo" src="/assets/img/built-by-women.png">
     <a href="/built-by-women"><img id="bbw-logo-sm" src="/assets/img/built-by-women.png"></a>
     <div>
-            {% for jury in site.bbw-juries %}
-                {% if page.path == jury.bbw_year or page.bbw-year == jury.bbw_year %}
-                {% assign currentJury = jury %}
-                {% endif %}
-            {% endfor %}
+        {% for jury in site.bbw-juries %}
+            {% if page.path == jury.bbw_year or page.bbw-year == jury.bbw_year %}
+            {% assign currentJury = jury %}
+            {% endif %}
+        {% endfor %}
 
-            {% for bbwYear in site.bbw-years %}
-                {% if bbwYear.path == page.bbw-year %}
-                    {% assign mapLink = bbwYear.map_link %}
-                {% else %}
-                    {% assign mapLink = page.map_link %}
-                {% endif %}
-            {% endfor %}
-
+        {% for bbwYear in site.bbw-years %}
+            {% if bbwYear.path == page.bbw-year %}
+                {% assign mapLink = bbwYear.map_link %}
+            {% else %}
+                {% assign mapLink = page.map_link %}
+            {% endif %}
+        {% endfor %}
             
-            
-        
-        <a href="{{currentJury.url}}" class="lefthand-link">Meet the Jury→</a>
-        <a href="{{mapLink}}" target="_blank" class="lefthand-link">Buy the Map→</a>
+        {% if currentJury %}
+            {% unless page.path contains 'jury' %}    
+                <a href="{{currentJury.url}}" class="lefthand-link">Meet the Jury→</a>
+            {% endunless %}
+        {% endif %}
+        {% if mapLink %}
+            <a href="{{mapLink}}" target="_blank" class="lefthand-link">Buy the Map→</a>
+        {% endif %}
     </div>
 </div>
 <script src="/assets/js/bbw-nav.js"></script>
