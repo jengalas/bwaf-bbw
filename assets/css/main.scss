@@ -1207,24 +1207,14 @@ figcaption, .smallest{
     }
 }
 .nav-bbw.small{
-    // padding:calc(var(--margin)/3) var(--margin);
-    a{
-        // font-size:18px;
-        // line-height:24px;
-    }
-    #bbw-logo-sm{
-        // display:block;
-    }
-    // #bbw-logo{
-    //     width: auto;
-    //     height: 50px;
-    //     position: fixed;
-    //     top: 15px;
-    //     left: 100px;
-    //     z-index: 2;
-    // }
-    > div {
-        // justify-content: center;
+    padding:calc(var(--margin)/3) var(--margin);
+    #bbw-logo{
+        width: auto;
+        height: 50px;
+        position: fixed;
+        top: 15px;
+        left: 100px;
+        z-index: 2;
     }
 }
 .bbw-filters{
