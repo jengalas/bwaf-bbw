@@ -37,12 +37,18 @@ fields:
   showOnly:
     field: link_out
     value: true
+- name: link_to_a_map_
+  type: boolean
+  label: Link to a map?
 - name: map_link
   type: text
   config:
     required: false
   label: Map Link
   description: Paste link to externally hosted map.
+  showOnly:
+    field: link_to_a_map_
+    value: true
 pages:
 - _bbw-years/bbw-2014.md
 - _bbw-years/bbw-2018.md
