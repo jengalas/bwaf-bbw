@@ -310,6 +310,13 @@ page_blocks:
       University receiving both a magna cum laude, and Masters of Architecture. She
       worked for Philip Johnson in the 80’s and taught at the University of Virginia,
       New Jersey Institute of Technology and her alma mater. '
+  - title: 'Virginia Eskridge '
+    title_role: Development Coordinator
+    image: "/v1642619870/Virginia_Headshot_xbobp3.jpg"
+    description: 'Virginia is from Montgomery, Alabama and graduated from the University
+      of Alabama in 2020 with a degree in Advertising and Art. She is looking forward
+      to working with the community around her to build up and acknowledge women''s
+      achievements in the design and building industry. '
   - title: 'Iliana Smith '
     title_role: Programs and Communications Coordinator
     image: "/v1641831044/1630678362131-1_jeqk6j.jpg"
