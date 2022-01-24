@@ -23,23 +23,6 @@ page_blocks:
     link_url: ''
     link_text: ''
   portrait:
-  - title: 'Annya Ramírez-Jiménez, AIA '
-    title_role: Trustee
-    description: Annya Ramírez-Jiménez, AIA, is a Director at Marvel. She oversees
-      the architecture staff of the firm. Annya tackles complex projects with ease
-      and is focused on achieving consensus from stakeholders while maintaining a
-      clear design voice for each project. As a passionate advocate for equity, her
-      career focuses in building a more equitable city that balances its resources
-      to serve all residents. She is currently leading multiple projects at various
-      scales, from the design and development of Rockaway Village; a new neighborhood
-      in Queens which will revitalize downtown Far Rockaway to various city sponsored
-      civic projects in the Bronx including the Bronx Arts Museum Renovation. Annya
-      was raised in Puerto Rico, and attended the University of Puerto Rico School
-      of Architecture, then settled in New York City after obtaining a Master of Architecture
-      degree from Columbia University GSAPP in 2003. She currently serves as a board
-      member for The Clemente Center, a Puerto Rican and Latinx cultural space in
-      the Lower East Side and is a member of the AIANY Honors Committee.
-    image: "/v1643045203/Annya_Headshot-min_qm0qnb.jpg"
   - title: Beverly Willis, FAIA
     image: "/v1618329223/bev_1_zgox9n.jpg"
     description: Beverly Willis, FAIA, is an artist, architect, author and philanthropist.
@@ -233,6 +216,23 @@ page_blocks:
       Bolanle Williams-Olley is the Chief Financial Officer at Mancini Duffy, a technology-first design firm, where she oversees the firm’s financial and operational performance. With a strong background in financial analysis and strategic initiatives, Bola thrives on building relationships between finance and management teams to ensure the overall financial success of projects and her firm.
 
       She holds a Master’s in Education & Social Policy from NYU, Master’s in Applied Mathematics and Bachelor’ in Mathematics from City University of New York, Hunter College. She is passionate about service and is the founder of four impact organizations: SheBuildsWaves, SheBuildsLives, SheBuildsMoney and REACH Nigeria.
+  - title: 'Annya Ramírez-Jiménez, AIA '
+    title_role: Trustee
+    description: Annya Ramírez-Jiménez, AIA, is a Director at Marvel. She oversees
+      the architecture staff of the firm. Annya tackles complex projects with ease
+      and is focused on achieving consensus from stakeholders while maintaining a
+      clear design voice for each project. As a passionate advocate for equity, her
+      career focuses in building a more equitable city that balances its resources
+      to serve all residents. She is currently leading multiple projects at various
+      scales, from the design and development of Rockaway Village; a new neighborhood
+      in Queens which will revitalize downtown Far Rockaway to various city sponsored
+      civic projects in the Bronx including the Bronx Arts Museum Renovation. Annya
+      was raised in Puerto Rico, and attended the University of Puerto Rico School
+      of Architecture, then settled in New York City after obtaining a Master of Architecture
+      degree from Columbia University GSAPP in 2003. She currently serves as a board
+      member for The Clemente Center, a Puerto Rican and Latinx cultural space in
+      the Lower East Side and is a member of the AIANY Honors Committee.
+    image: "/v1643045203/Annya_Headshot-min_qm0qnb.jpg"
   - title: Ann Rolland, FAIA, LEED AP
     title_role: Trustee
     image: "/v1618330597/ARolland_web_farbmn.jpg"
