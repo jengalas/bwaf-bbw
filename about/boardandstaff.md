@@ -23,23 +23,6 @@ page_blocks:
     link_url: ''
     link_text: ''
   portrait:
-  - title: Danielle Tillman, AIA, NOMA
-    title_role: Trustee
-    image: "/v1643050975/R_c2dkjm.jpg"
-    description: "Over the course of her career, Danielle Tillman has become an expert
-      at infusing architecture with social consciousness. Her orientation toward community
-      service and civic engagement has drawn her to education and institutional projects.
-      Danielle’s specialty is built environments that naturally integrate into their
-      communities. With a focus on urban planning, she cultivates relationships with
-      neighborhood leaders and residents, synthesizing their requirements and feedback
-      into the project program. \n\nIn addition to education and institutional projects,
-      Danielle’s portfolio includes mixed-use and residential developments. She was
-      a member of the team that developed the 2016 Chicago Olympic Village housing
-      bid. Danielle earned a BS in mathematics from Spelman College and a Master’s
-      in Architecture from the University of Michigan. She holds a Certificate of
-      Real Estate Development and is a member of Chicago Women in Architecture, the
-      National Organization of Minority Architects (NOMA), CREW Chicago, and Alpha
-      Kappa Alpha Sorority, Inc. She is a licensed architect in the state of Illinois. "
   - title: Beverly Willis, FAIA
     image: "/v1618329223/bev_1_zgox9n.jpg"
     description: Beverly Willis, FAIA, is an artist, architect, author and philanthropist.
@@ -283,6 +266,23 @@ page_blocks:
     description: |-
       Experienced in managing complex institutional planning and design projects, as Partner at Robert A.M. Stern Architects LLP, Jennifer Stone brings a love of contextually appropriate, sustainable architecture to her work with clients, communities, and building industry partners. 
       Jennifer is an active participant, mentor, and volunteer in her professional community. As a council member of the Society for College and University Planning, she shares her extensive knowledge and stays current with global best practices. Her presentations at numerous professional conferences and her leadership roles with the New York Building Congress Foundation, ACE Mentorship Programs, and the Urban Land Institute, as well as the firm's own Women Leadership Initiative and Sustainability Committee, testify to her commitment to developing and opening the field of architecture.
+  - title: Danielle Tillman, AIA, NOMA
+    title_role: Trustee
+    image: "/v1643050975/R_c2dkjm.jpg"
+    description: "Over the course of her career, Danielle Tillman has become an expert
+      at infusing architecture with social consciousness. Her orientation toward community
+      service and civic engagement has drawn her to education and institutional projects.
+      Danielle’s specialty is built environments that naturally integrate into their
+      communities. With a focus on urban planning, she cultivates relationships with
+      neighborhood leaders and residents, synthesizing their requirements and feedback
+      into the project program. \n\nIn addition to education and institutional projects,
+      Danielle’s portfolio includes mixed-use and residential developments. She was
+      a member of the team that developed the 2016 Chicago Olympic Village housing
+      bid. Danielle earned a BS in mathematics from Spelman College and a Master’s
+      in Architecture from the University of Michigan. She holds a Certificate of
+      Real Estate Development and is a member of Chicago Women in Architecture, the
+      National Organization of Minority Architects (NOMA), CREW Chicago, and Alpha
+      Kappa Alpha Sorority, Inc. She is a licensed architect in the state of Illinois. "
   - title: Barbara Wilks, FAIA, FASLA
     title_role: Trustee
     image: "/v1618329573/Barbara_Wilks_tu3wpd.jpg"
