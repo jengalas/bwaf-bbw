@@ -23,13 +23,6 @@ page_blocks:
     link_url: ''
     link_text: ''
   portrait:
-  - title: Lynn N. Simon, FAIA, LEED Fellow
-    title_role: Trustee
-    image: "/v1643050030/LNSimonheadshot_qp6xvg.jpg"
-    description: |-
-      Lynn N. Simon, FAIA, LEED Fellow, Head of Sustainability for Real Estate and Workplace Services (REWS) at Google, leads a global team to develop, guide, and advance sustainability focusing on carbon, water, waste, and ecology to achieve scalable, regional, and global solutions. She is responsible for leading the strategic vision across REWS sustainability initiatives and programs from establishing baseline standards across a global real estate portfolio to strategic thought leadership on targeted aspirational goals.
-
-      She is a recognized pioneer in the sustainable building industry as well as an entrepreneur and catalyst for change. Lynn has consulted on millions of square feet of sustainable projects ranging from multi-family, affordable housing to large scale commercial and institutional projects. Lynn currently serves on the World Green Building Council Corporate Advisory Board, and is an advisor to a start-up solar company based in Iraq. She is an experienced and popular speaker and podcast guest on sustainability and leadership topics. Lynn has received several honors including the USGBC’s President's Award (2011); the Women in Sustainability Leadership Award from gb&d magazine (2017); and the SHERO Leadership Award from the USGBC Pacific Region (2020). Lynn is also a certified professional coach through New Ventures West.
   - title: Beverly Willis, FAIA
     image: "/v1618329223/bev_1_zgox9n.jpg"
     description: Beverly Willis, FAIA, is an artist, architect, author and philanthropist.
@@ -260,6 +253,13 @@ page_blocks:
     description: |-
       Kirsten Sibilia is a vocal advocate for the value of design and the need for social justice. She is the Managing Principal at Dattner Architects, she focuses on the firm’s health and vitality. Her design training and entrepreneurial spirit have allowed her to approach the business side of the practice as a design project; with each initiative, she reflects the firm’s commitment to improving public life, through the creation of resilient and sustainable urban density.
       Kirsten holds a Bachelor of Fine Arts from Parsons School of Design and a Bachelor of Arts from the New School.
+  - title: Lynn N. Simon, FAIA, LEED Fellow
+    title_role: Trustee
+    image: "/v1643050030/LNSimonheadshot_qp6xvg.jpg"
+    description: |-
+      Lynn N. Simon, FAIA, LEED Fellow, Head of Sustainability for Real Estate and Workplace Services (REWS) at Google, leads a global team to develop, guide, and advance sustainability focusing on carbon, water, waste, and ecology to achieve scalable, regional, and global solutions. She is responsible for leading the strategic vision across REWS sustainability initiatives and programs from establishing baseline standards across a global real estate portfolio to strategic thought leadership on targeted aspirational goals.
+
+      She is a recognized pioneer in the sustainable building industry as well as an entrepreneur and catalyst for change. Lynn has consulted on millions of square feet of sustainable projects ranging from multi-family, affordable housing to large scale commercial and institutional projects. Lynn currently serves on the World Green Building Council Corporate Advisory Board, and is an advisor to a start-up solar company based in Iraq. She is an experienced and popular speaker and podcast guest on sustainability and leadership topics. Lynn has received several honors including the USGBC’s President's Award (2011); the Women in Sustainability Leadership Award from gb&d magazine (2017); and the SHERO Leadership Award from the USGBC Pacific Region (2020). Lynn is also a certified professional coach through New Ventures West.
   - title: Jennifer Stone, AIA
     title_role: Trustee
     image: "/v1618329715/Stone_ltb0db.jpg"
