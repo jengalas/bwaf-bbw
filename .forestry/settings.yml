@@ -18,6 +18,7 @@ sections:
   create: documents
   match: "**/*"
   templates:
+  - podcast-main-page
   - newsletter-archive
   - main-two-up
 - type: directory
