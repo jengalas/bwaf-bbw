@@ -40,6 +40,10 @@ collections:
     output: true
   bbw-juries:
     output: true
+  podcasts:
+    output: true
+    permalink: resources/podcasts/:title
+    sort_by: episode_number
   films:
     output: true
   emerging-leaders:
