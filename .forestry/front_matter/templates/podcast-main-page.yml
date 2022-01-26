@@ -1,4 +1,51 @@
 ---
 label: Podcast Main Page
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Page Title
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Short Description
+  description: Page description shows up in website search results, search engines,
+    and when the page is shared on social media.
+- name: page_blocks
+  type: blocks
+  label: Page Blocks
+  template_types:
+  - text-block
+  - image-block
+  - slideshow-block
+  config:
+    min: 
+    max: 
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
+  hidden: true
+  default: podcast-page
+- name: permalink
+  type: text
+  config:
+    required: false
+  label: permalink
+  hidden: true
+  default: '"/resources/podcast"'
+- name: navCategory
+  type: text
+  config:
+    required: false
+  label: navCategory
+  hidden: true
+  default: Resources
