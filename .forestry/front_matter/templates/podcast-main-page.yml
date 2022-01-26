@@ -41,7 +41,7 @@ fields:
     required: false
   label: permalink
   hidden: true
-  default: '"/resources/podcast"'
+  default: '"/resources/new-podcast"'
 - name: navCategory
   type: text
   config:
