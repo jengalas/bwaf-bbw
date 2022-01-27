@@ -59,7 +59,7 @@ html{
 body{
     margin:0px;
     font-size:24px;
-    font-family: "William Text Regular";
+    font-family: 'William Text Regular', serif;
     line-height:1.25;
     color:var(--dark);
 }
@@ -345,7 +345,7 @@ footer{
     padding:var(--spacer) var(--margin) var(--margin);
     width:calc(100% - var(--margin)*2);
     display:flex;
-    font-family:'GT America';
+    font-family:'GT America', sans-serif;
     font-size:18px;
     line-height:24px;
     // position: absolute;
@@ -652,6 +652,29 @@ p.lg{
         > *:not(.lefthand-link){
             max-width:360px;
         }
+    }
+    > div.podcast{
+        h2, h3, .h3 {
+            position:static;
+        }
+        .listen {
+            color: var(--red);
+            font-family: 'GT America', sans-serif;
+            font-weight: bold;
+            font-size: 24px;
+            line-height: 30px;
+            display: inline-block;
+            max-width: 300px;
+        }
+    }
+    .pcast-download {
+        color: var(--red);
+        font-family: 'GT America', sans-serif;
+        font-weight: bold;
+        font-size: 24px;
+        line-height: 30px;
+        display: inline-block;
+        max-width: 300px;
     }
     > div:nth-child(2){
         flex:8;
@@ -1024,7 +1047,7 @@ figcaption, .smallest{
             position:static;
             span:first-child{
                 font-weight:normal;
-                font-family: "William Text Regular";
+                font-family: 'William Text Regular', serif;
                 font-size: 24px;
                 line-height:44px;
             }
@@ -1274,7 +1297,7 @@ figcaption, .smallest{
     }
     h2{
         font-size:24px;
-        font-family: "William Text Regular", serif;
+        font-family: 'William Text Regular', serif;
         line-height:30px;
         margin-bottom:0px;
     }
@@ -1287,10 +1310,117 @@ figcaption, .smallest{
 
 .bbw-project-page{
     h1{
-        font-family: "William Text Regular", serif;
+        font-family: 'William Text Regular', serif;
         font-size: 30px;
         line-height: 40px;
     }
+}
+
+// Podcasts
+
+.visually-hidden {
+    position: absolute !important;
+    clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+    clip: rect(1px, 1px, 1px, 1px);
+    padding:0 !important;
+    border:0 !important;
+    height: 1px !important;
+    width: 1px !important;
+    overflow: hidden;
+}
+
+.podcast-coming-soon {
+    color: #f4364c;
+    font-family: 'GT America', sans-serif;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;        
+}
+
+.podcast-episode-number {
+    font-family: 'GT America', sans-serif;    
+    font-size: 60%; 
+    font-weight: bold;
+    text-transform: uppercase; 
+}
+
+.podcast-thumbnail {
+    margin-bottom: 1em;
+}
+
+/* Podcast Player */
+.pcast-player {
+  
+  .pcast-player-controls {
+    box-sizing: border-box;
+    background: var(--red);
+    color: #fff;
+    font-size: 14px;
+    height: 62px;
+    overflow: hidden;
+    padding: 5px;
+  }  
+  
+  button {
+    background: var(--red);
+    color: #fff;
+    border: 0;
+    border-radius: 2px;
+    padding: 5px;
+    line-height: 22px;
+    -webkit-appreance: none;
+    min-width: 32px;
+    
+    span {
+      @extend .visually-hidden;
+    }
+  }
+  
+  progress {
+    height: 13px;
+    width: calc(100% - 281px);
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  }
+
+  progress[value]::-webkit-progress-bar {
+    background-color: #aaa;
+    border-radius: 0;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25) inset;
+  }
+  
+  progress[value]::-webkit-progress-value  {
+    background: #fff; 
+  }
+  
+.pcast-player-title {
+    font-family: 'GT America', sans-serif;
+    font-weight: bold;
+}
+
+  .pcast-time {
+    display: inline-block;
+    font-size: 13px;
+    padding: 0 5px;
+    text-align: center;
+    width: 4em;
+  }
+  
+  .pcast-speed {
+    width: 2.5em;
+  }
+  
+  .pcast-download {
+    font-size: 12px;
+    margin-top: 0.5em;
+    display: inline-block;
+    color: black;
+    &:hover,
+    &:focus {
+      color: #666;
+    }
+  }
 }
 
 .searchbar{
