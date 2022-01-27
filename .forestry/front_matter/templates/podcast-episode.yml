@@ -89,3 +89,5 @@ fields:
   label: layout
   hidden: true
   default: full-podcast-page
+pages:
+- _podcasts/finding-julia-morgan.md
