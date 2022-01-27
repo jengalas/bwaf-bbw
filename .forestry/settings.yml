@@ -5,13 +5,6 @@ admin_path: "/admin"
 webhook_url: 
 sections:
 - type: directory
-  path: _podcasts
-  label: Podcasts
-  create: documents
-  match: "**/*"
-  templates:
-  - podcast-episode
-- type: directory
   path: about
   label: About
   create: all
@@ -77,6 +70,13 @@ sections:
   match: "**/*"
   templates:
   - main-two-up
+- type: directory
+  path: _podcasts
+  label: Podcasts
+  create: documents
+  match: "**/*"
+  templates:
+  - podcast-episode
 - type: heading
   label: Msc. Pages
 - type: document
