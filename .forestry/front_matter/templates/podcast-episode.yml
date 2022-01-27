@@ -11,7 +11,7 @@ fields:
   type: number
   label: Episode Number
   description: ''
-  default: 0
+  default: 
   required: true
   config:
     min: 
