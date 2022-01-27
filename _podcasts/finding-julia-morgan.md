@@ -1,5 +1,5 @@
 ---
-thumbnail_image: "/v1643242724/new-angle-voice-logo-360x360_cns3vf.jpg"
+thumbnail_image: "/v1643243280/1_1926_morgan-julia-studio-portrait_jm-cal-poly-720x720_y16i32.jpg"
 navCategory: Resources
 layout: full-podcast-page
 title: Finding Julia Morgan
