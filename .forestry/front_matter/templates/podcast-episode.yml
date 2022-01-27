@@ -1,4 +1,91 @@
 ---
 label: Podcast Episode
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Podcast TItle
+- name: episode_number
+  type: number
+  label: Episode Number
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+    required: true
+- name: thumbnail_image
+  type: file
+  config:
+    maxSize: 1
+  label: Thumbnail Image
+  description: 'Suggested dimension: 360px x 360px. Max. filesize: 1MB.'
+  default: "/v1643242724/new-angle-voice-logo-360x360_cns3vf.jpg"
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  label: Brief Description
+- name: podcast_available
+  type: boolean
+  label: Podcast available?
+  description: Is the podcast available yet? If not, "coming soon" text will display.
+    If it is available, you'll be able to enter the links to the podcast.
+- name: libsyn_link
+  type: text
+  config:
+    required: true
+  label: Libsyn Link
+  description: Enter the direct link to the mp3 of the podcast hosted on Libsyn.
+  showOnly:
+    field: podcast_available
+    value: true
+- name: apple_podcast_link
+  type: text
+  config:
+    required: false
+  label: Apple Podcast Link
+  description: If this episode is on Apple Podcasts, enter the direct link here.
+  showOnly:
+    field: podcast_available
+    value: true
+- name: google_podcast_link
+  type: text
+  config:
+    required: false
+  label: Google Podcast Link
+  description: If this episode is on Google Podcasts, enter the direct link here.
+  showOnly:
+    field: podcast_available
+    value: true
+- name: spotify_link
+  type: text
+  config:
+    required: false
+  label: Spotify Link
+  description: If this episode is on Spotify, enter the direct link here.
+  showOnly:
+    field: podcast_available
+    value: true
+- name: navCategory
+  type: text
+  config:
+    required: false
+  hidden: true
+  label: navCategory
+  default: Resources
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
+  hidden: true
+  default: full-podcast-page
