@@ -1,4 +1,45 @@
 ---
 label: Podcast Related Reading
 hide_body: true
-fields: []
+fields:
+- name: lefthand_text
+  type: include
+  config: {}
+  template: lefthand-text
+  label: Lefthand Text
+- name: related_reading
+  type: field_group_list
+  fields:
+  - name: image
+    type: file
+    config:
+      maxSize: 1
+    label: Image
+    description: Book cover or other image relating to this source.
+  - name: label
+    type: text
+    config:
+      required: true
+    label: Label
+    description: Type of resource (book, article, website, etc.).
+  - name: title
+    type: text
+    config:
+      required: true
+    label: Title
+    description: Title of the work.
+  - name: description
+    type: textarea
+    default: ''
+    config:
+      required: true
+      wysiwyg: true
+      schema:
+        format: html-blocks
+    label: Description
+    description: Description of the work.
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Related Reading
