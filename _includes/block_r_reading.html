@@ -1,0 +1,16 @@
+<div class="podcast-related-reading">
+    {% for source in block.related_reading %}
+    <div>
+        <div class="img" style="background-image: url({{site.cloudinary}}{{source.image}})"></div>
+        <h4>{{ source.label }}</h4>
+        <h5>
+            <b>{{source.title}}</b>
+        </h5>
+        <p class="description">{{source.description | markdownify}}
+        
+    </div>
+    {% endfor %}
+    <div style="margin-top: 4em;">
+        <a href="https://pioneeringwomen.bwaf.org/" class="btn-primary spacer">Visit the Pioneering Women website →</a>
+    </div>
+</div>
