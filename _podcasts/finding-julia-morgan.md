@@ -82,14 +82,18 @@ page_blocks:
     description: Test description
   header: ''
 - template: podcast-related-reading
-  section_break: false
-  include_left-hand_column_text_: false
+  section_break: true
+  include_left-hand_column_text_: true
   lefthand_text:
-    header_type: ''
-    text: ''
+    header_type: Medium Header
+    text: Related reading
     download: ''
     link_url: ''
     link_text: ''
-  related_reading: []
+  related_reading:
+  - image: "/v1634144549/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-52_i2rugh.jpg"
+    label: Book
+    title: Cacti of Arizona
+    description: "<p>interesting book about cacti</p>"
 
 ---
