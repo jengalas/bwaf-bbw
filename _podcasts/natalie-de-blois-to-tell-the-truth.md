@@ -8,10 +8,12 @@ description: "<p>A senior designer and associate partner at Skidmore, Owings &am
   Merrill, Natalie de Blois was involved in the design of many of the firm’s most
   admired postwar buildings. Featured speakers include Carol Ross Barney, Gabrielle
   Esperdy, Carol Krinsky, Liz Waycus, John Newman, and Audrey Matlock.</p>"
-podcast_available: false
-libsyn_link: ''
+podcast_available: true
+libsyn_link: https://traffic.libsyn.com/bwafnewanglevoice/Natalie_de_Blois_-_FINAL_20220215_rx.mp3
 apple_podcast_link: ''
 google_podcast_link: ''
 spotify_link: ''
+transcript: ''
+page_blocks: []
 
 ---
