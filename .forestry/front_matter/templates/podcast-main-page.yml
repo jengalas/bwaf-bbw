@@ -25,6 +25,7 @@ fields:
   - text-block
   - image-block
   - slideshow-block
+  - podcast-related-reading
   config:
     min: 
     max: 
