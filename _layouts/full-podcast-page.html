@@ -1,56 +1,16 @@
 {% include head.html %}
 {% include nav.html %}
 
-<div class="main-two-up">
-  <div>  
-  <div class="podcast">            
-    <p class="podcast-episode-number">Episode {{ page.episode_number }}</p>
-    <h3 style="position: static;"><b><i>{{ page.title }}</i></b></h3>
-    <img src="{{ page.thumbnail_image }}" class="podcast-thumbnail" style="position: sticky;">
-    {% if page.podcast_available == true %}
-
-    {% if page.apple_podcast_link != '' or page.google_podcast_link != '' or page.spotify_link != '' %}
-
-        <div><span class="listen">Listen on:</span><br>
-
-        {% if page.apple_podcast_link != '' %}
-            <a class="lefthand-link" href="{{ page.apple_podcast_link }}">Apple Podcasts<span>
-            <svg id="Launch" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
-            <path id="Path_13" data-name="Path 13" d="M26,3.005v9.059L22.386,8.449,11.765,19.07l-1.83-1.83L20.556,6.619,16.941,3.005ZM22.118,25H4V6.887H14.353V9.476H6.588V22.417H19.529V14.652h2.588Z" transform="translate(-4 -3.005)" fill="var(--red)" fill-rule="evenodd"></path>
-            </svg>
-        </span></a><br>
-        {% endif %}
-        {% if page.google_podcast_link != '' %}
-            <a class="lefthand-link" href="{{ page.google_podcast_link }}">Google Podcasts<span>
-            <svg id="Launch" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
-            <path id="Path_13" data-name="Path 13" d="M26,3.005v9.059L22.386,8.449,11.765,19.07l-1.83-1.83L20.556,6.619,16.941,3.005ZM22.118,25H4V6.887H14.353V9.476H6.588V22.417H19.529V14.652h2.588Z" transform="translate(-4 -3.005)" fill="var(--red)" fill-rule="evenodd"></path>
-            </svg>
-        </span></a><br>
-        {% endif %}
-        {% if page.spotify_link != '' %}
-            <a class="lefthand-link" href="{{ page.spotify_link }}">Spotify<span>
-            <svg id="Launch" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
-            <path id="Path_13" data-name="Path 13" d="M26,3.005v9.059L22.386,8.449,11.765,19.07l-1.83-1.83L20.556,6.619,16.941,3.005ZM22.118,25H4V6.887H14.353V9.476H6.588V22.417H19.529V14.652h2.588Z" transform="translate(-4 -3.005)" fill="var(--red)" fill-rule="evenodd"></path>
-            </svg>
-        </span></a>
-        {% endif %}
-      </div>
-      {% else %}  
-        <div><span class="listen">Listen on:</span><br>
-          <a class="lefthand-link" href="{{ page.libsyn_link }}">LibSyn<span>
-            <svg id="Launch" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
-            <path id="Path_13" data-name="Path 13" d="M26,3.005v9.059L22.386,8.449,11.765,19.07l-1.83-1.83L20.556,6.619,16.941,3.005ZM22.118,25H4V6.887H14.353V9.476H6.588V22.417H19.529V14.652h2.588Z" transform="translate(-4 -3.005)" fill="var(--red)" fill-rule="evenodd"></path>
-            </svg></span>
-          </a>
-        </div>
-      {% endif %}
-      <div style="margin-top: 2em;">
-        <a class="pcast-download" href='{{ page.libsyn_link }}' download>Download <svg id="Download" xmlns="http://www.w3.org/2000/svg" width="14.97" height="14.554" viewBox="0 0 14.97 14.554">
-        <path id="Path" d="M9.975,4.977H7.431V0h-5.1V4.977H0l5.03,5Z" transform="translate(2.493 0.108)" fill="#f4364c"></path>
-        <path id="Path-2" data-name="Path" d="M12.469,0V2.494H2.494V0H0V4.987H14.963V0Z" transform="translate(0.004 9.459)" fill="#f4364c"></path>
-        </svg></a>
-      </div>
-      <div class="pcast-player" style="margin-top: 1em;">
+<div>
+      <div>
+        {% for block in page.page_blocks %}
+          {% if block.template == "slideshow-block" %}
+            {% include block_r_slideshow.html %}
+          {% endif %}
+        {% endfor %}
+       <div class="text-block" style="margin-top: 2em;">{{ page.description }}</div>
+     
+       <div class="pcast-player" style="position: sticky; margin-top: 0; top: 82px; padding: 1em 0 2em 0; background-color: #fff;">
         <div class="pcast-player-controls">
           <div class="pcast-player-title">Episode {{ page.episode_number }}: {{ page.title }}</div>
           <button class="pcast-play"><i class="fa fa-play"></i><span>Play</span></button>
@@ -64,9 +24,13 @@
         </div>
         <audio src="{{ page.libsyn_link }}"></audio>
       </div>
-      {% endif %}
-    </div>
+
+      <hr>
+      <p><strong>Transcript:</strong> {{ page.transcript }}</p>
+
+      </div>    
   </div>
+</div>
 
 {% include prefooter.html %}
 
