@@ -75,6 +75,26 @@ fields:
   showOnly:
     field: podcast_available
     value: true
+- name: transcript
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  label: Transcript
+- name: page_blocks
+  type: blocks
+  label: Page Blocks
+  template_types:
+  - slideshow-block
+  - portrait-gallery-block-small
+  - featured-portrait-block
+  - podcast-related-reading
+  config:
+    min: 
+    max: 
 - name: navCategory
   type: text
   config:
@@ -89,6 +109,12 @@ fields:
   label: layout
   hidden: true
   default: full-podcast-page
+- name: permalink
+  type: text
+  config:
+    required: false
+  label: permalink
+  hidden: true
 pages:
 - _podcasts/finding-julia-morgan.md
 - _podcasts/natalie-de-blois-to-tell-the-truth.md
