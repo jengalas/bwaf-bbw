@@ -25,3 +25,7 @@ fields:
     max: 
     labelField: 
   label: Slideshow Image
+- name: automatic
+  type: boolean
+  label: Automatic
+  description: Should the slideshow run automatically?
