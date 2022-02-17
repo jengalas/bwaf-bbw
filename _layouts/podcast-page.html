@@ -99,7 +99,7 @@
     </div>
     <div>{{ podcast.description }}
       {% if podcast.podcast_available == true %}      
-        <!-- <p><a href="/resources/podcasts/{{ podcast.url | split: '/' | last }}">Learn more</a></p> -->
+        <p><a href="/resources/podcasts/{{ podcast.url | split: '/' | last }}">Learn more</a></p>
       {% endif %} 
       {% if podcast.podcast_available != true %}
         <p class="podcast-coming-soon">Coming soon!</p>
