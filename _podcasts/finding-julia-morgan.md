@@ -13,5 +13,17 @@ libsyn_link: https://traffic.libsyn.com/secure/bwafnewanglevoice/01_New_Angle_Vo
 apple_podcast_link: https://podcasts.apple.com/us/podcast/new-angle-voice/id1589782338?i=1000538211822
 google_podcast_link: https://podcasts.google.com/feed/aHR0cHM6Ly9id2FmbmV3YW5nbGV2b2ljZS5saWJzeW4uY29tL3Jzcw/episode/YmI0NjhiY2ItOGY4NS00NGYwLThhMDAtMGFjODJiZWMwN2Vi?sa=X&ved=0CAUQkfYCahcKEwjY_5WKiqj1AhUAAAAAHQAAAAAQFg
 spotify_link: https://open.spotify.com/episode/75C6SMTYmLV86WsRjI5loE
+transcript: ''
+page_blocks:
+- template: podcast-related-reading
+  section_break: false
+  include_left-hand_column_text_: false
+  lefthand_text:
+    header_type: ''
+    text: ''
+    download: ''
+    link_url: ''
+    link_text: ''
+  related_reading: []
 
 ---
