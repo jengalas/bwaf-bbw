@@ -10,9 +10,9 @@ description: "<p>A senior designer and associate partner at Skidmore, Owings &am
   Esperdy, Carol Krinsky, Liz Waycus, John Newman, and Audrey Matlock.</p>"
 podcast_available: true
 libsyn_link: https://traffic.libsyn.com/bwafnewanglevoice/Natalie_de_Blois_-_FINAL_20220215_rx.mp3
-apple_podcast_link: ''
-google_podcast_link: ''
-spotify_link: ''
+apple_podcast_link: https://podcasts.apple.com/us/podcast/episode-2-natalie-de-blois-to-tell-the-truth/id1589782338?i=1000551197392
+google_podcast_link: https://podcasts.google.com/feed/aHR0cHM6Ly9id2FmbmV3YW5nbGV2b2ljZS5saWJzeW4uY29tL3Jzcw/episode/NWI4ZGIzMTEtMDI4OS00MDQ2LTlmM2MtNjc4MmJmZmM3NjBk?sa=X&ved=0CAUQkfYCahcKEwjItICi-of2AhUAAAAAHQAAAAAQBA
+spotify_link: https://open.spotify.com/episode/4bTtMPNEft5wrh0PnaZxjQ
 transcript: ''
 page_blocks: []
 
