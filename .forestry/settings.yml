@@ -55,7 +55,7 @@ sections:
   templates:
   - bbw-jury
 - type: heading
-  label: Msc. Collections
+  label: Misc. Collections
 - type: directory
   path: _films
   label: Films (For Film Collections)
@@ -78,7 +78,7 @@ sections:
   templates:
   - podcast-episode
 - type: heading
-  label: Msc. Pages
+  label: Misc. Pages
 - type: document
   path: index.html
   label: Homepage
