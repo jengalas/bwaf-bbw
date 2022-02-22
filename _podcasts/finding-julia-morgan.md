@@ -54,6 +54,8 @@ page_blocks:
 - template: slideshow-block
   automatic: true
   image:
+  - image: "/v1634144135/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-118_afmfw8.jpg"
+    caption: Bev
   - image: "/v1643243280/1_1926_morgan-julia-studio-portrait_jm-cal-poly-720x720_y16i32.jpg"
     caption: JM
   - image: "/v1643050566/Ebbie_Headshot_ytuxeq.jpg"
