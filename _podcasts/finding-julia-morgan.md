@@ -13,7 +13,7 @@ libsyn_link: https://traffic.libsyn.com/secure/bwafnewanglevoice/01_New_Angle_Vo
 apple_podcast_link: https://podcasts.apple.com/us/podcast/new-angle-voice/id1589782338?i=1000538211822
 google_podcast_link: https://podcasts.google.com/feed/aHR0cHM6Ly9id2FmbmV3YW5nbGV2b2ljZS5saWJzeW4uY29tL3Jzcw/episode/YmI0NjhiY2ItOGY4NS00NGYwLThhMDAtMGFjODJiZWMwN2Vi?sa=X&ved=0CAUQkfYCahcKEwjY_5WKiqj1AhUAAAAAHQAAAAAQFg
 spotify_link: https://open.spotify.com/episode/75C6SMTYmLV86WsRjI5loE
-transcript: '<h2>1914 translation by H. Rackham</h2><p>"But I must explain to you
+transcript: '<h2>1918 translation by H. Rackham</h2><p>"But I must explain to you
   how all this mistaken idea of denouncing pleasure and praising pain was born and
   I will give you a complete account of the system, and expound the actual teachings
   of the great explorer of the truth, the master-builder of human happiness. No one
