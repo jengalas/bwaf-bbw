@@ -377,16 +377,6 @@ page_blocks:
       of Alabama in 2020 with a degree in Advertising and Art. She is looking forward
       to working with the community around her to build up and acknowledge women''s
       achievements in the design and building industry. '
-  - title: 'Iliana Smith '
-    title_role: Programs and Communications Coordinator
-    image: "/v1641831044/1630678362131-1_jeqk6j.jpg"
-    description: "Iliana is the Programs and Communications Coordinator for Beverly
-      Willis Architecture Foundation. She joins BWAF with a background in new development
-      marketing, architecture, and arts nonprofit organizations. She has previously
-      worked for Corcoran Sunshine Marketing Group, where she worked on comprehensive
-      design and marketing planning for luxury new developments around New York City.
-      She is currently a Master's Candidate at Rutgers University studying English
-      and Visual Culture and got her bachelor's from Wellesley College. \n"
   section_break: false
 description: Beverly Willis Architecture Foundation Board and Staff
 date: 
