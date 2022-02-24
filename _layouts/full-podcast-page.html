@@ -6,7 +6,7 @@
   <div class="podcast">            
     <p class="podcast-episode-number">Episode {{ page.episode_number }}</p>
     <h3 style="position: static;"><b><i>{{ page.title }}</i></b></h3>
-    <img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload{{ page.thumbnail_image }}" class="podcast-thumbnail" style="position: sticky;">
+    <img src="{{site.cloudinary}}{{ page.thumbnail_image }}" class="podcast-thumbnail" style="position: sticky;">
     {% if page.podcast_available == true %}
 
     {% if page.apple_podcast_link != '' or page.google_podcast_link != '' or page.spotify_link != '' %}
@@ -50,7 +50,7 @@
         <path id="Path-2" data-name="Path" d="M12.469,0V2.494H2.494V0H0V4.987H14.963V0Z" transform="translate(0.004 9.459)" fill="#f4364c"></path>
         </svg></a>
       </div>
-      <div class="pcast-player" style="margin-top: 1em;">
+      <div id="sidebar-player" class="pcast-player" style="margin-top: 1em;">
         <div class="pcast-player-controls">
           <div class="pcast-player-title">Episode {{ page.episode_number }}: {{ page.title }}</div>
           <button class="pcast-play"><i class="fa fa-play"></i><span>Play</span></button>
@@ -68,6 +68,22 @@
     </div>
   </div>
   <div>
+
+    <div id="fullsize-player" class="pcast-player" style="position: sticky; margin-top: 0; top: 82px; padding: 1em 0 2em 0; background-color: #fff;">
+      <div class="pcast-player-controls">
+        <div class="pcast-player-title">Episode {{ page.episode_number }}: {{ page.title }}</div>
+        <button class="pcast-play"><i class="fa fa-play"></i><span>Play</span></button>
+        <button class="pcast-pause"><i class="fa fa-pause"></i><span>Pause</span></button>
+        <button class="pcast-rewind"><i class="fa fa-fast-backward"></i><span>Rewind</span></button>
+        <span class="pcast-currenttime pcast-time">00:00</span>
+        <progress class="pcast-progress" value="0"></progress>
+        <span class="pcast-duration pcast-time">00:00</span>
+        <button class="pcast-speed">1x</button>
+        <button class="pcast-mute"><i class="fa fa-volume-up"></i><span>Mute/Unmute</span></button>
+      </div>
+      <audio src="{{ page.libsyn_link }}"></audio>
+    </div>
+
       <div>
         {% for block in page.page_blocks %}
           {% if block.template == "slideshow-block" %}
@@ -76,20 +92,7 @@
         {% endfor %}
        <div class="text-block" style="margin-top: 2em;">{{ page.description }}</div>
      
-       <div class="pcast-player" style="position: sticky; margin-top: 0; top: 82px; padding: 1em 0 2em 0; background-color: #fff;">
-        <div class="pcast-player-controls">
-          <div class="pcast-player-title">Episode {{ page.episode_number }}: {{ page.title }}</div>
-          <button class="pcast-play"><i class="fa fa-play"></i><span>Play</span></button>
-          <button class="pcast-pause"><i class="fa fa-pause"></i><span>Pause</span></button>
-          <button class="pcast-rewind"><i class="fa fa-fast-backward"></i><span>Rewind</span></button>
-          <span class="pcast-currenttime pcast-time">00:00</span>
-          <progress class="pcast-progress" value="0"></progress>
-          <span class="pcast-duration pcast-time">00:00</span>
-          <button class="pcast-speed">1x</button>
-          <button class="pcast-mute"><i class="fa fa-volume-up"></i><span>Mute/Unmute</span></button>
-        </div>
-        <audio src="{{ page.libsyn_link }}"></audio>
-      </div>
+       
 
       <hr>
       <p><strong>Transcript:</strong> {{ page.transcript }}</p>

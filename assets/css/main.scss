@@ -1373,6 +1373,26 @@ figcaption, .smallest{
 }
 
 /* Podcast Player */
+
+@media (max-width: 1200px) {    
+    #sidebar-player {
+        display: none;
+    }
+    #fullsize-player {
+        display: block;
+    }
+}
+
+@media (min-width: 1201px) {    
+    #sidebar-player {
+        display: block;
+    }
+    #fullsize-player {
+        display: none;
+    }
+}
+
+
 .pcast-player {
   
   .pcast-player-controls {
