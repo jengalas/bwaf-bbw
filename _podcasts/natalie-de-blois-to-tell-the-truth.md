@@ -25,11 +25,6 @@ page_blocks:
     link_url: ''
     link_text: ''
   portrait:
-  - title: Julia Murphy, AIA, LEED AP
-    title_role: Managing Principal, USA + Canada East Practice Leader, Skidmore, Owings
-      & Merrill
-    image: "/v1645669164/julia_murphy_l0fqxo.jpg"
-    description: ''
   - title: Gabrielle Esperdy
     title_role: Professor, Hillier College of Arch & Design, New Jersey Institute
       of Technology
@@ -62,6 +57,11 @@ page_blocks:
   - title: Liz Watykus
     title_role: Executive Director, Docomomo US
     image: "/v1645669114/liz_waytkus_juiobz.jpg"
+    description: ''
+  - title: Julia Murphy, AIA, LEED AP
+    title_role: Managing Principal, USA + Canada East Practice Leader, Skidmore, Owings
+      & Merrill
+    image: "/v1645669164/julia_murphy_l0fqxo.jpg"
     description: ''
   header: ''
 
