@@ -25,14 +25,14 @@ page_blocks:
     link_url: ''
     link_text: ''
   portrait:
-  - title: Carol Krinsky
-    title_role: Professor of Art History, NYU
-    image: "/v1645668624/CarolKrinsky_iqsovp.jpg"
-    description: ''
   - title: Gabrielle Esperdy
     title_role: Professor, Hillier College of Arch & Design, New Jersey Institute
       of Technology
     image: "/v1645668528/Gabrielle_Esperdy_kasdxs.png"
+    description: ''
+  - title: Carol Krinsky
+    title_role: Professor of Art History, NYU
+    image: "/v1645668624/CarolKrinsky_iqsovp.jpg"
     description: ''
   header: ''
 
