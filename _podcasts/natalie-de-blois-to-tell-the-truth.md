@@ -14,6 +14,22 @@ apple_podcast_link: https://podcasts.apple.com/us/podcast/episode-2-natalie-de-b
 google_podcast_link: https://podcasts.google.com/feed/aHR0cHM6Ly9id2FmbmV3YW5nbGV2b2ljZS5saWJzeW4uY29tL3Jzcw/episode/NWI4ZGIzMTEtMDI4OS00MDQ2LTlmM2MtNjc4MmJmZmM3NjBk?sa=X&ved=0CAUQkfYCahcKEwjItICi-of2AhUAAAAAHQAAAAAQBA
 spotify_link: https://open.spotify.com/episode/4bTtMPNEft5wrh0PnaZxjQ
 transcript: ''
-page_blocks: []
+page_blocks:
+- template: portrait-gallery-block-small
+  section_break: true
+  include_left-hand_column_text_: true
+  lefthand_text:
+    header_type: Medium Header
+    text: Credits
+    download: ''
+    link_url: ''
+    link_text: ''
+  portrait:
+  - title: Gabrielle Esperdy
+    title_role: Professor, Hillier College of Arch & Design, New Jersey Institute
+      of Technology
+    image: "/v1645668528/Gabrielle_Esperdy_kasdxs.png"
+    description: ''
+  header: ''
 
 ---
