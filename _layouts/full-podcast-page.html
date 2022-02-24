@@ -6,7 +6,7 @@
   <div class="podcast">            
     <p class="podcast-episode-number">Episode {{ page.episode_number }}</p>
     <h3 style="position: static;"><b><i>{{ page.title }}</i></b></h3>
-    <img src="{{ page.thumbnail_image }}" class="podcast-thumbnail" style="position: sticky;">
+    <img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload{{ page.thumbnail_image }}" class="podcast-thumbnail" style="position: sticky;">
     {% if page.podcast_available == true %}
 
     {% if page.apple_podcast_link != '' or page.google_podcast_link != '' or page.spotify_link != '' %}

@@ -632,9 +632,6 @@ p.lg{
     top: 8px;
 }
 
-
-
-
 .main-two-up{
     display:flex;
     padding:var(--margin);
@@ -652,6 +649,20 @@ p.lg{
         > *:not(.lefthand-link){
             max-width:360px;
         }
+        >.podcast {
+            position: sticky; 
+            margin-top: 0; 
+            top: 100px;
+            .listen {
+                color: var(--red);
+                font-family: 'GT America', sans-serif;
+                font-weight: bold;
+                font-size: 24px;
+                line-height: 30px;
+                display: inline-block;
+                max-width: 300px;
+            }
+        }
     }
     > div.podcast{
         h2, h3, .h3 {
@@ -665,8 +676,18 @@ p.lg{
             line-height: 30px;
             display: inline-block;
             max-width: 300px;
+        }            
+    }
+
+    .podcast-related-reading {
+        h5 {
+            font-size: 30px;
+        }
+        .description {
+            font-family: 'William Text Regular', serif;
         }
     }
+    
     .pcast-download {
         color: var(--red);
         font-family: 'GT America', sans-serif;
@@ -829,6 +850,9 @@ p.lg{
         }
         > div:nth-child(4n+4){
             margin-right:0px;
+        }
+        p {
+            font-family: 'William Text Regular', serif;
         }
     }
     .portrait-gallery-block-small::after {
