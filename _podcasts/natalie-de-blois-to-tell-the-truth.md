@@ -25,9 +25,9 @@ page_blocks:
     link_url: ''
     link_text: ''
   portrait:
-  - title: Peter Dixon
-    title_role: Senior Partner, Chief Creative Officer, Prophet
-    image: "/v1645669027/dixon_qfjlo3.jpg"
+  - title: Liz Watykus
+    title_role: Executive Director, Docomomo US
+    image: "/v1645669114/liz_waytkus_juiobz.jpg"
     description: ''
   - title: Gabrielle Esperdy
     title_role: Professor, Hillier College of Arch & Design, New Jersey Institute
@@ -49,6 +49,14 @@ page_blocks:
   - title: Margaret McCurry, FAIA
     title_role: Principal, Tigerman McCurry
     image: "/v1645668974/mccurry_2_nzwc1q.jpg"
+    description: ''
+  - title: Peter Dixon
+    title_role: Senior Partner, Chief Creative Officer, Prophet
+    image: "/v1645669027/dixon_qfjlo3.jpg"
+    description: ''
+  - title: John Newman
+    title_role: Director, Snøhetta
+    image: "/v1645669080/john-newman_xemxpz.jpg"
     description: ''
   header: ''
 
