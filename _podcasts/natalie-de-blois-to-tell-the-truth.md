@@ -25,6 +25,10 @@ page_blocks:
     link_url: ''
     link_text: ''
   portrait:
+  - title: Peter Dixon
+    title_role: Senior Partner, Chief Creative Officer, Prophet
+    image: "/v1645669027/dixon_qfjlo3.jpg"
+    description: ''
   - title: Gabrielle Esperdy
     title_role: Professor, Hillier College of Arch & Design, New Jersey Institute
       of Technology
