@@ -25,10 +25,6 @@ page_blocks:
     link_url: ''
     link_text: ''
   portrait:
-  - title: Margaret McCurry, FAIA
-    title_role: Principal, Tigerman McCurry
-    image: "/v1645668974/mccurry_2_nzwc1q.jpg"
-    description: ''
   - title: Gabrielle Esperdy
     title_role: Professor, Hillier College of Arch & Design, New Jersey Institute
       of Technology
@@ -45,6 +41,10 @@ page_blocks:
   - title: Carol Ross Barney, FAIA, Hon. ASLA
     title_role: Design Principal and Founder Ross Barney Architects
     image: "/v1645668923/Carol-Ross-Barney_l1ipve.jpg"
+    description: ''
+  - title: Margaret McCurry, FAIA
+    title_role: Principal, Tigerman McCurry
+    image: "/v1645668974/mccurry_2_nzwc1q.jpg"
     description: ''
   header: ''
 
