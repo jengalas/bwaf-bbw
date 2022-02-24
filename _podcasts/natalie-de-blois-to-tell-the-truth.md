@@ -34,6 +34,10 @@ page_blocks:
     title_role: Professor of Art History, NYU
     image: "/v1645668624/CarolKrinsky_iqsovp.jpg"
     description: ''
+  - title: Audrey Matlock, AIA
+    title_role: Principal at Audrey Matlock Architect
+    image: ''
+    description: ''
   header: ''
 
 ---
