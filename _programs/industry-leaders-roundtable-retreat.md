@@ -49,7 +49,7 @@ page_blocks:
     download: ''
     link_url: ''
     link_text: ''
-  text_block: In its twelfth year, the Industry Leaders Roundtable brings together
+  text_block: In its eleventh year, the Industry Leaders Roundtable brings together
     thought leaders in organizational psychology, sociology, law, architecture and
     engineering to change culture by providing research, information and action-oriented
     programs to achieve greater representation of women in the AEC industries.
