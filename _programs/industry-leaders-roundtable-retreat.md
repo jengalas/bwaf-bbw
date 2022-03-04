@@ -16,18 +16,7 @@ page_blocks:
     link_url: ''
     link_text: ''
   section_break: false
-- template: slideshow-block
-  image:
-  - image: "/v1641308144/ROUNDTABLE21_SAVEfront_FINALrev_kasnpk.jpg"
-    caption: 2022 Roundtable Retreat
-  - image: "/v1637006612/Screen_Shot_2021-11-15_at_3.01.20_PM_lyr1f7.png"
-    caption: ''
-  - image: "/v1618426963/IMG_1662_2_e5j5bi.jpg"
-    caption: Industry Leaders Roundtable Retreat, Los Angeles, CA, December 2-3, 2019
-  - image: "/v1621354567/RT5_uiahzn.jpg"
-    caption: Industry Leaders Roundtable Retreat, Miami, FL, December 3-4, 2018
-  - image: "/v1621354718/IMG_9661_wszhuh.jpg"
-    caption: Industry Leaders Roundtable Retreat, Chicago, IL, October 23-24, 2017
+- template: image-block
   section_break: false
   include_left-hand_column_text_: false
   lefthand_text:
@@ -36,6 +25,21 @@ page_blocks:
     download: ''
     link_url: ''
     link_text: ''
+  image: "/v1646413001/ROUNDTABLE2022_2_dag9p3.png"
+  alt_text: ''
+  image_caption_text: ''
+- template: image-block
+  image: "/v1646412948/ROUNDTABLE2022_222_nly5oi.png"
+  section_break: false
+  include_left-hand_column_text_: false
+  lefthand_text:
+    header_type: ''
+    text: ''
+    download: ''
+    link_url: ''
+    link_text: ''
+  alt_text: ''
+  image_caption_text: ''
 - template: text-block
   section_break: true
   include_left-hand_column_text_: true
@@ -110,6 +114,27 @@ page_blocks:
     Roundtable Retreat. As the retreat is limited to 20 participants, we recommend
     prompt registration.
   section_break: true
+- template: slideshow-block
+  image:
+  - image: "/v1641308144/ROUNDTABLE21_SAVEfront_FINALrev_kasnpk.jpg"
+    caption: 2022 Roundtable Retreat
+  - image: "/v1637006612/Screen_Shot_2021-11-15_at_3.01.20_PM_lyr1f7.png"
+    caption: ''
+  - image: "/v1618426963/IMG_1662_2_e5j5bi.jpg"
+    caption: Industry Leaders Roundtable Retreat, Los Angeles, CA, December 2-3, 2019
+  - image: "/v1621354567/RT5_uiahzn.jpg"
+    caption: Industry Leaders Roundtable Retreat, Miami, FL, December 3-4, 2018
+  - image: "/v1621354718/IMG_9661_wszhuh.jpg"
+    caption: Industry Leaders Roundtable Retreat, Chicago, IL, October 23-24, 2017
+  section_break: false
+  include_left-hand_column_text_: false
+  lefthand_text:
+    header_type: ''
+    text: ''
+    download: ''
+    link_url: ''
+    link_text: ''
+  automatic: false
 - template: cta-block
   include_left-hand_column_text_: true
   lefthand_text:
