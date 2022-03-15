@@ -1,5 +1,5 @@
 ---
-thumbnail_image: "/v1647367888/Helen_Liu_Fong_Hirshowitz__2000_aroaqu.jpg"
+thumbnail_image: "/v1647368159/Helen_Liu_Fong_Hirshowitz_2000_yunom2.jpg"
 navCategory: Resources
 layout: full-podcast-page
 title: 'Fast Food and Radical Rooflines: Helen Fong Shapes Los Angeles Coffee Shops'
