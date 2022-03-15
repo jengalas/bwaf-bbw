@@ -12,9 +12,15 @@ description: "<p>Who hasn't had a burger and fries at a Denny's or Bob's Big Boy
   Helen Fong.</p>"
 podcast_available: true
 libsyn_link: https://traffic.libsyn.com/secure/bwafnewanglevoice/HELEN_FONG_031322_RX.mp3?dest-id=2968526
-apple_podcast_link: ''
-google_podcast_link: ''
-spotify_link: ''
+apple_podcast_link: 'Natalie de Blois (1921–2013) contributed to some of the most
+  iconic modernist works for corporate America, all while raising four children.  After
+  leaving this significant mark on post-war Park Avenue, she transferred to the SOM
+  Chicago office, where she became actively involved in the architecture feminist
+  movement and was one of the leaders in the newly formed Chicago Women in Architecture
+  advocacy group.  Later, she finished her career as a professor at UT Austin, where
+  she trained a future generation of architects.  '
+google_podcast_link: https://podcasts.google.com/feed/aHR0cHM6Ly9id2FmbmV3YW5nbGV2b2ljZS5saWJzeW4uY29tL3Jzcw/episode/OWVkYzQ2MWMtZjAyNi00MWYxLWE4M2UtMGM0MmEwNmJmNzI5?sa=X&ved=0CAUQkfYCahcKEwjA7abv2Mj2AhUAAAAAHQAAAAAQAQ
+spotify_link: https://open.spotify.com/episode/4td4FdMUXnKnP8NFaJhfbZ
 transcript: ''
 page_blocks: []
 published: false
