@@ -1,5 +1,5 @@
 ---
-thumbnail_image: "/v1621525047/Screen_Shot_2021-05-20_at_11.35.45_AM_m7p1bo.png"
+thumbnail_image: "/v1647435887/norma-sklarek_f2e5hm.png"
 navCategory: Resources
 layout: full-podcast-page
 title: 'Norma Sklarek: An Extremely Bold Hand'
