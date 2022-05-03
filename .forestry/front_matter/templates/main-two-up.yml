@@ -61,6 +61,7 @@ fields:
   hidden: false
   default: now
 pages:
+- _emerging-leaders/agility-ambition-authenticity.md
 - _emerging-leaders/competition-compensation-confidence.md
 - _emerging-leaders/determination-design-profit.md
 - _emerging-leaders/imagination-integrity-influence.md
