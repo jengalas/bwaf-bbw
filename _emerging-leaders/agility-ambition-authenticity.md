@@ -64,7 +64,7 @@ page_blocks:
     link_text: ''
   featured-portrait: []
   header: AMBITION
-  image: ''
+  image: "/v1652204028/psaetgw3fglgf5cndixu_bgqniz.jpg"
   label: SPEAKER
   title: Danielle Tillman, AIA, NOMA
   subtitle: Managing Principal, bKL Architecture
