@@ -51,8 +51,8 @@ page_blocks:
     with discretion and subtlety, along with a fair amount of fearlessness and verve.
     Hear from a seasoned career changer about how she rode to the top.
   time-location:
-    line-1: ''
-    line-2: ''
+    line-1: 'When: Tuesday, June 14, 6:30-8PM'
+    line-2: Virtual Session
 - template: featured-portrait-block
   section_break: false
   include_left-hand_column_text_: false
