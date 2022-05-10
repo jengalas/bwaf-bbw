@@ -268,7 +268,7 @@ page_blocks:
       Jennifer is an active participant, mentor, and volunteer in her professional community. As a council member of the Society for College and University Planning, she shares her extensive knowledge and stays current with global best practices. Her presentations at numerous professional conferences and her leadership roles with the New York Building Congress Foundation, ACE Mentorship Programs, and the Urban Land Institute, as well as the firm's own Women Leadership Initiative and Sustainability Committee, testify to her commitment to developing and opening the field of architecture.
   - title: Danielle Tillman, AIA, NOMA
     title_role: Trustee
-    image: "/v1643050975/R_c2dkjm.jpg"
+    image: "/v1652204028/psaetgw3fglgf5cndixu_bgqniz.jpg"
     description: "Over the course of her career, Danielle Tillman has become an expert
       at infusing architecture with social consciousness. Her orientation toward community
       service and civic engagement has drawn her to education and institutional projects.
