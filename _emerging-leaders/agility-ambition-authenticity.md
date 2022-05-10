@@ -85,15 +85,18 @@ page_blocks:
     link_url: ''
     link_text: ''
   featured-portrait: []
-  header: ''
-  image: ''
-  label: ''
-  title: ''
-  subtitle: ''
-  description: ''
+  header: AUTHENTICITY
+  image: "/v1643045203/Annya_Headshot-min_qm0qnb.jpg"
+  label: SPEAKER
+  title: Annya Ramírez-Jiménez, AIA
+  subtitle: Director, Marvel Architects
+  description: 'Bring your whole self to work. The women who rise to the top are not
+    holding themselves back. By using all of our resources, both professional, like
+    networks and mentoring relationships, and our inner reserves of resilience, persistence
+    and drive, we are able to overcome the implicit bias around our gender. '
   time-location:
-    line-1: ''
-    line-2: ''
+    line-1: 'When: Tuesday, August 23, 6:30-8PM'
+    line-2: Virtual Session
 published: false
 
 ---
