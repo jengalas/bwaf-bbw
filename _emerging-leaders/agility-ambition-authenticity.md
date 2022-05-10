@@ -63,15 +63,18 @@ page_blocks:
     link_url: ''
     link_text: ''
   featured-portrait: []
-  header: ''
+  header: AMBITION
   image: ''
-  label: ''
-  title: ''
-  subtitle: ''
-  description: ''
+  label: SPEAKER
+  title: Danielle Tillman, AIA, NOMA
+  subtitle: Managing Principal, bKL Architecture
+  description: Cultivating your ambition, setting realizable “reach” goals, mobilizing
+    your inner resources with a strong desire for achievement…this is the path to
+    creativity and innovation, greater levels of performance and deeper levels of
+    satisfaction from work.  How are you focusing on your own growth?
   time-location:
-    line-1: ''
-    line-2: ''
+    line-1: 'When: Tuesday, July 19, 6:30-8PM'
+    line-2: Virtual Session
 - template: featured-portrait-block
   section_break: false
   include_left-hand_column_text_: false
