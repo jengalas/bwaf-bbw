@@ -42,9 +42,9 @@ page_blocks:
   featured-portrait: []
   header: AGILITY
   image: "/v1643050566/Ebbie_Headshot_ytuxeq.jpg"
-  label: Ebbie Wisecarver
-  title: SVP, Global Head of Design
-  subtitle: WeWork
+  label: Speaker
+  title: Ebbie Wisecarver
+  subtitle: SVP, Global Head of Design, WeWork
   description: How do we navigate obstacles in our careers? Do we charge at the fences,
     stumble and fall? Or do we imagine that our careers are a different kind of obstacle
     course, one where many impediments to our fulfillment and success need to be approached
