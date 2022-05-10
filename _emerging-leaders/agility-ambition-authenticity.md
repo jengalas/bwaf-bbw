@@ -32,20 +32,24 @@ page_blocks:
     link_text: ''
 - template: featured-portrait-block
   section_break: false
-  include_left-hand_column_text_: false
+  include_left-hand_column_text_: true
   lefthand_text:
-    header_type: ''
-    text: ''
+    header_type: Medium Header
+    text: Agility, Ambition, Authenticity
     download: ''
     link_url: ''
     link_text: ''
   featured-portrait: []
-  header: ''
-  image: ''
-  label: ''
-  title: ''
-  subtitle: ''
-  description: ''
+  header: AGILITY
+  image: "/v1643050566/Ebbie_Headshot_ytuxeq.jpg"
+  label: Ebbie Wisecarver
+  title: SVP, Global Head of Design
+  subtitle: WeWork
+  description: How do we navigate obstacles in our careers? Do we charge at the fences,
+    stumble and fall? Or do we imagine that our careers are a different kind of obstacle
+    course, one where many impediments to our fulfillment and success need to be approached
+    with discretion and subtlety, along with a fair amount of fearlessness and verve.
+    Hear from a seasoned career changer about how she rode to the top.
   time-location:
     line-1: ''
     line-2: ''
