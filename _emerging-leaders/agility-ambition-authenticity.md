@@ -30,7 +30,7 @@ page_blocks:
     download: https://www.dropbox.com/s/jqp96u3cjozp1yy/Emerging%20Leaders%20Application_2022.pdf?dl=0
     link_url: ''
     link_text: ''
-- template: portrait-gallery-template
+- template: featured-portrait-block
   section_break: false
   include_left-hand_column_text_: false
   lefthand_text:
@@ -39,8 +39,17 @@ page_blocks:
     download: ''
     link_url: ''
     link_text: ''
-  portrait: []
-- template: portrait-gallery-template
+  featured-portrait: []
+  header: ''
+  image: ''
+  label: ''
+  title: ''
+  subtitle: ''
+  description: ''
+  time-location:
+    line-1: ''
+    line-2: ''
+- template: featured-portrait-block
   section_break: false
   include_left-hand_column_text_: false
   lefthand_text:
@@ -49,8 +58,17 @@ page_blocks:
     download: ''
     link_url: ''
     link_text: ''
-  portrait: []
-- template: portrait-gallery-template
+  featured-portrait: []
+  header: ''
+  image: ''
+  label: ''
+  title: ''
+  subtitle: ''
+  description: ''
+  time-location:
+    line-1: ''
+    line-2: ''
+- template: featured-portrait-block
   section_break: false
   include_left-hand_column_text_: false
   lefthand_text:
@@ -59,7 +77,16 @@ page_blocks:
     download: ''
     link_url: ''
     link_text: ''
-  portrait: []
+  featured-portrait: []
+  header: ''
+  image: ''
+  label: ''
+  title: ''
+  subtitle: ''
+  description: ''
+  time-location:
+    line-1: ''
+    line-2: ''
 published: false
 
 ---
