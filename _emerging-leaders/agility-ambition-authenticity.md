@@ -21,7 +21,9 @@ page_blocks:
 - template: text-block
   text_block: "In response to the ongoing coronavirus pandemic, the 2022 Emerging
     Leaders programs are being hosted as virtual sessions with inspirational speakers,
-    and limited to 23 participants. \nThe total cost of the program is $350 per participant. "
+    and limited to 23 participants. The total cost of the program is $350 per participant.
+    \n\nThe dates of the three Spring sessions are: June 14, July 19 and August 23.
+    Each session takes place between 6:30-8PM."
   include_left-hand_column_text_: true
   section_break: true
   lefthand_text:
