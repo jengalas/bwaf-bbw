@@ -28,7 +28,7 @@ page_blocks:
     text: Download the application form
     download: https://www.dropbox.com/s/jqp96u3cjozp1yy/Emerging%20Leaders%20Application_2022.pdf?dl=0
     link_url: ''
-    link_text: ''
+    link_text: https://www.dropbox.com/s/jqp96u3cjozp1yy/Emerging%20Leaders%20Application_2022.pdf?dl=0
 - template: featured-portrait-block
   section_break: false
   include_left-hand_column_text_: true
