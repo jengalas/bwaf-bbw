@@ -97,6 +97,5 @@ page_blocks:
   time-location:
     line-1: 'When: Tuesday, August 23, 6:30-8PM'
     line-2: Virtual Session
-published: false
 
 ---
