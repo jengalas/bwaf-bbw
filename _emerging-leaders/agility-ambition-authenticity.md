@@ -17,7 +17,7 @@ page_blocks:
   text_block: |-
     Beverly Willis Architecture Foundation Emerging Leaders program is a New York-based, selective professional development opportunity for women 5–10 years out of school. In small group format, invitees engage with significant senior women in architecture, engineering, construction, real estate, law, and financial services to advance their own career goals. Participants share common experiences and trade personal strategies for success.
 
-    Applications for the summer program are open and we have extended the application deadline- Please send completed applications along with a resume to veskridge@bwaf.org by Monday, June 20, 2022.
+    Applications for the summer program are open and we have extended the application deadline- Please send completed applications along with a resume to veskridge@bwaf.org by Monday, June 20, 2022. Sessions will take place on June 28th, July 19th, and August 23rd.
 - template: text-block
   text_block: "In response to the ongoing coronavirus pandemic, the 2022 Emerging
     Leaders programs are being hosted as virtual sessions with inspirational speakers,
@@ -51,7 +51,7 @@ page_blocks:
     with discretion and subtlety, along with a fair amount of fearlessness and verve.
     Hear from a seasoned career changer about how she rode to the top.
   time-location:
-    line-1: 'When: Tuesday, June 14, 6:30-8PM'
+    line-1: 'When: Tuesday, July 19, 6:30-8PM'
     line-2: Virtual Session
 - template: featured-portrait-block
   section_break: false
@@ -73,7 +73,7 @@ page_blocks:
     creativity and innovation, greater levels of performance and deeper levels of
     satisfaction from work.  How are you focusing on your own growth?
   time-location:
-    line-1: 'When: Tuesday, July 19, 6:30-8PM'
+    line-1: 'When: Tuesday, June 28th, 6:30-8PM'
     line-2: Virtual Session
 - template: featured-portrait-block
   section_break: false
