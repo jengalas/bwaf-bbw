@@ -11,6 +11,9 @@ sign-up-text: Sign up for the newsletter and get the latest news on upcoming pro
   and events
 newsletters:
 - title: Angles
+  month_year: January 2022
+  link: https://mailchi.mp/bwaf/b5rrdu42wi-2995184?e=[UNIQID]
+- title: Angles
   month_year: 'December 2021 '
   link: https://mailchi.mp/bwaf/b5rrdu42wi-2995174
 - title: 'Special Blast '
