@@ -12,7 +12,7 @@ sign-up-text: Sign up for the newsletter and get the latest news on upcoming pro
 newsletters:
 - title: Special Blast
   month_year: June 2022
-  link: https://us1.admin.mailchimp.com/campaigns/show?id=2995252
+  link: https://mailchi.mp/bwaf/new-bwaf-emerging-leaders-dates
 - title: Angles
   month_year: April/May 2022
   link: https://mailchi.mp/bwaf/87i3obsl38
