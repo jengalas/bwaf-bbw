@@ -10,6 +10,9 @@ description: Angles (formerly Dispatches From Home, formerly Briefly News) is th
 sign-up-text: Sign up for the newsletter and get the latest news on upcoming programs
   and events
 newsletters:
+- title: Angles
+  month_year: April/May 2022
+  link: https://mailchi.mp/bwaf/87i3obsl38
 - title: Special Blast
   month_year: May
   link: https://mailchi.mp/bwaf/new-angle-voice-hit-30k-downloads
