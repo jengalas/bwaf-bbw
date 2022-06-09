@@ -10,6 +10,9 @@ description: Angles (formerly Dispatches From Home, formerly Briefly News) is th
 sign-up-text: Sign up for the newsletter and get the latest news on upcoming programs
   and events
 newsletters:
+- title: Special Blast
+  month_year: June 2022
+  link: https://us1.admin.mailchimp.com/campaigns/show?id=2995252
 - title: Angles
   month_year: April/May 2022
   link: https://mailchi.mp/bwaf/87i3obsl38
