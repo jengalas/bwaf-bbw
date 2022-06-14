@@ -29,10 +29,10 @@ page_blocks:
     link_url: ''
     link_text: ''
 - template: slideshow-block
-  include_left-hand_column_text_: false
+  include_left-hand_column_text_: true
   lefthand_text:
     header_type: Large Header
-    text: Leadership Awards Celebration
+    text: ''
     download: ''
     link_url: ''
     link_text: ''
