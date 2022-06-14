@@ -10,16 +10,16 @@ page_blocks:
   image_caption_text: 'Join us for our annual BEVY Leadership Awards! 2022 marks BWAF''s
     20th anniversary- which makes this year''s celebration all the more special. For
     sponsorship information, please contact info@bwaf.org. '
-  include_left-hand_column_text_: false
+  include_left-hand_column_text_: true
   lefthand_text:
-    header_type: ''
-    text: ''
+    header_type: Large Header
+    text: Leadership Awards Celebration
     download: ''
     link_url: ''
     link_text: ''
   alt_text: ''
 - template: slideshow-block
-  include_left-hand_column_text_: true
+  include_left-hand_column_text_: false
   lefthand_text:
     header_type: Large Header
     text: Leadership Awards Celebration
