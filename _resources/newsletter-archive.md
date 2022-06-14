@@ -11,6 +11,8 @@ sign-up-text: Sign up for the newsletter and get the latest news on upcoming pro
   and events
 newsletters:
 - title: Special Blast
+  link: https://mailchi.mp/36126d359462/20th-anniversary-celebration-save-the-date
+- title: Special Blast
   month_year: June 2022
   link: https://mailchi.mp/bwaf/new-bwaf-emerging-leaders-dates
 - title: Angles
