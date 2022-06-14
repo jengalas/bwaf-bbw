@@ -7,9 +7,7 @@ page_blocks:
 - template: image-block
   image: "/v1655235204/2022_BEVY_save_the_date_i5vmyw.jpg"
   section_break: true
-  image_caption_text: 'Join us for our annual BEVY Leadership Awards! 2022 marks BWAF''s
-    20th anniversary- which makes this year''s celebration all the more special. For
-    sponsorship information, please contact info@bwaf.org. '
+  image_caption_text: ''
   include_left-hand_column_text_: true
   lefthand_text:
     header_type: Large Header
