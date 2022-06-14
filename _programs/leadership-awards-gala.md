@@ -4,6 +4,20 @@ navCategory: Programs
 title: Leadership Awards Celebration
 permalink: "/programs/leadership-awards-celebration"
 page_blocks:
+- template: image-block
+  image: "/v1655235204/2022_BEVY_save_the_date_i5vmyw.jpg"
+  section_break: true
+  image_caption_text: 'Join us for our annual BEVY Leadership Awards! 2022 marks BWAF''s
+    20th anniversary- which makes this year''s celebration all the more special. For
+    sponsorship information, please contact info@bwaf.org. '
+  include_left-hand_column_text_: false
+  lefthand_text:
+    header_type: ''
+    text: ''
+    download: ''
+    link_url: ''
+    link_text: ''
+  alt_text: ''
 - template: slideshow-block
   include_left-hand_column_text_: true
   lefthand_text:
@@ -46,6 +60,7 @@ page_blocks:
   - image: "/v1634144726/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-79_q6sjdv.jpg"
     caption: Inaugural BEVY Leadership Awards Celebration, October 6, 2021
   section_break: false
+  automatic: false
 - template: text-block
   include_left-hand_column_text_: true
   lefthand_text:
