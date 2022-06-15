@@ -39,7 +39,7 @@ page_blocks:
 
     Early Professional (up to ten years of professional experience): $250
 
-    Professional (ten or more years of professional experience): $425
+    Professional (ten or more years of professional experience): $450
 
     Corporate Friendship*: $5000
 
