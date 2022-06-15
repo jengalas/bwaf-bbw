@@ -106,7 +106,7 @@ page_blocks:
   include_left-hand_column_text_: true
   lefthand_text:
     header_type: Medium Header
-    text: Register
+    text: ''
     download: ''
     link_url: ''
     link_text: ''
