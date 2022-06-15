@@ -135,18 +135,6 @@ page_blocks:
     link_url: ''
     link_text: ''
   automatic: false
-- template: cta-block
-  include_left-hand_column_text_: true
-  lefthand_text:
-    text: Do you have questions? Send us an email
-    header_type: Link
-    link_url: mailto:info@bwaf.org
-    download: ''
-    link_text: ''
-  cta_text: Register Now
-  cta_link: " https://bwaf.wufoo.com/forms/m7re94k15cvddg/"
-  external: true
-  section_break: false
 description: The Industry Leaders Roundtable program is designed to encourage firms
   and their representatives to undertake institutional change within their organizations,
   by providing them research, tools, and support to be change agents.
