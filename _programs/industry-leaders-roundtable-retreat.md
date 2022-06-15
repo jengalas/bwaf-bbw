@@ -110,9 +110,7 @@ page_blocks:
     download: ''
     link_url: ''
     link_text: ''
-  text_block: Fill out the form below to register for the 2022 BWAF Industry Leaders
-    Roundtable Retreat. As the retreat is limited to 20 participants, we recommend
-    prompt registration.
+  text_block: " "
   section_break: true
 - template: slideshow-block
   image:
