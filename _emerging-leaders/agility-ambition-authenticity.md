@@ -36,6 +36,10 @@ page_blocks:
     image: "/v1657037903/Ilaoa_Alex_0065_1_fcoju3.jpg"
     description: ''
     title: Alex Ilaoa
+  - title: Allison Clark
+    title_role: Senior Associate, Cooper Carry
+    image: "/v1657038053/Clark_Allison_014_1_jzviw6.jpg"
+    description: ''
   section_break: false
   include_left-hand_column_text_: false
   lefthand_text:
