@@ -64,6 +64,10 @@ page_blocks:
     title_role: Senior Staff Engineer, Langan
     image: "/v1657038849/Burgess_Elizabeth_1_khnhwu.jpg"
     description: ''
+  - title: Emily Richards
+    title_role: Intermediate Architectural Designer, Marvel
+    image: "/v1657038929/Richards_Headshot_1_jeitxk.jpg"
+    description: ''
   section_break: false
   include_left-hand_column_text_: false
   lefthand_text:
