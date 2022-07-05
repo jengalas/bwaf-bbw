@@ -32,6 +32,10 @@ page_blocks:
     link_text: https://www.dropbox.com/s/jqp96u3cjozp1yy/Emerging%20Leaders%20Application_2022.pdf?dl=0
 - template: portrait-gallery-block-small
   portrait:
+  - title: Stephanie Jones
+    title_role: Project Architect, Architectural Outfit
+    image: "/v1657041157/Stephanie_Jones_1_znpmy7.jpg"
+    description: ''
   - title_role: Project Architect and Designer, Cooper Carry
     image: "/v1657037903/Ilaoa_Alex_0065_1_fcoju3.jpg"
     description: ''
@@ -115,6 +119,10 @@ page_blocks:
   - title: Rachael Padowicz
     title_role: Project Architect, Dattner
     image: "/v1657040474/RPadowicz_Headshot_1_l6ibxd.jpg"
+    description: ''
+  - title: Sherry Xuan Yang
+    title_role: Associate Project Architect, Skidmore, Owings, Merrill
+    image: "/v1657041048/SherryXuan-Yang_2022_1_dc1hk2.jpg"
     description: ''
   section_break: false
   include_left-hand_column_text_: false
