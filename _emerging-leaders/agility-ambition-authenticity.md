@@ -76,6 +76,10 @@ page_blocks:
     title_role: Associate Architect, Cooper Carry
     image: "/v1657039169/IMG-20220304-WA0020_1_j4xzsa.jpg"
     description: ''
+  - title: Kavya Cherala
+    title_role: Designer, Dattner
+    image: "/v1657039292/Cherala_Headshot_1_oyudxe.jpg"
+    description: ''
   section_break: false
   include_left-hand_column_text_: false
   lefthand_text:
