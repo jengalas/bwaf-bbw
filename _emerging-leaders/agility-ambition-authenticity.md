@@ -58,7 +58,7 @@ page_blocks:
     description: ''
   - title: Carolyn Morin
     title_role: Project Manager, Newport Construction
-    image: ''
+    image: "/v1657038709/IMG_0722_-_Carolyn_Morin_2_1_qm4vtt.jpg"
     description: ''
   section_break: false
   include_left-hand_column_text_: false
