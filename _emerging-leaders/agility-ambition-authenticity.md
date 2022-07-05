@@ -52,6 +52,10 @@ page_blocks:
     title_role: 'Consulting Engineer, Simpson, Gumpertz, & Heger, Inc. '
     image: "/v1657038438/Rust_Brienna_06560_1_gzyafp.jpg"
     description: ''
+  - title: Candice Ogando
+    title_role: Structural Engineer, Schlaich Bergermann Partner
+    image: "/v1657038606/Candice_Ogando_Headshot_1_elszmg.jpg"
+    description: ''
   section_break: false
   include_left-hand_column_text_: false
   lefthand_text:
