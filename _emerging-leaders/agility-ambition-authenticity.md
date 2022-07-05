@@ -68,6 +68,14 @@ page_blocks:
     title_role: Intermediate Architectural Designer, Marvel
     image: "/v1657038929/Richards_Headshot_1_jeitxk.jpg"
     description: ''
+  - title: Erika C. Finan
+    title_role: Senior Staff Engineer, Langan
+    image: "/v1657039053/Erika_Finan_Headshot_1_rcwke1.jpg"
+    description: ''
+  - title: Heba Bella
+    title_role: Associate Architect, Cooper Carry
+    image: "/v1657039169/IMG-20220304-WA0020_1_j4xzsa.jpg"
+    description: ''
   section_break: false
   include_left-hand_column_text_: false
   lefthand_text:
