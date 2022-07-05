@@ -81,7 +81,7 @@ page_blocks:
     image: "/v1657039292/Cherala_Headshot_1_oyudxe.jpg"
     description: ''
   - title: Kelsey Mayhew
-    title_role: Senior Project Engineer, Audiovisual, Jaros, Baum & Bolles,
+    title_role: Senior Project Engineer, Jaros, Baum & Bolles,
     image: "/v1657039424/HS_Mayhew-K_1_vm6ybn.jpg"
     description: ''
   - title: Kristen Maas
