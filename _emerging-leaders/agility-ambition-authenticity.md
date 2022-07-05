@@ -96,6 +96,10 @@ page_blocks:
     image: "/v1657039837/HS_Patel-M_1_lqoftr.jpg"
     description: ''
     title: Mehal Patel
+  - title: Meredith Graves
+    image: "/v1657039956/Meredith_Graves_Headshot_1_brh5ft.jpg"
+    description: ''
+    title_role: Associate Architect, Cooper Carry
   section_break: false
   include_left-hand_column_text_: false
   lefthand_text:
