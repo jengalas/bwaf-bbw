@@ -53,7 +53,7 @@ page_blocks:
     image: "/v1657038438/Rust_Brienna_06560_1_gzyafp.jpg"
     description: ''
   - title: Candice Ogando
-    title_role: Structural Engineer, Schlaich Bergermann Partner
+    title_role: Structural Engineer, schlaich bergermann partner
     image: "/v1657038606/Candice_Ogando_Headshot_1_elszmg.jpg"
     description: ''
   - title: Carolyn Morin
