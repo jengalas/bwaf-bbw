@@ -45,7 +45,7 @@ page_blocks:
     image: "/v1657038172/A.Partridge_Headshot_1_vryjll.jpg"
     description: ''
   - title: Ana Cubillos
-    title_role: Architectural Designer, Marvel Architects
+    title_role: Architectural Designer, Marvel
     image: ''
     description: ''
   section_break: false
