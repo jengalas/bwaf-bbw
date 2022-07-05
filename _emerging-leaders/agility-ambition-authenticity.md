@@ -112,6 +112,10 @@ page_blocks:
     title_role: Co-Founder, Designing in Color
     image: "/v1657040378/Opalia_Meade_1_gzj4el.jpg"
     description: ''
+  - title: Rachael Padowicz
+    title_role: Project Architect
+    image: "/v1657040474/RPadowicz_Headshot_1_l6ibxd.jpg"
+    description: ''
   section_break: false
   include_left-hand_column_text_: false
   lefthand_text:
