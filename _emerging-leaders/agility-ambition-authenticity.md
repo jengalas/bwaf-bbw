@@ -44,6 +44,10 @@ page_blocks:
     title_role: Project Engineer, Thornton Tomasetti
     image: "/v1657038172/A.Partridge_Headshot_1_vryjll.jpg"
     description: ''
+  - title: Ana Cubillos
+    title_role: Architectural Designer, Marvel Architects
+    image: ''
+    description: ''
   section_break: false
   include_left-hand_column_text_: false
   lefthand_text:
