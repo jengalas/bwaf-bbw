@@ -46,7 +46,7 @@ page_blocks:
     description: ''
   - title: Ana Cubillos
     title_role: Architectural Designer, Marvel
-    image: ''
+    image: "/v1657038450/6-16-22-ana-cubillos-web32712_1_mrqolr.jpg"
     description: ''
   - title: Brienna Rust
     title_role: 'Consulting Engineer, Simpson, Gumpertz, & Heger, Inc. '
