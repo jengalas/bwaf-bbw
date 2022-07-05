@@ -92,7 +92,7 @@ page_blocks:
     title_role: Associate Architect, RAMSA
     image: "/v1657039723/Abrams_Photo_1_ow0wjk.pdf"
     description: ''
-  - title_role: Project Engineer, Electrical Department, Jaros, Baum & Bolles
+  - title_role: Project Engineer, Jaros, Baum & Bolles
     image: "/v1657039837/HS_Patel-M_1_lqoftr.jpg"
     description: ''
     title: Mehal Patel
