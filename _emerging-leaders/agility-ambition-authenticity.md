@@ -90,7 +90,7 @@ page_blocks:
     description: ''
   - title: 'Leah Abrams '
     title_role: Associate Architect, RAMSA
-    image: "/v1657039723/Abrams_Photo_1_ow0wjk.pdf"
+    image: "/v1657041560/Abrams_Photo_1_d1x3ug.jpg"
     description: ''
   - title_role: Project Engineer, Jaros, Baum & Bolles
     image: "/v1657039837/HS_Patel-M_1_lqoftr.jpg"
