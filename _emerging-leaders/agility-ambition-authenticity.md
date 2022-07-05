@@ -84,6 +84,10 @@ page_blocks:
     title_role: Senior Project Engineer, Audiovisual, Jaros, Baum & Bolles,
     image: "/v1657039424/HS_Mayhew-K_1_vm6ybn.jpg"
     description: ''
+  - title: Kristen Maas
+    title_role: Senior Paralegal
+    image: "/v1657039512/HS_Maas-K_1_nj52yg.jpg"
+    description: ''
   section_break: false
   include_left-hand_column_text_: false
   lefthand_text:
