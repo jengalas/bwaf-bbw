@@ -60,6 +60,10 @@ page_blocks:
     title_role: Project Manager, Newport Construction
     image: "/v1657038709/IMG_0722_-_Carolyn_Morin_2_1_qm4vtt.jpg"
     description: ''
+  - title: Elizabeth Burgess
+    title_role: Senior Staff Engineer, Langan
+    image: "/v1657038849/Burgess_Elizabeth_1_khnhwu.jpg"
+    description: ''
   section_break: false
   include_left-hand_column_text_: false
   lefthand_text:
