@@ -32,10 +32,6 @@ page_blocks:
     link_text: https://www.dropbox.com/s/jqp96u3cjozp1yy/Emerging%20Leaders%20Application_2022.pdf?dl=0
 - template: portrait-gallery-block-small
   portrait:
-  - title: 'Leah Abrams '
-    title_role: Associate Architect, RAMSA
-    image: "/v1657039723/Abrams_Photo_1_ow0wjk.pdf"
-    description: ''
   - title_role: Project Architect and Designer, Cooper Carry
     image: "/v1657037903/Ilaoa_Alex_0065_1_fcoju3.jpg"
     description: ''
@@ -92,6 +88,14 @@ page_blocks:
     title_role: Senior Paralegal, Jaros, Baum & Bolles
     image: "/v1657039512/HS_Maas-K_1_nj52yg.jpg"
     description: ''
+  - title: 'Leah Abrams '
+    title_role: Associate Architect, RAMSA
+    image: "/v1657039723/Abrams_Photo_1_ow0wjk.pdf"
+    description: ''
+  - title_role: Project Engineer, Electrical Department, Jaros, Baum & Bolles
+    image: "/v1657039837/HS_Patel-M_1_lqoftr.jpg"
+    description: ''
+    title: Mehal Patel
   section_break: false
   include_left-hand_column_text_: false
   lefthand_text:
