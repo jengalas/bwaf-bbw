@@ -40,6 +40,10 @@ page_blocks:
     title_role: Senior Associate, Cooper Carry
     image: "/v1657038053/Clark_Allison_014_1_jzviw6.jpg"
     description: ''
+  - title: Allison Partridge
+    title_role: Project Engineer, Thornton Tomasetti
+    image: "/v1657038172/A.Partridge_Headshot_1_vryjll.jpg"
+    description: ''
   section_break: false
   include_left-hand_column_text_: false
   lefthand_text:
