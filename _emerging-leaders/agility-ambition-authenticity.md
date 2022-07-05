@@ -32,10 +32,6 @@ page_blocks:
     link_text: https://www.dropbox.com/s/jqp96u3cjozp1yy/Emerging%20Leaders%20Application_2022.pdf?dl=0
 - template: portrait-gallery-block-small
   portrait:
-  - title: Michelle DePinho
-    title_role: Engineer, Thornton Tomasetti
-    image: "/v1657040132/Headshot_DePinho_1_p3w4ce.jpg"
-    description: ''
   - title_role: Project Architect and Designer, Cooper Carry
     image: "/v1657037903/Ilaoa_Alex_0065_1_fcoju3.jpg"
     description: ''
@@ -104,6 +100,18 @@ page_blocks:
     image: "/v1657039956/Meredith_Graves_Headshot_1_brh5ft.jpg"
     description: ''
     title_role: Associate Architect, Cooper Carry
+  - title: Michelle DePinho
+    title_role: Engineer, Thornton Tomasetti
+    image: "/v1657040132/Headshot_DePinho_1_p3w4ce.jpg"
+    description: ''
+  - title: Monika England
+    title_role: Architectural Designer, Morris Adjmi Architects
+    image: "/v1657040249/England_Monika_headshot_1_imroow.jpg"
+    description: ''
+  - title: Opalia Meade
+    title_role: Co-Founder, Designing in Color
+    image: "/v1657040378/Opalia_Meade_1_gzj4el.jpg"
+    description: ''
   section_break: false
   include_left-hand_column_text_: false
   lefthand_text:
