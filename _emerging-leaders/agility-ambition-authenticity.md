@@ -34,7 +34,7 @@ page_blocks:
   portrait:
   - title: 'Leah Abrams '
     title_role: Associate Architect, RAMSA
-    image: ''
+    image: "/v1657039723/Abrams_Photo_1_ow0wjk.pdf"
     description: ''
   - title_role: Project Architect and Designer, Cooper Carry
     image: "/v1657037903/Ilaoa_Alex_0065_1_fcoju3.jpg"
