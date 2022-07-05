@@ -48,6 +48,10 @@ page_blocks:
     title_role: Architectural Designer, Marvel
     image: ''
     description: ''
+  - title: Brienna Rust
+    title_role: 'Consulting Engineer, Simpson, Gumpertz, & Heger, Inc. '
+    image: "/v1657038438/Rust_Brienna_06560_1_gzyafp.jpg"
+    description: ''
   section_break: false
   include_left-hand_column_text_: false
   lefthand_text:
