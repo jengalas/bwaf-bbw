@@ -32,6 +32,10 @@ page_blocks:
     link_text: https://www.dropbox.com/s/jqp96u3cjozp1yy/Emerging%20Leaders%20Application_2022.pdf?dl=0
 - template: portrait-gallery-block-small
   portrait:
+  - title: Michelle DePinho
+    title_role: Engineer, Thornton Tomasetti
+    image: "/v1657040132/Headshot_DePinho_1_p3w4ce.jpg"
+    description: ''
   - title_role: Project Architect and Designer, Cooper Carry
     image: "/v1657037903/Ilaoa_Alex_0065_1_fcoju3.jpg"
     description: ''
