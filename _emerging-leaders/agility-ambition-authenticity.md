@@ -56,6 +56,10 @@ page_blocks:
     title_role: Structural Engineer, Schlaich Bergermann Partner
     image: "/v1657038606/Candice_Ogando_Headshot_1_elszmg.jpg"
     description: ''
+  - title: Carolyn Morin
+    title_role: Project Manager, Newport Construction
+    image: ''
+    description: ''
   section_break: false
   include_left-hand_column_text_: false
   lefthand_text:
