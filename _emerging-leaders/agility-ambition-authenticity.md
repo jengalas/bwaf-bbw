@@ -113,7 +113,7 @@ page_blocks:
     image: "/v1657040378/Opalia_Meade_1_gzj4el.jpg"
     description: ''
   - title: Rachael Padowicz
-    title_role: Project Architect
+    title_role: Project Architect, Dattner
     image: "/v1657040474/RPadowicz_Headshot_1_l6ibxd.jpg"
     description: ''
   section_break: false
