@@ -121,7 +121,7 @@ page_blocks:
     image: "/v1657041048/SherryXuan-Yang_2022_1_dc1hk2.jpg"
     description: ''
   - title: Stephanie Jones
-    title_role: Project Architect, Architectural Outfit
+    title_role: Project Architect, Architecture Outfit
     image: "/v1657225550/Stephanie_Jones_1_mkuoh3.png"
     description: ''
   section_break: false
