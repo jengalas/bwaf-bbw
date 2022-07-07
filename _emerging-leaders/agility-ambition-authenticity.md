@@ -122,7 +122,7 @@ page_blocks:
     description: ''
   - title: Stephanie Jones
     title_role: Project Architect, Architectural Outfit
-    image: "/v1657225232/Stephanie_Jones_1_y1nwim.png"
+    image: "/v1657225550/Stephanie_Jones_1_mkuoh3.png"
     description: ''
   section_break: false
   include_left-hand_column_text_: false
