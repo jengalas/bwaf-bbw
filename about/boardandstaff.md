@@ -299,22 +299,17 @@ page_blocks:
   - title: Ebbie Wisecarver
     title_role: Trustee
     image: "/v1643050566/Ebbie_Headshot_ytuxeq.jpg"
-    description: "Ebbie is currently the SVP, Global Head of Design at WeWork as well
-      as the executive sponsor for the Women of WeWork.  She joined WeWork in 2015
-      and has held positions of increasing responsibility with a specialization in
-      launching new markets; Designer/DPM for Australia; Design Director of Asia,
-      Australia, and India; and Head of Project Delivery for WeWork Japan.  She returned
-      to the US in early 2019 to take on the Global Head of Design role with a focus
-      on driving innovation, improving standards, processes and refining the product
-      offering.  Before WeWork, Ebbie worked at Diller, Scofidio + Renfro New York
-      where she worked on diverse projects such as the Columbia University Medical
-      School, the Columbia Business School, Wishard Pavilion in Indianapolis, and
-      the Washington Monument grounds competition at the National Mall in Washington
-      DC.  Previously, she worked for Steven Holl Architects in New York, a firm she
-      joined in 2006.  Ebbie holds a Master of Architecture from the University of
-      Pennsylvania.  She has participated in numerous traveling exhibitions and fellowships,
-      including a competitive summer internship at Takenaka Corporation in Osaka,
-      Japan.  \n\n \n "
+    description: "Ebbie Wisecarver is senior vice president, head of global design,
+      at WeWork. Since joining the company in 2015, she has held multiple positions,
+      including architect and development project manager for Australia, design director
+      of Asia, Australia and India, and head of project delivery for WeWork Japan.
+      \ Previously, Wisecarver held positions at prestigious design firms Diller,
+      Scofidio + Renfro New York and Steven Holl Architects. She holds a Master of
+      Architecture from the University of Pennsylvania and has participated in numerous
+      traveling exhibitions and fellowships, including a competitive summer internship
+      at Takenaka Corporation in Osaka, Japan. A strong advocate for gender equality,
+      Wisecarver currently serves as the executive sponsor of the company's employee
+      resource group, Women of WeWork. \n \n "
   - title: Phoebe Yee, AIA
     title_role: Trustee
     image: "/v1618329168/Yee-722x349_dsjmio.jpg"
