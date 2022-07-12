@@ -33,7 +33,7 @@ page_blocks:
     title_role: ''
     image: "/v1657646119/LanganBlackCMYK-print_bpdp92.png"
     description: ''
-  section_break: false
+  section_break: true
   include_left-hand_column_text_: false
   lefthand_text:
     header_type: ''
@@ -41,7 +41,7 @@ page_blocks:
     download: ''
     link_url: ''
     link_text: ''
-  header: ''
+  header: 2022 Corporate Friends
 - template: image-block
   image: "/v1618939391/5_15_19_03_q5seh9.jpg"
   image_caption_text: 'Inaugural Friends event at the Ford Foundation, May 2019. Cathleen
