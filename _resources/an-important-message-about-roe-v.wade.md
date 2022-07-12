@@ -10,6 +10,5 @@ newsletters:
   month_year: ''
   link: https://mailchi.mp/bwaf/bwaf-important-update
   description: ''
-published: false
 
 ---
