@@ -19,28 +19,6 @@ page_blocks:
 
     We cultivate leaders at all levels and seek to build global change. Support our efforts and become a BWAF Friend today.
   section_break: false
-- template: portrait-gallery-template
-  section_break: true
-  portrait:
-  - title: ''
-    title_role: ''
-    image: "/v1657640259/cooper_carry_d8ieuj.jpg"
-    description: ''
-  - title: ''
-    title_role: ''
-    image: "/v1657640335/JBB_Logo_1_rj3vq2.jpg"
-    description: ''
-  - title: ''
-    title_role: ''
-    image: "/v1657640348/LanganBlackCMYK-print_g0qnbh.jpg"
-    description: ''
-  include_left-hand_column_text_: false
-  lefthand_text:
-    header_type: ''
-    text: ''
-    download: ''
-    link_url: ''
-    link_text: ''
 - template: image-block
   image: "/v1618939391/5_15_19_03_q5seh9.jpg"
   image_caption_text: 'Inaugural Friends event at the Ford Foundation, May 2019. Cathleen
@@ -76,6 +54,19 @@ page_blocks:
     * Copy of BWAF film
     * Prominent listing on BWAF website (Corporate Friendship only)
   section_break: false
+  include_left-hand_column_text_: false
+  lefthand_text:
+    header_type: ''
+    text: ''
+    download: ''
+    link_url: ''
+    link_text: ''
+- template: media-gallery-block
+  section_break: true
+  media:
+  - image: "/v1657640348/LanganBlackCMYK-print_g0qnbh.jpg"
+    title: ''
+    link_to_video: ''
   include_left-hand_column_text_: false
   lefthand_text:
     header_type: ''
