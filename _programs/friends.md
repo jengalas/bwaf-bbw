@@ -23,6 +23,10 @@ page_blocks:
   portrait:
   - title: ''
     title_role: ''
+    image: "/v1657646187/cooper_carry_ekgnpo.png"
+    description: ''
+  - title: ''
+    title_role: ''
     image: "/v1657646141/JBB_Logo_1_nzkx5a.png"
     description: ''
   - title: ''
