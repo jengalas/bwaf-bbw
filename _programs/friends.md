@@ -19,6 +19,21 @@ page_blocks:
 
     We cultivate leaders at all levels and seek to build global change. Support our efforts and become a BWAF Friend today.
   section_break: false
+- template: portrait-gallery-block-small
+  portrait:
+  - title: ''
+    title_role: ''
+    image: "/v1657646119/LanganBlackCMYK-print_bpdp92.png"
+    description: ''
+  section_break: false
+  include_left-hand_column_text_: false
+  lefthand_text:
+    header_type: ''
+    text: ''
+    download: ''
+    link_url: ''
+    link_text: ''
+  header: ''
 - template: image-block
   image: "/v1618939391/5_15_19_03_q5seh9.jpg"
   image_caption_text: 'Inaugural Friends event at the Ford Foundation, May 2019. Cathleen
