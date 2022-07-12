@@ -19,7 +19,7 @@ page_blocks:
 
     Applications for the summer program are now closed. Sessions will take place on June 28th, July 19th, and August 23rd.
 - template: image-block
-  image: "/v1657646867/Double_Sided_EL_Flyer-1_bywr9u.png"
+  image: "/v1657647010/k_nn9iaq.png"
   section_break: false
   include_left-hand_column_text_: false
   lefthand_text:
