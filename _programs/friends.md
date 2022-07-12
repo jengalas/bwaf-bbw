@@ -19,6 +19,21 @@ page_blocks:
 
     We cultivate leaders at all levels and seek to build global change. Support our efforts and become a BWAF Friend today.
   section_break: false
+- template: portrait-gallery-block-small
+  header: 2022 Corporate Friends
+  section_break: true
+  portrait:
+  - title: ''
+    title_role: ''
+    image: "/v1657640259/cooper_carry_d8ieuj.jpg"
+    description: ''
+  include_left-hand_column_text_: false
+  lefthand_text:
+    header_type: ''
+    text: ''
+    download: ''
+    link_url: ''
+    link_text: ''
 - template: image-block
   image: "/v1618939391/5_15_19_03_q5seh9.jpg"
   image_caption_text: 'Inaugural Friends event at the Ford Foundation, May 2019. Cathleen
