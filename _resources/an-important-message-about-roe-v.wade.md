@@ -6,7 +6,7 @@ title: An Important Message About Roe v. Wade
 description: ''
 sign-up-text: ''
 newsletters:
-- title: ''
+- title: An Important Update About Roe v. Wade
   month_year: ''
   link: https://mailchi.mp/bwaf/bwaf-important-update
   description: ''
