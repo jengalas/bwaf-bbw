@@ -19,21 +19,12 @@ page_blocks:
 
     We cultivate leaders at all levels and seek to build global change. Support our efforts and become a BWAF Friend today.
   section_break: false
-- template: portrait-gallery-block-small
-  header: 2022 Corporate Friends
+- template: portrait-gallery-template
   section_break: true
   portrait:
   - title: ''
     title_role: ''
     image: "/v1657640348/LanganBlackCMYK-print_g0qnbh.jpg"
-    description: ''
-  - title: ''
-    title_role: ''
-    image: "/v1657640335/JBB_Logo_1_rj3vq2.jpg"
-    description: ''
-  - title: ''
-    title_role: ''
-    image: "/v1657640259/cooper_carry_d8ieuj.jpg"
     description: ''
   include_left-hand_column_text_: false
   lefthand_text:
