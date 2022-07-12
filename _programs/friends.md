@@ -48,7 +48,7 @@ page_blocks:
     McGuigan, Editor in Chief, Architectural Record, in conversation with writer Eva
     Hagberg '
   alt_text: Inaugural Friends event at the Ford Foundation, May 2019
-  section_break: false
+  section_break: true
   include_left-hand_column_text_: false
   lefthand_text:
     header_type: ''
