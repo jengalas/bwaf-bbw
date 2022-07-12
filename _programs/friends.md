@@ -64,6 +64,9 @@ page_blocks:
 - template: media-gallery-block
   section_break: true
   media:
+  - image: "/v1657640335/JBB_Logo_1_rj3vq2.jpg"
+    title: ''
+    link_to_video: ''
   - image: "/v1657640348/LanganBlackCMYK-print_g0qnbh.jpg"
     title: ''
     link_to_video: ''
