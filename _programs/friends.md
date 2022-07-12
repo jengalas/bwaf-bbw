@@ -23,6 +23,10 @@ page_blocks:
   portrait:
   - title: ''
     title_role: ''
+    image: "/v1657646141/JBB_Logo_1_nzkx5a.png"
+    description: ''
+  - title: ''
+    title_role: ''
     image: "/v1657646119/LanganBlackCMYK-print_bpdp92.png"
     description: ''
   section_break: false
