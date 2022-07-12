@@ -42,3 +42,5 @@ fields:
   - type: textarea
     name: description
     label: Description
+pages:
+- _resources/an-important-message-about-roe-v.wade.md
