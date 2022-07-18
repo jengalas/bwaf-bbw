@@ -88,6 +88,10 @@ page_blocks:
     title_role: Associate Architect, Cooper Carry
     image: "/v1657039169/IMG-20220304-WA0020_1_j4xzsa.jpg"
     description: ''
+  - title: Julianna Vuotto
+    title_role: Site/ Civil Senior Staff Engineer
+    image: "/v1658162641/JV_Headshot_vul8qs.jpg"
+    description: ''
   - title: Kavyashri Cherala
     title_role: Designer, Dattner
     image: "/v1657039292/Cherala_Headshot_1_oyudxe.jpg"
