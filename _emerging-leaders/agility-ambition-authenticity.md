@@ -128,7 +128,7 @@ page_blocks:
     title_role: Co-Founder, Designing in Color
     image: "/v1657040378/Opalia_Meade_1_gzj4el.jpg"
     description: ''
-  - title: Rachael Padowicz
+  - title: Rachel Padowicz
     title_role: Project Architect, Dattner
     image: "/v1657040474/RPadowicz_Headshot_1_l6ibxd.jpg"
     description: ''
