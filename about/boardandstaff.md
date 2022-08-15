@@ -313,8 +313,8 @@ page_blocks:
   - title: Phoebe Yee, AIA
     title_role: Trustee
     image: "/v1618329168/Yee-722x349_dsjmio.jpg"
-    description: "As Senior Vice President of Design for Related California, Ms. Yee
-      is responsible for the management of architecture and design for all market
+    description: "As Executive Vice President of Design for Related California, Ms.
+      Yee is responsible for the management of architecture and design for all market
       rate and mixed-income residential developments in California. Ms. Yee works
       closely with the architectural team, sales and marketing, and development executives
       throughout the entire development process to ensure seamless design and execution.
