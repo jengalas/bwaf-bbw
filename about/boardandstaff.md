@@ -366,7 +366,7 @@ page_blocks:
       worked for Philip Johnson in the 80’s and taught at the University of Virginia,
       New Jersey Institute of Technology and her alma mater. '
   - title: 'Virginia Eskridge '
-    title_role: Development Coordinator
+    title_role: Communications and Programs Coordinator
     image: "/v1642619870/Virginia_Headshot_xbobp3.jpg"
     description: 'Virginia is from Montgomery, Alabama and graduated from the University
       of Alabama in 2020 with a degree in Advertising and Art. She is looking forward
