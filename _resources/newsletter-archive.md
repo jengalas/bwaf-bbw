@@ -12,6 +12,7 @@ sign-up-text: Sign up for the newsletter and get the latest news on upcoming pro
 newsletters:
 - title: Special Blast
   link: https://mailchi.mp/bwaf/bwaf-important-update
+  month_year: July
 - title: Special Blast
   link: https://mailchi.mp/36126d359462/20th-anniversary-celebration-save-the-date
 - title: Special Blast
