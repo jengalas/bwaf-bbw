@@ -10,6 +10,9 @@ description: Angles (formerly Dispatches From Home, formerly Briefly News) is th
 sign-up-text: Sign up for the newsletter and get the latest news on upcoming programs
   and events
 newsletters:
+- title: Special Blast/ NEH Grant Recipient
+  month_year: August
+  link: https://mailchi.mp/bwaf/bwaf-awarded-neh-grant
 - title: Special Blast
   link: https://mailchi.mp/bwaf/bwaf-important-update
   month_year: July
