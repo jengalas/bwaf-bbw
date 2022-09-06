@@ -19,7 +19,7 @@ page_blocks:
   buttons_header__optional_: ''
 - template: image-block
   image: "/v1655235204/2022_BEVY_save_the_date_i5vmyw.jpg"
-  section_break: true
+  section_break: false
   image_caption_text: ''
   include_left-hand_column_text_: true
   lefthand_text:
