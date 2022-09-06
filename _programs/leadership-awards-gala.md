@@ -4,6 +4,19 @@ navCategory: Programs
 title: Leadership Awards Celebration
 permalink: "/programs/leadership-awards-celebration"
 page_blocks:
+- template: buttons-block
+  button:
+  - button_text: Visit the Gala Website
+    button_link: http://gala.bwaf.org/
+  section_break: false
+  include_left-hand_column_text_: false
+  lefthand_text:
+    header_type: ''
+    text: ''
+    download: ''
+    link_url: ''
+    link_text: ''
+  buttons_header__optional_: ''
 - template: image-block
   image: "/v1655235204/2022_BEVY_save_the_date_i5vmyw.jpg"
   section_break: true
@@ -106,19 +119,6 @@ page_blocks:
     African Diasporic Studies, and the Director of the Institute for Research in African
     American Studies    \nColumbia University GSAPP\n\n**Emerging Leader**   \nMichelle
     DeCarlo, PE, LEED AP BD+C   \nDirector, HVAC   \nJaros, Baum & Bolles"
-- template: buttons-block
-  button:
-  - button_text: Visit the Gala Website
-    button_link: http://gala.bwaf.org/
-  section_break: false
-  include_left-hand_column_text_: false
-  lefthand_text:
-    header_type: ''
-    text: ''
-    download: ''
-    link_url: ''
-    link_text: ''
-  buttons_header__optional_: ''
 date: 2021-05-05T13:32:44.000+00:00
 description: Beverly Willis Architecture Foundation brings attention to the work of
   contemporary women in the fields of architecture, landscape architecture, engineering,
