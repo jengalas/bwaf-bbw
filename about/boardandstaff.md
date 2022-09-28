@@ -257,16 +257,9 @@ page_blocks:
     title_role: Trustee
     image: "/v1643050030/LNSimonheadshot_qp6xvg.jpg"
     description: |-
-      Lynn is SVP Global ESG & Sustainability who has spent more than 20 years’ experience
-      shaping a regenerative economy and meeting business needs that demonstrate a
-      commitment to climate change and social justice across tech, real estate, built environment,
-      AEC, and non-profit sectors.
-      She influences and convenes stakeholders to Board level, leads cross-functional programs
-      in matrix organizations, and builds multidisciplinary global teams with a focus on carbon,
-      waste, water, health and DEI.
-      Lynn was most recently at Google as Head of Sustainability within Real Estate and
-      Workplace Services where she led a global, cross-functional team leading collaboration
-      on KPI setting process, mapping shared opportunities for carbon, water and waste, and gaining collective buy-in for 1, 2 and 5-year goals.
+      Lynn is SVP Global ESG & Sustainability who has spent more than 20 years’ experience shaping a regenerative economy and meeting business needs that demonstrate a commitment to climate change and social justice across tech, real estate, built environment, AEC, and non-profit sectors.
+      She influences and convenes stakeholders to Board level, leads cross-functional programs in matrix organizations, and builds multidisciplinary global teams with a focus on carbon, waste, water, health and DEI.
+      Lynn was most recently at Google as Head of Sustainability within Real Estate and Workplace Services where she led a global, cross-functional team leading collaboration on KPI setting process, mapping shared opportunities for carbon, water and waste, and gaining collective buy-in for 1, 2 and 5-year goals.
       As Managing Director and Founder of Simon & Associates (S&A), Lynn educated over 10,000 AEC professionals and led interdisciplinary teams on 500+ projects from multi-family residential to large-scale institutional and commercial developments. As Senior Vice President at Thornton Tomasetti, who purchased S&A in 2013, Lynn built and retained over 250 client relationships across real estate, hospitality, institutional, and AEC such as MGM, Tishman Speyer, and State of CA.
       Lynn has spoken at over 200+ industry events on sustainability, resilience, leadership and diversity around the world. She was honored with the USGBC Pacific Region SHERO Leadership Award, gb&d Magazine Women in Sustainability Leadership Award, and the USGBC’s President’s Leadership Award.
       Lynn serves on the Board of Directors of the Beverly Willis Architecture Foundation and recently served on the Corporate Advisory Board for the World Green Building Council.
