@@ -257,9 +257,20 @@ page_blocks:
     title_role: Trustee
     image: "/v1643050030/LNSimonheadshot_qp6xvg.jpg"
     description: |-
-      Lynn N. Simon, FAIA, LEED Fellow, Head of Sustainability for Real Estate and Workplace Services (REWS) at Google, leads a global team to develop, guide, and advance sustainability focusing on carbon, water, waste, and ecology to achieve scalable, regional, and global solutions. She is responsible for leading the strategic vision across REWS sustainability initiatives and programs from establishing baseline standards across a global real estate portfolio to strategic thought leadership on targeted aspirational goals.
-
-      She is a recognized pioneer in the sustainable building industry as well as an entrepreneur and catalyst for change. Lynn has consulted on millions of square feet of sustainable projects ranging from multi-family, affordable housing to large scale commercial and institutional projects. Lynn currently serves on the World Green Building Council Corporate Advisory Board, and is an advisor to a start-up solar company based in Iraq. She is an experienced and popular speaker and podcast guest on sustainability and leadership topics. Lynn has received several honors including the USGBC’s President's Award (2011); the Women in Sustainability Leadership Award from gb&d magazine (2017); and the SHERO Leadership Award from the USGBC Pacific Region (2020). Lynn is also a certified professional coach through New Ventures West.
+      Lynn is SVP Global ESG & Sustainability who has spent more than 20 years’ experience
+      shaping a regenerative economy and meeting business needs that demonstrate a
+      commitment to climate change and social justice across tech, real estate, built environment,
+      AEC, and non-profit sectors.
+      She influences and convenes stakeholders to Board level, leads cross-functional programs
+      in matrix organizations, and builds multidisciplinary global teams with a focus on carbon,
+      waste, water, health and DEI.
+      Lynn was most recently at Google as Head of Sustainability within Real Estate and
+      Workplace Services where she led a global, cross-functional team leading collaboration
+      on KPI setting process, mapping shared opportunities for carbon, water and waste, and gaining collective buy-in for 1, 2 and 5-year goals.
+      As Managing Director and Founder of Simon & Associates (S&A), Lynn educated over 10,000 AEC professionals and led interdisciplinary teams on 500+ projects from multi-family residential to large-scale institutional and commercial developments. As Senior Vice President at Thornton Tomasetti, who purchased S&A in 2013, Lynn built and retained over 250 client relationships across real estate, hospitality, institutional, and AEC such as MGM, Tishman Speyer, and State of CA.
+      Lynn has spoken at over 200+ industry events on sustainability, resilience, leadership and diversity around the world. She was honored with the USGBC Pacific Region SHERO Leadership Award, gb&d Magazine Women in Sustainability Leadership Award, and the USGBC’s President’s Leadership Award.
+      Lynn serves on the Board of Directors of the Beverly Willis Architecture Foundation and recently served on the Corporate Advisory Board for the World Green Building Council.
+      She holds a Master of Architecture from the University of Washington and earned a BA in Environmental Design from UC Berkeley. She is a Registered Architect (26574) with the State of California and a certified coach through New Venture West.
   - title: Jennifer Stone, AIA
     title_role: Trustee
     image: "/v1618329715/Stone_ltb0db.jpg"
