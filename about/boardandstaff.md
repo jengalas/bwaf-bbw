@@ -167,20 +167,6 @@ page_blocks:
       How the Material World Shapes Independent Kids was published by Bloomsbury USA
       in June 2018. She is currently at work on a new book about the history and future
       of the American shopping mall.'
-  - title: Carol Loewenson, FAIA, LEED AP
-    title_role: Trustee
-    description: "Carol Loewenson’s expertise ranges from highly technical buildings,
-      renovations and façade replacements to work involving both the private and public
-      sector. Her approach to architecture is deeply rooted in a commitment to public
-      spaces and an acknowledgment of how the shape of a building, city, or institution
-      impacts people’s lives. She brings a careful consideration of context to her
-      work, balancing preservation and modernization to generate sustainable transformations
-      that capture the complexity of a space’s past history and future goals. \nCarol
-      Loewenson joined Mitchell Giurgola in 1982 and became a partner in 1996. Her
-      work at the firm includes projects for the Brooklyn Public Library, The New
-      York Public Library, Rockefeller University, New York University, Cornell University,
-      LaGuardia Community College, and the New York State Unified Court System."
-    image: "/v1618331492/Loewenson_Carol_1355_tg8dv5.jpg"
   - title: 'Richard M. McFadden, PE, LEED AP '
     title_role: Trustee
     image: "/v1618331280/sml_HS_McFadden-R_gt7mcj.jpg"
