@@ -23,6 +23,10 @@ page_blocks:
   portrait:
   - title: ''
     title_role: ''
+    image: "/v1664471226/HKS-Logo-Grey-Digital_eczhng.jpg"
+    description: ''
+  - title: ''
+    title_role: ''
     image: "/v1664471199/HKS-Logo-Grey-Digital_jn22z3.png"
     description: ''
   - title: ''
