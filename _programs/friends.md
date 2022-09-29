@@ -27,7 +27,7 @@ page_blocks:
     description: ''
   - title: ''
     title_role: ''
-    image: "/v1664471199/HKS-Logo-Grey-Digital_jn22z3.png"
+    image: "/v1664471241/MR_logo_black_600_xet9aj.jpg"
     description: ''
   - title: ''
     title_role: ''
