@@ -23,6 +23,14 @@ page_blocks:
   portrait:
   - title: ''
     title_role: ''
+    image: "/v1664468221/HKS-Logo-Grey-Digital_e3jlzg.png"
+    description: ''
+  - title: ''
+    title_role: ''
+    image: "/v1664468235/MR_logo_black_600_sbwa2n.jpg"
+    description: ''
+  - title: ''
+    title_role: ''
     image: "/v1657646187/cooper_carry_ekgnpo.png"
     description: ''
   - title: ''
