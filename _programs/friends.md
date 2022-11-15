@@ -23,7 +23,7 @@ page_blocks:
   portrait:
   - title: ''
     title_role: ''
-    image: "/v1668537422/steinbergLogoFinal_ecy6xe.jpg"
+    image: "/v1668537580/steinbergLogoFinal_rog4vj.png"
     description: ''
   - title: ''
     title_role: ''
