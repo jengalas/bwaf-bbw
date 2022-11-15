@@ -68,8 +68,9 @@ page_blocks:
     link_url: ''
     link_text: ''
 - template: text-block
-  text_block: 'Friends event held in Los Angeles, October 2022. This event featured
-    a private tour of "The Grand" by Frank Gehry. '
+  text_block: "Our last friends event was held in Los Angeles, October 2022. This
+    event featured a private tour of \"The Grand\" by Frank Gehry. \n\nThe next Friends
+    event will be in New York City this spring- stay tuned!"
   section_break: false
   include_left-hand_column_text_: false
   lefthand_text:
