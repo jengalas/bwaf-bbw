@@ -100,6 +100,5 @@ date: 2021-05-05T13:33:04.000+00:00
 description: The Friends program offers unique networking opportunities and brings
   together small groups of peers for topical conversations, architecture tours and
   social events, focused around women in architecture and design.
-published: false
 
 ---
