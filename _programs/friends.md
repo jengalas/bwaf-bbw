@@ -55,11 +55,9 @@ page_blocks:
     link_text: ''
   header: 2022 Corporate Friends
 - template: image-block
-  image: "/v1618939391/5_15_19_03_q5seh9.jpg"
-  image_caption_text: 'Inaugural Friends event at the Ford Foundation, May 2019. Cathleen
-    McGuigan, Editor in Chief, Architectural Record, in conversation with writer Eva
-    Hagberg '
-  alt_text: Inaugural Friends event at the Ford Foundation, May 2019
+  image: "/v1668538242/IMG_1930_lmg7we.png"
+  image_caption_text: Friends event held in Los Angeles, October 2022
+  alt_text: ''
   section_break: true
   include_left-hand_column_text_: false
   lefthand_text:
