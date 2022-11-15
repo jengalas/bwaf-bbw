@@ -23,6 +23,10 @@ page_blocks:
   portrait:
   - title: ''
     title_role: ''
+    image: "/v1668536996/steinbergLogoFinal_kdovwu.png"
+    description: ''
+  - title: ''
+    title_role: ''
     image: "/v1664471226/HKS-Logo-Grey-Digital_eczhng.jpg"
     description: ''
   - title: ''
