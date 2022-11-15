@@ -58,8 +58,7 @@ page_blocks:
   image: "/v1668538242/IMG_1930_lmg7we.png"
   image_caption_text: Board Member and Friends Chair Phoebe Yee, Executive Vice President,
     Design Related California
-  alt_text: 'Friends event held in Los Angeles, October 2022. This event featured
-    a private tour of "The Grand" by Frank Gehry. '
+  alt_text: ''
   section_break: true
   include_left-hand_column_text_: false
   lefthand_text:
