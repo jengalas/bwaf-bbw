@@ -68,6 +68,17 @@ page_blocks:
     link_url: ''
     link_text: ''
 - template: text-block
+  text_block: 'Friends event held in Los Angeles, October 2022. This event featured
+    a private tour of "The Grand" by Frank Gehry. '
+  section_break: false
+  include_left-hand_column_text_: false
+  lefthand_text:
+    header_type: ''
+    text: ''
+    download: ''
+    link_url: ''
+    link_text: ''
+- template: text-block
   text_block: |-
     ## **Annual Membership**
 
