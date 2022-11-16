@@ -23,7 +23,7 @@ page_blocks:
   portrait:
   - title: ''
     title_role: ''
-    image: "/v1668615722/images_m4rnig.png"
+    image: "/v1668627990/Untitled-1_ylld3d.png"
     description: ''
   - title: ''
     title_role: ''
