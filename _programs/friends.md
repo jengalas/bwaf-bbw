@@ -23,6 +23,10 @@ page_blocks:
   portrait:
   - title: ''
     title_role: ''
+    image: "/v1668615722/images_m4rnig.png"
+    description: ''
+  - title: ''
+    title_role: ''
     image: "/v1668537724/steinbergLogoFinal_aby90s.png"
     description: ''
   - title: ''
