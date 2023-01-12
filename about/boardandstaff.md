@@ -57,6 +57,20 @@ page_blocks:
       Magazine’s feature piece, “Workers in Progress.” Murphy is a member of the WX
       Women Executives in Real Estate and is the Immediate Past Chair of Beverly Willis
       Architecture Foundation. "
+  - title: Angelica T. Baccon, AIA
+    title_role: Chair Elect
+    image: "/v1610937006/s_170713_webview_jkbimz.jpg"
+    description: Angelica Trevino Baccon is a principal of SHoP. She has a particular
+      specialty in leading complex mixed-use and workplace design projects, often
+      at the intersection of enterprise and technology. These include the new Uber
+      headquarters in San Francisco and several confidential projects for global leaders
+      in Silicon Valley. She holds a Bachelor in Architecture degree from ITESM in
+      Monterrey, Mexico, and a Master of Architecture from Harvard University, where
+      she has also served as a professor. Her work on New York City’s South Street
+      Seaport established her deep expertise in fast-paced, high-profile design and
+      delivery challenges with multilayered stakeholder groups, successfully leveraging
+      programs to promote vitality, equity and community in the private sector and
+      public realm.
   - title: Patricia Harris, Esq., LEED AP
     title_role: Treasurer
     image: "/v1610937223/PatriciaHarrisHeadshot-2-e1454609739415_rkq5sz.jpg"
@@ -75,20 +89,6 @@ page_blocks:
     description: |-
       Joan Blumenfeld, Contract Magazine’s 2018 Legend, is a design principal at Perkins+Will, a global architecture and interiors firm. Over the past 10 years she has been committed to achieving gender equity across all aspects of the design and construction business. As the first president of the Beverly Willis Architecture Foundation (BWAF) she facilitated broadening its mission to include changing culture throughout the industry. She remained President for five years, helping to grow the organization to have national recognition, and since 2011 served on the Executive Committee, stepping down in 2020.
       Previous and parallel to her work with BWAF she has been an active advocate for building better and more healthy interiors, buildings and communities. As 2007 President of AIA NYC, she worked with city agencies and the Mayor's Office, resulting in the first revamping of citywide workplace standards since 1971.
-  - title: Angelica T. Baccon, AIA
-    title_role: Trustee
-    image: "/v1610937006/s_170713_webview_jkbimz.jpg"
-    description: Angelica Trevino Baccon is a principal of SHoP. She has a particular
-      specialty in leading complex mixed-use and workplace design projects, often
-      at the intersection of enterprise and technology. These include the new Uber
-      headquarters in San Francisco and several confidential projects for global leaders
-      in Silicon Valley. She holds a Bachelor in Architecture degree from ITESM in
-      Monterrey, Mexico, and a Master of Architecture from Harvard University, where
-      she has also served as a professor. Her work on New York City’s South Street
-      Seaport established her deep expertise in fast-paced, high-profile design and
-      delivery challenges with multilayered stakeholder groups, successfully leveraging
-      programs to promote vitality, equity and community in the private sector and
-      public realm.
   - title: Melissa Burton, Ph.D.
     title_role: Treasurer
     image: "/v1610937147/2017_Burton_Melissa_01_980x780_aev98l.jpg"
