@@ -71,6 +71,12 @@ page_blocks:
       delivery challenges with multilayered stakeholder groups, successfully leveraging
       programs to promote vitality, equity and community in the private sector and
       public realm.
+  - title: Kirsten Sibilia, Assoc. AIA, LEED AP
+    title_role: Secretary
+    image: "/v1618329835/191218-Sibilia_Kirsten-7042_2019-12-20_12_54_18_qp8tam.jpg"
+    description: |-
+      Kirsten Sibilia is a vocal advocate for the value of design and the need for social justice. She is the Managing Principal at Dattner Architects, she focuses on the firm’s health and vitality. Her design training and entrepreneurial spirit have allowed her to approach the business side of the practice as a design project; with each initiative, she reflects the firm’s commitment to improving public life, through the creation of resilient and sustainable urban density.
+      Kirsten holds a Bachelor of Fine Arts from Parsons School of Design and a Bachelor of Arts from the New School.
   - title: Patricia Harris, Esq., LEED AP
     title_role: Treasurer
     image: "/v1610937223/PatriciaHarrisHeadshot-2-e1454609739415_rkq5sz.jpg"
@@ -83,12 +89,6 @@ page_blocks:
       and licensing compliance services to design professionals. Ms. Harris’ legal
       practice focuses on mergers and acquisitions, business organization and management
       issues, succession, strategy and licensing issues.
-  - title: Kirsten Sibilia, Assoc. AIA, LEED AP
-    title_role: Secretary
-    image: "/v1618329835/191218-Sibilia_Kirsten-7042_2019-12-20_12_54_18_qp8tam.jpg"
-    description: |-
-      Kirsten Sibilia is a vocal advocate for the value of design and the need for social justice. She is the Managing Principal at Dattner Architects, she focuses on the firm’s health and vitality. Her design training and entrepreneurial spirit have allowed her to approach the business side of the practice as a design project; with each initiative, she reflects the firm’s commitment to improving public life, through the creation of resilient and sustainable urban density.
-      Kirsten holds a Bachelor of Fine Arts from Parsons School of Design and a Bachelor of Arts from the New School.
   - title: Joan Blumenfeld, FAIA, FIIDA, LEED ID+C
     title_role: Co-Chair, Chair Nominating Committee
     image: "/v1610937099/JoanBlumenfeld_gzuyea.jpg"
