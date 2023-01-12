@@ -57,36 +57,8 @@ page_blocks:
       Magazine’s feature piece, “Workers in Progress.” Murphy is a member of the WX
       Women Executives in Real Estate and is the Immediate Past Chair of Beverly Willis
       Architecture Foundation. "
-  - title: Melissa Burton, Ph.D.
+  - title: Patricia Harris, Esq., LEED AP
     title_role: Treasurer
-    image: "/v1610937147/2017_Burton_Melissa_01_980x780_aev98l.jpg"
-    description: Melissa Burton is a Principal with Arup and currently serves as the
-      Consulting Practice Leader for Canada. She oversees a variety of work for Arup
-      in the consulting practice from early stage advisory through specialty technical
-      consulting work to complex design studies. In her role she brings together teams
-      of engineers and consultants with a breadth and depth of skills and experience
-      to enable them to collaborate with clients and develop creative, robust solutions
-      to realize her client’s visions. Melissa started her career looking at how the
-      wind climate affects the buildings we design, and how the consequential reaction
-      of the buildings affects the people that occupy them. Her technical expertise
-      extends to beyond code approaches using advanced analytical tools to quantify
-      and reduce design risk from wind loading.
-  - title: Peter DiMaggio, PE, SECB
-    title_role: Secretary
-    image: "/v1610937178/sml_DiMaggio_Peter_headshot_srramp.jpg"
-    description: Peter DiMaggio is Co-CEO of Thornton Tomasetti and is responsible
-      for defining, articulating and driving the firm’s strategic vision. In addition
-      to participating in the development and execution of the overall business plan,
-      he is involved in strategic initiatives from identifying new markets and merger
-      and acquisition opportunities to instituting mentorship and professional development
-      programs. Pete is a recognized expert in special structures and protective design
-      and security. He has been involved in the design and structural hardening of
-      numerous government buildings, including more than 40 U.S. embassies, federal
-      facilities and courthouses. His diverse portfolio also includes office buildings,
-      educational facilities, hotels, stadiums, laboratories, residential towers and
-      unique structures around the world.
-  - title: Patricia Harris, Esq.
-    title_role: Of Counsel
     image: "/v1610937223/PatriciaHarrisHeadshot-2-e1454609739415_rkq5sz.jpg"
     description: Patti Harris, Founder and CEO of LicenseSure LLC and Special Counsel
       to Zetlin & De Chiara LLP, provides legal and business counsel to architects
@@ -117,6 +89,20 @@ page_blocks:
       delivery challenges with multilayered stakeholder groups, successfully leveraging
       programs to promote vitality, equity and community in the private sector and
       public realm.
+  - title: Melissa Burton, Ph.D.
+    title_role: Treasurer
+    image: "/v1610937147/2017_Burton_Melissa_01_980x780_aev98l.jpg"
+    description: Melissa Burton is a Principal with Arup and currently serves as the
+      Consulting Practice Leader for Canada. She oversees a variety of work for Arup
+      in the consulting practice from early stage advisory through specialty technical
+      consulting work to complex design studies. In her role she brings together teams
+      of engineers and consultants with a breadth and depth of skills and experience
+      to enable them to collaborate with clients and develop creative, robust solutions
+      to realize her client’s visions. Melissa started her career looking at how the
+      wind climate affects the buildings we design, and how the consequential reaction
+      of the buildings affects the people that occupy them. Her technical expertise
+      extends to beyond code approaches using advanced analytical tools to quantify
+      and reduce design risk from wind loading.
   - title: Erleen Hatfield, PE, AIA
     title_role: Trustee
     image: "/v1618333098/2019_Hatfield_Headshot-use_this_one_l0xibt.jpg"
