@@ -301,25 +301,6 @@ page_blocks:
       and a bachelor’s degree from Georgetown University. She is a current member
       of the American Institute of Architects (AIA) and has been a speaker at AIA
       conferences and Urban Land Institute events."
-  - title: Mary McLeod, Ph.D.
-    title_role: Consulting Historian/ Editor of Pioneering Women of American Architecture
-    image: "/v1618331199/McLeod-headshot_prd2h9.jpg"
-    description: 'Mary McLeod is a professor of architecture at Columbia University,
-      where she teaches architecture history and theory. She has also taught at Yale
-      University, Harvard University, University of Kentucky, and the Institute for
-      Architecture and Urban Studies. Her research and publications have focused on
-      the history of the modern movement and on contemporary architecture theory,
-      examining issues concerning the connections between architecture and politics.
-      She is co-editor of Architecture, Criticism, Ideology and Architecture Reproduction,
-      and is the editor of and contributor to the book Charlotte Perriand: An Art
-      of Living (Abrams, 2003). In addition, she is co-editor of the website Pioneering
-      Women of American Architecture (Beverly Willis Architectural Foundation). '
-  - title: Victoria Rosner, Ph.D.
-    title_role: 'Consulting Historian/ Editor of Pioneering Women of American Architecture '
-    image: "/v1618329946/victoria-rosner-columbia_d4ppc3.jpg"
-    description: |-
-      Victoria Rosner is Dean of Academic Affairs at Columbia University School of General Studies and teaches in the Columbia University Department of English and Comparative Literature. Much of her scholarship focuses on modernism across diverse forms of cultural production, notably literature and architecture. She is the author, most recently, of Machines for Living: Modernism and Domestic Life (Oxford University Press, 2020). 
-      A growing component of her work examines gender in the professions: Victoria is co-editor of Beverly Willis Architecture Foundation’s web-based archive Pioneering Women of American Architecture.
   section_break: false
 - template: portrait-gallery-template
   include_left-hand_column_text_: true
