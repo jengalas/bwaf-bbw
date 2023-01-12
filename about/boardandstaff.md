@@ -23,27 +23,6 @@ page_blocks:
     link_url: ''
     link_text: ''
   portrait:
-  - title: Victoria Rosner
-    title_role: Consulting Historian
-    image: "/v1673557075/rosner_cc77ti.jpg"
-    description: "Victoria Rosner is Dean of NYU Gallatin School of Individualized
-      Study. She joins NYU from Columbia University’s School of General Studies, where
-      she has been serving as the dean of Academic Affairs. She joined Columbia’s
-      School of General Studies in 2010 and has served as the dean of Academic Affairs
-      since 2016. She joined the faculty of Texas A&M University as an assistant professor
-      in 1998 and was promoted to associate professor with tenure in 2004.  \n\nRosner
-      is the recipient of numerous awards and honors; her work has been supported
-      by the Graham Foundation, the Modernist Studies Association, and the National
-      Endowment for the Arts. She is the author of Machines for Living: Modernism
-      and Domestic Life (Oxford UP, 2020) and Modernism and the Architecture of Private
-      Life (Columbia UP, 2005), as well as editor of The Cambridge Companion to the
-      Bloomsbury Group (Cambridge UP, 2014) and The Global and the Intimate: Feminist
-      Theory in Our Time (Columbia UP, 2012). Her public-facing scholarship includes
-      the award-winning web archive Pioneering Women of American Architecture as well
-      as the oral history project Frontline Nurses. She is co-editor of Gender and
-      Culture at Columbia University Press, the preeminent book series on gender and
-      the humanities.\n\nShe received her BA, MA, and PhD in English and Comparative
-      Literature from Columbia University."
   - title: Beverly Willis, FAIA
     image: "/v1618329223/bev_1_zgox9n.jpg"
     description: Beverly Willis, FAIA, is an artist, architect, author and philanthropist.
@@ -322,6 +301,27 @@ page_blocks:
       How the Material World Shapes Independent Kids was published by Bloomsbury USA
       in June 2018. Her most recent book, "Meet Me by the Fountain: An Inside History
       of the Mall", was published by Bloomsbury in June 2022.'
+  - title: Victoria Rosner, Ph.D.
+    title_role: Consulting Historian
+    image: "/v1673557075/rosner_cc77ti.jpg"
+    description: "Victoria Rosner is Dean of NYU Gallatin School of Individualized
+      Study. She joins NYU from Columbia University’s School of General Studies, where
+      she has been serving as the dean of Academic Affairs. She joined Columbia’s
+      School of General Studies in 2010 and has served as the dean of Academic Affairs
+      since 2016. She joined the faculty of Texas A&M University as an assistant professor
+      in 1998 and was promoted to associate professor with tenure in 2004.  \n\nRosner
+      is the recipient of numerous awards and honors; her work has been supported
+      by the Graham Foundation, the Modernist Studies Association, and the National
+      Endowment for the Arts. She is the author of Machines for Living: Modernism
+      and Domestic Life (Oxford UP, 2020) and Modernism and the Architecture of Private
+      Life (Columbia UP, 2005), as well as editor of The Cambridge Companion to the
+      Bloomsbury Group (Cambridge UP, 2014) and The Global and the Intimate: Feminist
+      Theory in Our Time (Columbia UP, 2012). Her public-facing scholarship includes
+      the award-winning web archive Pioneering Women of American Architecture as well
+      as the oral history project Frontline Nurses. She is co-editor of Gender and
+      Culture at Columbia University Press, the preeminent book series on gender and
+      the humanities.\n\nShe received her BA, MA, and PhD in English and Comparative
+      Literature from Columbia University."
   section_break: false
 - template: portrait-gallery-template
   include_left-hand_column_text_: true
