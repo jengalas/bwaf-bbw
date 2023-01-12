@@ -83,6 +83,12 @@ page_blocks:
       and licensing compliance services to design professionals. Ms. Harris’ legal
       practice focuses on mergers and acquisitions, business organization and management
       issues, succession, strategy and licensing issues.
+  - title: Kirsten Sibilia, Assoc. AIA, LEED AP
+    title_role: Secretary
+    image: "/v1618329835/191218-Sibilia_Kirsten-7042_2019-12-20_12_54_18_qp8tam.jpg"
+    description: |-
+      Kirsten Sibilia is a vocal advocate for the value of design and the need for social justice. She is the Managing Principal at Dattner Architects, she focuses on the firm’s health and vitality. Her design training and entrepreneurial spirit have allowed her to approach the business side of the practice as a design project; with each initiative, she reflects the firm’s commitment to improving public life, through the creation of resilient and sustainable urban density.
+      Kirsten holds a Bachelor of Fine Arts from Parsons School of Design and a Bachelor of Arts from the New School.
   - title: Joan Blumenfeld, FAIA, FIIDA, LEED ID+C
     title_role: Co-Chair, Chair Nominating Committee
     image: "/v1610937099/JoanBlumenfeld_gzuyea.jpg"
@@ -219,12 +225,6 @@ page_blocks:
       of several organizations and is active in the AIA New York Committee on Architecture
       for Education, Non-Traditional Employment for Women (NEW), and Beverly Willis
       Architecture Foundation (BWAF).
-  - title: Kirsten Sibilia, Assoc. AIA, LEED AP
-    title_role: Trustee
-    image: "/v1618329835/191218-Sibilia_Kirsten-7042_2019-12-20_12_54_18_qp8tam.jpg"
-    description: |-
-      Kirsten Sibilia is a vocal advocate for the value of design and the need for social justice. She is the Managing Principal at Dattner Architects, she focuses on the firm’s health and vitality. Her design training and entrepreneurial spirit have allowed her to approach the business side of the practice as a design project; with each initiative, she reflects the firm’s commitment to improving public life, through the creation of resilient and sustainable urban density.
-      Kirsten holds a Bachelor of Fine Arts from Parsons School of Design and a Bachelor of Arts from the New School.
   - title: Lynn N. Simon, FAIA, LEED Fellow
     title_role: Trustee
     image: "/v1643050030/LNSimonheadshot_qp6xvg.jpg"
