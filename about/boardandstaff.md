@@ -193,6 +193,8 @@ page_blocks:
     description: |-
       Bolanle Williams-Olley is the Chief Financial Officer and Co-owner of Mancini Duffy, a technology-first design firm, where she oversees the firm’s financial and operational performance. With a strong background in financial analysis and strategic initiatives, Bola thrives on building relationships between finance and management teams to ensure the overall financial success of projects and her firm.
 
+      She is also the author of the bestselling book, Build Boldly, chart your unique career path, and lead with courage. It's a practical playbook written to ignite individuals and leaders to take bold, courageous action and craft their own unique playbooks for success.
+
       She holds a Master’s in Education & Social Policy from NYU, Master’s in Applied Mathematics and Bachelor’ in Mathematics from City University of New York, Hunter College. She is passionate about service and is the founder of four impact organizations: SheBuildsWaves, SheBuildsLives, SheBuildsMoney and REACH Nigeria.
   - title: 'Annya Ramírez-Jiménez, AIA '
     title_role: Trustee
