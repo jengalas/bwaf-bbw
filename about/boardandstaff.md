@@ -23,13 +23,6 @@ page_blocks:
     link_url: ''
     link_text: ''
   portrait:
-  - title: Mary McLeod, Ph.D.
-    title_role: Consulting Historian
-    image: "/v1673557689/Screen_Shot_2023-01-12_at_4.08.03_PM_zwnxgz.png"
-    description: |-
-      Mary McLeod is a Professor of Architecture at Columbia GSAPP, where she teaches architecture history and theory, and occasionally studio. She has also taught at Harvard University, University of Kentucky, University of Miami and the Institute for Architecture and Urban Studies. Her research and publications have focused on the history of the modern movement and on contemporary architecture theory, examining issues concerning the connections between architecture and ideology.
-
-      McLeod is co-editor of Architecture, Criticism, Ideology and Architecture Reproduction, and is the editor of and contributor to the book Charlotte Perriand: An Art of Living (Abrams, 2003). She also initiated and helped curate the exhibition Charlotte Perriand: Interior Equipment, held at the Urban Center in New York. Her articles have appeared in Assemblage, Oppositions, Art Journal, AA Files, JSAH, Casabella, Art Journal, Harvard Design Magazine and Lotus as well as other journals and anthologies, such as The Sex of Architecture, Architecture in Fashion, Architecture of the Everyday, Architecture and Feminism, The Pragmatist Imagination, The State of Architecture, Fragments: Architecture and the Unfinished, Architecture Theory since 1968, Oppositions Reader, Le Parole dell'Architettura, and Modern Women: Women Artists at The Museum of Modern Art. She has received numerous fellowships and awards, including a Fulbright Fellowship, NEH award, and grants from New York Council of the Arts and the Graham Foundation.
   - title: Beverly Willis, FAIA
     image: "/v1618329223/bev_1_zgox9n.jpg"
     description: Beverly Willis, FAIA, is an artist, architect, author and philanthropist.
@@ -308,6 +301,13 @@ page_blocks:
       How the Material World Shapes Independent Kids was published by Bloomsbury USA
       in June 2018. Her most recent book, "Meet Me by the Fountain: An Inside History
       of the Mall", was published by Bloomsbury in June 2022.'
+  - title: Mary McLeod, Ph.D.
+    title_role: Consulting Historian
+    image: "/v1673557689/Screen_Shot_2023-01-12_at_4.08.03_PM_zwnxgz.png"
+    description: |-
+      Mary McLeod is a Professor of Architecture at Columbia GSAPP, where she teaches architecture history and theory, and occasionally studio. She has also taught at Harvard University, University of Kentucky, University of Miami and the Institute for Architecture and Urban Studies. Her research and publications have focused on the history of the modern movement and on contemporary architecture theory, examining issues concerning the connections between architecture and ideology.
+
+      McLeod is co-editor of Architecture, Criticism, Ideology and Architecture Reproduction, and is the editor of and contributor to the book Charlotte Perriand: An Art of Living (Abrams, 2003). She also initiated and helped curate the exhibition Charlotte Perriand: Interior Equipment, held at the Urban Center in New York. Her articles have appeared in Assemblage, Oppositions, Art Journal, AA Files, JSAH, Casabella, Art Journal, Harvard Design Magazine and Lotus as well as other journals and anthologies, such as The Sex of Architecture, Architecture in Fashion, Architecture of the Everyday, Architecture and Feminism, The Pragmatist Imagination, The State of Architecture, Fragments: Architecture and the Unfinished, Architecture Theory since 1968, Oppositions Reader, Le Parole dell'Architettura, and Modern Women: Women Artists at The Museum of Modern Art. She has received numerous fellowships and awards, including a Fulbright Fellowship, NEH award, and grants from New York Council of the Arts and the Graham Foundation.
   - title: Victoria Rosner, Ph.D.
     title_role: Consulting Historian
     image: "/v1673557075/rosner_cc77ti.jpg"
