@@ -198,7 +198,7 @@ page_blocks:
       She holds a Master’s in Education & Social Policy from NYU, Master’s in Applied Mathematics and Bachelor’ in Mathematics from City University of New York, Hunter College. She is passionate about service and is the founder of four impact organizations: SheBuildsWaves, SheBuildsLives, SheBuildsMoney and REACH Nigeria.
   - title: 'Annya Ramírez-Jiménez, AIA '
     title_role: Trustee
-    description: Annya Ramírez-Jiménez, AIA, is a Director at Marvel. She oversees
+    description: Annya Ramírez-Jiménez, AIA, is a Partner at Marvel. She oversees
       the architecture staff of the firm. Annya tackles complex projects with ease
       and is focused on achieving consensus from stakeholders while maintaining a
       clear design voice for each project. As a passionate advocate for equity, her
