@@ -148,16 +148,6 @@ page_blocks:
       Avenue, Halley Rise, the restoration/renovation of the Winter Garden at World
       Financial Center after 9/11, and Manhattan West.   \nSabrina holds a B.A. from
       Union College and is a member of WX and the National Academy of Construction."
-  - title: Alexandra Lange
-    title_role: Trustee
-    image: "/v1618331574/Curbed_Alexandra_Lange-IMG_7033-Edit_yb3ayd.jpg"
-    description: 'Alexandra Lange is a design critic. Her essays, reviews, and profiles
-      have appeared in numerous design publications including Architect, Harvard Design
-      Magazine, Metropolis, and T Magazine, as well as in The Atlantic, New York Magazine,
-      the New Yorker, and the New York Times. Her latest book, The Design of Childhood:
-      How the Material World Shapes Independent Kids was published by Bloomsbury USA
-      in June 2018. She is currently at work on a new book about the history and future
-      of the American shopping mall.'
   - title: 'Richard M. McFadden, PE, LEED AP '
     title_role: Trustee
     image: "/v1618331280/sml_HS_McFadden-R_gt7mcj.jpg"
@@ -301,6 +291,16 @@ page_blocks:
       and a bachelor’s degree from Georgetown University. She is a current member
       of the American Institute of Architects (AIA) and has been a speaker at AIA
       conferences and Urban Land Institute events."
+  - title: Alexandra Lange
+    title_role: Trustee
+    image: "/v1618331574/Curbed_Alexandra_Lange-IMG_7033-Edit_yb3ayd.jpg"
+    description: 'Alexandra Lange is a design critic. Her essays, reviews, and profiles
+      have appeared in numerous design publications including Architect, Harvard Design
+      Magazine, Metropolis, and T Magazine, as well as in The Atlantic, New York Magazine,
+      the New Yorker, and the New York Times. Her latest book, The Design of Childhood:
+      How the Material World Shapes Independent Kids was published by Bloomsbury USA
+      in June 2018. Her most recent book, "Meet Me by the Fountain: An Inside History
+      of the Mall", was published by Bloomsbury in June 2022.'
   section_break: false
 - template: portrait-gallery-template
   include_left-hand_column_text_: true
