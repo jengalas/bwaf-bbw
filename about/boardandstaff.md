@@ -216,17 +216,17 @@ page_blocks:
   - title: Ann Rolland, FAIA, LEED AP
     title_role: Trustee
     image: "/v1618330597/ARolland_web_farbmn.jpg"
-    description: Ann directs FXCollaborative Architects’ Cultural and Educational
-      practice, and has been instrumental in its development from its inception. She
-      is inquisitive and optimistic by nature, and with a keen blend of analytical
-      and organizational skills, Ann uncovers possibilities, unlocks potentials, and
-      maximizes outcomes. Ann is a Fellow of the AIA, a registered architect in New
-      York, and a graduate of Washington University in St. Louis, where she earned
-      both Bachelor of Arts and Master of Architecture degrees. A frequent speaker
-      and active member of the design community, she has served on the advisory boards
-      of several organizations and is active in the AIA New York Committee on Architecture
-      for Education, Non-Traditional Employment for Women (NEW), and Beverly Willis
-      Architecture Foundation (BWAF).
+    description: Ann is a partner at FXCollaborative. She directs their Architects’
+      Cultural and Educational practice, and has been instrumental in its development
+      from its inception. She is inquisitive and optimistic by nature, and with a
+      keen blend of analytical and organizational skills, Ann uncovers possibilities,
+      unlocks potentials, and maximizes outcomes. Ann is a Fellow of the AIA, a registered
+      architect in New York, and a graduate of Washington University in St. Louis,
+      where she earned both Bachelor of Arts and Master of Architecture degrees. A
+      frequent speaker and active member of the design community, she has served on
+      the advisory boards of several organizations and is active in the AIA New York
+      Committee on Architecture for Education, Non-Traditional Employment for Women
+      (NEW), and Beverly Willis Architecture Foundation (BWAF).
   - title: Lynn N. Simon, FAIA, LEED Fellow
     title_role: Trustee
     image: "/v1643050030/LNSimonheadshot_qp6xvg.jpg"
