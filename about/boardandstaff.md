@@ -125,17 +125,16 @@ page_blocks:
   - title: Latoya Nelson Kamdang, AIA, RA, NCARB, NCIDQ, LEED AP BD+C, RID
     title_role: Trustee
     image: "/v1618332981/20191107_Latoya16463-cropped_xjlbgz.jpg"
-    description: Latoya Nelson Kamdang is the Director of NY Operations for Moody
-      Nolan. She is also a U.S. Fulbright Senior Scholar, Registered Architect, Certified
-      Interior Designer, and LEED AP BD+C. Her experience spans architecture, planning,
-      exhibit design, industrial and interior design. She has experience in hospitality,
-      retail, museums, workplace, education, and institutional. As a Senior Architect,
-      some of her most recent clients include Hilton Worldwide and Hudson Yards Observation
-      Deck experiential journey. Latoya was on the design team for the Smithsonian
-      Institute National Museum of African American History and Culture. She was an
-      interdisciplinary team member from RFP submission through construction documents.
-      Her spatial focus was the Slavery & Freedom History Gallery. Latoya’s experience
-      has also spanned to overseas federal projects.
+    description: Latoya Nelson Kamdang is a U.S. Fulbright Senior Scholar, Registered
+      Architect, Certified Interior Designer, and LEED AP BD+C. Her experience spans
+      architecture, planning, exhibit design, industrial and interior design. She
+      has experience in hospitality, retail, museums, workplace, education, and institutional.
+      As a Senior Architect, some of her most recent clients include Hilton Worldwide
+      and Hudson Yards Observation Deck experiential journey. Latoya was on the design
+      team for the Smithsonian Institute National Museum of African American History
+      and Culture. She was an interdisciplinary team member from RFP submission through
+      construction documents. Her spatial focus was the Slavery & Freedom History
+      Gallery. Latoya’s experience has also spanned to overseas federal projects.
   - title: Sabrina Kanner
     title_role: Trustee
     image: "/v1618331682/SK_Updated_headshot_Nov_2018_jmoamd.jpg"
