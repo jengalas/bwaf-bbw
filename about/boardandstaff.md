@@ -185,7 +185,8 @@ page_blocks:
       in the San Francisco Bay Area and has been involved in historic preservation,
       authoring several context statements for major surveys and successfully nominating
       a range of buildings to the National Register of Historic Places. She is currently
-      Senior Family Historian at Ascent Private Capital Management of U.S. Bank.
+      Managing Director, SVP, Sr. Leadership & Legacy Consultant at Ascent Private
+      Capital Management of U.S. Bank
   - title: Bolanle Williams-Olley
     title_role: Trustee
     image: "/v1618329337/Bolanle_Williams-Olley_Headshot_yza38d.jpg"
