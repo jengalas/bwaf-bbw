@@ -44,7 +44,7 @@ page_blocks:
       supporting, mentoring, and empowering women in STEM and the engineering community.
       This dedication inspired her to co-found Women@Langan in September 2015."
   - title: Julia Murphy, AIA
-    title_role: Immediate Past Chair
+    title_role: Chair Nominating Committee
     image: "/v1618330990/j_murphy_headshot_mfhzye.png"
     description: "A partner at SOM, Julia Murphy is integral to the firm's engagement
       with the built environment of New York City. In her decade of experience at
