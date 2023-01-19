@@ -110,19 +110,6 @@ page_blocks:
       of the buildings affects the people that occupy them. Her technical expertise
       extends to beyond code approaches using advanced analytical tools to quantify
       and reduce design risk from wind loading.
-  - title: Erleen Hatfield, PE, AIA
-    title_role: Trustee
-    image: "/v1618333098/2019_Hatfield_Headshot-use_this_one_l0xibt.jpg"
-    description: "Erleen Hatfield, PE, AIA, is the Managing Partner of the Hatfield
-      Group, a multi-disciplinary engineering consulting firm based in New York. She
-      has over 25 years of experience in the design of complex structures worldwide. She
-      frequently writes and presents on topics related to innovation and technology
-      in engineering and architecture. Her firm, Hatfield Group focuses on synthesis
-      of engineering and architecture, putting client value first. Hatfield Group,
-      uses bespoke engineering design, technology, and innovation to achieve their
-      clients’ goals.  \nWith a keen appreciation for design she has worked on iconic
-      buildings around the world. She sits on numerous national industry boards and
-      teaches at the Yale University School of Architecture.   "
   - title: Latoya Nelson Kamdang, AIA, RA, NCARB, NCIDQ, LEED AP BD+C, RID
     title_role: Trustee
     image: "/v1618332981/20191107_Latoya16463-cropped_xjlbgz.jpg"
@@ -162,6 +149,13 @@ page_blocks:
       Rich currently serves as National Director on the ACEC New York Executive Committee.
       He holds a Bachelor of Science degree in Electrical Engineering from Bucknell
       University, and is a licensed Professional Engineer and LEED Accredited Professional.  '
+  - title: Carol Loewenson, FAIA, LEED AP
+    title_role: Trustee
+    image: "/v1674147531/Loewenson_Carol_1355_qmgutt.jpg"
+    description: |-
+      Carol Loewenson’s expertise ranges from highly technical buildings, renovations and façade replacements to work involving both the private and public sector. Her approach to architecture is deeply rooted in a commitment to public spaces and an acknowledgment of how the shape of a building, city, or institution impacts people’s lives. She brings a careful consideration of context to her work, balancing preservation and modernization to generate sustainable transformations that capture the complexity of a space’s past history and future goals.
+
+      Carol Loewenson joined Mitchell Giurgola in 1982 and became a partner in 1996. Her work at the firm includes projects for the New York Public Library, Rockefeller University, New York University, Cornell University, LaGuardia Community College, and the New York State Unified Court System. She serves as a Board member of the AIA Center for Architecture, the Beverly Willis Architecture Foundation, the IDC Foundation and New Yorkers for Parks. She was as elected to the College of Fellows of the American Institute of Architects in 2013 and elected President of AIA New York in 2016.
   - title: Karen McNeill, Ph.D.
     title_role: Trustee
     image: "/v1618331108/McNeill_Head_shot_csuk9r.jpg"
@@ -252,19 +246,6 @@ page_blocks:
       Real Estate Development and is a member of Chicago Women in Architecture, the
       National Organization of Minority Architects (NOMA), CREW Chicago, and Alpha
       Kappa Alpha Sorority, Inc. She is a licensed architect in the state of Illinois. "
-  - title: Barbara Wilks, FAIA, FASLA
-    title_role: Trustee
-    image: "/v1618329573/Barbara_Wilks_tu3wpd.jpg"
-    description: "Barbara Wilks, principal and founder of W Architecture and Landscape
-      Architecture, is a leader in the field of design. Beginning her career as an
-      architect and obtaining prominence for her design skills, she soon realized
-      that her interests in public space linked with the profession of landscape architecture.
-      Now as an architect and landscape architect, Barbara uses her leadership skills
-      to realign nature and communities. \nBarbara has won many awards for her work
-      and was elected to both the College of Fellows of the American Institute of
-      Architects and the American Society of Landscape Architecture for her design
-      accomplishments. Her projects range in scale from urban plans, to public spaces,
-      to infrastructure, to architecture. "
   - title: Ebbie Wisecarver
     title_role: Trustee
     image: "/v1643050566/Ebbie_Headshot_ytuxeq.jpg"
