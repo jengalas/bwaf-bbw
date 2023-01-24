@@ -59,7 +59,7 @@ page_blocks:
       Architecture Foundation. "
   - title: Angelica T. Baccon, AIA
     title_role: Chair Elect
-    image: "/v1610937006/s_170713_webview_jkbimz.jpg"
+    image: "/v1674591543/210902_Baccon_Portraits-0131_qhyo0l.jpg"
     description: Angelica Trevino Baccon is a principal of SHoP. She has a particular
       specialty in leading complex mixed-use and workplace design projects, often
       at the intersection of enterprise and technology. These include the new Uber
