@@ -1,6 +1,6 @@
 ---
 layout: podcast-page
-permalink: '"/resources/new-podcast"'
+permalink: /resources/podcast
 navCategory: Resources
 title: Podcast
 description: |-
