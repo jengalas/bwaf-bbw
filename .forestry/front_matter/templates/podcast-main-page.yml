@@ -22,11 +22,11 @@ fields:
   type: blocks
   label: Page Blocks
   template_types:
+  - podcast-main-page
   - text-block
   - image-block
   - slideshow-block
   - podcast-related-reading
-  - podcast-main-page
   config:
     min: 
     max: 
