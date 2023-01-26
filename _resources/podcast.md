@@ -1,6 +1,6 @@
 ---
 layout: podcast-page
-permalink: /resources/podcast
+permalink: "/resources/podcast"
 navCategory: Resources
 title: Podcast
 description: |-
@@ -33,7 +33,7 @@ page_blocks:
     download: ''
     link_url: https://bwafnewanglevoice.libsyn.com/
     link_text: ''
-  image: "/v1643246064/bwaf_new_angle_cover_smaller_p2h7xt.jpg"
+  image: "/v1674764933/podcast-front_pnhgdh.jpg"
   alt_text: 'New Angle: Voice logo'
   image_caption_text: ''
 - template: text-block
