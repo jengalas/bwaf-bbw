@@ -86,7 +86,7 @@
 
       <div>
         {% for block in page.page_blocks %}
-          {% if block.template == "slideshow-block" %}
+          {% if block.template == "slideshow-block" %}  <!-- change to position: static? -->
             {% include block_r_slideshow.html %}
           {% endif %}
         {% endfor %}
