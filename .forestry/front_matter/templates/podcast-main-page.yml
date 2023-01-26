@@ -18,7 +18,7 @@ fields:
   label: Short Description
   description: Page description shows up in website search results, search engines,
     and when the page is shared on social media.
-- name: _blocks
+- name: page_blocks
   type: blocks
   label: Page Blocks
   template_types:
@@ -51,13 +51,5 @@ fields:
   label: navCategory
   hidden: true
   default: Resources
-- name: page_blocks
-  type: blocks
-  label: blocks
-  template_types:
-  - podcast-main-page
-  config:
-    min: 
-    max: 
 pages:
 - _resources/podcast.md
