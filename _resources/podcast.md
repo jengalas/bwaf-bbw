@@ -1,6 +1,6 @@
 ---
-layout: newsletter-page
-permalink: "/resources/newsletter-archive"
+layout: podcast-page
+permalink: '"/resources/new-podcast"'
 navCategory: Resources
 title: Podcast
 description: |-

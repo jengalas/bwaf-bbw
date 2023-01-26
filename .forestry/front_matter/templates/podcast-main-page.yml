@@ -51,3 +51,5 @@ fields:
   label: navCategory
   hidden: true
   default: Resources
+pages:
+- _resources/podcast.md
