@@ -59,3 +59,5 @@ fields:
   config:
     min: 
     max: 
+pages:
+- _resources/podcast.md
