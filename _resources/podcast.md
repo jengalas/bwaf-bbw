@@ -1,5 +1,5 @@
 ---
-layout: podcast-page
+layout: innerPage
 permalink: "/resources/podcast"
 navCategory: Resources
 title: Podcast
