@@ -33,7 +33,7 @@ page_blocks:
     download: ''
     link_url: https://bwafnewanglevoice.libsyn.com/
     link_text: ''
-  image: "/v1674764933/podcast-front_pnhgdh.jpg"
+  image: "/v1674765317/podcast-front-wide_xscfqv.jpg"
   alt_text: 'New Angle: Voice logo'
   image_caption_text: ''
 - template: text-block
