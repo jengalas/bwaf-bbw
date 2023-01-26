@@ -51,3 +51,11 @@ fields:
   label: navCategory
   hidden: true
   default: Resources
+- name: blocks
+  type: blocks
+  label: blocks
+  template_types:
+  - podcast-main-page
+  config:
+    min: 
+    max: 
