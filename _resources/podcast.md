@@ -1,6 +1,6 @@
 ---
 layout: podcast-page
-permalink: "/resources/podcast"
+permalink: '"/resources/new-podcast"'
 navCategory: Resources
 title: Podcast
 description: |-
@@ -21,7 +21,9 @@ page_blocks:
   text_block: "“Why aren’t women in the history books?” Since 2002, Beverly Willis
     Architecture Foundation has worked to remedy this egregious omission, through
     research, creating websites, making short films, and now… a podcast. Welcome to
-    New Angle: Voice. New Angle: Voice is supported by the National Endowment for Humanities, the National Endowment for the Arts, the Graham Foundation, and MillerKnoll."
+    New Angle: Voice. \n\nNew Angle: Voice is supported by the National Endowment
+    for Humanities, the National Endowment for the Arts, the Graham Foundation, and
+    MillerKnoll."
 - template: image-block
   section_break: false
   include_left-hand_column_text_: true
@@ -47,5 +49,8 @@ page_blocks:
     Enjoy hands free, the scholarly effort that brings Pioneering Women of American Architecture, edited by Mary McLeod and Victoria Rosner, to the internet, through your headphones… Hear from historians, family, colleagues, and the women themselves, how it was to be an architect coming up in the early 20th century. Imagine sitting with these pioneering women, who opened up the magic of the built environment professions to all who had the gifts, grit and persistence to endure.
 
     New Angle: Voice is a production of Beverly Willis Architecture Foundation. Your host is Cynthia Phifer Kracauer, AIA
+_blocks: []
+sign-up-text: ''
+newsletters: []
 
 ---
