@@ -6,6 +6,8 @@ title: Podcast
 description: |-
   “Why aren’t women in the history books?”
   Since 2002, Beverly Willis Architecture Foundation has worked to remedy this egregious omission, through research, creating websites, making short films, and now… a podcast. Welcome to New Angle: Voice.
+
+  New Angle: Voice is supported by the National Endowment for Humanities, the National Endowment for the Arts, the Graham Foundation, and MillerKnoll.
 page_blocks:
 - template: text-block
   section_break: false
