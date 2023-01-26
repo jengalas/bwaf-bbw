@@ -1,6 +1,6 @@
 ---
-layout: podcast-page
-permalink: '"/resources/new-podcast"'
+layout: newsletter-page
+permalink: "/resources/newsletter-archive"
 navCategory: Resources
 title: Podcast
 description: |-
@@ -50,5 +50,7 @@ page_blocks:
 
     New Angle: Voice is a production of Beverly Willis Architecture Foundation. Your host is Cynthia Phifer Kracauer, AIA
 _blocks: []
+sign-up-text: ''
+newsletters: []
 
 ---

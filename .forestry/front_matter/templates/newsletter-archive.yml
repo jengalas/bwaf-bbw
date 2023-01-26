@@ -42,3 +42,5 @@ fields:
   - type: textarea
     name: description
     label: Description
+pages:
+- _resources/podcast.md
