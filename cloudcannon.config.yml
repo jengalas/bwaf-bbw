@@ -1,0 +1,197 @@
+_inputs: 
+  page_blocks:
+    options:
+      text:
+        - key: template
+      preview:
+        subtext:
+          - key: label
+    type: array
+    options:
+      structures: _structures.page_blocks      
+  blocks:
+    options:
+      preview:
+          subtext:
+            - key: label 
+  template:
+    hidden: true              
+collections_config:
+  data:
+    filter:
+      exclude:
+        - nav.yaml
+  pages:
+    _enabled_editors:
+      - data
+    _inputs:   
+      description:
+        hidden: true
+      homepage:
+        hidden: true   
+      layout:
+        hidden: true
+      navCategory:
+        hidden: true 
+      permalink:
+        hidden: true   
+  bbw-juries:
+    name: "BBW: Juries"
+    _enabled_editors:
+      - data  
+    _inputs:      
+      layout:
+        hidden: true
+      navCategory:
+        hidden: true 
+      permalink:
+        hidden: true     
+  bbw-projects:
+    name: "BBW: Projects"
+    _enabled_editors:
+      - data
+    _inputs:      
+      layout:
+        hidden: true
+      navCategory:
+        hidden: true 
+      permalink:
+        hidden: true  
+      project_categories:
+        hidden: true  
+  bbw-years:
+    name: "BBW: Years"     
+    _enabled_editors:
+      - data     
+    _inputs:      
+      layout:
+        hidden: true
+      navCategory:
+        hidden: true 
+      permalink:
+        hidden: true  
+  films:
+    _enabled_editors:
+      - data
+    _inputs:   
+      layout:
+        hidden: true
+      navCategory:
+        hidden: true 
+      permalink:
+        hidden: true
+  programs:
+    _enabled_editors:
+      - data  
+    _inputs:
+      date:
+        hidden: true
+      $.title:
+        hidden: true  
+      layout:
+        hidden: true
+      navCategory:
+        hidden: true 
+      permalink:
+        hidden: true
+      description:
+        hidden: true
+      section_break:
+        hidden: true
+      template:
+        hidden: true
+      include_left-hand_column_text_:
+        hidden: true
+      lefthand_text:
+        hidden: true               
+  resources:
+    _enabled_editors:
+      - data
+    _inputs:  
+      date:
+        hidden: true 
+      layout:
+        hidden: true
+      navCategory:
+        hidden: true 
+      permalink:
+        hidden: true   
+  podcasts:
+    _enabled_editors:
+      - data      
+    _inputs:
+      navCategory:
+        hidden: true
+      layout:
+        hidden: true     
+  emerging-leaders:
+    _enabled_editors:
+      - data      
+    _inputs:
+      navCategory:
+        hidden: true
+      layout:
+        hidden: true
+      template:
+        hidden: true
+      section_break:
+        hidden: true      
+      text_block:
+        type: textarea
+      date:
+        type: date
+
+collection_groups:
+  - heading: Pages
+    collections:
+      - pages
+      - resources
+      - programs
+  - heading: Built by Women 
+    collections:   
+      - bbw-years
+      - bbw-projects
+      - bbw-juries
+  - heading: Collections 
+    collections:     
+      - podcasts
+      - emerging-leaders   
+
+_structures:
+  page_blocks:
+    id_key: template
+    values:
+      - label: Buttons
+        preview:
+          text: Buttons
+          subtext: "[Do not modify]"
+          icon: smart_button
+        value:
+          template: buttons-block
+          button:
+            - button_text:
+              button_link:
+          section_break: false
+          include_left-hand_column_text_: false
+        _inputs:
+          icon:
+            hidden: true
+          button:
+            hidden: true
+          section_break:
+            hidden: true
+          include_left-hand_column_text_:
+            hidden: true
+      - label: Image
+        preview:
+          text: Image
+          image:
+            - key: image
+          icon: image
+        value:
+          template: image-block
+          image:
+          section_break: false
+          image_caption_text:
+          alt_text:      
+             
