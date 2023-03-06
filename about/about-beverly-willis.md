@@ -8,7 +8,7 @@ page_blocks:
     image_caption_text: Beverly Willis, FAIA
     alt_text: Beverly Willis, FAIA
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618329223/bev_1_zgox9n.jpg
+      /v1618329223/bev_1_zgox9n.jpg
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Large Header
