@@ -33,8 +33,8 @@ page_blocks:
   time-location:
     line-1: May 16, 2023
     line-2: ''
-  label: Melissa Burton
-  title: ARUP Canada's Principal Engineer
+  label: ''
+  title: Melissa Burton
   section_break: false
   include_left-hand_column_text_: false
   lefthand_text:
@@ -45,7 +45,7 @@ page_blocks:
     link_text: ''
   featured-portrait: []
   image: ''
-  subtitle: ''
+  subtitle: ARUP Canada's Principal Engineer
   description: ''
 published: false
 
