@@ -18,6 +18,16 @@ page_blocks:
     download: ''
     link_url: ''
     link_text: ''
+- template: text-block
+  section_break: true
+  include_left-hand_column_text_: true
+  lefthand_text:
+    header_type: Medium Header
+    text: Energy, Environment, Engagement
+    download: ''
+    link_url: ''
+    link_text: ''
+  text_block: ''
 published: false
 
 ---
