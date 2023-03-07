@@ -51,7 +51,7 @@
 {% endfor %}
 
 
-{% assign groups = site.podcasts | group_by: "season" | sort: "season" | reverse %}
+{% assign groups = site.podcasts | group_by: "season" | sort: "season"  %}
 
 {% for group in groups %}
   <div class="main-two-up">
