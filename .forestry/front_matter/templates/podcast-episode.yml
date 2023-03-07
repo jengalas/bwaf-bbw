@@ -7,6 +7,16 @@ fields:
   config:
     required: true
   label: Podcast TItle
+- name: season
+  type: number
+  label: Season Number
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
 - name: episode_number
   type: number
   label: Episode Number
