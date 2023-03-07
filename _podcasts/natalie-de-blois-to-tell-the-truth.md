@@ -3,6 +3,7 @@ thumbnail_image: "/v1643245774/deblois-720x720_coccfv.jpg"
 navCategory: Resources
 layout: full-podcast-page
 title: 'Natalie de Blois: To Tell the Truth'
+season: 1
 episode_number: 2
 description: "<p>A senior designer and associate partner at Skidmore, Owings &amp;
   Merrill, Natalie de Blois was involved in the design of many of the firm’s most

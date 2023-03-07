@@ -3,6 +3,7 @@ thumbnail_image: "/v1647436176/Florence_Knoll_qmi40h.jpg"
 navCategory: Resources
 layout: full-podcast-page
 title: 'Florence Knoll: Total Design'
+season: 1
 episode_number: 5
 description: "<p>As an architect, Florence was the force behind the seamless integration
   of furniture, space, textile, art, graphic design into a perfect brand concept:

@@ -3,6 +3,7 @@ thumbnail_image: "/v1643243280/1_1926_morgan-julia-studio-portrait_jm-cal-poly-7
 navCategory: Resources
 layout: full-podcast-page
 title: Finding Julia Morgan
+season: 1
 episode_number: 1
 description: "<p>Welcome to New Angle: Voice. Episode 1 takes us on an earthquaking
   tour from San Francisco to Paris and back, with Julia Morgan (1872-1957), the first

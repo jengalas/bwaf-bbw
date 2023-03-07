@@ -3,6 +3,7 @@ thumbnail_image: "/v1647368159/Helen_Liu_Fong_Hirshowitz_2000_yunom2.jpg"
 navCategory: Resources
 layout: full-podcast-page
 title: 'Fast Food and Radical Rooflines: Helen Fong Shapes Los Angeles Coffee Shops'
+season: 1
 episode_number: 3
 description: "<p>Who hasn't had a burger and fries at a Denny's or Bob's Big Boy?
   There are thousands of them, not just in Los Angeles, where they were born, but

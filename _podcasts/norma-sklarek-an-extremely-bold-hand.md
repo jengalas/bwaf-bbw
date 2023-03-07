@@ -3,6 +3,7 @@ thumbnail_image: "/v1647435887/norma-sklarek_f2e5hm.png"
 navCategory: Resources
 layout: full-podcast-page
 title: 'Norma Sklarek: An Extremely Bold Hand'
+season: 1
 episode_number: 4
 description: "<p>Norma Sklarek had many “firsts”. She was often credited at the start
   of her career as the first Black Women architect to be licensed in the United States.
