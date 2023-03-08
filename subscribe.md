@@ -7,6 +7,15 @@ text-block: Sign up to receive news, updates, and ways to get involved in suppor
   women and the acknowledgement of their contributions to the built environment.
 description: Sign up to receive news, updates, and ways to get involved in supporting
   women and the acknowledgement of their contributions to the built environment.
+
+#  CloudCannon config
+_inputs:
+  title:
+    hidden: true
+  header:
+    label: Header in Left Column
+  text-block:
+    type: textarea
 ---
 <div class="lightgreen">
     <div class="main-two-up">
