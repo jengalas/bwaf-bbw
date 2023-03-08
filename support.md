@@ -15,6 +15,8 @@ text-block: >-
   organization in the State of New York, and your donations are 100%
   tax-deductible. We rely upon donations for our operations and programming, and
   we offer a heartfelt thank you for your contribution.</p>
+
+# CloudCannon config  
 _inputs:
   title:
     hidden: true
@@ -33,8 +35,6 @@ _inputs:
         </div>
         <div class="text-block">
             {{page.text-block}}
-            <!-- <p>Our mission at the Beverly Willis Architecture Foundation is to change the culture of the building industry for women through education and research. This work is proving more urgent and important than ever before. We depend on your donations to continue providing high-quality reference materials and for sustaining our educational programming.</p>
-            <p>The BWAF is a 501(c)3 nonprofit organization in the State of New York, and your donations are 100% tax-deductible. We rely upon donations for our operations and programming, and we offer a heartfelt thank you for your contribution.</p> -->
         </div>
     </div>
     <div class="main-two-up">
@@ -65,12 +65,8 @@ _inputs:
                             $2,500
                             <input type="radio" name="sponsorship-type" value="2500">
                         </label>
-                        <!-- <label class="btn-other">
-                            <input type="text" name="sponsorship-type" value="other" placeholder="Other Amount">
-                        </label> -->
                         <input class="btn-other h2" type="number" name="sponsorship-type" placeholder="Other Amount">
-                    </div>
-                    
+                    </div>                    
                 </div>
                 <br>
                 <div>
@@ -91,8 +87,7 @@ _inputs:
                     <button id="donate-form--donate-btn"><span class="h2"><b>Donate Now</b></span></button>
                 </div>
                 <div id="view-pay-by-check">
-                    <h2>Please make your check payable to:<br><b>Beverly Willis Architecture Foundation</b></h2>
-                    
+                    <h2>Please make your check payable to:<br><b>Beverly Willis Architecture Foundation</b></h2>                    
                     <h2>Please mail your check to:
                         <br><b>Beverly Willis Architecture Foundation</b>
                         <br><b>141 West Broadway<br>New York, NY 10013</b>
