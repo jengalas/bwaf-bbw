@@ -5,6 +5,7 @@ permalink: "/mission"
 navCategory: About
 page_blocks:
 - template: text-block
+  label: Text Block
   text_block: Beverly Willis Architecture Foundation (BWAF) is leading a cultural
     revolution in the building industry that will acknowledge, cultivate, and value
     women’s contributions and achievements—past, present, and future.
@@ -17,6 +18,7 @@ page_blocks:
     link_text: ''
   section_break: false
 - template: text-block
+  label: Text Block
   text_block: BWAF advocates for gender equity in leadership and recognition in the
     architecture, design, landscape, engineering, technology, real estate and construction
     industries. BWAF achieves its mission by researching and documenting women’s contributions
@@ -31,6 +33,7 @@ page_blocks:
     link_url: ''
   section_break: false
 - template: text-block
+  label: Text Block
   text_block: Through exhibitions, websites, media, public and invitation-only programs,
     BWAF collaborates with museums, universities, professional organizations, and
     other groups to advance women. We cultivate leaders at all levels. Through our
@@ -44,6 +47,7 @@ page_blocks:
     link_url: ''
     link_text: Download the statement
 - template: image-block
+  label: Image Block
   alt_text: Founder Beverly Willis and Executive Director Cynthia Phifer Kracauer
     in a Time’s Up Flash Mob, 2018
   image_caption_text: Founder Beverly Willis and Executive Director Cynthia Phifer
@@ -62,6 +66,29 @@ description: Beverly Willis Architecture Foundation (BWAF) is leading a cultural
   in the building industry that acknowledges, cultivates, and values women’s contributions
   and achievements—past, present, and future.
 tags: []
-date: 
+
+# CloudCannon config
+_inputs:
+  page_sections:
+    hidden: true
+  tags:
+    hidden: true
+  title:
+    hidden: true
+  template:
+    hidden: true
+  section_break:
+    hidden: true
+  page_blocks[*].label:
+    hidden: true
+  text_block:
+    type: textarea
+  page_blocks:
+    options:
+      text:
+        - key: template
+      preview:
+        subtext:
+          - key: label 
 
 ---
