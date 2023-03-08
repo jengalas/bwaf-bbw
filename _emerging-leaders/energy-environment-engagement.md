@@ -75,6 +75,29 @@ page_blocks:
   time-location:
     line-1: Tuesday, April 25, 2023, 6:30-8PM
     line-2: ''
+- template: featured-portrait-block
+  header: Engagement
+  image: "/v1678235026/Emmanuelle-Slossberg_Small_so5sxj.jpg"
+  label: Speaker
+  title: Emmanuelle Slossberg
+  description: Emmanuelle Slossberg has worked in branding and marketing, and presents
+    engagement as a business development strategy. From experiences as diverse as
+    the Consortium for Sustainable Urbanization or other, to the Durst Organization,
+    Cetra-Ruddy, and ULI, Emmanuelle offers the group both the professional perspective,
+    as well as deep insights into the development world.
+  time-location:
+    line-1: Thursday, March 30, 2023, 6:30-8PM
+    line-2: ''
+  section_break: false
+  include_left-hand_column_text_: false
+  lefthand_text:
+    header_type: ''
+    text: ''
+    download: ''
+    link_url: ''
+    link_text: ''
+  featured-portrait: []
+  subtitle: ''
 published: false
 
 ---
