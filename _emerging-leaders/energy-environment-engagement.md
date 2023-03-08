@@ -29,7 +29,7 @@ page_blocks:
     link_text: ''
   text_block: ''
 - template: featured-portrait-block
-  header: Energy
+  header: ENERGY
   time-location:
     line-1: Tuesday, May 16, 2023, 6:30-8PM
     line-2: ''
