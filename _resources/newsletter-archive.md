@@ -121,7 +121,10 @@ newsletters:
 - title: Dispatches From Home
   month_year: May 2020
   link: https://mailchi.mp/bwaf/bwaf-briefly-news-save-the-dates-2994906
-
+#  CloudCannon config
+_inputs:
+  $.title:
+    hidden: true 
 ---
 <div class="main-two-up">
     <div>
