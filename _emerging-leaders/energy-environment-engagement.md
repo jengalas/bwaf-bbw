@@ -29,7 +29,7 @@ page_blocks:
     link_text: ''
   text_block: ''
 - template: featured-portrait-block
-  header: ENERGY
+  header: Energy
   time-location:
     line-1: Tuesday, May 16, 2023, 6:30-8PM
     line-2: ''
@@ -52,6 +52,25 @@ page_blocks:
     she has the ENERGY for three children, an artist wife, and a side hustle in music,
     having lived in Hong Kong, South Korea, London, New York and now Toronto. Melissa's
     perspectives provide inspiration to re-charge both architects and engineers.
+- template: featured-portrait-block
+  header: Environment
+  section_break: false
+  include_left-hand_column_text_: false
+  lefthand_text:
+    header_type: ''
+    text: ''
+    download: ''
+    link_url: ''
+    link_text: ''
+  featured-portrait: []
+  image: ''
+  label: ''
+  title: ''
+  subtitle: ''
+  description: ''
+  time-location:
+    line-1: ''
+    line-2: ''
 published: false
 
 ---
