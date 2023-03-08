@@ -70,5 +70,3 @@ _inputs:
           - key: label  
 
 ---
-
-{% include prefooter.html %}
