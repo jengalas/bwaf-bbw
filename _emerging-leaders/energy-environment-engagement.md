@@ -63,13 +63,17 @@ page_blocks:
     link_url: ''
     link_text: ''
   featured-portrait: []
-  image: ''
-  label: ''
-  title: ''
-  subtitle: ''
-  description: ''
+  image: "/v1678234847/LNSimonheadshot_labdtm.jpg"
+  label: Speaker
+  title: Lynn Simon
+  subtitle: VP of Sustainability and Global ESG
+  description: Workshop your sustainability profile with Lynn Simon, VP of Sustainability
+    and Global ESG. Whether your professional environment supports your whole self,
+    or challenges your sensibilities, take advantage of Lynn's experience in global
+    real estate sustainability at Google to give yourself a post-pandemic reset. Advance
+    reading from "All We Can Save" will inform the session.
   time-location:
-    line-1: ''
+    line-1: Tuesday, April 25, 2023, 6:30-8PM
     line-2: ''
 published: false
 
