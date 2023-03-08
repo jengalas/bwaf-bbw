@@ -18,6 +18,18 @@ page_blocks:
     download: ''
     link_url: ''
     link_text: ''
+- template: image-block
+  image: "/v1678235994/Emerging_Leaders_2023-edit_zytjy6.png"
+  section_break: false
+  include_left-hand_column_text_: false
+  lefthand_text:
+    header_type: ''
+    text: ''
+    download: ''
+    link_url: ''
+    link_text: ''
+  alt_text: ''
+  image_caption_text: ''
 - template: text-block
   section_break: true
   include_left-hand_column_text_: true
