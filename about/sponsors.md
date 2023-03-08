@@ -92,6 +92,11 @@ previous-years:
 - image: "/v1621452344/Screen_Shot_2021-05-19_at_3.25.29_PM_i4nbyo.png"
   name: Harry T Wilks Family Foundation
 
+# CloudCannon config_inputs:
+_inputs:
+  supporters-header:
+    hidden: true  
+
 ---
 <div class="main-two-up">
     <div>
@@ -101,16 +106,6 @@ previous-years:
         <p>{{page.description}}</p>
     </div>
 </div>
-<!-- <div class="main-two-up">
-    <div>
-        <h2><b>{{page.supporters-header}}</b></h2>
-    </div>
-    <div class="logos-block">
-        {% for supporter in page.supporters %}
-        <div><img src="{{site.cloudinary}}/w_200/{{supporter.image}}" alt="{{supporter.name}}"></div>
-        {% endfor %}
-    </div>
-</div> -->
 {% for sponsorsgroup in page.sponsors %}
 <div class="main-two-up">
     <div>
