@@ -2,9 +2,14 @@
 layout: innerPage
 navCategory: Resources
 title: Film Collection
+description: The BWAF Film Collection furthers our awareness-raising work in acknowledging
+  and celebrating women's achievements and contributions to the built environment.
+  Available to stream online, as DVDs, and for special screenings, each film presents
+  a unique view and seeks to expand the canon.
 permalink: "/resources/film-collection"
 page_blocks:
 - template: text-block
+  label: Description
   include_left-hand_column_text_: true
   lefthand_text:
     header_type: Large Header
@@ -18,6 +23,7 @@ page_blocks:
     a unique view and seeks to expand the canon.
   section_break: false
 - template: image-block
+  label: Film Title and Image
   include_left-hand_column_text_: true
   lefthand_text:
     header_type: Film/Book Title
@@ -30,6 +36,7 @@ page_blocks:
   section_break: true
   image_caption_text: ''
 - template: text-block
+  label: Film Description
   text_block: "Written and directed by Beverly Willis, this twenty minute documentary
     presents 234 selected Manhattan projects designed, engineered, or developed by
     women. With dazzling color images and a historical narrative, Unknown New York
@@ -48,6 +55,7 @@ page_blocks:
     link_text: ''
   section_break: false
 - template: image-block
+  label: Film Title and Image
   include_left-hand_column_text_: true
   lefthand_text:
     header_type: Film/Book Title
@@ -60,6 +68,7 @@ page_blocks:
   alt_text: ''
   image_caption_text: ''
 - template: text-block
+  label: Film Description
   include_left-hand_column_text_: true
   lefthand_text:
     header_type: Link
@@ -74,11 +83,26 @@ page_blocks:
 
     [Learn more](https://bwaf.square.site/product/the-artist-the-architect-and-built-for-ballet/1?cs=true&cst=custom)
   section_break: false
-- template: section-break
-date: 2021-05-18T19:02:14.000+00:00
-description: The BWAF Film Collection furthers our awareness-raising work in acknowledging
-  and celebrating women's achievements and contributions to the built environment.
-  Available to stream online, as DVDs, and for special screenings, each film presents
-  a unique view and seeks to expand the canon.
+#  CloudCannon config
+_inputs:
+  title:
+    hidden: true
+  description:
+    hidden: true  
+  template:
+    hidden: true
+  text_block:
+    type: textarea  
+  section_break:
+    hidden: true
+  page_blocks[*].label:
+    hidden: true       
+  page_blocks:
+    options:
+      text:
+        - key: template
+      preview:
+        subtext:
+          - key: label   
 
 ---
