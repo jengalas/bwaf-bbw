@@ -19,7 +19,7 @@ page_blocks:
     link_url: ''
     link_text: ''
 - template: image-block
-  image: "/v1678235994/Emerging_Leaders_2023-edit_zytjy6.png"
+  image: "/v1678236171/Emerging_Leaders_2023-edit_zktvjf.png"
   section_break: false
   include_left-hand_column_text_: false
   lefthand_text:
