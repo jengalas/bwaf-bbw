@@ -124,7 +124,7 @@ newsletters:
 #  CloudCannon config
 _inputs:
   $.title:
-    hidden: true 
+    hidden: true
 ---
 <div class="main-two-up">
     <div>
