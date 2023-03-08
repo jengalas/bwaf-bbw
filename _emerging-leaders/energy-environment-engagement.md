@@ -110,6 +110,5 @@ page_blocks:
     link_text: ''
   featured-portrait: []
   subtitle: ''
-published: false
 
 ---
