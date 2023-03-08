@@ -5,6 +5,7 @@ navCategory: About
 title: About Beverly Willis
 page_blocks:
   - template: image-block
+    label: Image
     image_caption_text: Beverly Willis, FAIA
     alt_text: Beverly Willis, FAIA
     image: >-
@@ -18,6 +19,7 @@ page_blocks:
       link_text: ''
     section_break: false
   - template: text-block
+    label: Text Block
     text_block: >-
       Beverly Willis, FAIA (b. 1928) began her career as an independent artist
       in 1954 and established her own firm as an architect in 1966. In 1980 she
@@ -63,6 +65,7 @@ page_blocks:
       link_text: ''
     section_break: false
   - template: media-gallery-block
+    label: Media Gallery
     media:
       - image: /v1621452163/film1_d0n3xd.png
         title: Critic Suzannah Lessard Talks About Beverly Willis
@@ -89,5 +92,32 @@ page_blocks:
 description: >-
   In 2002, Beverly Willis, FAIA founded the Beverly Willis Architecture
   Foundation.
-date:
+
+#  CloudCannon config  
+_inputs:
+  include_left-hand_column_text_:
+    hidden: true
+  lefthand_text:
+    hidden: true
+  page_blocks[*].label:
+    hidden: true
+  $.title:
+    hidden: true
+  page_blocks[*].media.title:
+    label: Media Title
+  text_block:
+    type: textarea
+  template:
+    hidden: true
+  section_break:
+    hidden: true
+  media-gallery-block:
+    label: Media
+  page_blocks:
+    options:
+      text:
+        - key: template
+      preview:
+        subtext:
+          - key: label 
 ---
