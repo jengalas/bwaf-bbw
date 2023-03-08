@@ -47,7 +47,7 @@ page_blocks:
   image: "/v1678234361/2017_Burton_Melissa_01_980x780_kbtmcc.jpg"
   subtitle: ARUP Canada's Principal Engineer
   description: ARUP Canada's Principal engineer, Melissa Burton, took a childhood
-    experience of a natural disaster and transformed it into a data driven and award
+    experience of natural disaster and transformed it into a data driven and award
     winning global technical career in wind engineering and climate modeling. In addition,
     she has the ENERGY for three children, an artist wife, and a side hustle in music,
     having lived in Hong Kong, South Korea, London, New York and now Toronto. Melissa's
