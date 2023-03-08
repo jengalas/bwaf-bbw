@@ -76,7 +76,7 @@ page_blocks:
     line-1: Tuesday, April 25, 2023, 6:30-8PM
     line-2: ''
 - template: featured-portrait-block
-  header: Engagement
+  header: ENGAGEMENT
   image: "/v1678235026/Emmanuelle-Slossberg_Small_so5sxj.jpg"
   label: Speaker
   title: Emmanuelle Slossberg
