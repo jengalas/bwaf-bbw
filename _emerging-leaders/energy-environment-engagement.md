@@ -1,6 +1,6 @@
 ---
 layout: innerPage
-date: 2023-03-07 21:07:21 +0000
+date: 2023-03-07T21:07:21.000+00:00
 navCategory: ''
 title: Energy, Environment, Engagement
 description: ''
@@ -31,9 +31,9 @@ page_blocks:
 - template: featured-portrait-block
   header: ENERGY
   time-location:
-    line-1: May 16, 2023
+    line-1: Tuesday, May 16, 2023, 6:30-8PM
     line-2: ''
-  label: ''
+  label: Speaker
   title: Melissa Burton
   section_break: false
   include_left-hand_column_text_: false
@@ -44,7 +44,7 @@ page_blocks:
     link_url: ''
     link_text: ''
   featured-portrait: []
-  image: ''
+  image: "/v1678234361/2017_Burton_Melissa_01_980x780_kbtmcc.jpg"
   subtitle: ARUP Canada's Principal Engineer
   description: ''
 published: false
