@@ -28,7 +28,7 @@ page_blocks:
       link_url: ''
       link_text: ''
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1678313782/vcvvqmotnps3vcy9yopl.png
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1646413001/ROUNDTABLE2022_2_dag9p3.png
     alt_text: ''
     image_caption_text: ''
   - template: image-block
