@@ -53,7 +53,7 @@ page_blocks:
     having lived in Hong Kong, South Korea, London, New York and now Toronto. Melissa's
     perspectives provide inspiration to re-charge both architects and engineers.
 - template: featured-portrait-block
-  header: Environment
+  header: ENVIRONMENT
   section_break: false
   include_left-hand_column_text_: false
   lefthand_text:
