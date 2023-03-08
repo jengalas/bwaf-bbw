@@ -1,17 +1,20 @@
 ---
 title: Support
-permalink: "/support"
+permalink: /support
 layout: default
 header: Make a Donation
 link:
   text: To make a recurring donation, become a Friend and enjoy membership benefits
-  url: "/programs/friends"
-text-block: |-
-  Our mission at Beverly Willis Architecture Foundation (BWAF) is to change the culture of the building industry for women through education and research. This work is proving more urgent and important than ever before. We depend on your donations to continue providing high-quality reference materials and for sustaining our educational programming.
-
-  BWAF is a 501(c)3 nonprofit organization in the State of New York, and your donations are 100% tax-deductible. We rely upon donations for our operations and programming, and we offer a heartfelt thank you for your contribution.
-
-# CloudCannon config
+  url: /programs/friends
+text-block: >-
+  <p>Our mission at Beverly Willis Architecture Foundation (BWAF) is to change
+  the culture of the building industry for women through education and research.
+  This work is proving more urgent and important than ever before. We depend on
+  your donations to continue providing high-quality reference materials and for
+  sustaining our educational programming.</p><p>BWAF is a 501(c)3 nonprofit
+  organization in the State of New York, and your donations are 100%
+  tax-deductible. We rely upon donations for our operations and programming, and
+  we offer a heartfelt thank you for your contribution.</p>
 _inputs:
   title:
     hidden: true
