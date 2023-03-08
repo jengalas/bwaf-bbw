@@ -5,6 +5,7 @@ permalink: "/history"
 navCategory: About
 page_blocks:
 - template: miscellaneous-block
+  label: Text
   miscellaneous: "After 35 years of architectural practice leading her own firm, Beverly
     Willis, FAIA, was astounded and dismayed to discover that women were not represented
     in the architecture history books. In 2000, believing that the future is based
@@ -42,28 +43,32 @@ page_blocks:
 description: After 35 years of architectural practice leading her own firm, Beverly
   Willis, FAIA, was astounded and dismayed to discover that women were not represented
   in the architecture history books.
-date: 
+
+# CloudCannon config
+_inputs:
+  page_blocks[*].label:
+    hidden: true
+  template:
+    hidden: true
+  title:
+    hidden: true
+  section_break:
+    hidden: true
+  include_left-hand_column_text_:
+    hidden: true
+  lefthand_text:
+    hidden: true
+  miscellaneous:
+    type: textarea
+    label: Text  
+  page_blocks:
+    options:
+      text:
+        - key: template
+      preview:
+        subtext:
+          - key: label  
 
 ---
-<div class="main-two-up">
-    <div>
-        <h1>History</h1>
-    </div>
-    <div class="timeline">
-        <ul>
-            <li>
-                <h3>2002</h3>
-                <p><b>Founded</b> — February 21st with support from Beverly Willis.</p>
-            </li>
-            <li>
-                <h3>2005</h3>
-                <p><b>Grant program begins</b> — Projects funded from 2005 to 2013 include USA: Modern Architectures in History, A Girl Is A Fellow Here, and Charles & Ray Eames.</p>
-            </li>
-            <li>
-                <h3>2006</h3>
-                <p><b>National Building Museum and BWAF begin collaboration</b> — The women of architecture program began at the nation’s premium institution for building excellence, in observance of Women’s History Month.</p>
-            </li>
-        </ul>
-    </div>
-</div>
+
 {% include prefooter.html %}
