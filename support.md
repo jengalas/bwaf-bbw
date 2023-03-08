@@ -11,6 +11,16 @@ text-block: |-
 
   BWAF is a 501(c)3 nonprofit organization in the State of New York, and your donations are 100% tax-deductible. We rely upon donations for our operations and programming, and we offer a heartfelt thank you for your contribution.
 
+# CloudCannon config
+_inputs:
+  title:
+    hidden: true
+  header:
+    label: Header in Left Column
+  text-block:
+    type: html
+  link:
+    label: Link in Left Column
 ---
 <div class="support-page">
     <div class="main-two-up">
