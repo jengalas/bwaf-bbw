@@ -5,6 +5,7 @@ permalink: "/boardandstaff"
 navCategory: About
 page_blocks:
 - template: text-block
+  label: "[Do not modify]"
   lefthand_text:
     header_type: Large Header
     text: Board and Staff
@@ -15,6 +16,7 @@ page_blocks:
   text_block: ''
   section_break: false
 - template: portrait-gallery-template
+  label: Board of Trustees
   include_left-hand_column_text_: true
   lefthand_text:
     header_type: Medium Header
@@ -24,13 +26,13 @@ page_blocks:
     link_text: ''
   portrait:
   - title: Beverly Willis, FAIA
+    title_role: Founder
     image: "/v1618329223/bev_1_zgox9n.jpg"
     description: Beverly Willis, FAIA, is an artist, architect, author and philanthropist.
       After 50 years of practice, she founded the Beverly Willis Architecture Foundation
       in 2002. She served as President of the California Council of American Institute
       of Architects. Beverly was a founding trustee of the National Building Museum
       in Washington, D.C., a position she still holds.
-    title_role: Founder
   - title: Michele O’Connor, PE, LEED AP
     title_role: Chair
     image: "/v1618330674/MOC_headshot_do3brf.jpg"
@@ -313,6 +315,7 @@ page_blocks:
       Literature from Columbia University."
   section_break: false
 - template: portrait-gallery-template
+  label: Staff
   include_left-hand_column_text_: true
   lefthand_text:
     header_type: Medium Header
@@ -343,122 +346,30 @@ page_blocks:
       achievements in the design and building industry. '
   section_break: false
 description: Beverly Willis Architecture Foundation Board and Staff
-date: 
+#  CloudCannon config
+_inputs:
+  $.title:
+    hidden: true
+  text-block:
+    hidden: true
+  page_blocks[*].label:
+    hidden: true  
+  template:
+    hidden: true  
+  include_left-hand_column_text_:
+    hidden: true
+  lefthand_text:
+    hidden: true  
+  section_break:
+    hidden: true    
+  page_blocks:
+    options:
+      text:
+        - key: template
+      preview:
+        subtext:
+          - key: label
 
 ---
-<!-- <img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937006/s_170713_webview_xiipdh.jpg"><img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937099/JoanBlumenfeld_jwkiz9.jpg"><img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937147/2017_Burton_Melissa_01_980x780_mbfswt.jpg"><img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937178/sml_DiMaggio_Peter_headshot_n6xpkd.jpg"><img src="https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937222/PatriciaHarrisHeadshot-2-e1454609739415_pokx25.jpg"><div class="main-two-up">
-    <div>
-        <h1>Board and Staff</h1>
-    </div>
-</div>
-<div class="main-two-up">
-    <div>
-        <h2><b>Officers</b></h2>
-    </div>
-    <div class="portrait-gallery-block">
-        <div>
-            <img src="/assets/img/headshot-placeholder.png">
-            <h5>
-                <b>Firstname M. Lastname</b>
-                <br>Title Teekay and Title Teekay
-            </h5>
-            <p class="sm">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi etiam dignissim diam quis. Est ultricies integer quis auctor elit sed vulputate mi. Mi quis hendrerit dolor magna eget. Placerat in egestas erat imperdiet sed euismod nisi porta tempus 50 words.</p>
-        </div>
-        <div>
-            <img src="/assets/img/headshot-placeholder.png">
-            <h5>
-                <b>Firstname M. Lastname</b>
-                <br>Title Teekay and Title Teekay
-            </h5>
-            <p class="sm">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi etiam dignissim diam quis. Est ultricies integer quis auctor elit sed vulputate mi. Mi quis hendrerit dolor magna eget. Placerat in egestas erat imperdiet sed euismod nisi porta. Tempus urna et pharetra pharetra massa. Mattis molestie a iaculis at erat pellentesque adipiscing commodo elit. Id velit ut tortor pretium viverra suspen disse potenti nullam ac. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi dignissim diam quis. 100 words.</p>
-        </div>
-        <div>
-            <img src="/assets/img/headshot-placeholder.png">
-            <h5>
-                <b>Firstname M. Lastname</b>
-                <br>Title Teekay and Title Teekay
-            </h5>
-            <p class="sm">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi etiam dignissim diam quis. Est ultricies integer quis auctor elit sed vulputate mi. Mi quis hendrerit dolor magna eget. Placerat in egestas erat imperdiet sed euismod nisi porta tempus 50 words.</p>
-        </div>
-        <div>
-            <img src="/assets/img/headshot-placeholder.png">
-            <h5>
-                <b>Firstname M. Lastname</b>
-                <br>Title Teekay and Title Teekay
-            </h5>
-            <p class="sm">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi etiam dignissim diam quis. Est ultricies integer quis auctor elit sed vulputate mi. Mi quis hendrerit dolor magna eget. Placerat in egestas erat imperdiet sed euismod nisi porta. Tempus urna et pharetra pharetra massa. Mattis molestie a iaculis at erat pellentesque adipiscing commodo elit. Id velit ut tortor pretium viverra suspen disse potenti nullam ac. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi dignissim diam quis. 100 words.</p>
-        </div>
-        <div>
-            <img src="/assets/img/headshot-placeholder.png">
-            <h5>
-                <b>Firstname M. Lastname</b>
-                <br>Title Teekay and Title Teekay
-            </h5>
-            <p class="sm">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi etiam dignissim diam quis. Est ultricies integer quis auctor elit sed vulputate mi. Mi quis hendrerit dolor magna eget. Placerat in egestas erat imperdiet sed euismod nisi porta tempus 50 words.</p>
-        </div>
-        <div>
-            <img src="/assets/img/headshot-placeholder.png">
-            <h5>
-                <b>Firstname M. Lastname</b>
-                <br>Title Teekay and Title Teekay
-            </h5>
-            <p class="sm">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi etiam dignissim diam quis. Est ultricies integer quis auctor elit sed vulputate mi. Mi quis hendrerit dolor magna eget. Placerat in egestas erat imperdiet sed euismod nisi porta. Tempus urna et pharetra pharetra massa. Mattis molestie a iaculis at erat pellentesque adipiscing commodo elit. Id velit ut tortor pretium viverra suspen disse potenti nullam ac. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi dignissim diam quis. 100 words.</p>
-        </div>
-    </div>
-</div>
-<div class="main-two-up">
-    <div>
-        <h2><b>Board</b></h2>
-    </div>
-    <div class="portrait-gallery-block">
-        <div>
-            <img src="/assets/img/headshot-placeholder.png">
-            <h5>
-                <b>Firstname M. Lastname</b>
-                <br>Title Teekay and Title Teekay
-            </h5>
-            <p class="sm">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi etiam dignissim diam quis. Est ultricies integer quis auctor elit sed vulputate mi. Mi quis hendrerit dolor magna eget. Placerat in egestas erat imperdiet sed euismod nisi porta tempus 50 words.</p>
-        </div>
-        <div>
-            <img src="/assets/img/headshot-placeholder.png">
-            <h5>
-                <b>Firstname M. Lastname</b>
-                <br>Title Teekay and Title Teekay
-            </h5>
-            <p class="sm">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi etiam dignissim diam quis. Est ultricies integer quis auctor elit sed vulputate mi. Mi quis hendrerit dolor magna eget. Placerat in egestas erat imperdiet sed euismod nisi porta. Tempus urna et pharetra pharetra massa. Mattis molestie a iaculis at erat pellentesque adipiscing commodo elit. Id velit ut tortor pretium viverra suspen disse potenti nullam ac. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi dignissim diam quis. 100 words.</p>
-        </div>
-        <div>
-            <img src="/assets/img/headshot-placeholder.png">
-            <h5>
-                <b>Firstname M. Lastname</b>
-                <br>Title Teekay and Title Teekay
-            </h5>
-            <p class="sm">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi etiam dignissim diam quis. Est ultricies integer quis auctor elit sed vulputate mi. Mi quis hendrerit dolor magna eget. Placerat in egestas erat imperdiet sed euismod nisi porta tempus 50 words.</p>
-        </div>
-        <div>
-            <img src="/assets/img/headshot-placeholder.png">
-            <h5>
-                <b>Firstname M. Lastname</b>
-                <br>Title Teekay and Title Teekay
-            </h5>
-            <p class="sm">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi etiam dignissim diam quis. Est ultricies integer quis auctor elit sed vulputate mi. Mi quis hendrerit dolor magna eget. Placerat in egestas erat imperdiet sed euismod nisi porta. Tempus urna et pharetra pharetra massa. Mattis molestie a iaculis at erat pellentesque adipiscing commodo elit. Id velit ut tortor pretium viverra suspen disse potenti nullam ac. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi dignissim diam quis. 100 words.</p>
-        </div>
-        <div>
-            <img src="/assets/img/headshot-placeholder.png">
-            <h5>
-                <b>Firstname M. Lastname</b>
-                <br>Title Teekay and Title Teekay
-            </h5>
-            <p class="sm">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi etiam dignissim diam quis. Est ultricies integer quis auctor elit sed vulputate mi. Mi quis hendrerit dolor magna eget. Placerat in egestas erat imperdiet sed euismod nisi porta tempus 50 words.</p>
-        </div>
-        <div>
-            <img src="/assets/img/headshot-placeholder.png">
-            <h5>
-                <b>Firstname M. Lastname</b>
-                <br>Title Teekay and Title Teekay
-            </h5>
-            <p class="sm">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi etiam dignissim diam quis. Est ultricies integer quis auctor elit sed vulputate mi. Mi quis hendrerit dolor magna eget. Placerat in egestas erat imperdiet sed euismod nisi porta. Tempus urna et pharetra pharetra massa. Mattis molestie a iaculis at erat pellentesque adipiscing commodo elit. Id velit ut tortor pretium viverra suspen disse potenti nullam ac. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi dignissim diam quis. 100 words.</p>
-        </div>
-    </div>
-</div> -->
+
 {% include prefooter.html %}
