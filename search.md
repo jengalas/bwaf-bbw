@@ -2,6 +2,9 @@
 layout: default
 permalink: "/search"
 title: Search
+
+# CloudCannon config
+_unlisted: true
 ---
 
 <div class="main-two-up">
@@ -13,16 +16,6 @@ title: Search
     <div>
         <input type="text" placeholder="Type to search" class="searchbar" id="searchbar-page">
         <div id="search-results">
-            <!-- <a href="/">
-                <div class="thumbnail image-container">
-                    <img src="{{site.cloudinary}}/v1618329223/bev_1_zgox9n.jpg">
-                </div>
-                <div>
-                    <h6>About</h6>
-                    <h2><b>Title of Webpage</b></h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                </div>
-            </a> -->
         </div>
     </div>
 </div>
