@@ -32,11 +32,11 @@ map:
   caption: Limited edition map of selected projects in the Los Angeles metro area
     Built By Women competition. Designed by Yay Brigade and printed in California.
 stats:
-- number: 38%
+- number: 38
   label: Percentage of women in the architecture field
-- number: 14%
+- number: 14
   label: Percentage of women in the engineering field
-- number: 9.9%
+- number: 9.9
   label: Percentage of women in the construction field
 current-year: _bbw-years/bbw-2020.md
 current-year-blurb: |-
