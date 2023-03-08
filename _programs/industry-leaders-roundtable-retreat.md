@@ -27,7 +27,8 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-    image: /uploads/roundtable2022-2-dag9p3.png
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1678312215/ROUNDTABLE2022_2_dag9p3_tsxyui.png
     alt_text: ''
     image_caption_text: ''
   - template: image-block
