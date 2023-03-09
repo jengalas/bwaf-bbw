@@ -1,5 +1,5 @@
 ---
-layout: innerPage
+layout: innerPageCC
 title: Our Mission
 permalink: "/mission"
 navCategory: About
@@ -52,7 +52,7 @@ page_blocks:
     in a Time’s Up Flash Mob, 2018
   image_caption_text: Founder Beverly Willis and Executive Director Cynthia Phifer
     Kracauer in a Time’s Up Flash Mob, 2018
-  image: "/v1610938367/BROapL6A_ozaked.jpg"
+  image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610938367/BROapL6A_ozaked.jpg"
   include_left-hand_column_text_: false
   lefthand_text:
     header_type: ''
