@@ -131,6 +131,10 @@ _structures:
     id_key: template
     values:
       - label: Buttons
+        preview:
+          text: Button
+          subtext: [Do not modify]
+          icon: smart_button
         value:
           template: buttons-block
         _inputs:
@@ -141,5 +145,7 @@ _structures:
           button_text:
             hidden: true
           button_link:
-            hidden: true    
+            hidden: true 
+          buttons_header__optional_:
+            hidden: true     
 ---
