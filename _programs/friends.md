@@ -5,6 +5,7 @@ title: Friends
 permalink: "/programs/friends"
 page_blocks:
 - template: text-block
+  label: Intro Text Block
   include_left-hand_column_text_: true
   lefthand_text:
     header_type: Large Header
@@ -20,6 +21,8 @@ page_blocks:
     We cultivate leaders at all levels and seek to build global change. Support our efforts and become a BWAF Friend today.
   section_break: false
 - template: portrait-gallery-block-small
+  label: Friends Image/Logo Gallery
+  header: 2022 Corporate Friends
   portrait:
   - title: ''
     title_role: ''
@@ -84,6 +87,7 @@ page_blocks:
     link_url: ''
     link_text: ''
 - template: text-block
+  label: Annual Membership Info
   text_block: |-
     ## **Annual Membership**
 
@@ -115,5 +119,18 @@ date: 2021-05-05T13:33:04.000+00:00
 description: The Friends program offers unique networking opportunities and brings
   together small groups of peers for topical conversations, architecture tours and
   social events, focused around women in architecture and design.
+# CloudCannon config
+_inputs:
+  text_block:
+    type: html
+  label:
+    hidden: true  
+  page_blocks:
+    options:
+      text:
+        - key: template
+      preview:
+        subtext:
+          - key: label
 
 ---
