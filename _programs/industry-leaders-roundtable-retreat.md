@@ -217,7 +217,7 @@ _structures:
       - label: Program Details
         preview:
           text: Program Details
-          subtext: Fill in details like why and who attends
+          subtext: Fill in details like why attend and who attends
           icon:
         value:
           template: miscellaneous-block
@@ -233,6 +233,6 @@ _structures:
             hidden: false   
           lefthand_text:
             hidden: true
-          text_block:
+          miscellaneous:
             type: html      
 ---
