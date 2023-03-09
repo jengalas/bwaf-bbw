@@ -1,5 +1,5 @@
 ---
-layout: innerPage
+layout: innerPageCC
 permalink: /beverlywillis
 navCategory: About
 title: About Beverly Willis
@@ -9,7 +9,7 @@ page_blocks:
     image_caption_text: Beverly Willis, FAIA
     alt_text: Beverly Willis, FAIA
     image: >-
-      /v1618329223/bev_1_zgox9n.jpg
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618329223/bev_1_zgox9n.jpg
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Large Header
@@ -67,17 +67,17 @@ page_blocks:
   - template: media-gallery-block
     label: Media Gallery
     media:
-      - image: /v1621452163/film1_d0n3xd.png
+      - image: https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1621452163/film1_d0n3xd.png
         title: Critic Suzannah Lessard Talks About Beverly Willis
         link_to_video: https://beverlywillis.com/wp-content/uploads/2016/09/suze.mp4
-      - image: /v1621452174/film2_ajqclh.png
+      - image: https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1621452174/film2_ajqclh.png
         title: Nature's Images
         link_to_video: >-
           https://beverlywillis.com/wp-content/uploads/2016/11/02_Invisible_Images_Silent_Language_Arcitecture.mp4
-      - image: /v1621453945/04-0753-4-SF-Ballet-night-movement-perspective_nhoqp7.jpg
+      - image: https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1621453945/04-0753-4-SF-Ballet-night-movement-perspective_nhoqp7.jpg
         title: 'Interview: The Opening of the San Francisco Ballet Building'
         link_to_video: https://beverlywillis.com/wp-content/uploads/2016/11/sf_ballet.mp3
-      - image: /v1621452195/film4_ds9n5c.png
+      - image: https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1621452195/film4_ds9n5c.png
         title: R.Dot Interview with Beverly Willis
         link_to_video: >-
           https://beverlywillis.com/wp-content/uploads/2016/11/12_CBC_Steph_Tremblay_11Mar2002.mp4

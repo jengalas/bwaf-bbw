@@ -1,0 +1,21 @@
+<div class="media-gallery-block">
+    {% for media in block.media %}
+    <div>
+        
+        <a href="{{media.link_to_video}}" target="_blank">
+            <div class="img-container image-container">
+                {% if media.image != '' %}
+                <img src="{{media.image}}" alt="">
+                {% else %}
+                <img src="/assets/img/placeholder.png" alt="">
+                {% endif %}
+                <span class="play"></span>
+            </div>
+            <h5>
+                <b>{{media.title}}</b>
+                <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22"><path id="Path_13" data-name="Path 13" d="M26,3.005v9.059L22.386,8.449,11.765,19.07l-1.83-1.83L20.556,6.619,16.941,3.005ZM22.118,25H4V6.887H14.353V9.476H6.588V22.417H19.529V14.652h2.588Z" transform="translate(-4 -3.005)" fill="var(--green)" fill-rule="evenodd"/></svg>
+            </h5>
+        </a>
+    </div>
+    {% endfor %}
+</div>
