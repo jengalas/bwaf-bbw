@@ -4,12 +4,7 @@ navCategory: Programs
 title: Industry Leaders Roundtable Retreat
 permalink: /programs/industry-leaders-roundtable-retreat
 page_blocks:
-  - template: text-block
-    text_block: >-
-      The Industry Leaders Roundtable program is designed to encourage firms and
-      their representatives to undertake institutional change within their
-      organizations, by providing them research, tools, and support to be change
-      agents.
+  - template: text-block    
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Large Header
@@ -17,6 +12,11 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
+    text_block: >-
+      The Industry Leaders Roundtable program is designed to encourage firms and
+      their representatives to undertake institutional change within their
+      organizations, by providing them research, tools, and support to be change
+      agents.  
     section_break: false
   - template: image-block
     section_break: false
@@ -196,8 +196,8 @@ _structures:
       - label: Text Block
         preview:
           text: Text Block
-          subtext: "what is this one"
-          icon: smart_button
+          subtext:
+          icon:
         value:
           template: text-block
           button:
@@ -211,5 +211,7 @@ _structures:
           button:
             hidden: false   
           lefthand_text:
-            hidden: false   
+            hidden: false
+          text_block:
+            type: textarea
 ---
