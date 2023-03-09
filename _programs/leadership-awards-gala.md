@@ -148,4 +148,15 @@ _structures:
             hidden: true 
           buttons_header__optional_:
             hidden: true     
+      - label: Slideshow
+        preview:
+          text: Slideshow
+          subtext: Add images and captions
+          icon:
+        value:
+          template: slideshow-block
+          button:
+            - button_text:
+              button_link:
+          section_break: false      
 ---
