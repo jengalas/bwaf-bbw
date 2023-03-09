@@ -4,7 +4,7 @@ navCategory: Programs
 title: Industry Leaders Roundtable Retreat
 permalink: /programs/industry-leaders-roundtable-retreat
 page_blocks:
-  - template: text-block    
+  - template: text-block
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Large Header
@@ -27,8 +27,7 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-    image: >-
-      /v1646413001/ROUNDTABLE2022_2_dag9p3.png
+    image: /v1646413001/ROUNDTABLE2022_2_dag9p3.png
     alt_text: ''
     image_caption_text: ''
   - template: image-block
@@ -131,16 +130,6 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-  - template: text-block
-    include_left-hand_column_text_: true
-    lefthand_text:
-      header_type: Medium Header
-      text: ''
-      download: ''
-      link_url: ''
-      link_text: ''
-    text_block: ' '
-    section_break: true
   - template: slideshow-block
     image:
       - image: /v1641308144/ROUNDTABLE21_SAVEfront_FINALrev_kasnpk.jpg
@@ -170,8 +159,6 @@ description: >-
   organizations, by providing them research, tools, and support to be change
   agents.
 date: 2019-06-11 14:43:21
-
-# CloudCannon config
 _structures:
   page_blocks:
     id_key: template
@@ -179,7 +166,7 @@ _structures:
       - label: Buttons
         preview:
           text: Buttons
-          subtext: "Add links to previous years here"
+          subtext: Add links to previous years here
           icon: smart_button
         value:
           template: buttons-block
@@ -192,7 +179,7 @@ _structures:
           icon:
             hidden: true
           button:
-            hidden: false  
+            hidden: false
       - label: Text Block
         preview:
           text: Text Block
@@ -209,7 +196,7 @@ _structures:
           icon:
             hidden: false
           button:
-            hidden: false   
+            hidden: false
           lefthand_text:
             hidden: false
           text_block:
@@ -224,7 +211,7 @@ _structures:
           button:
             - button_text:
               button_link:
-          section_break: false      
+          section_break: false
       - label: Program Details
         preview:
           text: Program Details
@@ -241,11 +228,11 @@ _structures:
           icon:
             hidden: false
           button:
-            hidden: false   
+            hidden: false
           lefthand_text:
             hidden: true
           miscellaneous:
-            type: markdown     
+            type: markdown
       - label: Slideshow
         preview:
           text: Slideshow
@@ -257,5 +244,4 @@ _structures:
             - button_text:
               button_link:
           section_break: false
-            
 ---
