@@ -29,10 +29,7 @@ page_blocks:
     link_url: ''
     link_text: ''
   alt_text: ''
-- template: text-block
-  text_block: "\nJoin us for our annual BEVY Leadership Awards! 2022 marks BWAF's
-    20th anniversary- which makes this year's celebration all the more special. For
-    sponsorship information, please contact info@bwaf.org. "
+- template: text-block  
   section_break: false
   include_left-hand_column_text_: false
   lefthand_text:
@@ -41,6 +38,9 @@ page_blocks:
     download: ''
     link_url: ''
     link_text: ''
+  text_block: "\nJoin us for our annual BEVY Leadership Awards! 2022 marks BWAF's
+    20th anniversary- which makes this year's celebration all the more special. For
+    sponsorship information, please contact info@bwaf.org. "  
 - template: slideshow-block
   include_left-hand_column_text_: true
   lefthand_text:
@@ -168,7 +168,7 @@ _structures:
           lefthand_text:
             hidden: false
           text_block:
-            type: textarea          
+            type: markdown          
       - label: Slideshow
         preview:
           text: Slideshow
