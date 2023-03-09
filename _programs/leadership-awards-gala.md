@@ -138,4 +138,8 @@ _structures:
             hidden: true
           button:
             hidden: true
+          button_text:
+            hidden: true
+          button_link:
+            hidden: true    
 ---
