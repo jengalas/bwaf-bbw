@@ -172,7 +172,25 @@ description: >-
 date: 2019-06-11 14:43:21
 
 # CloudCannon config
-_inputs:
-  button:
-    hidden: false
+_structures:
+  page_blocks:
+    id_key: template
+    values:
+      - label: Buttons
+        preview:
+          text: Buttons
+          subtext: "[Modify]"
+          icon: smart_button
+        value:
+          template: buttons-block
+          button:
+            - button_text:
+              button_link:
+          section_break: false
+          include_left-hand_column_text_: false
+        _inputs:
+          icon:
+            hidden: true
+          button:
+            hidden: false  
 ---
