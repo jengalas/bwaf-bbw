@@ -209,5 +209,7 @@ _structures:
           icon:
             hidden: false
           button:
-            hidden: false      
+            hidden: false   
+          lefthand_text:
+            hidden: false   
 ---
