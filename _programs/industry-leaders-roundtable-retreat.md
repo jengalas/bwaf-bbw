@@ -214,4 +214,25 @@ _structures:
             hidden: false
           text_block:
             type: textarea
+      - label: Program Details
+        preview:
+          text: Program Details
+          subtext:
+          icon:
+        value:
+          template: miscellaneous-block
+          button:
+            - button_text:
+              button_link:
+          section_break: false
+          include_left-hand_column_text_: true
+        _inputs:
+          icon:
+            hidden: false
+          button:
+            hidden: false   
+          lefthand_text:
+            hidden: false
+          text_block:
+            type: markdown      
 ---
