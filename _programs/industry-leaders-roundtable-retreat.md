@@ -234,5 +234,5 @@ _structures:
           lefthand_text:
             hidden: true
           miscellaneous:
-            type: html      
+            type: markdown      
 ---
