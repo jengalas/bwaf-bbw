@@ -234,5 +234,17 @@ _structures:
           lefthand_text:
             hidden: true
           miscellaneous:
-            type: markdown      
+            type: markdown     
+      - label: Slideshow
+        preview:
+          text: Slideshow
+          subtext: Add images and captions
+          icon:
+        value:
+          template: slideshow-block
+          button:
+            - button_text:
+              button_link:
+          section_break: false
+            
 ---
