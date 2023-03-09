@@ -1,5 +1,5 @@
 ---
-layout: innerPage
+layout: innerPageCC
 title: Board and Staff
 permalink: "/boardandstaff"
 navCategory: About
@@ -27,7 +27,7 @@ page_blocks:
   portrait:
   - title: Beverly Willis, FAIA
     title_role: Founder
-    image: "/v1618329223/bev_1_zgox9n.jpg"
+    image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618329223/bev_1_zgox9n.jpg"
     description: Beverly Willis, FAIA, is an artist, architect, author and philanthropist.
       After 50 years of practice, she founded the Beverly Willis Architecture Foundation
       in 2002. She served as President of the California Council of American Institute
@@ -35,7 +35,7 @@ page_blocks:
       in Washington, D.C., a position she still holds.
   - title: Michele O’Connor, PE, LEED AP
     title_role: Chair
-    image: "/v1618330674/MOC_headshot_do3brf.jpg"
+    image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618330674/MOC_headshot_do3brf.jpg"
     description: "Michele O’Connor is a Principal at Langan and a director of the
       firm’s civil engineering practice in New York City. Langan is an integrated
       planning, site engineering, and environmental consulting service firm for private
@@ -47,7 +47,7 @@ page_blocks:
       This dedication inspired her to co-found Women@Langan in September 2015."
   - title: Julia Murphy, AIA
     title_role: Chair Nominating Committee
-    image: "/v1618330990/j_murphy_headshot_mfhzye.png"
+    image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618330990/j_murphy_headshot_mfhzye.png"
     description: "A partner at SOM, Julia Murphy is integral to the firm's engagement
       with the built environment of New York City. In her decade of experience at
       SOM, she has worked on some of the most complex projects in Manhattan, emerging
@@ -61,7 +61,7 @@ page_blocks:
       Architecture Foundation. "
   - title: Angelica T. Baccon, AIA
     title_role: Chair Elect
-    image: "/v1674591543/210902_Baccon_Portraits-0131_qhyo0l.jpg"
+    image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1674591543/210902_Baccon_Portraits-0131_qhyo0l.jpg"
     description: Angelica Trevino Baccon is a principal of SHoP. She has a particular
       specialty in leading complex mixed-use and workplace design projects, often
       at the intersection of enterprise and technology. These include the new Uber
@@ -75,14 +75,14 @@ page_blocks:
       public realm.
   - title: Kirsten Sibilia, Assoc. AIA, LEED AP
     title_role: Secretary
-    image: "/v1618329835/191218-Sibilia_Kirsten-7042_2019-12-20_12_54_18_qp8tam.jpg"
+    image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618329835/191218-Sibilia_Kirsten-7042_2019-12-20_12_54_18_qp8tam.jpg"
     description: |-
       Kirsten Sibilia is a vocal advocate for the value of design. As managing partner, she is focused on the firm’s health and vitality. Her design training and entrepreneurial spirit have allowed her to approach the business side of the practice as a design project; with each initiative, she reflects the firm’s commitment to improving public life, through the creation of resilient and sustainable urban density.
       Kirsten joined BWAF in 2017,  is on the board of Habitat for Humanity of New York City & Westchester and the New York Building Foundation and served on the Architectural Review Board for over a decade while a resident of Hastings-on-Hudson. She recently moved back to Brooklyn.
       She earned her Bachelor of Fine Arts from the New School’s Parson School of Design as well as a Bachelor of Arts from The New School’s Lang College.
   - title: Patricia Harris, Esq., LEED AP
     title_role: Treasurer
-    image: "/v1610937223/PatriciaHarrisHeadshot-2-e1454609739415_rkq5sz.jpg"
+    image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937223/PatriciaHarrisHeadshot-2-e1454609739415_rkq5sz.jpg"
     description: Patti Harris, Founder and CEO of LicenseSure LLC and Special Counsel
       to Zetlin & De Chiara LLP, provides legal and business counsel to architects
       and engineers throughout the United States. A serial entrepreneur as well as
@@ -94,13 +94,13 @@ page_blocks:
       issues, succession, strategy and licensing issues.
   - title: Joan Blumenfeld, FAIA, FIIDA, LEED ID+C
     title_role: Co-Chair, Nominating Committee
-    image: "/v1610937099/JoanBlumenfeld_gzuyea.jpg"
+    image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937099/JoanBlumenfeld_gzuyea.jpg"
     description: |-
       Joan Blumenfeld, Contract Magazine’s 2018 Legend, is a design principal at Perkins+Will, a global architecture and interiors firm. Over the past 10 years she has been committed to achieving gender equity across all aspects of the design and construction business. As the first president of the Beverly Willis Architecture Foundation (BWAF) she facilitated broadening its mission to include changing culture throughout the industry. She remained President for five years, helping to grow the organization to have national recognition, and since 2011 served on the Executive Committee, stepping down in 2020.
       Previous and parallel to her work with BWAF she has been an active advocate for building better and more healthy interiors, buildings and communities. As 2007 President of AIA NYC, she worked with city agencies and the Mayor's Office, resulting in the first revamping of citywide workplace standards since 1971.
   - title: Melissa Burton, Ph.D.
     title_role: Treasurer
-    image: "/v1610937147/2017_Burton_Melissa_01_980x780_aev98l.jpg"
+    image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937147/2017_Burton_Melissa_01_980x780_aev98l.jpg"
     description: Melissa Burton is a Principal with Arup and currently serves as the
       Consulting Practice Leader for Canada. She oversees a variety of work for Arup
       in the consulting practice from early stage advisory through specialty technical
@@ -114,7 +114,7 @@ page_blocks:
       and reduce design risk from wind loading.
   - title: Latoya Nelson Kamdang, AIA, RA, NCARB, NCIDQ, LEED AP BD+C, RID
     title_role: Trustee
-    image: "/v1618332981/20191107_Latoya16463-cropped_xjlbgz.jpg"
+    image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618332981/20191107_Latoya16463-cropped_xjlbgz.jpg"
     description: Latoya Nelson Kamdang is a U.S. Fulbright Senior Scholar, Registered
       Architect, Certified Interior Designer, and LEED AP BD+C. Her experience spans
       architecture, planning, exhibit design, industrial and interior design. She
@@ -127,7 +127,7 @@ page_blocks:
       Gallery. Latoya’s experience has also spanned to overseas federal projects.
   - title: Sabrina Kanner
     title_role: Trustee
-    image: "/v1618331682/SK_Updated_headshot_Nov_2018_jmoamd.jpg"
+    image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618331682/SK_Updated_headshot_Nov_2018_jmoamd.jpg"
     description: "Sabrina Kanner is the Executive Vice President of Development, Design
       and Construction and responsible for overseeing Development in the Northeast
       U.S. With Brookfield Properties and its predecessor, Olympia & York, for over
@@ -140,7 +140,7 @@ page_blocks:
       Union College and is a member of WX and the National Academy of Construction."
   - title: 'Richard M. McFadden, PE, LEED AP '
     title_role: Trustee
-    image: "/v1618331280/sml_HS_McFadden-R_gt7mcj.jpg"
+    image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618331280/sml_HS_McFadden-R_gt7mcj.jpg"
     description: 'Rich McFadden joined JB&B in 2003, and has acted as Project Manager
       and Partner-in-Charge in the Electrical Department on a wide variety of projects
       and building types. With a strong background in facilities operations, Rich
@@ -153,14 +153,14 @@ page_blocks:
       University, and is a licensed Professional Engineer and LEED Accredited Professional.  '
   - title: Carol Loewenson, FAIA, LEED AP
     title_role: Trustee
-    image: "/v1674147531/Loewenson_Carol_1355_qmgutt.jpg"
+    image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1674147531/Loewenson_Carol_1355_qmgutt.jpg"
     description: |-
       Carol Loewenson’s expertise ranges from highly technical buildings, renovations and façade replacements to work involving both the private and public sector. Her approach to architecture is deeply rooted in a commitment to public spaces and an acknowledgment of how the shape of a building, city, or institution impacts people’s lives. She brings a careful consideration of context to her work, balancing preservation and modernization to generate sustainable transformations that capture the complexity of a space’s past history and future goals.
 
       Carol Loewenson joined Mitchell Giurgola in 1982 and became a partner in 1996. Her work at the firm includes projects for the New York Public Library, Rockefeller University, New York University, Cornell University, LaGuardia Community College, and the New York State Unified Court System. She serves as a Board member of the AIA Center for Architecture, the Beverly Willis Architecture Foundation, the IDC Foundation and New Yorkers for Parks. She was as elected to the College of Fellows of the American Institute of Architects in 2013 and elected President of AIA New York in 2016.
   - title: Karen McNeill, Ph.D.
     title_role: Trustee
-    image: "/v1618331108/McNeill_Head_shot_csuk9r.jpg"
+    image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618331108/McNeill_Head_shot_csuk9r.jpg"
     description: Karen McNeill, Ph.D., is an expert on Julia Morgan and currently
       working on a multiple publications about the architect. Dr. McNeill’s scholarship
       focuses on women and gender in the architectural profession as well as how Progressive
@@ -176,7 +176,7 @@ page_blocks:
       Capital Management of U.S. Bank
   - title: Bolanle Williams-Olley
     title_role: Trustee
-    image: "/v1618329337/Bolanle_Williams-Olley_Headshot_yza38d.jpg"
+    image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618329337/Bolanle_Williams-Olley_Headshot_yza38d.jpg"
     description: |-
       Bolanle Williams-Olley is the Chief Financial Officer and Co-owner of Mancini Duffy, a technology-first design firm, where she oversees the firm’s financial and operational performance. With a strong background in financial analysis and strategic initiatives, Bola thrives on building relationships between finance and management teams to ensure the overall financial success of projects and her firm.
 
@@ -199,10 +199,10 @@ page_blocks:
       degree from Columbia University GSAPP in 2003. She currently serves as a board
       member for The Clemente Center, a Puerto Rican and Latinx cultural space in
       the Lower East Side and is a member of the AIANY Honors Committee.
-    image: "/v1643045203/Annya_Headshot-min_qm0qnb.jpg"
+    image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1643045203/Annya_Headshot-min_qm0qnb.jpg"
   - title: Ann Rolland, FAIA, LEED AP
     title_role: Trustee
-    image: "/v1618330597/ARolland_web_farbmn.jpg"
+    image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618330597/ARolland_web_farbmn.jpg"
     description: Ann is a partner at FXCollaborative. She directs their Architects’
       Cultural and Educational practice, and has been instrumental in its development
       from its inception. She is inquisitive and optimistic by nature, and with a
@@ -216,7 +216,7 @@ page_blocks:
       (NEW), and Beverly Willis Architecture Foundation (BWAF).
   - title: Lynn N. Simon, FAIA, LEED Fellow
     title_role: Trustee
-    image: "/v1643050030/LNSimonheadshot_qp6xvg.jpg"
+    image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1643050030/LNSimonheadshot_qp6xvg.jpg"
     description: |-
       Lynn is SVP Global ESG & Sustainability who has spent more than 20 years’ experience shaping a regenerative economy and meeting business needs that demonstrate a commitment to climate change and social justice across tech, real estate, built environment, AEC, and non-profit sectors.
       She influences and convenes stakeholders to Board level, leads cross-functional programs in matrix organizations, and builds multidisciplinary global teams with a focus on carbon, waste, water, health and DEI.
@@ -227,13 +227,13 @@ page_blocks:
       She holds a Master of Architecture from the University of Washington and earned a BA in Environmental Design from UC Berkeley. She is a Registered Architect (26574) with the State of California and a certified coach through New Venture West.
   - title: Jennifer Stone, AIA
     title_role: Trustee
-    image: "/v1618329715/Stone_ltb0db.jpg"
+    image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618329715/Stone_ltb0db.jpg"
     description: |-
       Experienced in managing complex institutional planning and design projects, as Partner at Robert A.M. Stern Architects LLP, Jennifer Stone brings a love of contextually appropriate, sustainable architecture to her work with clients, communities, and building industry partners. 
       Jennifer is an active participant, mentor, and volunteer in her professional community. As a council member of the Society for College and University Planning, she shares her extensive knowledge and stays current with global best practices. Her presentations at numerous professional conferences and her leadership roles with the New York Building Congress Foundation, ACE Mentorship Programs, and the Urban Land Institute, as well as the firm's own Women Leadership Initiative and Sustainability Committee, testify to her commitment to developing and opening the field of architecture.
   - title: Danielle Tillman, AIA, NOMA
     title_role: Trustee
-    image: "/v1652204028/psaetgw3fglgf5cndixu_bgqniz.jpg"
+    image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1652204028/psaetgw3fglgf5cndixu_bgqniz.jpg"
     description: "Over the course of her career, Danielle Tillman has become an expert
       at infusing architecture with social consciousness. Her orientation toward community
       service and civic engagement has drawn her to education and institutional projects.
@@ -250,7 +250,7 @@ page_blocks:
       Kappa Alpha Sorority, Inc. She is a licensed architect in the state of Illinois. "
   - title: Ebbie Wisecarver
     title_role: Trustee
-    image: "/v1643050566/Ebbie_Headshot_ytuxeq.jpg"
+    image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1643050566/Ebbie_Headshot_ytuxeq.jpg"
     description: "Ebbie Wisecarver is senior vice president, head of global design,
       at WeWork. Since joining the company in 2015, she has held multiple positions,
       including architect and development project manager for Australia, design director
@@ -264,7 +264,7 @@ page_blocks:
       resource group, Women of WeWork. \n \n "
   - title: Phoebe Yee, AIA
     title_role: Trustee
-    image: "/v1618329168/Yee-722x349_dsjmio.jpg"
+    image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618329168/Yee-722x349_dsjmio.jpg"
     description: "As Executive Vice President of Design for Related California, Ms.
       Yee is responsible for the management of architecture and design for all market
       rate and mixed-income residential developments in California. Ms. Yee works
@@ -277,7 +277,7 @@ page_blocks:
       conferences and Urban Land Institute events."
   - title: Alexandra Lange
     title_role: Trustee
-    image: "/v1618331574/Curbed_Alexandra_Lange-IMG_7033-Edit_yb3ayd.jpg"
+    image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618331574/Curbed_Alexandra_Lange-IMG_7033-Edit_yb3ayd.jpg"
     description: 'Alexandra Lange is a design critic. Her essays, reviews, and profiles
       have appeared in numerous design publications including Architect, Harvard Design
       Magazine, Metropolis, and T Magazine, as well as in The Atlantic, New York Magazine,
@@ -287,14 +287,14 @@ page_blocks:
       of the Mall", was published by Bloomsbury in June 2022.'
   - title: Mary McLeod, Ph.D.
     title_role: Consulting Historian
-    image: "/v1673557689/Screen_Shot_2023-01-12_at_4.08.03_PM_zwnxgz.png"
+    image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1673557689/Screen_Shot_2023-01-12_at_4.08.03_PM_zwnxgz.png"
     description: |-
       Mary McLeod is a Professor of Architecture at Columbia GSAPP, where she teaches architecture history and theory, and occasionally studio. She has also taught at Harvard University, University of Kentucky, University of Miami and the Institute for Architecture and Urban Studies. Her research and publications have focused on the history of the modern movement and on contemporary architecture theory, examining issues concerning the connections between architecture and ideology.
 
       McLeod is co-editor of Architecture, Criticism, Ideology and Architecture Reproduction, and is the editor of and contributor to the book Charlotte Perriand: An Art of Living (Abrams, 2003). She also initiated and helped curate the exhibition Charlotte Perriand: Interior Equipment, held at the Urban Center in New York. Her articles have appeared in Assemblage, Oppositions, Art Journal, AA Files, JSAH, Casabella, Art Journal, Harvard Design Magazine and Lotus as well as other journals and anthologies, such as The Sex of Architecture, Architecture in Fashion, Architecture of the Everyday, Architecture and Feminism, The Pragmatist Imagination, The State of Architecture, Fragments: Architecture and the Unfinished, Architecture Theory since 1968, Oppositions Reader, Le Parole dell'Architettura, and Modern Women: Women Artists at The Museum of Modern Art. She has received numerous fellowships and awards, including a Fulbright Fellowship, NEH award, and grants from New York Council of the Arts and the Graham Foundation.
   - title: Victoria Rosner, Ph.D.
     title_role: Consulting Historian
-    image: "/v1673557075/rosner_cc77ti.jpg"
+    image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1673557075/rosner_cc77ti.jpg"
     description: "Victoria Rosner is Dean of NYU Gallatin School of Individualized
       Study. She joins NYU from Columbia University’s School of General Studies, where
       she has been serving as the dean of Academic Affairs. She joined Columbia’s
@@ -326,7 +326,7 @@ page_blocks:
   portrait:
   - title: Cynthia Phifer Kracauer, AIA
     title_role: Executive Director
-    image: "/v1618333357/Cynthia_HS_qd6dqf.jpg"
+    image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618333357/Cynthia_HS_qd6dqf.jpg"
     description: 'Cynthia is an architect and currently serves as the Executive Director
       for Beverly Willis Architecture Foundation (BWAF). She joins the Foundation
       following ten years as the Managing Director of the American Institute of Architects
@@ -339,7 +339,7 @@ page_blocks:
       New Jersey Institute of Technology and her alma mater. '
   - title: 'Virginia Eskridge '
     title_role: Communications and Programs Coordinator
-    image: "/v1642619870/Virginia_Headshot_xbobp3.jpg"
+    image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1642619870/virginia_Headshot_xbobp3.jpg"
     description: 'Virginia is from Montgomery, Alabama and graduated from the University
       of Alabama in 2020 with a degree in Advertising and Art. She is looking forward
       to working with the community around her to build up and acknowledge women''s
