@@ -97,19 +97,16 @@ page_blocks:
   - template: text-block
     label: Annual Membership Info
     text_block: >-
-      <p>&lt;h2&gt;&lt;b&gt;Annual Membership&lt;/b&gt;&lt;/h2&gt;</p><p>Early
-      Professional (up to ten years of professional experience):
-      $250</p><p>Professional (ten or more years of professional experience):
-      $450</p><p>Corporate Friendship*: $5000</p><p>&lt;h6
-      id=allows-for-4-participants-per-event"&gt;*Allows for 4 participants per
-      event&nbsp;</p><p>&lt;h2&gt;&lt;b&gt;For your annual donation, you will
-      receive:&lt;/b&gt;&lt;/h2&gt;<br />&lt;ul&gt;<br />&lt;li&gt;Invitation to
-      three BWAF Friends events per year&lt;/li&gt;<br />&lt;li&gt;Built By
-      Women tote bag&lt;/li&gt;<br />&lt;li&gt;Early notification of BWAF
-      activities&lt;/li&gt;<br />&lt;li&gt;Monthly BWAF newsletter&lt;/li&gt;<br
-      />&lt;li&gt;Copy of BWAF film&lt;/li&gt;<br />&lt;li&gt;Prominent listing
-      on BWAF website (Corporate Friendship only)&lt;/li&gt;<br
-      />&lt;/ul&gt;</p>
+      <h2><strong>Annual Membership</strong></h2><p>Early Professional (up to
+      ten years of professional experience): $250</p><p>Professional (ten or
+      more years of professional experience): $450</p><p>Corporate Friendship*:
+      $5000</p><h6>*Allows for 4 participants per
+      event&nbsp;</h6><h2><strong>For your annual donation, you will
+      receive:</strong></h2><ul><li>Invitation to three BWAF Friends events per
+      year</li><li>Built By Women tote bag</li><li>Early notification of BWAF
+      activities</li><li>Monthly BWAF newsletter</li><li>Copy of BWAF
+      film</li><li>Prominent listing on BWAF website (Corporate Friendship
+      only)</li></ul>
     section_break: false
     include_left-hand_column_text_: false
     lefthand_text:
