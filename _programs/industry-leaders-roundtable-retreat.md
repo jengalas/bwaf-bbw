@@ -179,7 +179,7 @@ _structures:
       - label: Buttons
         preview:
           text: Buttons
-          subtext: "[Modify]"
+          subtext: "Add links to previous years here"
           icon: smart_button
         value:
           template: buttons-block
@@ -193,4 +193,21 @@ _structures:
             hidden: true
           button:
             hidden: false  
+      - label: Text Block
+        preview:
+          text: Text Block
+          subtext: "what is this one"
+          icon: smart_button
+        value:
+          template: text-block
+          button:
+            - button_text:
+              button_link:
+          section_break: false
+          include_left-hand_column_text_: true
+        _inputs:
+          icon:
+            hidden: false
+          button:
+            hidden: false      
 ---
