@@ -176,8 +176,8 @@ _structures:
         _inputs:
           icon:
             hidden: true
-          button:
-            hidden: true
+          # button:
+          #   hidden: true
           section_break:
             hidden: true
           include_left-hand_column_text_:
