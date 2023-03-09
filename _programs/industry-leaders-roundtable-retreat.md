@@ -170,4 +170,9 @@ description: >-
   organizations, by providing them research, tools, and support to be change
   agents.
 date: 2019-06-11 14:43:21
+
+# CloudCannon config
+_inputs:
+  button:
+    hidden: false
 ---
