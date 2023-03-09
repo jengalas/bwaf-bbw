@@ -214,6 +214,17 @@ _structures:
             hidden: false
           text_block:
             type: textarea
+      - label: Image Block
+        preview:
+          text: Image Block
+          subtext: Add images and captions
+          icon:
+        value:
+          template: image-block
+          button:
+            - button_text:
+              button_link:
+          section_break: false      
       - label: Program Details
         preview:
           text: Program Details
