@@ -133,7 +133,7 @@ _structures:
       - label: Buttons
         preview:
           text: Button
-          subtext: [Do not modify]
+          subtext: "[Do not modify]"
           icon: smart_button
         value:
           template: buttons-block
