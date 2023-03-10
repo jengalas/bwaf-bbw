@@ -1,0 +1,13 @@
+<h2><b>{{ block.header }}</b></h2>
+<div class="portrait-gallery-block-small">
+    {% for person in block.portrait %}
+    <div>
+        <div class="img" style="background-image: url({{person.image}})"></div>
+        <b>{{person.title}}</b>
+        <br>{{person.title_role}}
+        {% if person.description %}
+            <p style="margin-top: 1em;">{{person.description}}</p>
+        {% endif %}
+    </div>
+    {% endfor %}
+</div>
