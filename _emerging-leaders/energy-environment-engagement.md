@@ -1,5 +1,5 @@
 ---
-layout: innerPage
+layout: innerPageCC
 date: 2023-03-07T21:07:21.000+00:00
 navCategory: ''
 title: Energy, Environment, Engagement
@@ -19,7 +19,7 @@ page_blocks:
     link_url: ''
     link_text: ''
 - template: image-block
-  image: "/v1678236171/Emerging_Leaders_2023-edit_zktvjf.png"
+  image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1678236171/Emerging_Leaders_2023-edit_zktvjf.png"
   section_break: false
   include_left-hand_column_text_: false
   lefthand_text:
@@ -56,7 +56,7 @@ page_blocks:
     link_url: ''
     link_text: ''
   featured-portrait: []
-  image: "/v1678234361/2017_Burton_Melissa_01_980x780_kbtmcc.jpg"
+  image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1678234361/2017_Burton_Melissa_01_980x780_kbtmcc.jpg"
   subtitle: ARUP Canada's Principal Engineer
   description: ARUP Canada's Principal engineer, Melissa Burton, took a childhood
     experience of natural disaster and transformed it into a data driven and award
@@ -75,7 +75,7 @@ page_blocks:
     link_url: ''
     link_text: ''
   featured-portrait: []
-  image: "/v1678234847/LNSimonheadshot_labdtm.jpg"
+  image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1678234847/LNSimonheadshot_labdtm.jpg"
   label: Speaker
   title: Lynn Simon
   subtitle: VP of Sustainability and Global ESG
@@ -89,7 +89,7 @@ page_blocks:
     line-2: ''
 - template: featured-portrait-block
   header: ENGAGEMENT
-  image: "/v1678235026/Emmanuelle-Slossberg_Small_so5sxj.jpg"
+  image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1678235026/Emmanuelle-Slossberg_Small_so5sxj.jpg"
   label: Speaker
   title: Emmanuelle Slossberg
   description: Emmanuelle Slossberg has worked in branding and marketing, and presents
