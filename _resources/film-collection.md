@@ -1,5 +1,5 @@
 ---
-layout: innerPage
+layout: innerPageCC
 navCategory: Resources
 title: Film Collection
 description: The BWAF Film Collection furthers our awareness-raising work in acknowledging
@@ -31,7 +31,7 @@ page_blocks:
     download: ''
     link_url: ''
     link_text: ''
-  image: "/v1611528478/UnknownNY_rk0b0r.jpg"
+  image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1611528478/UnknownNY_rk0b0r.jpg"
   alt_text: 'Unknown New York: The City That Women Built'
   section_break: true
   image_caption_text: ''
@@ -63,7 +63,7 @@ page_blocks:
     download: ''
     link_url: ''
     link_text: ''
-  image: "/v1611528636/Rectangle_Copy_2_qemudp.png"
+  image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1611528636/Rectangle_Copy_2_qemudp.png"
   section_break: true
   alt_text: ''
   image_caption_text: ''
