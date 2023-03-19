@@ -9,17 +9,17 @@ description: Beverly Willis Architecture Foundation would not exist without the 
 supporters-header: ''
 supporters:
 - name: Brookfield Properties
-  image: "/v1620155874/B-prop_id_rgb_q198gs.jpg"
+  image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1620155874/B-prop_id_rgb_q198gs.jpg"
 - name: Silman
-  image: "/v1620155920/Silman_Logo_djgqp7.jpg"
+  image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1620155920/Silman_Logo_djgqp7.jpg"
 friends-header: 'Corporate Sponsors: Friends'
 friends:
-- image: "/v1621379339/LanganBlackCMYK-print_ic5idu.jpg"
+- image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1621379339/LanganBlackCMYK-print_ic5idu.jpg"
   name: Langan Engineering
-- image: "/v1621379372/Arup_Logo_2011_Black_CMYK_-_revised_bevczb.jpg"
+- image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1621379372/Arup_Logo_2011_Black_CMYK_-_revised_bevczb.jpg"
   name: Arup
 - name: Cooper Carry
-  image: "/v1621379491/cc_identity_logo_black_nnig5h.jpg"
+  image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1621379491/cc_identity_logo_black_nnig5h.jpg"
 sponsors:
 - sponsors-header: Leadership Awards Gala 2020 Sponsors
   sponsors:
@@ -83,13 +83,13 @@ pioneering-women:
     Architecture; Kristi Ambrosetti.
 previous-years-header: Additional Programming Support is Generously Provided By
 previous-years:
-- image: "/v1629124128/Screen_Shot_2021-08-16_at_10.04.59_AM_eavjeu.png"
+- image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1629124128/Screen_Shot_2021-08-16_at_10.04.59_AM_eavjeu.png"
   name: Brookfield Properties
 - name: Thornton Tomasetti
-  image: "/v1628099307/TT_Logo_sfrylo.jpg"
+  image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1628099307/TT_Logo_sfrylo.jpg"
 - name: New York Building Foundation
-  image: "/v1621379817/nybf-logo-450x450_kyhv9k.png"
-- image: "/v1621452344/Screen_Shot_2021-05-19_at_3.25.29_PM_i4nbyo.png"
+  image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1621379817/nybf-logo-450x450_kyhv9k.png"
+- image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1621452344/Screen_Shot_2021-05-19_at_3.25.29_PM_i4nbyo.png"
   name: Harry T Wilks Family Foundation
 
 # CloudCannon config_inputs:
@@ -98,6 +98,9 @@ _inputs:
     hidden: true  
 
 ---
+
+<!-- TODO: Figure out how to add links to images here that will work with CloudCannon -->
+
 <div class="main-two-up">
     <div>
         <h1>Sponsors</h1>
@@ -114,7 +117,7 @@ _inputs:
     <div>
           <div class="logos-block">
             {% for supporter in page.supporters %}
-            <div><img src="{{site.cloudinary}}/w_200/{{supporter.image}}" alt="{{supporter.name}}"></div>
+            <div><img src="{{supporter.image | replace: 'https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload', 'https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/w_200'}}" alt="{{supporter.name}}"></div>
             {% endfor %}
             <br><br><br><br>
           </div>
@@ -143,7 +146,7 @@ _inputs:
     </div>
     <div class="logos-block">
         {% for friend in page.friends %}
-        <div><img src="{{site.cloudinary}}/w_200/{{friend.image}}" alt="{{friend.name}}"></div>
+        <div><img src="{{friend.image | replace: 'https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload', 'https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/w_200'}}" alt="{{friend.name}}"></div>
         {% endfor %}
     </div>
 </div>
@@ -192,7 +195,7 @@ _inputs:
     </div>
     <div class="logos-block">
         {% for supporter in page.previous-years %}
-        <div><img src="{{site.cloudinary}}/w_200/{{supporter.image}}" alt="{{supporter.name}}"></div>
+        <div><img src="{{supporter.image | replace: 'https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload', 'https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/w_200'}}" alt="{{supporter.name}}"></div>
         {% endfor %}
     </div>
 </div>
