@@ -1,5 +1,5 @@
 ---
-thumbnail_image: "/v1647368159/Helen_Liu_Fong_Hirshowitz_2000_yunom2.jpg"
+thumbnail_image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1647368159/Helen_Liu_Fong_Hirshowitz_2000_yunom2.jpg"
 navCategory: Resources
 layout: full-podcast-page
 title: 'Fast Food and Radical Rooflines: Helen Fong Shapes Los Angeles Coffee Shops'

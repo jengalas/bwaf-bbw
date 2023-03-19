@@ -1,6 +1,6 @@
 ---
 season: 2
-thumbnail_image: /v1643242724/new-angle-voice-logo-360x360_cns3vf.jpg
+thumbnail_image: https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1643242724/new-angle-voice-logo-360x360_cns3vf.jpg
 navCategory: Resources
 layout: full-podcast-page
 title: 'Ray Eames: Beauty in the Everyday'

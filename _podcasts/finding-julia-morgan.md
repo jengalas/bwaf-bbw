@@ -1,5 +1,5 @@
 ---
-thumbnail_image: "/v1643243280/1_1926_morgan-julia-studio-portrait_jm-cal-poly-720x720_y16i32.jpg"
+thumbnail_image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1643243280/1_1926_morgan-julia-studio-portrait_jm-cal-poly-720x720_y16i32.jpg"
 navCategory: Resources
 layout: full-podcast-page
 title: Finding Julia Morgan
@@ -55,11 +55,11 @@ page_blocks:
 - template: slideshow-block
   automatic: true
   image:
-  - image: "/v1634144135/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-118_afmfw8.jpg"
+  - image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1634144135/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-118_afmfw8.jpg"
     caption: Bev
-  - image: "/v1643243280/1_1926_morgan-julia-studio-portrait_jm-cal-poly-720x720_y16i32.jpg"
+  - image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1643243280/1_1926_morgan-julia-studio-portrait_jm-cal-poly-720x720_y16i32.jpg"
     caption: JM
-  - image: "/v1643050566/Ebbie_Headshot_ytuxeq.jpg"
+  - image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1643050566/Ebbie_Headshot_ytuxeq.jpg"
     caption: BWAF
   section_break: false
   include_left-hand_column_text_: false
@@ -81,7 +81,7 @@ page_blocks:
   portrait:
   - title: Virginia
     title_role: Communications
-    image: "/v1642619870/Virginia_Headshot_xbobp3.jpg"
+    image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1642619870/Virginia_Headshot_xbobp3.jpg"
     description: Test description
   header: ''
 - template: podcast-related-reading
@@ -94,7 +94,7 @@ page_blocks:
     link_url: ''
     link_text: ''
   related_reading:
-  - image: "/v1634144549/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-52_i2rugh.jpg"
+  - image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1634144549/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-52_i2rugh.jpg"
     label: Book
     title: Cacti of Arizona
     description: "<p>interesting book about cacti</p>"

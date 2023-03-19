@@ -1,5 +1,5 @@
 ---
-thumbnail_image: "/v1647436176/Florence_Knoll_qmi40h.jpg"
+thumbnail_image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1647436176/Florence_Knoll_qmi40h.jpg"
 navCategory: Resources
 layout: full-podcast-page
 title: 'Florence Knoll: Total Design'

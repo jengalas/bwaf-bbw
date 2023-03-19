@@ -50,7 +50,5 @@ page_blocks:
 
     New Angle: Voice is a production of Beverly Willis Architecture Foundation. Your host is Cynthia Phifer Kracauer, AIA
 _blocks: []
-sign-up-text: ''
-newsletters: []
 
 ---

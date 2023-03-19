@@ -1,5 +1,5 @@
 ---
-thumbnail_image: "/v1643245774/deblois-720x720_coccfv.jpg"
+thumbnail_image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1643245774/deblois-720x720_coccfv.jpg"
 navCategory: Resources
 layout: full-podcast-page
 title: 'Natalie de Blois: To Tell the Truth'
@@ -29,11 +29,11 @@ page_blocks:
   - title: Gabrielle Esperdy
     title_role: Professor, Hillier College of Arch & Design, New Jersey Institute
       of Technology
-    image: "/v1645668528/Gabrielle_Esperdy_kasdxs.png"
+    image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1645668528/Gabrielle_Esperdy_kasdxs.png"
     description: ''
   - title: Carol Krinsky
     title_role: Professor of Art History, NYU
-    image: "/v1645668624/CarolKrinsky_iqsovp.jpg"
+    image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1645668624/CarolKrinsky_iqsovp.jpg"
     description: ''
   - title: Audrey Matlock, AIA
     title_role: Principal at Audrey Matlock Architect
@@ -41,28 +41,28 @@ page_blocks:
     description: ''
   - title: Carol Ross Barney, FAIA, Hon. ASLA
     title_role: Design Principal and Founder Ross Barney Architects
-    image: "/v1645668923/Carol-Ross-Barney_l1ipve.jpg"
+    image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1645668923/Carol-Ross-Barney_l1ipve.jpg"
     description: ''
   - title: Margaret McCurry, FAIA
     title_role: Principal, Tigerman McCurry
-    image: "/v1645668974/mccurry_2_nzwc1q.jpg"
+    image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1645668974/mccurry_2_nzwc1q.jpg"
     description: ''
   - title: Peter Dixon
     title_role: Senior Partner, Chief Creative Officer, Prophet
-    image: "/v1645669027/dixon_qfjlo3.jpg"
+    image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1645669027/dixon_qfjlo3.jpg"
     description: ''
   - title: John Newman
     title_role: Director, Snøhetta
-    image: "/v1645669080/john-newman_xemxpz.jpg"
+    image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1645669080/john-newman_xemxpz.jpg"
     description: ''
   - title: Liz Watykus
     title_role: Executive Director, Docomomo US
-    image: "/v1645669114/liz_waytkus_juiobz.jpg"
+    image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1645669114/liz_waytkus_juiobz.jpg"
     description: ''
   - title: Julia Murphy, AIA, LEED AP
     title_role: Managing Principal, USA + Canada East Practice Leader, Skidmore, Owings
       & Merrill
-    image: "/v1645669164/julia_murphy_l0fqxo.jpg"
+    image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1645669164/julia_murphy_l0fqxo.jpg"
     description: ''
   header: ''
 

@@ -1,5 +1,5 @@
 ---
-thumbnail_image: "/v1647435887/norma-sklarek_f2e5hm.png"
+thumbnail_image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1647435887/norma-sklarek_f2e5hm.png"
 navCategory: Resources
 layout: full-podcast-page
 title: 'Norma Sklarek: An Extremely Bold Hand'
