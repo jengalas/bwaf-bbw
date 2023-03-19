@@ -1,9 +1,9 @@
 ---
-season: 2
 thumbnail_image: https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1643242724/new-angle-voice-logo-360x360_cns3vf.jpg
 navCategory: Resources
 layout: full-podcast-page
 title: 'Ray Eames: Beauty in the Everyday'
+season: 2
 episode_number: 6
 description: >-
   <p>New Angle: Voice is back! We kick off Season Two with Ray Kaiser Eames.
