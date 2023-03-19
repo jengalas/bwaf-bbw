@@ -72,6 +72,10 @@ _blocks: []
 _inputs:
   title:
     hidden: true
+  description:
+    hidden: true  
   section_break:
     hidden: true
+  text_block:
+    type: textarea  
 ---
