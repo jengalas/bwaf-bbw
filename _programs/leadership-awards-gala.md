@@ -1,5 +1,5 @@
 ---
-layout: innerPage
+layout: innerPageCC
 navCategory: Programs
 title: Leadership Awards Celebration
 permalink: "/programs/leadership-awards-celebration"
@@ -18,7 +18,7 @@ page_blocks:
     link_text: ''
   buttons_header__optional_: ''
 - template: image-block
-  image: "/v1655235204/2022_BEVY_save_the_date_i5vmyw.jpg"
+  image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1655235204/2022_BEVY_save_the_date_i5vmyw.jpg"
   section_break: false
   image_caption_text: ''
   include_left-hand_column_text_: true
@@ -50,37 +50,37 @@ page_blocks:
     link_url: ''
     link_text: ''
   image:
-  - image: "/v1634143986/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-37_yitoxe.jpg"
+  - image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1634143986/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-37_yitoxe.jpg"
     caption: Inaugural BEVY Leadership Awards Celebration, October 6, 2021
-  - image: "/v1634144042/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-24_wwmoap.jpg"
+  - image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1634144042/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-24_wwmoap.jpg"
     caption: Inaugural BEVY Leadership Awards Celebration, October 6, 2021
-  - image: "/v1634144090/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-33_e8kolw.jpg"
+  - image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1634144090/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-33_e8kolw.jpg"
     caption: Inaugural BEVY Leadership Awards Celebration, October 6, 2021
-  - image: "/v1634144135/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-118_afmfw8.jpg"
+  - image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1634144135/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-118_afmfw8.jpg"
     caption: Inaugural BEVY Leadership Awards Celebration, October 6, 2021
-  - image: "/v1634144223/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-130_fuotdk.jpg"
+  - image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1634144223/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-130_fuotdk.jpg"
     caption: Inaugural BEVY Leadership Awards Celebration, October 6, 2021
-  - image: "/v1634144272/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-131_l4bq23.jpg"
+  - image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1634144272/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-131_l4bq23.jpg"
     caption: Inaugural BEVY Leadership Awards Celebration, October 6, 2021
-  - image: "/v1634144164/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-147_w6tht7.jpg"
+  - image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1634144164/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-147_w6tht7.jpg"
     caption: Inaugural BEVY Leadership Awards Celebration, October 6, 2021
-  - image: "/v1634144333/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-161_vbqavh.jpg"
+  - image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1634144333/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-161_vbqavh.jpg"
     caption: Inaugural BEVY Leadership Awards Celebration, October 6, 2021
-  - image: "/v1634144367/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-168_vahnsq.jpg"
+  - image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1634144367/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-168_vahnsq.jpg"
     caption: Inaugural BEVY Leadership Awards Celebration, October 6, 2021
-  - image: "/v1634144417/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-179_gml6uz.jpg"
+  - image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1634144417/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-179_gml6uz.jpg"
     caption: Inaugural BEVY Leadership Awards Celebration, October 6, 2021
-  - image: "/v1634144456/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-193_c1belm.jpg"
+  - image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1634144456/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-193_c1belm.jpg"
     caption: Inaugural BEVY Leadership Awards Celebration, October 6, 2021
-  - image: "/v1634144497/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-204_lhmd4m.jpg"
+  - image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1634144497/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-204_lhmd4m.jpg"
     caption: Inaugural BEVY Leadership Awards Celebration, October 6, 2021
-  - image: "/v1634144549/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-52_i2rugh.jpg"
+  - image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1634144549/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-52_i2rugh.jpg"
     caption: Inaugural BEVY Leadership Awards Celebration, October 6, 2021
-  - image: "/v1634144626/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-222_hs8wav.jpg"
+  - image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1634144626/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-222_hs8wav.jpg"
     caption: Inaugural BEVY Leadership Awards Celebration, October 6, 2021
-  - image: "/v1634144681/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-61_dgcvue.jpg"
+  - image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1634144681/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-61_dgcvue.jpg"
     caption: Inaugural BEVY Leadership Awards Celebration, October 6, 2021
-  - image: "/v1634144726/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-79_q6sjdv.jpg"
+  - image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1634144726/BWAF_Bevy_Leadership_Awards_Celebration_10.6.21_The_Berman_Group_Chris_Bacarella_Photography-79_q6sjdv.jpg"
     caption: Inaugural BEVY Leadership Awards Celebration, October 6, 2021
   section_break: false
   automatic: false
