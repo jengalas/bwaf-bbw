@@ -33,7 +33,7 @@ page_blocks:
     download: ''
     link_url: https://bwafnewanglevoice.libsyn.com/
     link_text: ''
-  image: "/v1674766181/podcast-front-side-by-side_vjdiiz.jpg"
+  image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1674766181/podcast-front-side-by-side_vjdiiz.jpg"
   alt_text: 'New Angle: Voice logo'
   image_caption_text: ''
 - template: text-block
