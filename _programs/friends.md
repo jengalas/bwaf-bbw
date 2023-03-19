@@ -1,5 +1,5 @@
 ---
-layout: innerPage
+layout: innerPageCC
 navCategory: Programs
 title: Friends
 permalink: /programs/friends
@@ -33,31 +33,31 @@ page_blocks:
     portrait:
       - title: ''
         title_role: ''
-        image: /v1668627990/Untitled-1_ylld3d.png
+        image: https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1668627990/Untitled-1_ylld3d.png
         description: ''
       - title: ''
         title_role: ''
-        image: /v1668537724/steinbergLogoFinal_aby90s.png
+        image: https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1668537724/steinbergLogoFinal_aby90s.png
         description: ''
       - title: ''
         title_role: ''
-        image: /v1664471226/HKS-Logo-Grey-Digital_eczhng.jpg
+        image: https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1664471226/HKS-Logo-Grey-Digital_eczhng.jpg
         description: ''
       - title: ''
         title_role: ''
-        image: /v1664471241/MR_logo_black_600_xet9aj.jpg
+        image: https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1664471241/MR_logo_black_600_xet9aj.jpg
         description: ''
       - title: ''
         title_role: ''
-        image: /v1657646187/cooper_carry_ekgnpo.png
+        image: https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1657646187/cooper_carry_ekgnpo.png
         description: ''
       - title: ''
         title_role: ''
-        image: /v1657646141/JBB_Logo_1_nzkx5a.png
+        image: https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1657646141/JBB_Logo_1_nzkx5a.png
         description: ''
       - title: ''
         title_role: ''
-        image: /v1657646119/LanganBlackCMYK-print_bpdp92.png
+        image: https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1657646119/LanganBlackCMYK-print_bpdp92.png
         description: ''
     section_break: true
     include_left-hand_column_text_: false
@@ -68,7 +68,7 @@ page_blocks:
       link_url: ''
       link_text: ''
   - template: image-block
-    image: /v1668538242/IMG_1930_lmg7we.png
+    image: https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1668538242/IMG_1930_lmg7we.png
     image_caption_text: >-
       Board Member and Friends Chair Phoebe Yee, Executive Vice President,
       Design Related California
