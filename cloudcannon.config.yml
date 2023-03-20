@@ -145,6 +145,8 @@ collections_config:
         type: date
       description:
         hidden: true
+  schemas:
+    _unlisted: true      
 
 collection_groups:
   - heading: Pages
