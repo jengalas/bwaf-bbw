@@ -33,7 +33,6 @@ page_blocks:
   alt_text: ''
   image_caption_text: ''
 - template: portrait-gallery-block-small
-  label: Participants
   portrait:
   - title: Caitlin Brady
     title_role: Project Architect, RMW Architecture and Interiors
@@ -49,20 +48,9 @@ page_blocks:
   header: ''
 - template: featured-portrait-block
   header: ENERGY
-  time-location:
-    line-1: Tuesday, May 16, 2023, 6:30-8PM
-    line-2: ''
-  label: Speaker
-  title: Melissa Burton
-  section_break: false
-  include_left-hand_column_text_: false
-  lefthand_text:
-    header_type: ''
-    text: ''
-    download: ''
-    link_url: ''
-    link_text: ''
   image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1678234361/2017_Burton_Melissa_01_980x780_kbtmcc.jpg"
+  label: Speaker
+  title: Melissa Burton  
   subtitle: ARUP Canada's Principal Engineer
   description: ARUP Canada's Principal engineer, Melissa Burton, took a childhood
     experience of natural disaster and transformed it into a data driven and award
@@ -70,16 +58,13 @@ page_blocks:
     addition, she has the ENERGY for three children, an artist wife, and a side hustle
     in music, having lived in Hong Kong, South Korea, London, New York and now Toronto.
     Melissa's perspectives provide inspiration to re-charge both architects and engineers.
-- template: featured-portrait-block
-  header: ENVIRONMENT
+  time-location:
+    line-1: Tuesday, May 16, 2023, 6:30-8PM
+    line-2: ''
   section_break: false
   include_left-hand_column_text_: false
-  lefthand_text:
-    header_type: ''
-    text: ''
-    download: ''
-    link_url: ''
-    link_text: ''
+- template: featured-portrait-block
+  header: ENVIRONMENT
   image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1678234847/LNSimonheadshot_labdtm.jpg"
   label: Speaker
   title: Lynn Simon
@@ -91,12 +76,15 @@ page_blocks:
     reading from "All We Can Save" will inform the session.
   time-location:
     line-1: Tuesday, April 25, 2023, 6:30-8PM
-    line-2: ''
+    line-2: '' 
+  section_break: false
+  include_left-hand_column_text_: false
 - template: featured-portrait-block
   header: ENGAGEMENT
   image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1678235026/Emmanuelle-Slossberg_Small_so5sxj.jpg"
   label: Speaker
   title: Emmanuelle Slossberg
+  subtitle: ''
   description: Emmanuelle Slossberg has worked in branding and marketing, and presents
     engagement as a business development strategy. From experiences as diverse as
     the Consortium for Sustainable Urbanization or other, to the Durst Organization,
@@ -107,14 +95,8 @@ page_blocks:
     line-2: ''
   section_break: false
   include_left-hand_column_text_: false
-  lefthand_text:
-    header_type: ''
-    text: ''
-    download: ''
-    link_url: ''
-    link_text: ''
-  subtitle: ''   
 
+# CloudCannon config  
 _structures:
   page_blocks:
     id_key: template
