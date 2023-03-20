@@ -119,9 +119,15 @@ _structures:
   page_blocks:
     id_key: template
     values:
-      - label: Speakers
+      - label: Speaker
         preview:
-          text: Speakers
+          text: Speaker
         value:
           template: featured-portrait-block
+      - label: Participants
+        preview:
+          text: Participants
+          subtext: Add image, name, and title/role
+        value:
+          template: portrait-gallery-block-small    
 ---
