@@ -144,9 +144,11 @@ collections_config:
       date:
         type: date
       description:
-        hidden: true
+        hidden: true     
   schemas:
-    _unlisted: true      
+    filter:
+      exclude:
+        - emerging-leaders.md      
 
 collection_groups:
   - heading: Pages
