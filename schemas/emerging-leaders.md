@@ -116,6 +116,4 @@ _structures:
           - title: 
             title_role: 
             image:
-        add_options:
-          - name: Add Participant
 ---
