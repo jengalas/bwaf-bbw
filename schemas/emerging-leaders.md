@@ -117,12 +117,5 @@ _structures:
             title_role: 
             image: 
           section_break: false
-          include_left-hand_column_text_: false
-          lefthand_text:
-            header_type: ''
-            text: ''
-            download: ''
-            link_url: ''
-            link_text: ''
-          header: ''  
+          include_left-hand_column_text_: false  
 ---
