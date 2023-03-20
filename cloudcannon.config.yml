@@ -137,6 +137,8 @@ collections_config:
         hidden: true
       template:
         hidden: true
+      label:
+        hidden: true
       section_break:
         hidden: true      
       text_block:
