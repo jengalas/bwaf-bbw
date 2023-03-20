@@ -1,6 +1,6 @@
 ---
 layout: innerPageCC
-date: 
+date: 2023-03-19 00:00:00
 navCategory: Programs
 title: 
 description: Beverly Willis Architecture Foundation Emerging Leaders program is a
@@ -48,7 +48,6 @@ page_blocks:
     link_text: ''
   header: ''
 - template: featured-portrait-block
-  label: Speaker
   header: ENERGY
   time-location:
     line-1: Tuesday, May 16, 2023, 6:30-8PM
@@ -71,4 +70,58 @@ page_blocks:
     addition, she has the ENERGY for three children, an artist wife, and a side hustle
     in music, having lived in Hong Kong, South Korea, London, New York and now Toronto.
     Melissa's perspectives provide inspiration to re-charge both architects and engineers.
+- template: featured-portrait-block
+  header: ENVIRONMENT
+  section_break: false
+  include_left-hand_column_text_: false
+  lefthand_text:
+    header_type: ''
+    text: ''
+    download: ''
+    link_url: ''
+    link_text: ''
+  image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1678234847/LNSimonheadshot_labdtm.jpg"
+  label: Speaker
+  title: Lynn Simon
+  subtitle: VP of Sustainability and Global ESG
+  description: Workshop your sustainability profile with Lynn Simon, VP of Sustainability
+    and Global ESG. Whether your professional environment supports your whole self,
+    or challenges your sensibilities, take advantage of Lynn's experience in global
+    real estate sustainability at Google to give yourself a post-pandemic reset. Advance
+    reading from "All We Can Save" will inform the session.
+  time-location:
+    line-1: Tuesday, April 25, 2023, 6:30-8PM
+    line-2: ''
+- template: featured-portrait-block
+  header: ENGAGEMENT
+  image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1678235026/Emmanuelle-Slossberg_Small_so5sxj.jpg"
+  label: Speaker
+  title: Emmanuelle Slossberg
+  description: Emmanuelle Slossberg has worked in branding and marketing, and presents
+    engagement as a business development strategy. From experiences as diverse as
+    the Consortium for Sustainable Urbanization or other, to the Durst Organization,
+    Cetra-Ruddy, and ULI, Emmanuelle offers the group both the professional perspective,
+    as well as deep insights into the development world.
+  time-location:
+    line-1: Thursday, March 30, 2023, 6:30-8PM
+    line-2: ''
+  section_break: false
+  include_left-hand_column_text_: false
+  lefthand_text:
+    header_type: ''
+    text: ''
+    download: ''
+    link_url: ''
+    link_text: ''
+  subtitle: ''   
+
+_structures:
+  page_blocks:
+    id_key: template
+    values:
+      - label: Speakers
+        preview:
+          text: Speakers
+        value:
+          template: featured-portrait-block
 ---
