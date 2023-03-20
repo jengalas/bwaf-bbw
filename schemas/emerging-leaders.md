@@ -2,7 +2,7 @@
 layout: innerPageCC
 date: 2023-03-19 00:00:00
 navCategory: Programs
-title: 
+title: '[Enter the theme, such as Energy, Environment, Engagement]'
 description: Beverly Willis Architecture Foundation Emerging Leaders program is a
   New York-based, selective professional development opportunity for women 5–10 years
   out of school.
