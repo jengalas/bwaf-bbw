@@ -66,7 +66,6 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-    featured-portrait: []
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1678234361/2017_Burton_Melissa_01_980x780_kbtmcc.jpg
     subtitle: ARUP Canada's Principal Engineer
@@ -88,7 +87,6 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-    featured-portrait: []
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1678234847/LNSimonheadshot_labdtm.jpg
     label: Speaker
@@ -128,7 +126,6 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-    featured-portrait: []
     subtitle: ''
 _structures:
   page_blocks:
@@ -149,13 +146,4 @@ _structures:
             - title:
               title_role:
               image:
-          section_break: false
-          include_left-hand_column_text_: false
-          lefthand_text:
-            header_type: ''
-            text: ''
-            download: ''
-            link_url: ''
-            link_text: ''
-          header: ''
 ---
