@@ -35,6 +35,7 @@ page_blocks:
   label: Participants
   portrait:
   - title: Caitlin Brady
+    label: Name
     title_role: Project Architect, RMW Architecture and Interiors
     image: "https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1632753674/brady_sml_rdhlvk.jpg"
   section_break: false
