@@ -113,8 +113,7 @@ _structures:
         value:
           template: portrait-gallery-block-small  
           portrait:
-          - image:
-            title: 
+          - title: 
             title_role: 
-            image: 
+            image:  
 ---
