@@ -115,6 +115,6 @@ _structures:
           portrait:
           - title: 
             title_role: 
-            image: 
-            name: Participant 
+            image:
+          name: Participant  
 ---
