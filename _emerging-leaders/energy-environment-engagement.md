@@ -51,21 +51,6 @@ page_blocks:
       link_url: ''
       link_text: ''
     text_block: ''
-  - template: portrait-gallery-block-small
-    portrait:
-      - title: ABC Test
-        title_role: President
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1673557075/rosner_cc77ti.jpg
-    section_break: false
-    include_left-hand_column_text_: false
-    lefthand_text:
-      header_type: ''
-      text: ''
-      download: ''
-      link_url: ''
-      link_text: ''
-    header: ''
   - template: featured-portrait-block
     header: ENERGY
     time-location:
