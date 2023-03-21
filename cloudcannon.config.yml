@@ -22,6 +22,8 @@ collections_config:
       exclude:
         - nav.yaml
   pages:
+    schemas:
+      _unlisted: true
     _enabled_editors:
       - data
     _inputs:   
