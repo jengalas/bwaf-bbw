@@ -129,9 +129,6 @@ page_blocks:
     subtitle: ''
   - template: portrait-gallery-block-small
     portrait:
-      - title: Test
-        title_role: VP
-        image:
       - title:
         title_role:
         image:
