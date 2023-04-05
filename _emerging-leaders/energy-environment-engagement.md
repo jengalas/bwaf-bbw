@@ -127,6 +127,14 @@ page_blocks:
       link_url: ''
       link_text: ''
     subtitle: ''
+  - template: portrait-gallery-block-small
+    portrait:
+      - title: Test
+        title_role: VP
+        image:
+      - title:
+        title_role:
+        image:
 _structures:
   page_blocks:
     id_key: template
@@ -146,4 +154,5 @@ _structures:
             - title:
               title_role:
               image:
+_unlisted: true
 ---
