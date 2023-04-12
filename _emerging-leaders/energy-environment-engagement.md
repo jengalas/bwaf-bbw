@@ -127,6 +127,20 @@ page_blocks:
       link_url: ''
       link_text: ''
     subtitle: ''
+  - template: portrait-gallery-block-small
+    portrait:
+      - title: Allyson Kritzer
+        title_role: >-
+          Project Engineer,   Langan Engineering, Environmental, Surveying,
+          Landscape Architecture and Geology, DPC
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1681327567/Kritzer_Allyson.jpg
+      - title:
+        title_role:
+        image:
+      - title:
+        title_role:
+        image:
 _structures:
   page_blocks:
     id_key: template
@@ -146,4 +160,5 @@ _structures:
             - title:
               title_role:
               image:
+_unlisted: true
 ---
