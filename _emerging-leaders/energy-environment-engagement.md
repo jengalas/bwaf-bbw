@@ -55,8 +55,8 @@ page_blocks:
     portrait:
       - title: Allyson Kritzer
         title_role: >-
-          Project Engineer,   Langan Engineering and Environmental Services,
-          Inc.
+          Project Engineer,   Langan Engineering, Environmental, Surveying,
+          Landscape Architecture and Geology, DPC
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1681327567/Kritzer_Allyson.jpg
       - title: Ann O'Connell
@@ -67,6 +67,12 @@ page_blocks:
         title_role: Design Associate, Alloy Development
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1681327856/Headshot_Aryn_Phillips_.jpg
+      - title: Ashley Sandve
+        title_role: >-
+          Project Engineer, Langan Engineering, Environmental, Surveying,
+          Landscape Architecture and Geology, DPC
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1681328113/Sandve_Ashley.jpg
   - template: featured-portrait-block
     header: ENERGY
     time-location:
