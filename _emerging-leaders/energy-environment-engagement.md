@@ -135,9 +135,10 @@ page_blocks:
           Landscape Architecture and Geology, DPC
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1681327567/Kritzer_Allyson.jpg
-      - title:
-        title_role:
-        image:
+      - title: Ann O'Connell
+        title_role: Senior Associate, Robert A.M. Stern Architects
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1681327795/O_Connell_Ann_Headshot_1.jpg
       - title:
         title_role:
         image:
