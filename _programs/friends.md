@@ -112,7 +112,7 @@ page_blocks:
     text_block: >-
       <h2><strong>Annual Membership</strong></h2><p>Early Professional (up to
       ten years of professional experience): $250</p><p>Professional (ten or
-      more years of professional experience): $450</p><p>Corporate Friendship*:
+      more years of professional experience): $500</p><p>Corporate Friendship*:
       $5000</p><h6>*Allows for 4 participants per
       event&nbsp;</h6><h2><strong>For your annual donation, you will
       receive:</strong></h2><ul><li>Invitation to three BWAF Friends events per
