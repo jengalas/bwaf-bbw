@@ -51,6 +51,22 @@ page_blocks:
       link_url: ''
       link_text: ''
     text_block: ''
+  - template: portrait-gallery-block-small
+    portrait:
+      - title: Allyson Kritzer
+        title_role: >-
+          Project Engineer,   Langan Engineering and Environmental Services,
+          Inc.
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1681327567/Kritzer_Allyson.jpg
+      - title: Ann O'Connell
+        title_role: Senior Associate, Robert A.M. Stern Architects
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1681327795/O_Connell_Ann_Headshot_1.jpg
+      - title: Aryn Phillips
+        title_role: Design Associate, Alloy Development
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1681327856/Headshot_Aryn_Phillips_.jpg
   - template: featured-portrait-block
     header: ENERGY
     time-location:
@@ -127,22 +143,6 @@ page_blocks:
       link_url: ''
       link_text: ''
     subtitle: ''
-  - template: portrait-gallery-block-small
-    portrait:
-      - title: Allyson Kritzer
-        title_role: >-
-          Project Engineer,   Langan Engineering and Environmental Services,
-          Inc.
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1681327567/Kritzer_Allyson.jpg
-      - title: Ann O'Connell
-        title_role: Senior Associate, Robert A.M. Stern Architects
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1681327795/O_Connell_Ann_Headshot_1.jpg
-      - title: Aryn Phillips
-        title_role: Design Associate, Alloy Development
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1681327856/Headshot_Aryn_Phillips_.jpg
 _structures:
   page_blocks:
     id_key: template
