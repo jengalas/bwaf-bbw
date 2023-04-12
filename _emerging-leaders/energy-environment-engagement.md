@@ -139,9 +139,10 @@ page_blocks:
         title_role: Senior Associate, Robert A.M. Stern Architects
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1681327795/O_Connell_Ann_Headshot_1.jpg
-      - title:
-        title_role:
-        image:
+      - title: Aryn Phillips
+        title_role: Design Associate, Alloy Development
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1681327856/Headshot_Aryn_Phillips_.jpg
 _structures:
   page_blocks:
     id_key: template
