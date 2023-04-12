@@ -131,8 +131,8 @@ page_blocks:
     portrait:
       - title: Allyson Kritzer
         title_role: >-
-          Project Engineer,   Langan Engineering, Environmental, Surveying,
-          Landscape Architecture and Geology, DPC
+          Project Engineer,   Langan Engineering and Environmental Services,
+          Inc.
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1681327567/Kritzer_Allyson.jpg
       - title: Ann O'Connell
