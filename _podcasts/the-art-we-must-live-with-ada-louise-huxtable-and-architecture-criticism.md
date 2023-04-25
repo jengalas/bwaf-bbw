@@ -1,6 +1,6 @@
 ---
 thumbnail_image: >-
-  https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1647368159/Helen_Liu_Fong_Hirshowitz_2000_yunom2.jpg
+  https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1643242724/new-angle-voice-logo-360x360_cns3vf.jpg
 navCategory: Resources
 layout: full-podcast-page
 title: 'The Art We Must Live With: Ada Louise Huxtable and Architecture Criticism'
