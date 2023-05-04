@@ -105,8 +105,8 @@ page_blocks:
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683223853/mahsa.jpg
       - title: Melanie Wong
         title_role: >-
-          Senior Staff Engineer,  Langan Engineering and Environmental Services
-          , Inc.
+          Senior Staff Engineer,  Langan Engineering and Environmental Services,
+          Inc.
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683224454/Melanie_Wong_Headshot_-_FINAL_1.jpg
       - title: Molly Lawenda
