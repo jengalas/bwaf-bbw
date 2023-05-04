@@ -85,6 +85,11 @@ page_blocks:
         title_role: Project Interior Designer Associate, Cooper Carry
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683222124/erika-luker-web.jpg
+      - title: Kelsey Donoghue
+        title_role: >-
+          Senior Staff Engineer, Langan Engineering, Environmental, Surveying,
+          Landscape Architecture and Geology, DPC
+        image: ''
   - template: featured-portrait-block
     header: ENERGY
     time-location:
