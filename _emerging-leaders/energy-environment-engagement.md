@@ -73,6 +73,10 @@ page_blocks:
           Landscape Architecture and Geology, DPC
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1681328113/Sandve_Ashley.jpg
+      - title: Dani Nydick
+        title_role: Senior Project Interior Designer, Cooper Carry
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683221821/DANI_NYDICK_HEADSHOT.jpg
   - template: featured-portrait-block
     header: ENERGY
     time-location:
