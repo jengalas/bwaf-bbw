@@ -89,7 +89,20 @@ page_blocks:
         title_role: >-
           Senior Staff Engineer, Langan Engineering, Environmental, Surveying,
           Landscape Architecture and Geology, DPC
-        image: ''
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683222521/Donoghue_Kelsey.jpg
+      - title: Lauren Krohn
+        title_role: Senior Project Manager, Audiovisual, Jaros, Baum & Bolles
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683222718/HS_Krohn-L.jpg
+      - title: Leah Colmenares
+        title_role: Project Manager, Envoie Projects
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683222819/Headshot1_2.jpg
+      - title: Mahsa Karkhaneh
+        title_role: Project Manager, Alloy Development
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683223853/mahsa.jpg
   - template: featured-portrait-block
     header: ENERGY
     time-location:
