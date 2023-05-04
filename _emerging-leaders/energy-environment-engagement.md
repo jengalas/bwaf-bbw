@@ -81,6 +81,10 @@ page_blocks:
         title_role: Designer, Cooper Carry
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683221950/Headshot_Dyesha_Holmes.jpg
+      - title: Erika Luker
+        title_role: Project Interior Designer Associate, Cooper Carry
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683222124/erika-luker-web.jpg
   - template: featured-portrait-block
     header: ENERGY
     time-location:
