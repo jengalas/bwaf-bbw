@@ -77,6 +77,10 @@ page_blocks:
         title_role: Senior Project Interior Designer, Cooper Carry
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683221821/DANI_NYDICK_HEADSHOT.jpg
+      - title: Dyesha Holmes
+        title_role: Designer, Cooper Carry
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683221950/Headshot_Dyesha_Holmes.jpg
   - template: featured-portrait-block
     header: ENERGY
     time-location:
