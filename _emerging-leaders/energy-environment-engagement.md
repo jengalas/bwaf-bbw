@@ -113,9 +113,26 @@ page_blocks:
         title_role: Project Manager, Cooper Carry
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683224609/ML__headshot_1.jpg
-      - title: ''
-        title_role: ''
-        image: ''
+      - title: Paige Barnum
+        title_role: ' Architectural Designer, Mancini Duffy'
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683224772/paige_barnum.jpg
+      - title: Sarah Harkins
+        title_role: Project Architect, Studio B Architects + Interiors
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683224930/Sarah_headshot_1.jpg
+      - title: Soumya Rao
+        title_role: Project Architect, Dattner Architects
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683225023/SRAO_headshot.jpg
+      - title: Zhen Ren
+        title_role: Senior Project Engineer, Jaros, Baum & Bolles
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683225131/Headshot_Zhen_Ren.jpg
+      - title: Zoe Brown
+        title_role: Structural Engineer, Arup
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683225183/Zoe_Brown.jpg
   - template: featured-portrait-block
     header: ENERGY
     time-location:
