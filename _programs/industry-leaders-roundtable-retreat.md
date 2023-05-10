@@ -18,6 +18,12 @@ page_blocks:
       organizations, by providing them research, tools, and support to be change
       agents.  
     section_break: false
+  - template: buttons-block
+    button:
+      - button_text: Sign Up Here
+        button_link: https://bwaf.wufoo.com/forms/m43dbgb17m10ad/
+    section_break: false
+    include_left-hand_column_text_: false
   - template: image-block
     section_break: false
     include_left-hand_column_text_: false
@@ -28,12 +34,12 @@ page_blocks:
       link_url: ''
       link_text: ''
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683736855/ROUNDTABLE23_r3.pdf
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683737197/ROUNDTABLE23_r3_1_1024_1.jpg
     alt_text: ''
     image_caption_text: ''
   - template: image-block
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683736855/ROUNDTABLE23_r3.pdf
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683737209/ROUNDTABLE23_r3_1_1024_2.jpg
     section_break: false
     include_left-hand_column_text_: false
     lefthand_text:
@@ -54,7 +60,7 @@ page_blocks:
       link_url: ''
       link_text: ''
     text_block: >-
-      In its eleventh year, the Industry Leaders Roundtable brings together
+      In its twelfth year, the Industry Leaders Roundtable brings together
       thought leaders in organizational psychology, sociology, law, architecture
       and engineering to change culture by providing research, information and
       action-oriented programs to achieve greater representation of women in the
