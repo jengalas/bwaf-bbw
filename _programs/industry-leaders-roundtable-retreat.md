@@ -55,7 +55,7 @@ page_blocks:
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Medium Header
-      text: 'Flexibility: Chaos, Change, Opportunity'
+      text: Movement/ Momentum? Our Workplace Today
       download: ''
       link_url: ''
       link_text: ''
