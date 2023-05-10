@@ -34,12 +34,12 @@ page_blocks:
       link_url: ''
       link_text: ''
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683737197/ROUNDTABLE23_r3_1_1024_1.jpg
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683740792/RT1.jpg
     alt_text: ''
     image_caption_text: ''
   - template: image-block
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683737209/ROUNDTABLE23_r3_1_1024_2.jpg
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683740803/RT2.jpg
     section_break: false
     include_left-hand_column_text_: false
     lefthand_text:
