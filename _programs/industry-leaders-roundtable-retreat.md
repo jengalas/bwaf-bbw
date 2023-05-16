@@ -39,7 +39,7 @@ page_blocks:
     image_caption_text: ''
   - template: image-block
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683740803/RT2.jpg
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/Screen_Shot_2023-05-16_at_2.19.24_PM.png
     section_break: false
     include_left-hand_column_text_: false
     lefthand_text:
