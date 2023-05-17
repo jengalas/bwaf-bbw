@@ -18,6 +18,19 @@ page_blocks:
       organizations, by providing them research, tools, and support to be change
       agents.  
     section_break: false
+  - template: image-block
+    section_break: false
+    include_left-hand_column_text_: false
+    lefthand_text:
+      header_type: ''
+      text: ''
+      download: ''
+      link_url: ''
+      link_text: ''
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/psmjlogo2_black.png
+    alt_text: ''
+    image_caption_text: ''
   - template: buttons-block
     button:
       - button_text: Sign Up Here
