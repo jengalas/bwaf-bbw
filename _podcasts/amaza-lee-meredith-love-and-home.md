@@ -5,7 +5,7 @@ navCategory: Resources
 layout: full-podcast-page
 title: 'Amaza Lee Meredith: Love and Home'
 season: 1
-episode_number: 4
+episode_number: 8
 description: >-
   <p>I picked up a free glossy real estate magazine with an enticing photograph
   of summer leisure pursuits under the title <i>Sag Harbor: A Whale of a Good
