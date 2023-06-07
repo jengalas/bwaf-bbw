@@ -60,8 +60,9 @@ description: >-
   Graham Foundation.</p> 
 
 
-  <p>Take a look at the illustrated Amaza Lee Meredith profile on the Pioneering
-  Women of Architecture website.</p> 
+  <p>Take a look at the illustrated <a
+  href="https://pioneeringwomen.bwaf.org/amaza-lee-meredith/">Amaza Lee Meredith
+  profile</a> on the Pioneering Women of Architecture website.</p> 
 podcast_available: true
 libsyn_link: >-
   https://traffic.libsyn.com/bwafnewanglevoice/Amaza_Lee_Meredith_FINAL_20230531_RX.mp3
