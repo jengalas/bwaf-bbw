@@ -112,8 +112,8 @@ page_blocks:
       link_url: http://gala.bwaf.org/2021-sponsors/
     text_block: >-
       Thank you to all who attended and supported the Inaugural BEVY Leadership
-      Awards Celebration on October 6, 2021! For a list of sponsors and a
-      gallery of photos of the event, click the left side link.
+      Awards Celebration in 2022! For a list of sponsors and a gallery of photos
+      of the event, click the left side link.
 
 
       Beverly Willis Architecture Foundation brings attention to the work of
@@ -150,61 +150,26 @@ page_blocks:
       link_url: ''
       link_text: ''
     text_block: >-
-      **Organizational Excellence**  
-
-      Sara Kendall  
-
-      Vice President & General Manager
-
-      Turner Construction
+      **Organizational Excellence**<br>Fiona Cousins<br>Director, ARUP
 
 
-      **Innovative Executive**  
-
-      Miriam Harris  
-
-      Executive Vice President  
-
-      Trinity Place Holdings
+      **Innovative Executive**<br>Judy Kessler<br>Consultant, Vornado
 
 
-      **Mentorship**  
-
-      Kim Yao, AIA  
-
-      Principal
-
-      Architecture Research Office   
+      **Mentorship**<br>Brennan Gilbane Koch<br>Client Relations, Gilbane
 
 
-      **Academic Excellence**   
-
-      Sarah M. Whiting   
-
-      Dean   
-
-      Harvard GSD 
+      Elaine Molinar
 
 
-      **Media Engagement**   
-
-      Mabel O. Wilson   
-
-      Nancy and George Rupp Professor of Architecture, Planning and
-      Preservation; Professor in African American and African Diasporic Studies,
-      and the Director of the Institute for Research in African American
-      Studies    
-
-      Columbia University GSAPP
+      Managing Director, Partner, Snøhetta
 
 
-      **Emerging Leader**   
+      **Academic Excellence**<br>J. Meejin Yoon<br>Dean, Cornell University
+      College of Architecture, Art, and Planning
 
-      Michelle DeCarlo, PE, LEED AP BD+C   
 
-      Director, HVAC   
-
-      Jaros, Baum & Bolles
+      **Emerging Leader**<br>Adrienne Hepler<br>Owner & Founder, Envoie Projects
 date: 2021-05-05 13:32:44
 description: >-
   Beverly Willis Architecture Foundation brings attention to the work of
