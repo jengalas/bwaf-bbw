@@ -150,26 +150,23 @@ page_blocks:
       link_url: ''
       link_text: ''
     text_block: >-
-      **Organizational Excellence**<br>Fiona Cousins<br>Director, ARUP
+      **Organizational Excellence**<br>Fiona Cousins \| Director, ARUP
 
 
-      **Innovative Executive**<br>Judy Kessler<br>Consultant, Vornado
+      **Innovative Executive**<br>Judy Kessler \| Consultant, Vornado
 
 
-      **Mentorship**<br>Brennan Gilbane Koch<br>Client Relations, Gilbane
+      **Mentorship**<br>Brennan Gilbane Koch \| Client Relations, Gilbane
 
 
-      Elaine Molinar
+      Elaine Molinar \| Managing Director, Partner, Snøhetta
 
 
-      Managing Director, Partner, Snøhetta
-
-
-      **Academic Excellence**<br>J. Meejin Yoon<br>Dean, Cornell University
+      **Academic Excellence**<br>J. Meejin Yoon \| Dean, Cornell University
       College of Architecture, Art, and Planning
 
 
-      **Emerging Leader**<br>Adrienne Hepler<br>Owner & Founder, Envoie Projects
+      **Emerging Leader**<br>Adrienne Hepler \| Owner & Founder, Envoie Projects
 date: 2021-05-05 13:32:44
 description: >-
   Beverly Willis Architecture Foundation brings attention to the work of
