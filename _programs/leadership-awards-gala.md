@@ -145,7 +145,7 @@ page_blocks:
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Medium Header
-      text: 2021 Honorees
+      text: 2022 Honorees
       download: ''
       link_url: ''
       link_text: ''
