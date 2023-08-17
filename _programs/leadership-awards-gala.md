@@ -41,7 +41,8 @@ page_blocks:
       link_text: ''
     text_block: >-
       Join us for our annual BEVY Leadership Awards! For sponsorship
-      information, please contact info@bwaf.org.
+      information, and to see this year's honorees, visit the website at the
+      link above or contact info@bwaf.org.&nbsp;
   - template: slideshow-block
     include_left-hand_column_text_: true
     lefthand_text:
