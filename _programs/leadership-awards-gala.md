@@ -105,11 +105,10 @@ page_blocks:
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Link
-      text: 2021 BEVY Sponsors and Event Photos
-      link_text: Download the 2021 sponsorship form
-      download: >-
-        https://www.dropbox.com/s/04kjv5m7xwrl3dg/BWAF%20Bevy%202021_Sponsorship%20Form.pdf?dl=0
-      link_url: http://gala.bwaf.org/2021-sponsors/
+      text:
+      link_text:
+      download:
+      link_url:
     text_block: >-
       Thank you to all who attended and supported the Inaugural BEVY Leadership
       Awards Celebration in 2022! For a list of sponsors and a gallery of photos
