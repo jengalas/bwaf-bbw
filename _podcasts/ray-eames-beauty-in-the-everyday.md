@@ -1,11 +1,17 @@
 ---
-thumbnail_image: https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1643242724/new-angle-voice-logo-360x360_cns3vf.jpg
+thumbnail_image: >-
+  https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1643242724/new-angle-voice-logo-360x360_cns3vf.jpg
 navCategory: Resources
 layout: full-podcast-page
 title: 'Ray Eames: Beauty in the Everyday'
 season: 2
 episode_number: 6
 description: >-
+  <p><b>View the illustrated <a
+  href="https://pioneeringwomen.bwaf.org/ray-kaiser-eames" style="color:
+  red;">Ray Eames profile</a> on the Pioneering Women of Architecture
+  website.</b></p>
+
   <p>New Angle: Voice is back! We kick off Season Two with Ray Kaiser Eames.
   Many know Ray Eames as the small, dirndled woman behind her more famous
   husband. In this episode, we uncover the talented artist who saw the world
