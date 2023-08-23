@@ -6,7 +6,12 @@ layout: full-podcast-page
 title: 'Amaza Lee Meredith: Love and Home'
 season: 2
 episode_number: 8
-description: >-
+description: >
+  <blockquote>View the illustrated <a
+  href="https://pioneeringwomen.bwaf.org/amaza-lee-meredith/">Amaza Lee Meredith
+  profile</a> on the Pioneering Women of Architecture website.</blockquote> 
+
+
   <p>I picked up a free glossy real estate magazine with an enticing photograph
   of summer leisure pursuits under the title <i>Sag Harbor: A Whale of a Good
   Time</i>. We traveled out there in early spring, collecting voices of
@@ -58,11 +63,6 @@ description: >-
   <p>Generous funding for this season has been provided by the National
   Endowment for the Humanities, the National Endowment for the Arts and the
   Graham Foundation.</p> 
-
-
-  <p>Take a look at the illustrated <a
-  href="https://pioneeringwomen.bwaf.org/amaza-lee-meredith/">Amaza Lee Meredith
-  profile</a> on the Pioneering Women of Architecture website.</p> 
 podcast_available: true
 libsyn_link: >-
   https://traffic.libsyn.com/bwafnewanglevoice/Amaza_Lee_Meredith_FINAL_20230531_RX.mp3
