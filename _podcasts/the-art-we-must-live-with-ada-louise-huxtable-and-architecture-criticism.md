@@ -7,6 +7,11 @@ title: 'The Art We Must Live With: Ada Louise Huxtable and Architecture Criticis
 season: 2
 episode_number: 7
 description: >-
+  <p><b>View the illustrated <a
+  href="https://pioneeringwomen.bwaf.org/ada-louise-huxtable" style="color:
+  red;">Ada Louise Huxtable profile</a> on the Pioneering Women of Architecture
+  website.</b></p>
+
   <p>Anyone who writes about American architecture of the mid twentieth
 
   and early 21 st century measures their critical achievement with the
