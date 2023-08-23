@@ -7,9 +7,9 @@ title: 'Amaza Lee Meredith: Love and Home'
 season: 2
 episode_number: 8
 description: >
-  <blockquote>View the illustrated <a
+  <p>View the illustrated <a
   href="https://pioneeringwomen.bwaf.org/amaza-lee-meredith/">Amaza Lee Meredith
-  profile</a> on the Pioneering Women of Architecture website.</blockquote> 
+  profile</a> on the Pioneering Women of Architecture website.</p> 
 
 
   <p>I picked up a free glossy real estate magazine with an enticing photograph
