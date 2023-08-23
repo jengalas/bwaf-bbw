@@ -7,6 +7,11 @@ title: 'Anna Wagner Keichline: The Legacy of Invention'
 season: 2
 episode_number: 9
 description: >-
+  <p><b>View the illustrated <a
+  href="https://pioneeringwomen.bwaf.org/anna-wagner-keichline" style="color:
+  red;">Anna Wagner Keichline profile</a> on the Pioneering Women of
+  Architecture website.</b></p>
+
   <p>1913 was the year of the grand march for suffrage in Washington DC, the
   250,000 marchers and attendees eclipsed the coverage the following day of the
   inauguration of Woodrow Wilson.  Bellefonte, Pennsylvania, population 4216,
