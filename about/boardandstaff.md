@@ -93,7 +93,7 @@ page_blocks:
       - title: Kirsten Sibilia, Assoc. AIA, LEED AP
         title_role: Secretary
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618329835/191218-Sibilia_Kirsten-7042_2019-12-20_12_54_18_qp8tam.jpg
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1695414915/2022DiversityPics_1_2.jpg
         description: "Kirsten Sibilia is a vocal advocate for the value of design. As managing partner, she is focused on the firm’s health and vitality. Her design training and entrepreneurial spirit have allowed her to approach the business side of the practice as a design project; with each initiative, she reflects the firm’s commitment to improving public life, through the creation of resilient and sustainable urban density.\nKirsten joined BWAF in 2017, \_is on the board of Habitat for Humanity of New York City & Westchester and the New York Building Foundation and served on the Architectural Review Board for over a decade while a resident of Hastings-on-Hudson. She recently moved back to Brooklyn.\nShe earned her Bachelor of Fine Arts from the New School’s Parson School of Design as well as a Bachelor of Arts from The New School’s Lang College."
       - title: Patricia Harris, Esq., LEED AP
         title_role: Treasurer
