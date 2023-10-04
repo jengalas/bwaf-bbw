@@ -1821,6 +1821,7 @@ figcaption, .smallest{
         background-size: cover;
         height: calc(100vh - 177px);
         height: 80vh;
+        max-height: -webkit-fill-available;
         justify-content: center; 
         align-items: end;
         span {
