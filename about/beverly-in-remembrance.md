@@ -20,10 +20,10 @@ page_blocks:
   label: In Remembrance Gallery
   include_left-hand_column_text_: true
   lefthand_text:
-    header_type: Medium Header
-    text: 
+    header_type: Link
+    text: Read Beverly's obituary
     download: ''
-    link_url: ''
+    link_url: https://www.nytimes.com/2023/10/02/arts/beverly-willis-dead.html
     link_text: ''
   portrait:
     - title: 
