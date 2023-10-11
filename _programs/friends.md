@@ -29,7 +29,7 @@ page_blocks:
     section_break: false
   - template: portrait-gallery-block-small
     label: Friends Image/Logo Gallery
-    header: 2022 Corporate Friends
+    header: 2022-2023 Corporate Friends
     portrait:
       - title: ''
         title_role: ''
