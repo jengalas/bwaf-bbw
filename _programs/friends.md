@@ -13,19 +13,7 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-    text_block: >-
-      <p>Beverly Willis Architecture Friends program offers individual and
-      corporate membership to three events yearly involving high profile
-      professionals in architecture and design, engineering, construction, and
-      architectural journalism. The Friends program offers unique networking
-      opportunities and brings together small groups of peers for topical
-      conversations, architecture tours and social events, focused around women
-      in architecture and design. Your annual support directly enables Beverly
-      Willis Architecture Foundation, a nonprofit 501(c)(3) organization, in
-      leading a cultural revolution in the building industry that acknowledges,
-      cultivates and values women’s contributions and achievements- past,
-      present and future. We cultivate leaders at all levels and seek to build
-      global change. Support our efforts and become a BWAF Friend today.</p>
+    text_block: "<p>Beverly Willis Architecture Friends program offers individual and corporate membership to three events yearly involving high profile professionals in architecture and design, engineering, construction, and architectural journalism. The Friends program offers unique networking opportunities and brings together small groups of peers for topical conversations, architecture tours and social events, focused around women in architecture and design. Your annual support directly enables Beverly Willis Architecture Foundation, a nonprofit 501(c)(3) organization, in leading a cultural revolution in the building industry that acknowledges, cultivates and values women’s contributions and achievements- past, present and future. We cultivate leaders at all levels and seek to build global change. Support our efforts and become a BWAF Friend today.</p><p>\_</p><p>Learn about our upcoming Friends Event on October 24th <a target=\"_blank\" rel=\"noopener\" href=\"https://mailchi.mp/bwaf/bwaf-friends-event\">here.</a></p>"
     section_break: false
   - template: portrait-gallery-block-small
     label: Friends Image/Logo Gallery
@@ -135,6 +123,12 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
+  - template: buttons-block
+    button:
+      - button_text:
+        button_link:
+    section_break: false
+    include_left-hand_column_text_: false
 date: 2021-05-05 13:33:04
 description: >-
   The Friends program offers unique networking opportunities and brings together
