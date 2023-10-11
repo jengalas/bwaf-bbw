@@ -96,9 +96,11 @@ page_blocks:
       link_text: ''
   - template: text-block
     text_block: >-
-      <p>Our last friends event was held in Los Angeles, October 2022. This
-      event featured a private tour of "The Grand" by Frank Gehry. The next
-      Friends event will be in New York City this spring- stay tuned!</p>
+      <p>Our last friends event was held in April touring Eagle + West,
+      developed by Brookfield Properties and located in Greenpoint Landing's
+      waterfront. Friends went on a behind the scenes tour of OMA's iconic
+      buildings, lead by lead architect Jason Long. The tour was joined by the
+      amenities interior designers from Marmol Radziner.&nbsp;</p>
     section_break: false
     include_left-hand_column_text_: false
     lefthand_text:
