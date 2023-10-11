@@ -71,6 +71,11 @@ page_blocks:
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1657646119/LanganBlackCMYK-print_bpdp92.png
         description: ''
+      - title: ''
+        title_role: ''
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1697049447/Untitled-1.jpg
+        description: ''
     section_break: true
     include_left-hand_column_text_: false
     lefthand_text:
