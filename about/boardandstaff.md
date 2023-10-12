@@ -16,6 +16,21 @@ page_blocks:
     text_block: ''
     section_break: false
   - template: portrait-gallery-template
+    label: Founder
+    include_left-hand_column_text_: true
+    lefthand_text:
+      header_type: Medium Header
+      text: Founder
+      download: ''
+      link_url: ''
+      link_text: ''
+    portrait:
+      - title: Beverly Willis, FAIA (1928 - 2023)
+        title_role: Founder
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618329223/bev_1_zgox9n.jpg
+        description:    
+  - template: portrait-gallery-template
     label: Board of Trustees
     include_left-hand_column_text_: true
     lefthand_text:
@@ -25,17 +40,6 @@ page_blocks:
       link_url: ''
       link_text: ''
     portrait:
-      - title: Beverly Willis, FAIA
-        title_role: Founder
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618329223/bev_1_zgox9n.jpg
-        description: >-
-          Beverly Willis, FAIA, is an artist, architect, author and
-          philanthropist. After 50 years of practice, she founded the Beverly
-          Willis Architecture Foundation in 2002. She served as President of the
-          California Council of American Institute of Architects. Beverly was a
-          founding trustee of the National Building Museum in Washington, D.C.,
-          a position she still holds.
       - title: Michele O’Connor, PE, LEED AP
         title_role: Chair
         image: >-
@@ -468,7 +472,7 @@ page_blocks:
           been supported by the Graham Foundation, the Modernist Studies
           Association, and the National Endowment for the Arts. She is the
           author of Machines for Living: Modernism and Domestic Life (Oxford UP,
-          2020) and Modernism and the Architecture of Private Life (Columbia UP,
+          1)    and Modernism and the Architecture of Private Life (Columbia UP,
           2005), as well as editor of The Cambridge Companion to the Bloomsbury
           Group (Cambridge UP, 2014) and The Global and the Intimate: Feminist
           Theory in Our Time (Columbia UP, 2012). Her public-facing scholarship
