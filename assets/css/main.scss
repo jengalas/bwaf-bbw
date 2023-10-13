@@ -1843,3 +1843,15 @@ figcaption, .smallest{
         }
     }
 }
+
+.tributes-block{
+    display:flex;
+    flex-wrap:wrap;
+    > div{
+        width:calc(33.333% - var(--gutter)*2/3);
+        margin-right:var(--gutter);
+    }
+    > div:nth-child(3n+3){
+        margin-right:0px;
+    }
+}
