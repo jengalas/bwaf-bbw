@@ -8,6 +8,11 @@ description: ''
 page_blocks:
   - template: text-block
     text_block: >-
+      Our next Emerging Leaders program will be in person on December 5th,
+      January 9th, and February 20th, covering Detours, Diligence, and Dreams.
+      More information on enrollment will be available soon. 
+
+
       Since 2017 the Beverly Willis Architecture Foundation Emerging Leaders
       program has offered an innovative professional development opportunity for
       select women 5-10 years out of school. In small group format (maximum of
