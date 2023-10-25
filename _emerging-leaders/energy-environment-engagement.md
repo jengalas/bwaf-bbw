@@ -22,9 +22,8 @@ page_blocks:
       strategies for success.
 
 
-      Sessions will be held March 30, April 25, and May 16 from 6:30-8:00 PM.
-      Total program cost is $500. Visit www.bwaf.org to learn more, or contact
-      info@bwaf.org.
+      Sessions will be held from 6:30-8:00 PM in person. Total program cost is
+      $500. Visit www.bwaf.org to learn more, or contact info@bwaf.org.
     section_break: false
     include_left-hand_column_text_: true
     lefthand_text:
