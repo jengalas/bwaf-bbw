@@ -116,6 +116,12 @@ page_blocks:
       link_url: ''
       link_text: '' 
   - template: miscellaneous-block
+    label: Text
+    miscellaneous: >-
+      <iframe src="https://drive.google.com/file/d/1B8YOQXPVWC584o2PbsNT0C0R4GdKR9I-/preview" width="800" height="510" style="max-width: 100%;" allow="autoplay"></iframe>
+    section_break: false
+    include_left-hand_column_text_: false       
+  - template: miscellaneous-block
     label: Tributes and Mentions
     include_left-hand_column_text_: true
     lefthand_text: 
