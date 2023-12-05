@@ -138,6 +138,31 @@ page_blocks:
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683225183/Zoe_Brown.jpg
   - template: featured-portrait-block
+    header: DREAMS
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701736611/500x500_KristinaNewmanScott.png
+    label: Speaker
+    title: Kristina Newman-Scott
+    description: >-
+      Emmanuelle Slossberg has worked in branding and marketing, and presents
+      engagement as a business development strategy. From experiences as diverse
+      as the Consortium for Sustainable Urbanization or other, to the Durst
+      Organization, Cetra-Ruddy, and ULI, Emmanuelle offers the group both the
+      professional perspective, as well as deep insights into the development
+      world.
+    time-location:
+      line-1: Tuesday, December 5, 2023, 6:30-8PM
+      line-2: ''
+    section_break: false
+    include_left-hand_column_text_: false
+    lefthand_text:
+      header_type: ''
+      text: ''
+      download: ''
+      link_url: ''
+      link_text: ''
+    subtitle: ''
+  - template: featured-portrait-block
     header: DETOURS
     time-location:
       line-1: Tuesday, January 9, 2024, 6:30-8PM
@@ -156,14 +181,20 @@ page_blocks:
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701736016/Allison_Robin.jpg
     subtitle: Owner & Co-Founder, Envoie Projects LLC
     description: >-
-      Allison thrives on leading collaborative teams and organizing systems.  She has led the development of the firm’s standards of practice and brings detail-driven and systems-focused leadership to every project. Prior to co-founding Envoie Projects, Allison spent 11 years at Levien and Company, where she rose to the position of Chief Financial Officer and oversaw the firm’s financial management.  During those years, she successfully completed a wide range of project types – from ground up construction to historic preservation – and developed a passion for negotiating contracts and claims and resolving disputes.
-
-      Before joining Levien, Allison worked as a project manager for Richter + Ratner Contracting where she developed a strong technical background while managing interior renovations and base building construction projects, including the 45,000 sf Center for Global Conservation at the Bronx Zoo.
-        
-      Allison has served as President of Commercial Real Estate Women (CREW) New York, and is an adjunct professor at NYU's Schack Institute of Real Estate, a member of the Owner’s Representative Project Manager Alliance and Professional Women in Construction New York.  Allison was also a Beverly Willis Foundation Emerging Leader. She is a LEED Accredited Professional, and received her Master’s Degree in Construction Management from the Schack Institute of Real Estate at New York University, and her Bachelor of Science from Cornell University.
-
+      ARUP Canada's Principal engineer, Melissa Burton, took a childhood
+      experience of natural disaster and transformed it into a data driven and
+      award winning global technical career in wind engineering and climate
+      modelling. In addition, she has the ENERGY for three children, an artist
+      wife, and a side hustle in music, having lived in Hong Kong, South Korea,
+      London, New York and now Toronto. Melissa's perspectives provide
+      inspiration to re-charge both architects and engineers.
   - template: featured-portrait-block
-    header: ENVIRONMENT
+    header: DETOURS
+    time-location:
+      line-1: Tuesday, January 9, 2024, 6:30-8PM
+      line-2: ''
+    label: Speaker
+    title: Adrienne Hepler
     section_break: false
     include_left-hand_column_text_: false
     lefthand_text:
@@ -173,10 +204,31 @@ page_blocks:
       link_url: ''
       link_text: ''
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1678234847/LNSimonheadshot_labdtm.jpg
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701736421/Adrienne_Hepler.jpg
+    subtitle: Owner & Co-Founder, Envoie Projects LLC
+    description: >-
+      ARUP Canada's Principal engineer, Melissa Burton, took a childhood
+      experience of natural disaster and transformed it into a data driven and
+      award winning global technical career in wind engineering and climate
+      modelling. In addition, she has the ENERGY for three children, an artist
+      wife, and a side hustle in music, having lived in Hong Kong, South Korea,
+      London, New York and now Toronto. Melissa's perspectives provide
+      inspiration to re-charge both architects and engineers.
+  - template: featured-portrait-block
+    header: DILIGENCE
+    section_break: false
+    include_left-hand_column_text_: false
+    lefthand_text:
+      header_type: ''
+      text: ''
+      download: ''
+      link_url: ''
+      link_text: ''
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701736558/Raygorodetsky-248x293.jpg
     label: Speaker
-    title: Lynn Simon
-    subtitle: VP of Sustainability and Global ESG
+    title: Mimi Raygorodetsky
+    subtitle: Principal, Langan
     description: >-
       Workshop your sustainability profile with Lynn Simon, VP of Sustainability
       and Global ESG. Whether your professional environment supports your whole
@@ -185,33 +237,8 @@ page_blocks:
       a post-pandemic reset. Advance reading from "All We Can Save" will inform
       the session.
     time-location:
-      line-1: Tuesday, April 25, 2023, 6:30-8PM
+      line-1: Tuesday, February 20, 6:30-8PM
       line-2: ''
-  - template: featured-portrait-block
-    header: ENGAGEMENT
-    image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1678235026/Emmanuelle-Slossberg_Small_so5sxj.jpg
-    label: Speaker
-    title: Emmanuelle Slossberg
-    description: >-
-      Emmanuelle Slossberg has worked in branding and marketing, and presents
-      engagement as a business development strategy. From experiences as diverse
-      as the Consortium for Sustainable Urbanization or other, to the Durst
-      Organization, Cetra-Ruddy, and ULI, Emmanuelle offers the group both the
-      professional perspective, as well as deep insights into the development
-      world.
-    time-location:
-      line-1: Thursday, March 30, 2023, 6:30-8PM
-      line-2: ''
-    section_break: false
-    include_left-hand_column_text_: false
-    lefthand_text:
-      header_type: ''
-      text: ''
-      download: ''
-      link_url: ''
-      link_text: ''
-    subtitle: ''
 _structures:
   page_blocks:
     id_key: template
