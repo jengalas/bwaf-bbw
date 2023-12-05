@@ -116,7 +116,17 @@ page_blocks:
     label: Speaker
     title: Kristina Newman-Scott
     description: >-
-      Kristina Newman-Scott
+      Kristina Newman-Scott is an award-winning, purpose-driven executive with over 20 years of experience in arts and culture, the creative economy, community development and entertainment and media. She most recently served as President of BRIC, a leading arts and media institution anchored in Downtown Brooklyn whose work spans contemporary visual and performing arts, media, and civic action. She was the first immigrant and first woman of color to serve as BRIC’s President and one of the very few women of color to lead a major New York cultural institution.
+
+      Under her tenure, BRIC embarked on an ambitious, human-centered process in pursuit of clarity of purpose in the form of a new four-year Strategic Plan. That process led to a re-articulated mission informed by the institution’s impact and legacy, and a new vision statement guided by aspirational goals, centered on artists and the communities served by BRIC. Additionally, she led a renewed commitment to equity, diversity, and inclusivity in every aspect of the organization.
+
+      Newman-Scott’s awards and recognitions include being named one of the City and State New York’s, 2021 Telecommunications Power 50 (individuals shaping New York’s digital future), an Observer’s NYC 2020 Arts Power 50, a National Arts Strategies Creative Community Fellow, A Hive Global Leadership Selectee, and a Next City Urban Vanguard. In June 2018, Americans for the Arts presented Kristina with the Selina Roberts Ottum Award, which recognizes an individual working in arts management who exemplifies extraordinary leadership qualities.
+
+      Previously, Newman-Scott served as the Director of Culture and State Historic Preservation Officer for the State of Connecticut; Director of Marketing, Events and Cultural Affairs for the City of Hartford; Director of Programs at the Boston Center for the Arts; and Director of Visual Arts at Hartford’s Real Art Ways.
+      
+      Kristina was appointed to the NYC Department of Cultural Affairs Advisory Commission in 2020 and currently serves on the Boards of National Arts Strategies, New Yorkers for Culture and Arts, the Brooklyn Arts Council and the NYC Arts and Education Roundtable.
+
+      Kristina was born and raised in Kingston, Jamaica and worked as a practicing artist and TV/radio host in her home country before moving to the US in 2005. She currently lives in Brooklyn with her husband and two children.
     time-location:
       line-1: Tuesday, December 5, 2023, 6:30-8PM
       line-2: ''
