@@ -168,7 +168,12 @@ page_blocks:
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701736421/Adrienne_Hepler.jpg
     subtitle: Owner & Co-Founder, Envoie Projects LLC
     description: >-
-      Adrienne Hepler
+      Adrienne excels at strategic oversight and planning for complex capital projects, with a particular passion for and expertise in projects for cultural, mission-driven and not-for-profit clients. She builds and directs large teams and is adept at navigating capital projects of all types and sizes through regulatory review and approvals processes to completion on time and on budget.
+
+      Prior to co-founding Envoie Projects, Adrienne was the Chief Operating Officer for Levien and Company, where she managed staff assignments and client relations, improved operating systems, and directed firm strategy. Before joining Levien, Adrienne worked on the owner’s side, where she served as Director of Capital Projects and Government Relations for The Public Theater in New York City, managing a $42 million renovation to a landmark building, which remained operational during four years of construction. During her tenure at the Lower Manhattan Development Corporation, where she oversaw the implementation of over $200M in Post-9/11 federal grants, she was able to help small nonprofits receive and utilize grant money to make the most impact to their organizations. 
+
+      Adrienne is a member of both WX New York Women Executives in Real Estate and the Owner’s Representative Project Manager Alliance, serves on the Ambassador Council for Nontraditional Employment for Women (NEW), and was a Beverly Willis Foundation Emerging Leader. She received a Master’s Degree from the Robert F. Wagner Graduate School of Public Affairs at New York University, and her Bachelor of Arts from Tulane University. 
+
   - template: featured-portrait-block
     header: DILIGENCE
     section_break: false
@@ -188,7 +193,7 @@ page_blocks:
       Mimi Raygorodetsky is an environmental practice leader in Langan’s New York City and Denver offices with more than 21 years of experience in environmental consulting and brownfields remediation. She sources and directs large, complex environmental remediation and redevelopment projects from the earliest stages of pre-development diligence, through the remediation/construction phase, to long-term operation and monitoring of remedial systems and engineering controls. She has a comprehensive understanding of federal, state, and local regulatory programs and uses this expertise to guide her clients through a preliminary cost benefit analysis to select the right program(s) given the clients’ legal obligations, development desires, and risk tolerance. She is particularly strong at integrating the requirements of selected programs and client needs to develop and design targeted and streamlined diligence programs and remediation strategies.
 
       Raygorodetsky is a founding member and current chair of Women@Langan and is also a founding member of Langan’s Diversity & Inclusion Committee. She is also a member of numerous professional organizations including New York Women Executives in Real Estate (WX), the New York City Brownfield Partnership, and the NY Building Congress Council of Industry Women. She also guest lectures at Columbia University on the topic of brownfields redevelopment in New York City.
-      
+
       In 2017, she was awarded the CREW NY Career Advancement for Women Impact Award.
 
     time-location:
