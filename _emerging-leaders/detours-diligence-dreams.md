@@ -50,7 +50,7 @@ page_blocks:
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Medium Header
-      text: Energy, Environment, Engagement
+      text: Detours, Diligence, Dreams
       download: ''
       link_url: ''
       link_text: ''
@@ -138,12 +138,12 @@ page_blocks:
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683225183/Zoe_Brown.jpg
   - template: featured-portrait-block
-    header: ENERGY
+    header: DETOURS
     time-location:
-      line-1: Tuesday, May 16, 2023, 6:30-8PM
+      line-1: Tuesday, January 9, 2024
       line-2: ''
     label: Speaker
-    title: Melissa Burton
+    title: Allison Robin, LEED AP
     section_break: false
     include_left-hand_column_text_: false
     lefthand_text:
@@ -153,8 +153,8 @@ page_blocks:
       link_url: ''
       link_text: ''
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1678234361/2017_Burton_Melissa_01_980x780_kbtmcc.jpg
-    subtitle: ARUP Canada's Principal Engineer
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701736016/Allison_Robin.jpg
+    subtitle: Owner & Co-Founder, Envoie Projects LLC
     description: >-
       ARUP Canada's Principal engineer, Melissa Burton, took a childhood
       experience of natural disaster and transformed it into a data driven and
