@@ -57,86 +57,71 @@ page_blocks:
     text_block: ''
   - template: portrait-gallery-block-small
     portrait:
-      - title: Allyson Kritzer
+      - title: Anna Kuchera
+        title_role: Associate, RAMSA
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701736911/Anna.Kuchera_Headshot.jpg
+      - title: Danielle Rose Aspitz
+        title_role: Architectural Designer, KPF
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701736959/DSC_3491.jpg
+      - title: Jade Ferrara
+        title_role: Senior Staff Engineer, Langan
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701737059/Ferrara_Jade.jpg
+      - title: Jennifer Li
+        title_role: Design Associate, Associate AIA, Alloy
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701737095/Jennifer_Li_headshot.jpg
+      - title: Josephine Stoddard
+        title_role: Senior Facade Engineer, Thornton Tomasetti
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701737137/Stoddard_J.jpg
+      - title: Katherine O‘Shea
         title_role: >-
-          Project Engineer,   Langan Engineering, Environmental, Surveying,
-          Landscape Architecture and Geology, DPC
+          Senior Project Engineer, Plumbing & Fire Protection, Jaros, Baum &
+          Bolles
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1681327567/Kritzer_Allyson.jpg
-      - title: Ann O'Connell
-        title_role: Senior Associate, Robert A.M. Stern Architects
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701737296/HS_O_Shea-K.jpg
+      - title: Laura Sciarrino
+        title_role: Senior Architect, SOM
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1681327795/O_Connell_Ann_Headshot_1.jpg
-      - title: Aryn Phillips
-        title_role: Design Associate, Alloy Development
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701737358/Laura-Sciarrino_2022_18923_large.jpg
+      - title: Maedeh Tavakoli
+        title_role: Senior Staff Engineer, Langan Engineering
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1681327856/Headshot_Aryn_Phillips_.jpg
-      - title: Ashley Sandve
-        title_role: >-
-          Project Engineer, Langan Engineering, Environmental, Surveying,
-          Landscape Architecture and Geology, DPC
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701737394/Tavakoli_Maedeh.jpg
+      - title: Maria Kefalas
+        title_role: Associate Attorney, Zetlin & De Chiara, LLP
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1681328113/Sandve_Ashley.jpg
-      - title: Dani Nydick
-        title_role: Senior Project Interior Designer, Cooper Carry
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701737425/Maria-Kefalas.png
+      - title: Megan Friedman
+        title_role: Architect, Grimshaw Architects
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683221821/DANI_NYDICK_HEADSHOT.jpg
-      - title: Dyesha Holmes
-        title_role: Designer, Cooper Carry
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701737460/MeganFriedman_Headshot.jpg
+      - title: Miryam Varona Rogel
+        title_role: BIM Manager, Gilsanz Murray Steficek LLP
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683221950/Headshot_Dyesha_Holmes.jpg
-      - title: Erika Luker
-        title_role: Project Interior Designer Associate, Cooper Carry
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701737504/Varona_1.jpg
+      - title: Morgan Miller
+        title_role: Associate, Severud Associates
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683222124/erika-luker-web.jpg
-      - title: Kelsey Donoghue
-        title_role: >-
-          Senior Staff Engineer, Langan Engineering, Environmental, Surveying,
-          Landscape Architecture and Geology, DPC
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701737545/Severud_Associates_-_Personnel_Photo_-_Miller_Morgan.jpg
+      - title: Stephania Ponce
+        title_role: Economic Inclusion Manager, Gilbane Building Company
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683222521/Donoghue_Kelsey.jpg
-      - title: Lauren Krohn
-        title_role: Senior Project Manager, Audiovisual, Jaros, Baum & Bolles
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701737585/Stephania_Ponce.jpg
+      - title: Yafei Zhang
+        title_role: Associate Principal/ Adjunct Professor, KPF/ Kean University
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683222718/HS_Krohn-L.jpg
-      - title: Leah Colmenares
-        title_role: Project Manager, Envoie Projects
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701737637/yafei_headshot.jpg
+      - title: Zheng Wu
+        title_role: Senior Associate Principal, KPF
+        image: ''
+      - title: Zhurong Qian
+        title_role: Architect, KPF
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683222819/Headshot1_2.jpg
-      - title: Mahsa Karkhaneh
-        title_role: Project Manager, Alloy Development
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683223853/mahsa.jpg
-      - title: Melanie Wong
-        title_role: >-
-          Senior Staff Engineer,  Langan Engineering and Environmental Services,
-          Inc.
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683224454/Melanie_Wong_Headshot_-_FINAL_1.jpg
-      - title: Molly Lawenda
-        title_role: Project Manager, Cooper Carry
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683224609/ML__headshot_1.jpg
-      - title: Paige Barnum
-        title_role: ' Architectural Designer, Mancini Duffy'
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683224772/paige_barnum.jpg
-      - title: Sarah Harkins
-        title_role: Project Architect, Studio B Architects + Interiors
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683224930/Sarah_headshot_1.jpg
-      - title: Soumya Rao
-        title_role: Project Architect, Dattner Architects
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683225023/SRAO_headshot.jpg
-      - title: Zhen Ren
-        title_role: Senior Project Engineer, Jaros, Baum & Bolles
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683225131/Headshot_Zhen_Ren.jpg
-      - title: Zoe Brown
-        title_role: Structural Engineer, Arup
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683225183/Zoe_Brown.jpg
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701737709/Image.jpg
   - template: featured-portrait-block
     header: DREAMS
     image: >-
@@ -161,7 +146,7 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-    subtitle: ''
+    subtitle: Executive Director, The Greene Space
   - template: featured-portrait-block
     header: DETOURS
     time-location:
