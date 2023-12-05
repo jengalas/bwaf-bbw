@@ -116,12 +116,7 @@ page_blocks:
     label: Speaker
     title: Kristina Newman-Scott
     description: >-
-      Emmanuelle Slossberg has worked in branding and marketing, and presents
-      engagement as a business development strategy. From experiences as diverse
-      as the Consortium for Sustainable Urbanization or other, to the Durst
-      Organization, Cetra-Ruddy, and ULI, Emmanuelle offers the group both the
-      professional perspective, as well as deep insights into the development
-      world.
+      Kristina Newman-Scott
     time-location:
       line-1: Tuesday, December 5, 2023, 6:30-8PM
       line-2: ''
@@ -153,13 +148,7 @@ page_blocks:
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701736016/Allison_Robin.jpg
     subtitle: Owner & Co-Founder, Envoie Projects LLC
     description: >-
-      ARUP Canada's Principal engineer, Melissa Burton, took a childhood
-      experience of natural disaster and transformed it into a data driven and
-      award winning global technical career in wind engineering and climate
-      modelling. In addition, she has the ENERGY for three children, an artist
-      wife, and a side hustle in music, having lived in Hong Kong, South Korea,
-      London, New York and now Toronto. Melissa's perspectives provide
-      inspiration to re-charge both architects and engineers.
+      Allison Robin
   - template: featured-portrait-block
     header: DETOURS
     time-location:
@@ -179,13 +168,7 @@ page_blocks:
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701736421/Adrienne_Hepler.jpg
     subtitle: Owner & Co-Founder, Envoie Projects LLC
     description: >-
-      ARUP Canada's Principal engineer, Melissa Burton, took a childhood
-      experience of natural disaster and transformed it into a data driven and
-      award winning global technical career in wind engineering and climate
-      modelling. In addition, she has the ENERGY for three children, an artist
-      wife, and a side hustle in music, having lived in Hong Kong, South Korea,
-      London, New York and now Toronto. Melissa's perspectives provide
-      inspiration to re-charge both architects and engineers.
+      Adrienne Hepler
   - template: featured-portrait-block
     header: DILIGENCE
     section_break: false
@@ -202,12 +185,7 @@ page_blocks:
     title: Mimi Raygorodetsky
     subtitle: Principal, Langan
     description: >-
-      Workshop your sustainability profile with Lynn Simon, VP of Sustainability
-      and Global ESG. Whether your professional environment supports your whole
-      self, or challenges your sensibilities, take advantage of Lynn's
-      experience in global real estate sustainability at Google to give yourself
-      a post-pandemic reset. Advance reading from "All We Can Save" will inform
-      the session.
+      Mimi Raygorodetsky
     time-location:
       line-1: Tuesday, February 20, 6:30-8PM
       line-2: ''
