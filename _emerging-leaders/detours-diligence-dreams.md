@@ -185,7 +185,12 @@ page_blocks:
     title: Mimi Raygorodetsky
     subtitle: Principal, Langan
     description: >-
-      Mimi Raygorodetsky
+      Mimi Raygorodetsky is an environmental practice leader in Langan’s New York City and Denver offices with more than 21 years of experience in environmental consulting and brownfields remediation. She sources and directs large, complex environmental remediation and redevelopment projects from the earliest stages of pre-development diligence, through the remediation/construction phase, to long-term operation and monitoring of remedial systems and engineering controls. She has a comprehensive understanding of federal, state, and local regulatory programs and uses this expertise to guide her clients through a preliminary cost benefit analysis to select the right program(s) given the clients’ legal obligations, development desires, and risk tolerance. She is particularly strong at integrating the requirements of selected programs and client needs to develop and design targeted and streamlined diligence programs and remediation strategies.
+
+      Raygorodetsky is a founding member and current chair of Women@Langan and is also a founding member of Langan’s Diversity & Inclusion Committee. She is also a member of numerous professional organizations including New York Women Executives in Real Estate (WX), the New York City Brownfield Partnership, and the NY Building Congress Council of Industry Women. She also guest lectures at Columbia University on the topic of brownfields redevelopment in New York City.
+      
+      In 2017, she was awarded the CREW NY Career Advancement for Women Impact Award.
+
     time-location:
       line-1: Tuesday, February 20, 6:30-8PM
       line-2: ''
