@@ -140,7 +140,7 @@ page_blocks:
   - template: featured-portrait-block
     header: DETOURS
     time-location:
-      line-1: Tuesday, January 9, 2024
+      line-1: Tuesday, January 9, 2024, 6:30-8PM
       line-2: ''
     label: Speaker
     title: Allison Robin, LEED AP
