@@ -32,19 +32,6 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-  - template: image-block
-    image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1678236171/Emerging_Leaders_2023-edit_zktvjf.png
-    section_break: false
-    include_left-hand_column_text_: false
-    lefthand_text:
-      header_type: ''
-      text: ''
-      download: ''
-      link_url: ''
-      link_text: ''
-    alt_text: ''
-    image_caption_text: ''
   - template: text-block
     section_break: true
     include_left-hand_column_text_: true
