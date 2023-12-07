@@ -29,7 +29,7 @@ page_blocks:
         title_role: Founder
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618329223/bev_1_zgox9n.jpg
-        description:    
+        description:
   - template: portrait-gallery-template
     label: Board of Trustees
     include_left-hand_column_text_: true
@@ -515,7 +515,7 @@ page_blocks:
       - title: 'Virginia Eskridge '
         title_role: Communications and Programs Coordinator
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1642619870/virginia_Headshot_xbobp3.jpg
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701967522/Screen_Shot_2023-12-07_at_11.44.46_AM.png
         description: >-
           Virginia is from Montgomery, Alabama and graduated from the University
           of Alabama in 2020 with a degree in Advertising and Art. She is
