@@ -515,7 +515,7 @@ page_blocks:
       - title: 'Virginia Eskridge '
         title_role: Communications and Programs Coordinator
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701967522/Screen_Shot_2023-12-07_at_11.44.46_AM.png
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701967632/Screen_Shot_2023-12-07_at_11.47.01_AM.png
         description: >-
           Virginia is from Montgomery, Alabama and graduated from the University
           of Alabama in 2020 with a degree in Advertising and Art. She is
