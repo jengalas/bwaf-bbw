@@ -78,7 +78,7 @@ apple_podcast_link: >-
   https://podcasts.apple.com/us/podcast/architecture-family-style-the-lives-and-work/id1589782338?i=1000639243322
 google_podcast_link: >-
   https://podcasts.google.com/feed/aHR0cHM6Ly9id2FmbmV3YW5nbGV2b2ljZS5saWJzeW4uY29tL3Jzcw/episode/OTUwMDlkYTUtMGU1MC00ZDQ2LWFjYjItNzUyYmQ3MWRlYWE5?sa=X&ved=0CAUQkfYCahcKEwi49K782q-DAxUAAAAAHQAAAAAQCg
-spotify_link: https://open.spotify.com/episode/3x6pxYsUOcS59s2kEswAIG
+spotify_link: https://open.spotify.com/episode/6nW5ueNCgvqSCu606sIdJm
 transcript: ''
 page_blocks: []
 ---
