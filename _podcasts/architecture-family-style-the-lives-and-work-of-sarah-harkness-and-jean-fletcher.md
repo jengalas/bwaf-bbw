@@ -12,8 +12,9 @@ description: >
   <p><b>View the illustrated profiles of <a
   href="https://pioneeringwomen.bwaf.org/sarah-pillsbury-harkness/"
   style="color: red;">Sarah Harkness</a> and <a
-  href="https://pioneeringwomen.bwaf.org/jean-bodman-fletcher/">Jean
-  Fletcher</a> on the Pioneering Women of Architecture website.</b></p>
+  href="https://pioneeringwomen.bwaf.org/jean-bodman-fletcher/" style="color:
+  red;">Jean Fletcher</a> on the Pioneering Women of Architecture
+  website.</b></p>
 
 
   <p>Sarah Pillsbury, or Sally as she was better known by her peers, and Jean
