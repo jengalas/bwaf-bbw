@@ -513,7 +513,7 @@ page_blocks:
           and taught at the University of Virginia, New Jersey Institute of
           Technology and her alma mater. 
       - title: 'Virginia Eskridge '
-        title_role: Communications and Programs Coordinator
+        title_role: Communications and Operations Coordinator
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701967632/Screen_Shot_2023-12-07_at_11.47.01_AM.png
         description: >-
