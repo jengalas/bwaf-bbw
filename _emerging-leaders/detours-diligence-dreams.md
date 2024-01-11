@@ -9,7 +9,7 @@ page_blocks:
   - template: text-block
     text_block: >-
       Our next Emerging Leaders program will be in person on December 5th,
-      January 9th, and February 20th, covering Detours, Diligence, and Dreams.
+      January 9th, and February 13th, covering Detours, Diligence, and Dreams.
       Email info@bwaf.org to request an application.
 
 
