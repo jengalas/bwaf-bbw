@@ -298,7 +298,7 @@ page_blocks:
       In 2017, she was awarded the CREW NY Career Advancement for Women Impact
       Award.
     time-location:
-      line-1: Tuesday, February 20, 6:30-8PM
+      line-1: Tuesday, January 9th, 6:30-8PM
       line-2: ''
 _structures:
   page_blocks:
