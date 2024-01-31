@@ -297,9 +297,10 @@ page_blocks:
           ACEC New York Executive Committee. He holds a Bachelor of Science
           degree in Electrical Engineering from Bucknell University, and is a
           licensed Professional Engineer and LEED Accredited Professional.  
-      - title: ''
+      - title: 'Scott Lomax, '
         title_role: ''
-        image: ''
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1706733586/scott_lomax.jpg
         description: ''
       - title: Mary McLeod, Ph.D.
         title_role: Consulting Historian
