@@ -41,7 +41,7 @@ page_blocks:
       link_text: ''
     portrait:
       - title: Michele O’Connor, PE, LEED AP
-        title_role: Chair
+        title_role: Immediate Past Chair
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618330674/MOC_headshot_do3brf.jpg
         description: >-
