@@ -176,6 +176,11 @@ page_blocks:
           Committee.
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1643045203/Annya_Headshot-min_qm0qnb.jpg
+      - title: Barbara Wilks, FAIA, FASLA
+        title_role: Trustee
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1706734242/wilks-headshot.jpg
+        description: ''
       - title: Bolanle Williams-Olley
         title_role: Trustee
         image: >-
