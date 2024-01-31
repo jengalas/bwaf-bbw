@@ -26,9 +26,7 @@ collections_config:
       _unlisted: true
     _enabled_editors:
       - data
-    _inputs:   
-      description:
-        hidden: true
+    _inputs:  
       homepage:
         hidden: true   
       layout:
