@@ -297,6 +297,11 @@ page_blocks:
           ACEC New York Executive Committee. He holds a Bachelor of Science
           degree in Electrical Engineering from Bucknell University, and is a
           licensed Professional Engineer and LEED Accredited Professional.  
+      - title: Sandra Joslyn, AIA, CDT, LEED AP BD+C,
+        title_role: Trustee
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1706733818/Screenshot_2024-01-31_at_3.41.59_PM.png
+        description: ''
       - title: Scott Lomax
         title_role: Trustee
         image: >-
