@@ -317,6 +317,11 @@ page_blocks:
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1706733982/Tami_Hausman_headshot.jpg
         description: ''
+      - title: Victoria Ponce de Leon
+        title_role: Trustee
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1706734050/Victoria_Ponce_de_Leon_800x600.png
+        description: ''
       - title: Mary McLeod, Ph.D.
         title_role: Consulting Historian
         image: >-
