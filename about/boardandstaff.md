@@ -200,6 +200,11 @@ page_blocks:
           University of New York, Hunter College. She is passionate about
           service and is the founder of four impact organizations:
           SheBuildsWaves, SheBuildsLives, SheBuildsMoney and REACH Nigeria.
+      - title: Diana Zakem, PE
+        title_role: Trustee
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1706734172/2021_08_Brookfield_Properties_Diana_Zakem_17574_-Hi.jpg
+        description: ''
       - title: Ebbie Wisecarver
         title_role: Trustee
         image: >-
