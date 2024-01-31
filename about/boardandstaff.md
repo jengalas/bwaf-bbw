@@ -297,8 +297,8 @@ page_blocks:
           ACEC New York Executive Committee. He holds a Bachelor of Science
           degree in Electrical Engineering from Bucknell University, and is a
           licensed Professional Engineer and LEED Accredited Professional.  
-      - title: 'Scott Lomax, '
-        title_role: ''
+      - title: Scott Lomax
+        title_role: Trustee
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1706733586/scott_lomax.jpg
         description: ''
