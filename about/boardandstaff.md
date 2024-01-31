@@ -40,6 +40,23 @@ page_blocks:
       link_url: ''
       link_text: ''
     portrait:
+      - title: Angelica T. Baccon, AIA
+        title_role: Chair
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1674591543/210902_Baccon_Portraits-0131_qhyo0l.jpg
+        description: >-
+          Angelica Trevino Baccon is a principal of SHoP. She has a particular
+          specialty in leading complex mixed-use and workplace design projects,
+          often at the intersection of enterprise and technology. These include
+          the new Uber headquarters in San Francisco and several confidential
+          projects for global leaders in Silicon Valley. She holds a Bachelor in
+          Architecture degree from ITESM in Monterrey, Mexico, and a Master of
+          Architecture from Harvard University, where she has also served as a
+          professor. Her work on New York City’s South Street Seaport
+          established her deep expertise in fast-paced, high-profile design and
+          delivery challenges with multilayered stakeholder groups, successfully
+          leveraging programs to promote vitality, equity and community in the
+          private sector and public realm.
       - title: Michele O’Connor, PE, LEED AP
         title_role: Immediate Past Chair
         image: >-
@@ -77,23 +94,6 @@ page_blocks:
           Progress.” Murphy is a member of the WX Women Executives in Real
           Estate and is the Immediate Past Chair of Beverly Willis Architecture
           Foundation. 
-      - title: Angelica T. Baccon, AIA
-        title_role: Chair Elect
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1674591543/210902_Baccon_Portraits-0131_qhyo0l.jpg
-        description: >-
-          Angelica Trevino Baccon is a principal of SHoP. She has a particular
-          specialty in leading complex mixed-use and workplace design projects,
-          often at the intersection of enterprise and technology. These include
-          the new Uber headquarters in San Francisco and several confidential
-          projects for global leaders in Silicon Valley. She holds a Bachelor in
-          Architecture degree from ITESM in Monterrey, Mexico, and a Master of
-          Architecture from Harvard University, where she has also served as a
-          professor. Her work on New York City’s South Street Seaport
-          established her deep expertise in fast-paced, high-profile design and
-          delivery challenges with multilayered stakeholder groups, successfully
-          leveraging programs to promote vitality, equity and community in the
-          private sector and public realm.
       - title: Kirsten Sibilia, Assoc. AIA, LEED AP
         title_role: Secretary
         image: >-
