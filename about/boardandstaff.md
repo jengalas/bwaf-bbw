@@ -302,6 +302,11 @@ page_blocks:
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1706733818/Screenshot_2024-01-31_at_3.41.59_PM.png
         description: ''
+      - title: Sara Kendall
+        title_role: Trustee
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1706733915/sara_kendall.jpg
+        description: ''
       - title: Scott Lomax
         title_role: Trustee
         image: >-
