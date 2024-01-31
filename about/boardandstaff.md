@@ -432,27 +432,6 @@ page_blocks:
           industry. 
     section_break: false
 description: Beverly Willis Architecture Foundation Board and Staff
-_inputs:
-  $.title:
-    hidden: true
-  text-block:
-    hidden: true
-  page_blocks[*].label:
-    hidden: true
-  template:
-    hidden: true
-  include_left-hand_column_text_:
-    hidden: true
-  lefthand_text:
-    hidden: true
-  section_break:
-    hidden: true
-  page_blocks:
-    options:
-      text:
-        - key: template
-      preview:
-        subtext:
-          - key: label
+
 ---
 {% include prefooter.html %}
