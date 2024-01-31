@@ -312,6 +312,11 @@ page_blocks:
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1706733586/scott_lomax.jpg
         description: ''
+      - title: Tami Hausman
+        title_role: Trustee
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1706733982/Tami_Hausman_headshot.jpg
+        description: ''
       - title: Mary McLeod, Ph.D.
         title_role: Consulting Historian
         image: >-
