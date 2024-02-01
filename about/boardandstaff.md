@@ -320,7 +320,18 @@ page_blocks:
         title_role: Trustee
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1706733818/Screenshot_2024-01-31_at_3.41.59_PM.png
-        description: ''
+        description: >-
+          As a Principal and Technical Director, Sandra masterfully balances
+          management, design, and technical delivery while leading teams on
+          complex interior projects across industries. Through her experience
+          serving a diverse range of clients, including financial institutions,
+          entertainment and media companies, and technology companies, Sandra
+          deftly navigates project complexities and is a masterful problem
+          solver. Her professionalism and thoroughness earn her respect and
+          admiration from her team, clients, and consultants alike. Based in the
+          New York office, Sandra actively spearheads regional learning efforts
+          that buttress Gensler’s technical design excellence, and she plays an
+          active role in her studio to mentor next generation talent.
       - title: Sara Kendall
         title_role: Trustee
         image: >-
