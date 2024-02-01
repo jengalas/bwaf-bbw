@@ -325,7 +325,33 @@ page_blocks:
         title_role: Trustee
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1706733915/sara_kendall.jpg
-        description: ''
+        description: >-
+          As the Vice President and General Manager of Turner New York’s
+          Interiors Division, Sara is responsible for developing and managing
+          strategic plans that affirm Turner’s position as a trusted
+          construction service provider. In this capacity, she oversees a
+          portfolio of interior projects across New York City in many market
+          segments. She provides executive oversight on matters related to
+          Turner’s operational, financial, and sales initiatives. Turner
+          Interiors performs approximately $750 million in revenue annually with
+          200 employees. Upon completing her civil engineering degree at Cornell
+          University, Sara joined Turner as a field engineer, beginning her
+          career at the Times Square Tower project. In 2003, Sara continued to
+          take on roles of more responsibility, including New York’s first
+          SourceBlue Manager and Project Engineer on the Visionaire, NYC’s first
+          LEED Platinum-certified residential building. She was named Senior
+          Project Manager in 2015 and Project Executive in 2016 at Rockefeller
+          University's Stavros Niarchos Foundation–David Rockefeller River
+          Campus project. In 2017, she transferred to New York’s main office as
+          Manager of Business Development and was promoted to Vice President. In
+          addition to her day-to-day responsibilities, Sara is the executive
+          sponsor of Turner’s SkyWell employee resource group. Turner’s employee
+          resource groups seek to foster an environment where all people
+          experience inclusiveness and empowerment through genuine conversations
+          and intentional actions required in a multicultural workplace.
+          SkyWell, in particular, aims to create a supportive environment for
+          Turner employees of Asian descent to develop the necessary skills to
+          better serve Turner and our clients.
       - title: Scott Lomax
         title_role: Trustee
         image: >-
