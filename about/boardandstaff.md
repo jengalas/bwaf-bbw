@@ -225,19 +225,18 @@ page_blocks:
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1643050566/Ebbie_Headshot_ytuxeq.jpg
         description: >-
-          Ebbie Wisecarver is senior vice president, head of global design, at
-          WeWork. Since joining the company in 2015, she has held multiple
-          positions, including architect and development project manager for
-          Australia, design director of Asia, Australia and India, and head of
-          project delivery for WeWork Japan.  Previously, Wisecarver held
-          positions at prestigious design firms Diller, Scofidio + Renfro New
-          York and Steven Holl Architects. She holds a Master of Architecture
-          from the University of Pennsylvania and has participated in numerous
-          traveling exhibitions and fellowships, including a competitive summer
-          internship at Takenaka Corporation in Osaka, Japan. A strong advocate
-          for gender equality, Wisecarver currently serves as the executive
-          sponsor of the company's employee resource group, Women of WeWork. 
-           
+          Ebbie Wisecarver is Chief Design Officer at WeWork. Since joining the
+          company in 2015, she has held multiple positions, including architect
+          and development project manager for Australia, design director of
+          Asia, Australia and India, and head of project delivery for WeWork
+          Japan. Previously, Wisecarver held positions at prestigious design
+          firms Diller, Scofidio + Renfro New York and Steven Holl Architects.
+          She holds a Master of Architecture from the University of Pennsylvania
+          and has participated in numerous traveling exhibitions and
+          fellowships, including a competitive summer internship at Takenaka
+          Corporation in Osaka, Japan. A strong advocate for gender equality,
+          Wisecarver currently serves as the executive sponsor of the company's
+          employee resource group, Women of WeWork. 
            
       - title: Jennifer Stone, AIA
         title_role: Trustee
