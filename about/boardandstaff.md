@@ -340,7 +340,17 @@ page_blocks:
         title_role: Trustee
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1706734050/Victoria_Ponce_de_Leon_800x600.png
-        description: ''
+        description: >-
+          Victoria is an accomplished structural engineer who believes
+          collaboration is key to solving a client’s challenges with integrated
+          and creative solutions. Victoria has a strong commitment to public
+          work. She enjoys working with teams on complex new and existing
+          building projects, including design-build and complicated renovation
+          and addition projects in historically significant structures. On each
+          one, she tackles design challenges with a thoughtful, creative
+          approach to deliver innovative, well-designed, and artistic
+          structures. A natural educator, Victoria has been a lecturer in the
+          Graduate Program at Yale University School of Architecture since 2015.
       - title: Mary McLeod, Ph.D.
         title_role: Consulting Historian
         image: >-
