@@ -335,7 +335,7 @@ page_blocks:
         title_role: Trustee
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1706733982/Tami_Hausman_headshot.jpg
-        description: ''
+        description: "For over 20 years, Tami Hausman has been an expert advisor to top firms who seek out her experience and insights. Her international roster of clients includes architects, engineers, construction firms, expeditors, interiors firms, real estate developers, project management firms, construction cost consultants, artists, and non-profit organizations. Using her wide network of contacts in the media, Tami positions her clients’ knowledge and expertise to best advantage and opens doors to targeted audiences that strengthen their position in the marketplace. In addition to her\_experience\_in marketing and public relations, Tami is an architectural historian who frequently writes and lectures about trends and topics in architecture and urban planning. Tami has a Bachelor of Arts degree from Brown University in Semiotics-French and a Master of Arts and PhD in Art History from New York University’s Institute of Fine Arts. A Pittsburgh native (go Steelers!), she was born to live in New York City, but also enjoys traveling to the world’s great cities and beaches."
       - title: Victoria Ponce de Leon
         title_role: Trustee
         image: >-
