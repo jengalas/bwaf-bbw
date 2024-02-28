@@ -462,7 +462,7 @@ page_blocks:
       - title: Tizziana Baldenebro
         title_role: Executive Director
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1709152811/Screenshot_2024-02-28_at_3.40.01_PM.png
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1709152952/Screenshot_2024-02-28_at_3.42.24_PM.png
         description: >
           Tizziana Baldenebro is the executive director at the Beverly Willis
           Architecture Foundation. An arts administrator, curator, writer, and
