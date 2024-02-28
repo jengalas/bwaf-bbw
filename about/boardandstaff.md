@@ -460,7 +460,7 @@ page_blocks:
       link_text: ''
     portrait:
       - title: Cynthia Phifer Kracauer, AIA
-        title_role: Executive Director
+        title_role: 'Executive Producer- New Angle: Voice Podcast'
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618333357/Cynthia_HS_qd6dqf.jpg
         description: >-
@@ -486,6 +486,27 @@ page_blocks:
           looking forward to working with the community around her to build up
           and acknowledge women's achievements in the design and building
           industry. 
+      - title: Tizziana Baldenebro
+        title_role: Executive Director
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1709150202/Tizziana_Headshot.jpg
+        description: >
+          Tizziana Baldenebro is the executive director at the Beverly Willis
+          Architecture Foundation. An arts administrator, curator, writer, and
+          critic, her practice focuses on emerging artists and designers, and
+          she is an activist in the effort to produce equitable cultural
+          centers. She is the Commissioner and Curator for the U.S. pavilion at
+          the 2023 Venice Architecture Biennale. Previously, she served as the
+          executive director at SPACES in Cleveland and has held positions at
+          the Museum of Contemporary Art Detroit and at the Art Institute of
+          Chicago within the Architecture & Design department. She sat on the
+          board of FRONT International and is an editor-at-large at The Avery
+          Review. She was a 2021 fellow in the National Association for Latino
+          Arts and Culture Advocacy Leadership Institute and was a 2021
+          curator-in-residence at Red Bull Arts Detroit. Baldenebro received a
+          Masters of Architecture from the School of the Art Institute of
+          Chicago and a Bachelor of Arts degree in Anthropology from the
+          University of Chicago.
     section_break: false
 description: Beverly Willis Architecture Foundation Board and Staff
 ---
