@@ -89,11 +89,13 @@ page_blocks:
       link_text: ''
   - template: text-block
     text_block: >-
-      <p>Our last friends event was held in April touring Eagle + West,
-      developed by Brookfield Properties and located in Greenpoint Landing's
-      waterfront. Friends went on a behind the scenes tour of OMA's iconic
-      buildings, lead by lead architect Jason Long. The tour was joined by the
-      amenities interior designers from Marmol Radziner.&nbsp;</p>
+      <p>Thank you to everyone who came to support BWAF and participate in the
+      behind-the-scenes tours. After touring The Spiral led by BIG - Bjarke
+      Ingels Group's Kai-Uwe Bergmann, FAIA, Dominyka Voelkle, AIA, and Tishman
+      Speyer's Taani Ahluwalia we headed to 30 Hudson Yards for a discussion on
+      the benefits of collaboration between architects, developers, and
+      engineers. Thank you to Related Companies's Serge Appel, AIA, KPF's
+      Marianne Kwok and Claudia Cusumano AIA NCARB LEED AP for leading us.</p>
     section_break: false
     include_left-hand_column_text_: false
     lefthand_text:
