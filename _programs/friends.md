@@ -74,7 +74,7 @@ page_blocks:
       link_text: ''
   - template: image-block
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1668538242/IMG_1930_lmg7we.png
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1709326819/IMG-3541.jpg
     section_break: true
     image_caption_text: >-
       Board Member and Friends Chair Phoebe Yee, Executive Vice President,
