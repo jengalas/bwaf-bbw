@@ -218,7 +218,7 @@ page_blocks:
       - title: Diana Zakem, PE
         title_role: Trustee
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1706734172/2021_08_Brookfield_Properties_Diana_Zakem_17574_-Hi.jpg
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1710181037/Screenshot_2024-03-11_at_2.16.53_PM.png
         description: "Diana Zakem, Senior Director – Construction, has been on the Brookfield Development team since 2017. While at Brookfield she has worked on the Manhattan West Development, including the new office tower 2 Manhattan West, an existing building renovation at the Loft building, reconstruction of 31St\_St Viaduct for NYC Dept of Transportation, and the joint venture High Line Moynihan Connector pedestrian walkway extension in partnership with Friends of the High Line and New York State / Empire State Development. More recently she started leading construction for Brookfield’s Bermuda headquarters, a new 70,000SF office building in Hamilton, Bermuda. In addition to managing the General Contractor, she focuses on managing budgets, schedules, community interactions, and turnovers. Prior to working at Brookfield she worked for Tishman Construction as a structural project manager in the building repositioning group. She began her career as a structural engineer at LERA, a consulting firm in New York, where she worked on 4WTC and Columbia Medical Building. Diana holds an undergraduate Bachelor in Science Engineering degree from Princeton University and a Master’s degree in structural engineering from University of California – Berkeley."
       - title: Ebbie Wisecarver
         title_role: Trustee
