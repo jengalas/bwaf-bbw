@@ -1,7 +1,7 @@
 ---
 _schema: default
 layout: innerPageCC
-date: 2023-12-04 21:07:21
+date: 2023-12-04 00:00:00
 navCategory: ''
 title: Detours, Diligence, Dreams
 description: ''
