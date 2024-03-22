@@ -497,16 +497,6 @@ page_blocks:
           Architecture. She worked for Philip Johnson in the 80’s and taught at
           the University of Virginia, New Jersey Institute of Technology and her
           alma mater. 
-      - title: 'Virginia Eskridge '
-        title_role: Communications and Operations Coordinator
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701967632/Screen_Shot_2023-12-07_at_11.47.01_AM.png
-        description: >-
-          Virginia is from Montgomery, Alabama and graduated from the University
-          of Alabama in 2020 with a degree in Advertising and Art. She is
-          looking forward to working with the community around her to build up
-          and acknowledge women's achievements in the design and building
-          industry. 
     section_break: false
 description: Beverly Willis Architecture Foundation Board and Staff
 ---
