@@ -28,7 +28,7 @@ page_blocks:
       levels. Participants share common experiences and trade personal
       strategies for advancing their field. Over 200 women have participated in
       past cohorts, building a timeless network of allies and support for each
-      other.
+      other. 
 _structures:
   page_blocks:
     id_key: template
