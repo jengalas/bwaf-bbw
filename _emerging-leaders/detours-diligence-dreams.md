@@ -21,7 +21,8 @@ page_blocks:
 
 
       This edition of the Emerging Leaders program, Detours, Diligence, and
-      Dreams, was held December 5th, 2023; January 9th; and February 13th.
+      Dreams, was held December 5th, 2023, and January 9th and February 13th,
+      2024.
     section_break: false
     include_left-hand_column_text_: true
     lefthand_text:
