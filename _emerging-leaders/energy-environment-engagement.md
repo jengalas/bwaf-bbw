@@ -8,22 +8,16 @@ description: ''
 page_blocks:
   - template: text-block
     text_block: >-
-      Our next Emerging Leaders program will be in person on December 5th,
-      January 9th, and February 20th, covering Detours, Diligence, and Dreams.
-      Email info@bwaf.org to request an application.
-
-
-      Since 2017 the Beverly Willis Architecture Foundation Emerging Leaders
-      program has offered an innovative professional development opportunity for
-      select women 5-10 years out of school. In small group format (maximum of
-      24 selected participants), invitees will engage with significant senior
-      women in architecture, real estate, law, and financial services to advance
-      their own career goals. Share common experiences and trade personal
-      strategies for success.
-
-
-      Sessions will be held from 6:30-8:00 PM in person. Total program cost is
-      $500. Visit www.bwaf.org to learn more, or contact info@bwaf.org.
+      Launched in 2017, the BWAF Emerging Leaders program is a selective
+      professional development opportunity for early- and mid-career women.
+      Within a small group format, participants engage with significant senior
+      women in architecture, design, engineering, construction, real estate,
+      law, and financial services to advance their own career goals and connect
+      with a cohort of ambitious colleagues across at similar professional
+      levels. Participants share common experiences and trade personal
+      strategies for advancing their field. Over 200 women have participated in
+      past cohorts, building a timeless network of allies and support for each
+      other.
     section_break: false
     include_left-hand_column_text_: true
     lefthand_text:
@@ -54,7 +48,11 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-    text_block: ''
+    text_block: >-
+      Energy, Environment, Engagement was held March 30th, April 25th, and May
+      16th, 2023.  Participants heard from speakers Melissa Burton, ARUP
+      Canada's Principal Engineer; Lynn Simon, VP of Sustainability and Global
+      ESG; and Emmanuelle Slossberg. 
   - template: portrait-gallery-block-small
     portrait:
       - title: Allyson Kritzer
