@@ -18,11 +18,6 @@ page_blocks:
       strategies for advancing their field. Over 200 women have participated in
       past cohorts, building a timeless network of allies and support for each
       other.
-
-
-      This edition of the Emerging Leaders program, Detours, Diligence, and
-      Dreams, was held December 5th, 2023, and January 9th and February 13th,
-      2024.
     section_break: false
     include_left-hand_column_text_: true
     lefthand_text:
@@ -40,7 +35,10 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-    text_block: ''
+    text_block: >-
+      This edition of the Emerging Leaders program, Detours, Diligence, and
+      Dreams, was held December 5th, 2023, and January 9th and February 13th,
+      2024.
   - template: portrait-gallery-block-small
     portrait:
       - title: Anna Kuchera
