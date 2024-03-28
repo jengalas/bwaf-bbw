@@ -36,9 +36,13 @@ page_blocks:
       link_url: ''
       link_text: ''
     text_block: >-
-      This edition of the Emerging Leaders program, Detours, Diligence, and
-      Dreams, was held December 5th, 2023, and January 9th and February 13th,
-      2024.
+      Detours, Diligence, and Dreams, was held December 5th, 2023, and January
+      9th and February 13th, 2024. Participants heard from speakers Kristina
+      Newman-Scott, Executive Director of The Greene Space; Allison Robin, LEED
+      AP Owner & Co-Founder of Envoie Projects LLC; Adrienne Hepler ,Owner &
+      Co-Founder of Envoie Projects LLC; and Mimi Raygorodetsky, an
+      environmental practice leader in Langan’s New York City and Denver
+      offices.
   - template: portrait-gallery-block-small
     portrait:
       - title: Anna Kuchera
