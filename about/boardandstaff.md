@@ -388,6 +388,29 @@ page_blocks:
           approach to deliver innovative, well-designed, and artistic
           structures. A natural educator, Victoria has been a lecturer in the
           Graduate Program at Yale University School of Architecture since 2015.
+      - title: Kate Wittels
+        title_role: Trustee
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1711751470/Kate_Wittels_square.jpg
+        description: >-
+          Kate Wittels is Partner at HR&A Advisors, an industry-leading economic
+          development, real estate advisory, and public policy consulting firm.
+          Based in New York, Kate works at the intersection of tech and city
+          building helping clients build places, train people, and deliver
+          infrastructure to make today's cities ready for tomorrow's
+          opportunities. She provides real estate advisory, conducts impact
+          assessments and develops programs and policies to support governments,
+          developers and businesses on growing tech and innovation ecosystems in
+          cities around the world. Working at the company, district, and city
+          scales, Kate helps her clients leverage technology for economic
+          development and to encourage more equitable urban environments. Prior
+          to joining HR&A, Kate served as a Director of Corporate Real Estate
+          for Sony where she managed real estate acquisitions, dispositions, and
+          lease activity for a 20 million square foot portfolio. Kate earned a
+          Master of Science in Real Estate Development from the Massachusetts
+          Institute of Technology and a Bachelor of Arts in Urban Studies from
+          the University of Pennsylvania. Kate is also on the board of the
+          Regional Plan Association and the Center for an Urban Future.
       - title: Mary McLeod, Ph.D.
         title_role: Consulting Historian
         image: >-
