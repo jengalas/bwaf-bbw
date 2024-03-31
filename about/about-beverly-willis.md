@@ -5,11 +5,12 @@ navCategory: About
 title: About Beverly Willis
 page_blocks:
   - template: image-block
-    label: Image
-    image_caption_text: Beverly Willis, FAIA
-    alt_text: Beverly Willis, FAIA
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618329223/bev_1_zgox9n.jpg
+    section_break: false
+    image_caption_text: Beverly Willis, FAIA
+    alt_text: Beverly Willis, FAIA
+    label: Image
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Large Header
@@ -17,7 +18,6 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-    section_break: false
   - template: text-block
     label: Text Block
     text_block: >-
@@ -27,13 +27,13 @@ page_blocks:
       founded the Beverly Willis Architecture Foundation.
 
 
-      For more than sixty-five years, Willis steadily made contributions to
-      the architecture profession. An autodidact ever willing to take risks,
-      Willis accepted commissions for which there were no built precedents,
-      adopted practices that did not become mainstream until decades later, and
-      sought research-driven solutions unique to each project. Designing
-      separate projects during parallel years, Willis together with William
-      Wurster and Lawrence Halprin, pioneered the concept of adaptive reuse. Her
+      For more than sixty-five years, Willis steadily made contributions to the
+      architecture profession. An autodidact ever willing to take risks, Willis
+      accepted commissions for which there were no built precedents, adopted
+      practices that did not become mainstream until decades later, and sought
+      research-driven solutions unique to each project. Designing separate
+      projects during parallel years, Willis together with William Wurster and
+      Lawrence Halprin, pioneered the concept of adaptive reuse. Her
       reconstruction of the internationally recognized 1890 Union Street Shops,
       San Francisco, CA (1963), set an example of reconstruction and reuse of
       residential buildings for urban revitalization. This began a world-wide
@@ -67,17 +67,21 @@ page_blocks:
   - template: media-gallery-block
     label: Media Gallery
     media:
-      - image: https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1621452163/film1_d0n3xd.png
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1621452163/film1_d0n3xd.png
         title: Critic Suzannah Lessard Talks About Beverly Willis
         link_to_video: https://beverlywillis.com/wp-content/uploads/2016/09/suze.mp4
-      - image: https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1621452174/film2_ajqclh.png
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1621452174/film2_ajqclh.png
         title: Nature's Images
         link_to_video: >-
           https://beverlywillis.com/wp-content/uploads/2016/11/02_Invisible_Images_Silent_Language_Arcitecture.mp4
-      - image: https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1621453945/04-0753-4-SF-Ballet-night-movement-perspective_nhoqp7.jpg
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1621453945/04-0753-4-SF-Ballet-night-movement-perspective_nhoqp7.jpg
         title: 'Interview: The Opening of the San Francisco Ballet Building'
         link_to_video: https://beverlywillis.com/wp-content/uploads/2016/11/sf_ballet.mp3
-      - image: https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1621452195/film4_ds9n5c.png
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1621452195/film4_ds9n5c.png
         title: R.Dot Interview with Beverly Willis
         link_to_video: >-
           https://beverlywillis.com/wp-content/uploads/2016/11/12_CBC_Steph_Tremblay_11Mar2002.mp4
@@ -114,48 +118,71 @@ page_blocks:
       text: Beverly Willis, FAIA<br><br>1928 - 2023
       download: ''
       link_url: ''
-      link_text: '' 
+      link_text: ''
   - template: miscellaneous-block
     label: Text
     miscellaneous: >-
-      <iframe src="https://drive.google.com/file/d/1B8YOQXPVWC584o2PbsNT0C0R4GdKR9I-/preview" width="800" height="510" style="max-width: 100%;" allow="autoplay"></iframe>
+      <iframe
+      src="https://drive.google.com/file/d/1B8YOQXPVWC584o2PbsNT0C0R4GdKR9I-/preview"
+      width="800" height="510" style="max-width: 100%;"
+      allow="autoplay"></iframe>
     section_break: false
-    include_left-hand_column_text_: false       
+    include_left-hand_column_text_: false
   - template: miscellaneous-block
     label: Tributes and Mentions
     include_left-hand_column_text_: true
-    lefthand_text: 
-      header_type:  Medium Header 
-      text: 'Tributes & Mentions'
+    lefthand_text:
+      header_type: Medium Header
+      text: Tributes & Mentions
     miscellaneous: >-
-      <div class="tributes-block">
-      <div><p><a href="https://www.aia.org/press-releases/6674356-aia-mourns-the-loss-of-beverly-willis-faia">AIA</a></p></div>
-      <div><p><a href="https://www.archdaily.com/1007703/architect-and-womens-advocate-beverly-willis-passes-away-at-95">ArchDaily</a></p></div>
-      <div><p><a href="https://archinect.com/news/article/150380540/trailblazing-architect-and-inclusion-advocate-beverly-willis-passes-away-at-95">Archinect</a></p></div>
-      <div><p><a href="https://www.architectmagazine.com/practice/pioneering-architect-and-advocate-beverly-willis-dies-at-95_o">Architect</a></p></div>
-      <div><p><a href="https://www.archpaper.com/2023/10/beverly-willis-architect-pioneering-womens-advocate-dies/">The Architect's Newspaper</a></p></div>
-      <div><p><a href="https://www.architecturalrecord.com/articles/16514-tribute-beverly-willis-19282023">Architectural Record</a></p></div>
-      <div><p><a href="https://artdaily.com/news/162839/Beverly-Willis--95--dies--Architect-and-advocate-for-women-in-the-field">ArtDaily</a></p></div>
-      <div><p><a href="https://www.buildingenclosureonline.com/articles/91945-champion-of-women-architects-beverly-willis-dies-at-95">Building Enclosure</a></p></div>
-      <div><p><a href="https://www.enr.com/articles/57214-tribute-beverly-willis-95architecture-pioneer-advocate-for-women">Engineering News-Record</a></p></div>
-      <div><p><a href="https://www.staradvertiser.com/2023/10/08/hawaii-news/groundbreaking-architect-beverly-willis-got-her-start-in-hawaii/">Honolulu Star-Advertiser</a></p></div>
-      <div><p><a href="https://interiordesign.net/designwire/beverly-willis-architect-dies-at-95/">Interior Design</a></p></div>
-      <div><p><a href="https://www.legacy.com/news/celebrity-deaths/beverly-willis-1928-2023-pioneering-female-architect/">Legacy.com</a></p></div>
-      <div><p><a href="https://metropolismag.com/profiles/beverly-willis-architect-legacy/">Metropolis</a></p></div>  
-      <div><p><a href="https://www.nbm.org/beverly-willis-co-founder-of-the-national-building-museum-and-founding-trustee-of-the-museum-dies/">National Building Museum</a></p></div>    
-      <div><p><a href="https://www.nytimes.com/2023/10/02/arts/beverly-willis-dead.html">The New York Times</a></p></div>
-      <div><p><a href="https://officeinsight.com/officenewswire/beverly-willis-faia-1928-2023/">Office Insight</a></p></div>
-      <div><p><a href="https://www.bizjournals.com/sanfrancisco/news/2023/10/03/sfbt-digest-tuesday-kaiser-tiger-woods-sofi-sf.html">San Francisco Business Times</a></p></div>
-      <div><p><a href="https://www.sah.org/about-sah/news/news-detail/2023/10/04/obituary-beverly-willis-(1928-2023)">Society of Architectural Historians</a></p></div>
-      <div><p><a href="https://www.surfacemag.com/articles/81st-street-studio-metropolitan-museum-art/">Surface</a></p></div>
-      <div><p><a href="https://www.wconline.com/articles/95698-beverly-willis-pioneering-champion-of-women-architects-dies">Walls &amp; Ceilings Online</a></p></div>
-      <div><p><a href="https://www.world-architects.com/en/architecture-news/headlines/beverly-willis-1928-2023">World-Architects</a></p></div>
+      <div class="tributes-block"> <div><p><a
+      href="https://www.aia.org/press-releases/6674356-aia-mourns-the-loss-of-beverly-willis-faia">AIA</a></p></div>
+      <div><p><a
+      href="https://www.archdaily.com/1007703/architect-and-womens-advocate-beverly-willis-passes-away-at-95">ArchDaily</a></p></div>
+      <div><p><a
+      href="https://archinect.com/news/article/150380540/trailblazing-architect-and-inclusion-advocate-beverly-willis-passes-away-at-95">Archinect</a></p></div>
+      <div><p><a
+      href="https://www.architectmagazine.com/practice/pioneering-architect-and-advocate-beverly-willis-dies-at-95_o">Architect</a></p></div>
+      <div><p><a
+      href="https://www.archpaper.com/2023/10/beverly-willis-architect-pioneering-womens-advocate-dies/">The
+      Architect's Newspaper</a></p></div> <div><p><a
+      href="https://www.architecturalrecord.com/articles/16514-tribute-beverly-willis-19282023">Architectural
+      Record</a></p></div> <div><p><a
+      href="https://artdaily.com/news/162839/Beverly-Willis--95--dies--Architect-and-advocate-for-women-in-the-field">ArtDaily</a></p></div>
+      <div><p><a
+      href="https://www.buildingenclosureonline.com/articles/91945-champion-of-women-architects-beverly-willis-dies-at-95">Building
+      Enclosure</a></p></div> <div><p><a
+      href="https://www.enr.com/articles/57214-tribute-beverly-willis-95architecture-pioneer-advocate-for-women">Engineering
+      News-Record</a></p></div> <div><p><a
+      href="https://www.staradvertiser.com/2023/10/08/hawaii-news/groundbreaking-architect-beverly-willis-got-her-start-in-hawaii/">Honolulu
+      Star-Advertiser</a></p></div> <div><p><a
+      href="https://interiordesign.net/designwire/beverly-willis-architect-dies-at-95/">Interior
+      Design</a></p></div> <div><p><a
+      href="https://www.legacy.com/news/celebrity-deaths/beverly-willis-1928-2023-pioneering-female-architect/">Legacy.com</a></p></div>
+      <div><p><a
+      href="https://metropolismag.com/profiles/beverly-willis-architect-legacy/">Metropolis</a></p></div>  
+      <div><p><a
+      href="https://www.nbm.org/beverly-willis-co-founder-of-the-national-building-museum-and-founding-trustee-of-the-museum-dies/">National
+      Building Museum</a></p></div>     <div><p><a
+      href="https://www.nytimes.com/2023/10/02/arts/beverly-willis-dead.html">The
+      New York Times</a></p></div> <div><p><a
+      href="https://officeinsight.com/officenewswire/beverly-willis-faia-1928-2023/">Office
+      Insight</a></p></div> <div><p><a
+      href="https://www.bizjournals.com/sanfrancisco/news/2023/10/03/sfbt-digest-tuesday-kaiser-tiger-woods-sofi-sf.html">San
+      Francisco Business Times</a></p></div> <div><p><a
+      href="https://www.sah.org/about-sah/news/news-detail/2023/10/04/obituary-beverly-willis-(1928-2023)">Society
+      of Architectural Historians</a></p></div> <div><p><a
+      href="https://www.surfacemag.com/articles/81st-street-studio-metropolitan-museum-art/">Surface</a></p></div>
+      <div><p><a
+      href="https://www.wconline.com/articles/95698-beverly-willis-pioneering-champion-of-women-architects-dies">Walls
+      &amp; Ceilings Online</a></p></div> <div><p><a
+      href="https://www.world-architects.com/en/architecture-news/headlines/beverly-willis-1928-2023">World-Architects</a></p></div>
       </div>     
   - template: portrait-gallery-template
     label: In Remembrance Gallery
     include_left-hand_column_text_: false
     lefthand_text:
-      header_type: 
+      header_type:
       text: ''
       download: ''
       link_url: ''
@@ -192,35 +219,6 @@ page_blocks:
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1696441375/01Willis_AARON_ESTO_thumb.jpg
         description: ''
 _inputs:
-  page_blocks[*].label:
-    hidden: true
-  template:
-    hidden: true
-  title:
-    hidden: true
-  section_break:
-    hidden: true
-  include_left-hand_column_text_:
-    hidden: true
-  lefthand_text:
-    hidden: true
-  miscellaneous:
-    type: textarea
-    label: Text
-  page_blocks:
-    options:
-      text:
-        - key: template
-      preview:
-        subtext:
-          - key: label
-
-description: >-
-  In 2002, Beverly Willis, FAIA founded the Beverly Willis Architecture
-  Foundation.
-
-#  CloudCannon config  
-_inputs:
   include_left-hand_column_text_:
     hidden: true
   lefthand_text:
@@ -245,5 +243,8 @@ _inputs:
         - key: template
       preview:
         subtext:
-          - key: label 
+          - key: label
+description: >-
+  In 2002, Beverly Willis, FAIA founded the Beverly Willis Architecture
+  Foundation.
 ---
