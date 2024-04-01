@@ -114,7 +114,7 @@ page_blocks:
         title_role: JLL
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1620397414/Zeppetilli_Adalgisa_BW_fv2r3o.jpg
-    header: BWAF 2018 Emerging Leaders
+    header: BWAF Fall 2018 Emerging Leaders Participants
   - template: featured-portrait-block
     header: FINANCE
     image: >-
