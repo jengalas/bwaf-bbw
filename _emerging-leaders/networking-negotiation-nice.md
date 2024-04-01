@@ -10,12 +10,37 @@ page_blocks:
     section_break: false
     include_left-hand_column_text_: true
     lefthand_text:
+      header_type: Large Header
+      text: Networking, Negotiation, Nice
+      download: ''
+      link_url: ''
+      link_text: ''
+    text_block: >-
+      Launched in 2017, the BWAF Emerging Leaders program is a selective
+      professional development opportunity for early- and mid-career women.
+      Within a small group format, participants engage with significant senior
+      women in architecture, design, engineering, construction, real estate,
+      law, and financial services to advance their own career goals and connect
+      with a cohort of ambitious colleagues across at similar professional
+      levels. Participants share common experiences and trade personal
+      strategies for advancing their field. Over 200 women have participated in
+      past cohorts, building a timeless network of allies and support for each
+      other.
+  - template: text-block
+    section_break: false
+    include_left-hand_column_text_: true
+    lefthand_text:
       header_type: Medium Header
       text: Networking, Negotiation, Nice
       download: ''
       link_url: ''
       link_text: ''
-    text_block: ''
+    text_block: >
+      Networking, Negotiation, Nice was held February 27, March 27, and April
+      26, 2018. Participants heard from speakers Victoria J. Cerami, CEO of
+      Cerami & Associates; Patricia Harris, Esq., LEED AP; Elyssa Cohen Muldoon,
+      CCEP; and Diana Taylor, Chair for the Hudson River Park Trust Board of
+      Directors.
   - template: portrait-gallery-block-small
     portrait:
       - title: Francesca Brando
@@ -115,14 +140,14 @@ page_blocks:
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1620325561/JZellar_TT_Headshot_2013_wwcjbv.jpg
     section_break: false
-    include_left-hand_column_text_: true
+    include_left-hand_column_text_: false
     lefthand_text:
       header_type: ''
       text: ''
       download: ''
       link_url: ''
       link_text: ''
-    header: 'Meet our 2018 #2 Emerging Leaders'
+    header: BWAF Spring 2018 Emerging Leaders Participants
   - template: featured-portrait-block
     section_break: false
     include_left-hand_column_text_: true
