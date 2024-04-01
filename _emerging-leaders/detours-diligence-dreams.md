@@ -36,7 +36,7 @@ page_blocks:
       link_url: ''
       link_text: ''
     text_block: >-
-      Detours, Diligence, and Dreams, was held December 5th, 2023, and January
+      Detours, Diligence, and Dreams was held December 5th, 2023, and January
       9th and February 13th, 2024. Participants heard from speakers Kristina
       Newman-Scott, Executive Director of The Greene Space; Allison Robin, LEED
       AP Owner & Co-Founder of Envoie Projects LLC; Adrienne Hepler ,Owner &
