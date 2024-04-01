@@ -145,7 +145,7 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-    header: BWAF 2019 Emerging Leaders
+    header: BWAF Summer 2019 Emerging Leaders Participants
   - template: featured-portrait-block
     section_break: false
     include_left-hand_column_text_: true
