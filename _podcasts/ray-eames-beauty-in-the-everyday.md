@@ -9,7 +9,7 @@ episode_number: 6
 description: >-
   <p><b>View the illustrated <a
   href="https://pioneeringwomen.bwaf.org/ray-kaiser-eames" style="color:
-  red;">Ray Eames profile</a> on the Pioneering Women of Architecture
+  #F4364C;">Ray Eames profile</a> on the Pioneering Women of Architecture
   website.</b></p>
 
   <p>New Angle: Voice is back! We kick off Season Two with Ray Kaiser Eames.
