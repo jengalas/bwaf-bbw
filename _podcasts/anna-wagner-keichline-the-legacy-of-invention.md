@@ -9,7 +9,7 @@ episode_number: 9
 description: >-
   <p><b>View the illustrated <a
   href="https://pioneeringwomen.bwaf.org/anna-wagner-keichline" style="color:
-  red;">Anna Wagner Keichline profile</a> on the Pioneering Women of
+  #F4364C">Anna Wagner Keichline profile</a> on the Pioneering Women of
   Architecture website.</b></p>
 
   <p>1913 was the year of the grand march for suffrage in Washington DC, the
