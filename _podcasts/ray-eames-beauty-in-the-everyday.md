@@ -9,7 +9,7 @@ episode_number: 6
 description: >-
   <p><b>View the illustrated <a
   href="https://pioneeringwomen.bwaf.org/ray-kaiser-eames" style="color:
-  #F4364C;">Ray Eames profile</a> on the Pioneering Women of Architecture
+  #F4364C">Ray Eames profile</a> on the Pioneering Women of Architecture
   website.</b></p>
 
   <p>New Angle: Voice is back! We kick off Season Two with Ray Kaiser Eames.
@@ -31,7 +31,7 @@ description: >-
   Architecture Foundation. Funding for this podcast comes from the National
   Endowment for the Humanities, the National Endowment for the Arts, the Graham
   Foundation, and MillerKnoll.</p>
-podcast_available: true
+podcast_available: false
 libsyn_link: >-
   https://traffic.libsyn.com/secure/bwafnewanglevoice/Ray_Eames_Beauty_In_The_Everyday_FINAL_RX_20230306.mp3
 apple_podcast_link: >-
