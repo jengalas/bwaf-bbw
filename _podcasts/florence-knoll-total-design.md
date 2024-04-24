@@ -9,7 +9,7 @@ episode_number: 5
 description: >-
   <p><b>View the illustrated <a
   href="https://pioneeringwomen.bwaf.org/florence-knoll-bassett" style="color:
-  red;">Florence Knoll profile</a> on the Pioneering Women of Architecture
+  #F4364C">Florence Knoll profile</a> on the Pioneering Women of Architecture
   website.</b></p>
 
   <p>As an architect, Florence was the force behind the seamless integration of
