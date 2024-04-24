@@ -8,8 +8,9 @@ season: 1
 episode_number: 1
 description: >-
   <p><b>View the illustrated <a
-  href="https://pioneeringwomen.bwaf.org/julia-morgan" style="color: red;">Julia
-  Morgan profile</a> on the Pioneering Women of Architecture website.</b></p>
+  href="https://pioneeringwomen.bwaf.org/julia-morgan" style="color:
+  #F4364C">Julia Morgan profile</a> on the Pioneering Women of Architecture
+  website.</b></p>
 
   <p>Welcome to New Angle: Voice. Episode 1 takes us on an earthquaking tour
   from San Francisco to Paris and back, with Julia Morgan (1872-1957), the first
