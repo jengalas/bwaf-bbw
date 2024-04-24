@@ -9,8 +9,8 @@ episode_number: 8
 description: >
   <p><b>View the illustrated <a
   href="https://pioneeringwomen.bwaf.org/amaza-lee-meredith/" style="color:
-  red;">Amaza Lee Meredith profile</a> on the Pioneering Women of Architecture
-  website.</b></p>
+  #F4364C">Amaza Lee Meredith profile</a> on the Pioneering Women of
+  Architecture website.</b></p>
 
 
   <p>I picked up a free glossy real estate magazine with an enticing photograph
