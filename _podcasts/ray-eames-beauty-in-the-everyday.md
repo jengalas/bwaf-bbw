@@ -31,7 +31,7 @@ description: >-
   Architecture Foundation. Funding for this podcast comes from the National
   Endowment for the Humanities, the National Endowment for the Arts, the Graham
   Foundation, and MillerKnoll.</p>
-podcast_available: false
+podcast_available: true
 libsyn_link: >-
   https://traffic.libsyn.com/secure/bwafnewanglevoice/Ray_Eames_Beauty_In_The_Everyday_FINAL_RX_20230306.mp3
 apple_podcast_link: >-
