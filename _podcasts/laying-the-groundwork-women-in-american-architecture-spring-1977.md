@@ -4,7 +4,7 @@ thumbnail_image: >-
 navCategory: Resources
 layout: full-podcast-page
 title: 'Laying the Groundwork: Women in American Architecture, Spring 1977'
-season: 2
+season: 3
 episode_number: 11
 description: >
   <p>That was some party. Even though I didn’t make it to the splashy opening, I
