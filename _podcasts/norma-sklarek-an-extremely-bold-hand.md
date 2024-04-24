@@ -9,7 +9,7 @@ episode_number: 4
 description: >-
   <p><b>View the illustrated <a
   href="https://pioneeringwomen.bwaf.org/norma-merrick-sklarek" style="color:
-  red;">Norma Sklarek profile</a> on the Pioneering Women of Architecture
+  #F4364C">Norma Sklarek profile</a> on the Pioneering Women of Architecture
   website.</b></p>
 
   <p>Norma Sklarek had many “firsts”. She was often credited at the start of her
