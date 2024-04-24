@@ -9,7 +9,7 @@ episode_number: 2
 description: >-
   <p><b>View the illustrated <a
   href="https://pioneeringwomen.bwaf.org/natalie-griffin-de-blois" style="color:
-  red;">Natalie de Blois profile</a> on the Pioneering Women of Architecture
+  #F4364C">Natalie de Blois profile</a> on the Pioneering Women of Architecture
   website.</b></p>
 
   <p>A senior designer and associate partner at Skidmore, Owings &amp; Merrill,
