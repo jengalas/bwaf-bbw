@@ -9,8 +9,8 @@ episode_number: 7
 description: >-
   <p><b>View the illustrated <a
   href="https://pioneeringwomen.bwaf.org/ada-louise-huxtable" style="color:
-  red;">Ada Louise Huxtable profile</a> on the Pioneering Women of Architecture
-  website.</b></p>
+  #F4364C">Ada Louise Huxtable profile</a> on the Pioneering Women of
+  Architecture website.</b></p>
 
   <p>Anyone who writes about American architecture of the mid twentieth
 
