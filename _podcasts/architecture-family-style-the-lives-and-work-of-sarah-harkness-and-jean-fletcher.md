@@ -11,9 +11,9 @@ episode_number: 10
 description: >
   <p><b>View the illustrated profiles of <a
   href="https://pioneeringwomen.bwaf.org/sarah-pillsbury-harkness/"
-  style="color: red;">Sarah Harkness</a> and <a
+  style="color: #F4364C">Sarah Harkness</a> and <a
   href="https://pioneeringwomen.bwaf.org/jean-bodman-fletcher/" style="color:
-  red;">Jean Fletcher</a> on the Pioneering Women of Architecture
+  #F4364C">Jean Fletcher</a> on the Pioneering Women of Architecture
   website.</b></p>
 
 
