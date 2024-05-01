@@ -41,7 +41,8 @@ description: >
   href="https://www.dropbox.com/s/l1an49030j9ym2w/BWAF%20PodcastNewAngle_Pitch%20Sheet.pdf?dl=0"
   style="color: #F4364C";>website</a> to make a contribution.</p>
 podcast_available: true
-libsyn_link:
+libsyn_link: >-
+  https://traffic.libsyn.com/secure/bwafnewanglevoice/Women_in_Arch_MIX_20240408_RX.mp3
 apple_podcast_link: >-
   https://podcasts.apple.com/us/podcast/laying-the-groundwork-women-in-american-architecture/id1589782338?i=1000651890691
 google_podcast_link:
