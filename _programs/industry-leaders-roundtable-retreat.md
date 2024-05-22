@@ -47,22 +47,6 @@ page_blocks:
       Burton Place Chicago, Illinois 60610. June 25-26, 2024. Values-Driven
       Design"
     image_caption_text: ''
-  - template: image-block
-    button:
-      - button_text:
-        button_link:
-    section_break: false
-    image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/Screen_Shot_2023-06-06_at_2.40.08_PM.png
-    include_left-hand_column_text_: false
-    lefthand_text:
-      header_type: ''
-      text: ''
-      download: ''
-      link_url: ''
-      link_text: ''
-    alt_text: ''
-    image_caption_text: ''
   - template: text-block
     button:
       - button_text:
@@ -178,6 +162,8 @@ page_blocks:
       - image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1621354718/IMG_9661_wszhuh.jpg
         caption: Industry Leaders Roundtable Retreat, Chicago, IL, October 23-24, 2017
+      - image: ''
+        caption: ''
     include_left-hand_column_text_: false
     lefthand_text:
       header_type: ''
