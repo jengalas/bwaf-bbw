@@ -40,8 +40,12 @@ page_blocks:
       link_url: ''
       link_text: ''
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1683740792/RT1.jpg
-    alt_text: ''
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1716391480/052224_IndustryLeadersRoundtableInviteCover.png
+    alt_text: >-
+      Mint green background with white and grey text that reads "2024 Industry
+      Leaders Roundtable: Chicago. Graham Foundation Madlener House, 4 West
+      Burton Place Chicago, Illinois 60610. June 25-26, 2024. Values-Driven
+      Design"
     image_caption_text: ''
   - template: image-block
     button:
@@ -67,12 +71,12 @@ page_blocks:
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Medium Header
-      text: Movement/ Momentum? Our Workplace Today
+      text: Values-Driven Design
       download: ''
       link_url: ''
       link_text: ''
     text_block: >-
-      In its twelfth year, the Industry Leaders Roundtable brings together
+      In its thirteenth year, the Industry Leaders Roundtable brings together
       thought leaders in organizational psychology, sociology, law, architecture
       and engineering to change culture by providing research, information and
       action-oriented programs to achieve greater representation of women in the
@@ -91,7 +95,7 @@ page_blocks:
       benefits including expanded markets, improved recruitment, and retention
       of key talent. This two-day retreat is the only event of its kind where
       participants develop targeted plans to combat bias, promote and retain
-      leaders, and effect change in the organizational culture.&nbsp;
+      leaders, and effect change in the organizational culture.
 
 
       ## **Who attends?**
