@@ -89,12 +89,11 @@ page_blocks:
       engineering
 
 
-      ## **Apply**
+      ## **Register**
 
 
       Space is limited. Registrants will receive complete agenda and
-      bibliography in advance of the event. All registrants will be listed as
-      sponsors in the final schedule.
+      bibliography in advance of the event.
     lefthand_text:
       header_type: ''
       text: ''
