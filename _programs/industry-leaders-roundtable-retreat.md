@@ -31,8 +31,8 @@ page_blocks:
       header_type: Medium Header
       text: Values-Driven Design
       download: ''
-      link_url: ''
-      link_text: ''
+      link_url: https://bit.ly/3yDTDw9
+      link_text: Apply Here
     text_block: >-
       In its thirteenth year, the Industry Leaders Roundtable brings together
       thought leaders in organizational psychology, sociology, law, architecture
