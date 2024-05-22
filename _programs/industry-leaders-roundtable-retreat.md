@@ -61,8 +61,8 @@ page_blocks:
     image_caption_text: ''
   - template: miscellaneous-block
     button:
-      - button_text:
-        button_link:
+      - button_text: Apply Here
+        button_link: https://bit.ly/3yDTDw9
     section_break: false
     include_left-hand_column_text_: false
     miscellaneous: >-
