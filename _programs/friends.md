@@ -13,8 +13,63 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-    text_block: "<p>Beverly Willis Architecture Friends program offers individual and corporate membership to three events yearly involving high profile professionals in architecture and design, engineering, construction, and architectural journalism. The Friends program offers unique networking opportunities and brings together small groups of peers for topical conversations, architecture tours and social events, focused around women in architecture and design. Your annual support directly enables Beverly Willis Architecture Foundation, a nonprofit 501(c)(3) organization, in leading a cultural revolution in the building industry that acknowledges, cultivates and values women’s contributions and achievements- past, present and future. We cultivate leaders at all levels and seek to build global change. Support our efforts and become a BWAF Friend today.</p><p>\_</p><p>Stay tuned for our next Friends event coming this spring.</p>"
+    text_block: >-
+      <p>The Friends of BWAF program offers unique networking opportunities and
+      brings together small groups of peers for topical conversations,
+      architecture tours and social events, focused around women in architecture
+      and design. The program provides individual and corporate members access
+      to three events yearly involving high profile professionals in
+      architecture and design, engineering, construction, and architectural
+      journalism. Stay tuned for our next Friends event coming this
+      spring.</p><p>Your annual support directly enables Beverly Willis
+      Architecture Foundation, a nonprofit 501(c)(3) organization, in leading a
+      cultural revolution in the building industry that acknowledges, cultivates
+      and values women’s contributions and achievements- past, present and
+      future. We cultivate leaders at all levels and seek to build global
+      change. Support our efforts and become a BWAF Friend today.</p>
     section_break: false
+  - template: text-block
+    label: Annual Membership Info
+    text_block: >-
+      <h2><strong>Annual Membership</strong></h2><p>Early Professional (up to
+      ten years of professional experience): $250</p><p>Professional (ten or
+      more years of professional experience): $500</p><p>Corporate Friendship*:
+      $5000</p><h6>*Allows for 4 participants per
+      event&nbsp;</h6><h2><strong>For your annual donation, you will
+      receive:</strong></h2><ul><li>Invitation to three BWAF Friends events per
+      year</li><li>Built By Women tote bag</li><li>Early notification of BWAF
+      activities</li><li>Monthly BWAF newsletter</li><li>Copy of BWAF
+      film</li><li>Prominent listing on BWAF website (Corporate Friendship
+      only)</li></ul>
+    section_break: false
+    include_left-hand_column_text_: false
+    lefthand_text:
+      header_type: ''
+      text: ''
+      download: ''
+      link_url: ''
+      link_text: ''
+  - template: buttons-block
+    button:
+      - button_text:
+        button_link:
+    section_break: false
+    include_left-hand_column_text_: false
+  - template: image-block
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1709326819/IMG-3541.jpg
+    section_break: true
+    image_caption_text: >-
+      Board Member and Friends Chair Phoebe Yee, Executive Vice President,
+      Design Related California
+    alt_text: ''
+    include_left-hand_column_text_: false
+    lefthand_text:
+      header_type: ''
+      text: ''
+      download: ''
+      link_url: ''
+      link_text: ''
   - template: portrait-gallery-block-small
     label: Friends Image/Logo Gallery
     header: 2022-2023 Corporate Friends
@@ -72,21 +127,6 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-  - template: image-block
-    image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1709326819/IMG-3541.jpg
-    section_break: true
-    image_caption_text: >-
-      Board Member and Friends Chair Phoebe Yee, Executive Vice President,
-      Design Related California
-    alt_text: ''
-    include_left-hand_column_text_: false
-    lefthand_text:
-      header_type: ''
-      text: ''
-      download: ''
-      link_url: ''
-      link_text: ''
   - template: text-block
     text_block: >-
       <p>Thank you to everyone who came to support BWAF and participate in the
@@ -104,33 +144,6 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-  - template: text-block
-    label: Annual Membership Info
-    text_block: >-
-      <h2><strong>Annual Membership</strong></h2><p>Early Professional (up to
-      ten years of professional experience): $250</p><p>Professional (ten or
-      more years of professional experience): $500</p><p>Corporate Friendship*:
-      $5000</p><h6>*Allows for 4 participants per
-      event&nbsp;</h6><h2><strong>For your annual donation, you will
-      receive:</strong></h2><ul><li>Invitation to three BWAF Friends events per
-      year</li><li>Built By Women tote bag</li><li>Early notification of BWAF
-      activities</li><li>Monthly BWAF newsletter</li><li>Copy of BWAF
-      film</li><li>Prominent listing on BWAF website (Corporate Friendship
-      only)</li></ul>
-    section_break: false
-    include_left-hand_column_text_: false
-    lefthand_text:
-      header_type: ''
-      text: ''
-      download: ''
-      link_url: ''
-      link_text: ''
-  - template: buttons-block
-    button:
-      - button_text:
-        button_link:
-    section_break: false
-    include_left-hand_column_text_: false
 date: 2021-05-05 13:33:04
 description: >-
   The Friends program offers unique networking opportunities and brings together
