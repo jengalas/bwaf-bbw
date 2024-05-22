@@ -70,6 +70,23 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
+  - template: text-block
+    text_block: >-
+      <p>Thank you to everyone who came to support BWAF and participate in the
+      behind-the-scenes tours. After touring The Spiral led by BIG - Bjarke
+      Ingels Group's Kai-Uwe Bergmann, FAIA, Dominyka Voelkle, AIA, and Tishman
+      Speyer's Taani Ahluwalia we headed to 30 Hudson Yards for a discussion on
+      the benefits of collaboration between architects, developers, and
+      engineers. Thank you to Related Companies's Serge Appel, AIA, KPF's
+      Marianne Kwok and Claudia Cusumano AIA NCARB LEED AP for leading us.</p>
+    section_break: false
+    include_left-hand_column_text_: false
+    lefthand_text:
+      header_type: ''
+      text: ''
+      download: ''
+      link_url: ''
+      link_text: ''
   - template: portrait-gallery-block-small
     label: Friends Image/Logo Gallery
     header: 2022-2023 Corporate Friends
@@ -120,23 +137,6 @@ page_blocks:
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1697049447/Untitled-1.jpg
         description: ''
     section_break: true
-    include_left-hand_column_text_: false
-    lefthand_text:
-      header_type: ''
-      text: ''
-      download: ''
-      link_url: ''
-      link_text: ''
-  - template: text-block
-    text_block: >-
-      <p>Thank you to everyone who came to support BWAF and participate in the
-      behind-the-scenes tours. After touring The Spiral led by BIG - Bjarke
-      Ingels Group's Kai-Uwe Bergmann, FAIA, Dominyka Voelkle, AIA, and Tishman
-      Speyer's Taani Ahluwalia we headed to 30 Hudson Yards for a discussion on
-      the benefits of collaboration between architects, developers, and
-      engineers. Thank you to Related Companies's Serge Appel, AIA, KPF's
-      Marianne Kwok and Claudia Cusumano AIA NCARB LEED AP for leading us.</p>
-    section_break: false
     include_left-hand_column_text_: false
     lefthand_text:
       header_type: ''
