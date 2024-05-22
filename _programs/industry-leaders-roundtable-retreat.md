@@ -21,12 +21,24 @@ page_blocks:
       their representatives to undertake institutional change within their
       organizations, by providing them research, tools, and support to be agents
       of change.  
-  - template: buttons-block
+  - template: text-block
     button:
-      - button_text: Sign Up Here
-        button_link: https://bwaf.wufoo.com/forms/m43dbgb17m10ad/
-    section_break: false
-    include_left-hand_column_text_: false
+      - button_text:
+        button_link:
+    section_break: true
+    include_left-hand_column_text_: true
+    lefthand_text:
+      header_type: Medium Header
+      text: Values-Driven Design
+      download: ''
+      link_url: ''
+      link_text: ''
+    text_block: >-
+      In its thirteenth year, the Industry Leaders Roundtable brings together
+      thought leaders in organizational psychology, sociology, law, architecture
+      and engineering to change culture by providing research, information and
+      action-oriented programs to achieve greater representation of women in the
+      AEC industries.
   - template: image-block
     button:
       - button_text:
@@ -47,24 +59,6 @@ page_blocks:
       Burton Place Chicago, Illinois 60610. June 25-26, 2024. Values-Driven
       Design"
     image_caption_text: ''
-  - template: text-block
-    button:
-      - button_text:
-        button_link:
-    section_break: true
-    include_left-hand_column_text_: true
-    lefthand_text:
-      header_type: Medium Header
-      text: Values-Driven Design
-      download: ''
-      link_url: ''
-      link_text: ''
-    text_block: >-
-      In its thirteenth year, the Industry Leaders Roundtable brings together
-      thought leaders in organizational psychology, sociology, law, architecture
-      and engineering to change culture by providing research, information and
-      action-oriented programs to achieve greater representation of women in the
-      AEC industries.
   - template: miscellaneous-block
     button:
       - button_text:
