@@ -5,6 +5,10 @@ title: Industry Leaders Roundtable Retreat
 permalink: /programs/industry-leaders-roundtable-retreat
 page_blocks:
   - template: text-block
+    button:
+      - button_text:
+        button_link:
+    section_break: false
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Large Header
@@ -13,11 +17,10 @@ page_blocks:
       link_url: ''
       link_text: ''
     text_block: >-
-      The Industry Leaders Roundtable program is designed to encourage firms and
+      The Industry Leaders Roundtable program is designed to embolden firms and
       their representatives to undertake institutional change within their
-      organizations, by providing them research, tools, and support to be change
-      agents.  
-    section_break: false
+      organizations, by providing them research, tools, and support to be agents
+      of change.  
   - template: buttons-block
     button:
       - button_text: Sign Up Here
@@ -25,6 +28,9 @@ page_blocks:
     section_break: false
     include_left-hand_column_text_: false
   - template: image-block
+    button:
+      - button_text:
+        button_link:
     section_break: false
     include_left-hand_column_text_: false
     lefthand_text:
@@ -38,9 +44,12 @@ page_blocks:
     alt_text: ''
     image_caption_text: ''
   - template: image-block
+    button:
+      - button_text:
+        button_link:
+    section_break: false
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/Screen_Shot_2023-06-06_at_2.40.08_PM.png
-    section_break: false
     include_left-hand_column_text_: false
     lefthand_text:
       header_type: ''
@@ -51,6 +60,9 @@ page_blocks:
     alt_text: ''
     image_caption_text: ''
   - template: text-block
+    button:
+      - button_text:
+        button_link:
     section_break: true
     include_left-hand_column_text_: true
     lefthand_text:
@@ -66,6 +78,11 @@ page_blocks:
       action-oriented programs to achieve greater representation of women in the
       AEC industries.
   - template: miscellaneous-block
+    button:
+      - button_text:
+        button_link:
+    section_break: false
+    include_left-hand_column_text_: false
     miscellaneous: >-
       ## **Why attend?**
 
@@ -96,8 +113,6 @@ page_blocks:
       Space is limited. Registrants will receive complete agenda and
       bibliography in advance of the event. All registrants will be listed as
       sponsors in the final schedule.
-    section_break: false
-    include_left-hand_column_text_: false
     lefthand_text:
       header_type: ''
       text: ''
@@ -105,7 +120,6 @@ page_blocks:
       link_url: ''
       link_text: ''
   - template: buttons-block
-    buttons_header__optional_: View previous Industry Leaders Roundtable Agendas
     button:
       - button_text: 2020/21 Industry Leaders Roundtable
         button_link: >-
@@ -130,6 +144,7 @@ page_blocks:
           https://www.dropbox.com/s/txqhd6wb52xv0ne/2014%20BWAF%20Industry%20Leaders%20Roundtable%20Agenda.pdf?dl=0
     section_break: false
     include_left-hand_column_text_: false
+    buttons_header__optional_: View previous Industry Leaders Roundtable Agendas
     lefthand_text:
       header_type: ''
       text: ''
@@ -137,6 +152,10 @@ page_blocks:
       link_url: ''
       link_text: ''
   - template: slideshow-block
+    button:
+      - button_text:
+        button_link:
+    section_break: false
     image:
       - image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1641308144/ROUNDTABLE21_SAVEfront_FINALrev_kasnpk.jpg
@@ -155,7 +174,6 @@ page_blocks:
       - image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1621354718/IMG_9661_wszhuh.jpg
         caption: Industry Leaders Roundtable Retreat, Chicago, IL, October 23-24, 2017
-    section_break: false
     include_left-hand_column_text_: false
     lefthand_text:
       header_type: ''
