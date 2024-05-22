@@ -103,7 +103,7 @@ page_blocks:
       link_text: ''
   - template: buttons-block
     button:
-      - button_text: Apply Here
+      - button_text: Register Here
         button_link: https://bit.ly/3yDTDw9
     section_break: false
     include_left-hand_column_text_: false
