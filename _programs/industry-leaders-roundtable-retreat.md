@@ -89,11 +89,27 @@ page_blocks:
       engineering
 
 
+      ## **Featured Panelists**
+
+
+      * Alison Fischer, Curator, Art Institute of Chicago
+
+      * Ann Lui, Partner, Future Firm
+
+      * Hana Ishikawa, Design Principal, Site Design Group
+
+      * Jackie Koo, Founding Principal, Koo Architecture
+
+      * Lynda Dossey, AIA, Director, JAHN; President, AIA Chicago
+
+      * Dr. Louise Bernard, Director, Obama Presidential Center
+
+
       ## **Register**
 
 
-      Space is limited. Registrants will receive complete agenda and
-      bibliography in advance of the event.
+      Space is limited to 20 participants. Registrants will receive complete
+      agenda and bibliography in advance of the event.
     lefthand_text:
       header_type: ''
       text: ''
