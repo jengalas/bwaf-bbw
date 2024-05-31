@@ -186,19 +186,16 @@ page_blocks:
     section_break: false
     image:
       - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1641308144/ROUNDTABLE21_SAVEfront_FINALrev_kasnpk.jpg
-        caption: 2022 Roundtable Retreat
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1637006612/Screen_Shot_2021-11-15_at_3.01.20_PM_lyr1f7.png
-        caption: ''
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1621354567/RT5_uiahzn.jpg
+        caption: Industry Leaders Roundtable Retreat, Miami, FL, December 3-4, 2018
       - image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618426963/IMG_1662_2_e5j5bi.jpg
         caption: >-
           Industry Leaders Roundtable Retreat, Los Angeles, CA, December 2-3,
           2019
       - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1621354567/RT5_uiahzn.jpg
-        caption: Industry Leaders Roundtable Retreat, Miami, FL, December 3-4, 2018
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1637006612/Screen_Shot_2021-11-15_at_3.01.20_PM_lyr1f7.png
+        caption: ''
       - image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1621354718/IMG_9661_wszhuh.jpg
         caption: Industry Leaders Roundtable Retreat, Chicago, IL, October 23-24, 2017
