@@ -161,12 +161,16 @@ page_blocks:
       2:00-3:00<br>Concluding Lunch
 
 
-      ## **Register**
+      ## **Registration Information**
 
 
       Space is limited to 20 participants. First 10 registrations receive a
-      private Hard Hat Tour of the Obama Presidential Center. Registrants will
-      receive complete agenda and bibliography in advance of the event.
+      private Hard Hat Tour of the Obama Presidential Center. Remaining
+      participants will receive a outside-the-fence and model tour, including a
+      history of Jackson Park and visits to the Japanese Garden that dates back
+      to the 1893 World's Columbian Exposition and Yoko Ono's first public
+      artwork in the US. Registrants will receive an  itinerary and bibliography
+      in advance of the event.
     lefthand_text:
       header_type: ''
       text: ''
