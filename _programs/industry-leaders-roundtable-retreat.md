@@ -157,8 +157,7 @@ page_blocks:
       Obama Presidential Center\*
 
 
-      \*First 10 registrations receive a private Hard-Hat Tour. Must be
-      registered 1 week prior.
+      \*First 10 registrations receive a private Hard-Hat Tour.
 
 
       2:00-3:00<br>Concluding Lunch
