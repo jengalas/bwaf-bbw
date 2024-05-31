@@ -39,6 +39,12 @@ page_blocks:
       and engineering to change culture by providing research, information and
       action-oriented programs to achieve greater representation of women in the
       AEC industries.
+  - template: buttons-block
+    button:
+      - button_text: Register Here
+        button_link: https://bit.ly/3yDTDw9
+    section_break: false
+    include_left-hand_column_text_: false
   - template: image-block
     button:
       - button_text:
