@@ -65,23 +65,6 @@ page_blocks:
       Burton Place Chicago, Illinois 60610. June 25-26, 2024. Values-Driven
       Design"
     image_caption_text: ''
-  - template: image-block
-    button:
-      - button_text:
-        button_link:
-    section_break: false
-    include_left-hand_column_text_: false
-    lefthand_text:
-      header_type: ''
-      text: ''
-      download: ''
-      link_url: ''
-      link_text: ''
-    image: /uploads/053124-industryleadersroundtableinviteback.png
-    alt_text: >-
-      Mint green background with white and grey text that outlines the schedule
-      included above
-    image_caption_text: ''
   - template: miscellaneous-block
     button:
       - button_text:
