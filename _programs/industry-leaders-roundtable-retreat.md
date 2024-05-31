@@ -78,10 +78,8 @@ page_blocks:
       link_text: ''
     image: /uploads/053124-industryleadersroundtableinviteback.png
     alt_text: >-
-      Mint green background with white and grey text that reads "2024 Industry
-      Leaders Roundtable: Chicago. Graham Foundation Madlener House, 4 West
-      Burton Place Chicago, Illinois 60610. June 25-26, 2024. Values-Driven
-      Design"
+      Mint green background with white and grey text that outlines the schedule
+      included above
     image_caption_text: ''
   - template: miscellaneous-block
     button:
