@@ -44,11 +44,6 @@ page_blocks:
       - button_text:
         button_link:
     section_break: false
-  - template: image-block
-    button:
-      - button_text:
-        button_link:
-    section_break: false
     include_left-hand_column_text_: false
     lefthand_text:
       header_type: ''
