@@ -44,6 +44,11 @@ page_blocks:
       - button_text:
         button_link:
     section_break: false
+  - template: image-block
+    button:
+      - button_text:
+        button_link:
+    section_break: false
     include_left-hand_column_text_: false
     lefthand_text:
       header_type: ''
@@ -53,6 +58,25 @@ page_blocks:
       link_text: ''
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1716391480/052224_IndustryLeadersRoundtableInviteCover.png
+    alt_text: >-
+      Mint green background with white and grey text that reads "2024 Industry
+      Leaders Roundtable: Chicago. Graham Foundation Madlener House, 4 West
+      Burton Place Chicago, Illinois 60610. June 25-26, 2024. Values-Driven
+      Design"
+    image_caption_text: ''
+  - template: image-block
+    button:
+      - button_text:
+        button_link:
+    section_break: false
+    include_left-hand_column_text_: false
+    lefthand_text:
+      header_type: ''
+      text: ''
+      download: ''
+      link_url: ''
+      link_text: ''
+    image: /uploads/053124-industryleadersroundtableinviteback.png
     alt_text: >-
       Mint green background with white and grey text that reads "2024 Industry
       Leaders Roundtable: Chicago. Graham Foundation Madlener House, 4 West
