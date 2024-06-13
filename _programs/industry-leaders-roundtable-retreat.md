@@ -58,7 +58,7 @@ page_blocks:
       link_url: ''
       link_text: ''
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1716391480/052224_IndustryLeadersRoundtableInviteCover.png
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1718305261/061324_IndustryLeadersRoundtableInvite.png
     alt_text: >-
       Mint green background with white and grey text that reads "2024 Industry
       Leaders Roundtable: Chicago. Graham Foundation Madlener House, 4 West
@@ -78,7 +78,7 @@ page_blocks:
       link_url: ''
       link_text: ''
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1718056167/061024_IndustryLeadersRoundtableInviteCover_Details.png
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1718305303/061324_IndustryLeadersRoundtableInvite2.png
     alt_text: >-
       Mint green background with white and grey text that lists the agenda
       described below.
