@@ -151,9 +151,6 @@ page_blocks:
       Cheng, OMA
 
 
-      &nbsp;
-
-
       11:00-12:00<br>*Relearning Value II: Challenges in Community<br>*Dr.
       Louise Bernard, Obama Presidential Center Museum and Nootan Bharani, AIA,
       Arts+ Public Life, University of Chicago
