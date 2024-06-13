@@ -121,11 +121,15 @@ page_blocks:
       Lui, Future Firm
 
 
-      12:00-1:30<br>*The Value of Design: Advancing the stakes and
+      12:00-1:00<br>*Values in the Studio: Teaching Leadership<br>*Reed Kroloff,
+      IIT
+
+
+      1:00-1:30<br>Lunch Served
+
+
+      1:30-2:30<br>*The Value of Design: Advancing the stakes and
       intersections<br>*Jackie Koo, Koo Architecture
-
-
-      1:30-2:30<br>Lunch
 
 
       2:30-3:30<br>*Inheriting the past, building for the future: New workplace
@@ -140,11 +144,14 @@ page_blocks:
       Street, Chicago, IL 60654
 
 
-      **Day 2: Hyde Park**
+      **Day 2: Experimental Station**
 
 
-      10:00- 11:00<br>*Relearning Value I: Creativity in Community<br>*Angelica
-      Baccon, SHoP Architects and Roundtable Discussion
+      10:00- 11:00<br>*Relearning Value I: Creativity in Community<br>*Christy
+      Cheng, OMA
+
+
+      &nbsp;
 
 
       11:00-12:00<br>*Relearning Value II: Challenges in Community<br>*Dr.
