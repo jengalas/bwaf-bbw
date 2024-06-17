@@ -58,7 +58,7 @@ page_blocks:
       link_url: ''
       link_text: ''
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1718305261/061324_IndustryLeadersRoundtableInvite.png
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1718637060/061724_IndustryLeadersRoundtableInvite.png
     alt_text: >-
       Mint green background with white and grey text that reads "2024 Industry
       Leaders Roundtable: Chicago. Graham Foundation Madlener House, 4 West
@@ -78,7 +78,7 @@ page_blocks:
       link_url: ''
       link_text: ''
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1718305303/061324_IndustryLeadersRoundtableInvite2.png
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1718637087/061724_IndustryLeadersRoundtableInvite2.png
     alt_text: >-
       Mint green background with white and grey text that lists the agenda
       described below.
@@ -148,7 +148,7 @@ page_blocks:
 
 
       10:00- 11:00<br>*Relearning Value I: Creativity in Community<br>*Christy
-      Cheng, OMA
+      Cheng, OMA + Hana Ishikawa, Site Design Group
 
 
       11:00-12:00<br>*Relearning Value II: Challenges in Community<br>*Dr.
