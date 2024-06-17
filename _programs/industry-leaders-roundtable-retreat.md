@@ -78,7 +78,7 @@ page_blocks:
       link_url: ''
       link_text: ''
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1718637087/061724_IndustryLeadersRoundtableInvite2.png
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1718637419/061724_IndustryLeadersRoundtableInvite2.png
     alt_text: >-
       Mint green background with white and grey text that lists the agenda
       described below.
