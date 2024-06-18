@@ -28,6 +28,39 @@ page_blocks:
       future. We cultivate leaders at all levels and seek to build global
       change. Support our efforts and become a BWAF Friend today.</p>
     section_break: false
+  - template: image-block
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1718743077/Friends_Header_Footer.jpg
+    section_break: false
+    image_caption_text:
+    alt_text: >-
+      White text on a darkened photograph of people talking reads: "BWAF Invites
+      you to a very special Friends Night, July 10th, 2024 5:30pm, Thornton
+      Tomasetti, 120 Broadway, New York NY 10271"
+  - template: text-block
+    label: Annual Membership Info
+    text_block: >-
+      <p>We are thrilled to announce an exclusive event for Friends of BWAF!
+      Join us for an evening of inspiration and innovation as some of our
+      esteemed friends present their groundbreaking projects in a TED talk-style
+      format.</p><p>This program is a unique opportunity to witness the creative
+      minds within our community as they share their visionary work and ideas.
+      Our presenters will cover a range of topics that reflect the diverse and
+      dynamic nature of architecture and design today. You'll have the chance to
+      engage with these thought leaders, ask questions, and gain insights into
+      the latest trends and developments in the field.</p><p>We encourage you to
+      RSVP as soon as possible, as spaces are limited. You can secure your spot
+      by signing up to the Eventbrite linked below!</p><p>We look forward to
+      seeing you there and sharing this exciting evening with you. Thank you for
+      your continued support of the Beverly Willis Architecture Foundation.</p>
+    section_break: false
+    include_left-hand_column_text_: false
+    lefthand_text:
+      header_type: ''
+      text: ''
+      download: ''
+      link_url: ''
+      link_text: ''
   - template: text-block
     label: Annual Membership Info
     text_block: >-
