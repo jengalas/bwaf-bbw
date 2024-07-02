@@ -188,12 +188,12 @@ _structures:
           icon:
         value:
           template: text-block
+          text_block:
           section_break: false
           include_left-hand_column_text_: false
         _inputs:
           text_block:
             type: html
-            hidden: false
           label:
             hidden: true
           icon:
