@@ -198,9 +198,9 @@ _structures:
             hidden: false
       - label: Image
         preview:
-          text: 
-          subtext:
-          icon:
+          image:
+            - key: image
+          icon: image
         value:
           template: image-block
           section_break: false
