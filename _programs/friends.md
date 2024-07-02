@@ -169,7 +169,7 @@ _inputs:
       - label: Buttons
         preview:
           text: Buttons
-          subtext: "[Do not modify]"
+          subtext: Add links to previous years here
           icon: smart_button
         value:
           template: buttons-block
@@ -182,11 +182,7 @@ _inputs:
           icon:
             hidden: true
           button:
-            hidden: true
-          section_break:
-            hidden: true
-          include_left-hand_column_text_:
-            hidden: true
+            hidden: false
     options:
       text:
         - key: template
