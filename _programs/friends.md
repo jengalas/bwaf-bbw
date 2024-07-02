@@ -155,6 +155,16 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
+  - template: buttons-block
+    button:
+      - button_text: test
+        button_link: https://google.com
+    section_break: false
+    include_left-hand_column_text_: false
+  - template: text-block
+    text_block: <p>testing</p>
+    section_break: false
+    include_left-hand_column_text_: false
 date: 2021-05-05 13:33:04
 description: >-
   The Friends program offers unique networking opportunities and brings together
