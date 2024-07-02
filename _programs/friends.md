@@ -196,4 +196,13 @@ _structures:
             hidden: true
           icon:
             hidden: false
+      - label: Image
+        preview:
+          text: 
+          subtext:
+          icon:
+        value:
+          template: image-block
+          section_break: false
+          include_left-hand_column_text_: false    
 ---
