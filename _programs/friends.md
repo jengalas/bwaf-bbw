@@ -193,6 +193,7 @@ _structures:
         _inputs:
           text_block:
             type: html
+            hidden: false
           label:
             hidden: true
           icon:
