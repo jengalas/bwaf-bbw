@@ -5,15 +5,6 @@ title: Friends
 permalink: /programs/friends
 page_blocks:
   - template: text-block
-    section_break: false
-    include_left-hand_column_text_: true
-    label: Intro Text Block
-    lefthand_text:
-      header_type: Large Header
-      text: Friends
-      download: ''
-      link_url: ''
-      link_text: ''
     text_block: >-
       <p>The Friends of BWAF program offers unique networking opportunities and
       brings together small groups of peers for topical conversations,
@@ -28,9 +19,16 @@ page_blocks:
       values women’s contributions and achievements- past, present and future.
       We cultivate leaders at all levels and seek to build global change.
       Support our efforts and become a BWAF Friend today.</p>
-  - template: image-block
     section_break: false
-    include_left-hand_column_text_: false
+    include_left-hand_column_text_: true
+    label: Intro Text Block
+    lefthand_text:
+      header_type: Large Header
+      text: Friends
+      download: ''
+      link_url: ''
+      link_text: ''
+  - template: image-block
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1718743077/Friends_Header_Footer.jpg
     image_caption_text:
@@ -38,10 +36,9 @@ page_blocks:
       White text on a darkened photograph of people talking reads: "BWAF Invites
       you to a very special Friends Night, July 10th, 2024 5:30pm, Thornton
       Tomasetti, 120 Broadway, New York NY 10271"
-  - template: text-block
     section_break: false
     include_left-hand_column_text_: false
-    label: Annual Membership Info
+  - template: text-block
     text_block: >-
       <p>We are thrilled to announce an exclusive event for Friends of BWAF!
       Join us for an evening of inspiration and innovation as some of our
@@ -56,6 +53,9 @@ page_blocks:
       by signing up to the Eventbrite linked below!<br />We look forward to
       seeing you there and sharing this exciting evening with you. Thank you for
       your continued support of the Beverly Willis Architecture Foundation.</p>
+    section_break: false
+    include_left-hand_column_text_: false
+    label: Annual Membership Info
     lefthand_text:
       header_type: ''
       text: ''
@@ -63,9 +63,6 @@ page_blocks:
       link_url: ''
       link_text: ''
   - template: text-block
-    section_break: false
-    include_left-hand_column_text_: false
-    label: Annual Membership Info
     text_block: >-
       <h2><strong>Annual Membership</strong></h2><p>Early Professional (up to
       ten years of professional experience): $250</p><p>Professional (ten or
@@ -77,6 +74,9 @@ page_blocks:
       notification of BWAF activities</p></li><li><p>Monthly BWAF
       newsletter</p></li><li><p>Copy of BWAF film</p></li><li><p>Prominent
       listing on BWAF website (Corporate Friendship only)</p></li></ul>
+    section_break: false
+    include_left-hand_column_text_: false
+    label: Annual Membership Info
     lefthand_text:
       header_type: ''
       text: ''
@@ -84,14 +84,14 @@ page_blocks:
       link_url: ''
       link_text: ''
   - template: image-block
-    section_break: true
-    include_left-hand_column_text_: false
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1709326819/IMG-3541.jpg
     image_caption_text: >-
       Board Member and Friends Chair Phoebe Yee, Executive Vice President,
       Design Related California
     alt_text: ''
+    section_break: true
+    include_left-hand_column_text_: false
     lefthand_text:
       header_type: ''
       text: ''
@@ -155,6 +155,18 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
+  - template: image-block
+    image:
+    image_caption_text:
+    alt_text:
+    section_break: false
+    include_left-hand_column_text_: false
+  - template: buttons-block
+    button:
+      - button_text: test button
+        button_link: https://thesurveystation.com
+    section_break: false
+    include_left-hand_column_text_: false
 date: 2021-05-05 13:33:04
 description: >-
   The Friends program offers unique networking opportunities and brings together
