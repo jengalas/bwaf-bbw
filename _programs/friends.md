@@ -206,8 +206,8 @@ _structures:
           subtext: Add images and captions
         value:
           template: image-block
+          image_caption_text:
+          alt_text:
           section_break: false
           include_left-hand_column_text_: false
-        _inputs:
-          hidden: true
 ---
