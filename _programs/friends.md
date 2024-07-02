@@ -166,7 +166,7 @@ _structures:
       - label: Buttons
         preview:
           text: Buttons
-          subtext: Add links to previous years here
+          subtext: 
           icon: smart_button
         value:
           template: buttons-block
@@ -182,7 +182,7 @@ _structures:
             hidden: false
       - label: Text Block
         preview:
-          text: Text Block
+          text: 
           subtext:
           icon:
         value:
