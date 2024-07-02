@@ -204,8 +204,5 @@ _structures:
             - key: image
           icon: image
           subtext: Add images and captions
-        value:
-          template: image-block
-          section_break: false
-          include_left-hand_column_text_: false
+
 ---
