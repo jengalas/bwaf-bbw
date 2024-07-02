@@ -187,20 +187,13 @@ _structures:
           icon:
         value:
           template: text-block
-          button:
-            - button_text:
-              button_link:
           section_break: false
-          include_left-hand_column_text_: true
+          include_left-hand_column_text_: false
         _inputs:
           text_block:
             type: html
           label:
             hidden: true
           icon:
-            hidden: false
-          button:
-            hidden: false
-          lefthand_text:
             hidden: false
 ---
