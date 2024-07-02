@@ -28,6 +28,12 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
+  - template: buttons-block
+    button:
+      - button_text: test button
+        button_link: https://thesurveystation.com
+    section_break: false
+    include_left-hand_column_text_: false
   - template: image-block
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1718743077/Friends_Header_Footer.jpg
@@ -159,12 +165,6 @@ page_blocks:
     image:
     image_caption_text:
     alt_text:
-    section_break: false
-    include_left-hand_column_text_: false
-  - template: buttons-block
-    button:
-      - button_text: test button
-        button_link: https://thesurveystation.com
     section_break: false
     include_left-hand_column_text_: false
 date: 2021-05-05 13:33:04
