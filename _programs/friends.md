@@ -165,6 +165,28 @@ _inputs:
   label:
     hidden: true
   page_blocks:
+    values:
+      - label: Buttons
+        preview:
+          text: Buttons
+          subtext: "[Do not modify]"
+          icon: smart_button
+        value:
+          template: buttons-block
+          button:
+            - button_text:
+              button_link:
+          section_break: false
+          include_left-hand_column_text_: false
+        _inputs:
+          icon:
+            hidden: true
+          button:
+            hidden: true
+          section_break:
+            hidden: true
+          include_left-hand_column_text_:
+            hidden: true
     options:
       text:
         - key: template
