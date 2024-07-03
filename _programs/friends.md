@@ -38,6 +38,13 @@ page_blocks:
       Tomasetti, 120 Broadway, New York NY 10271"
     section_break: false
     include_left-hand_column_text_: false
+  - template: buttons-block
+    button:
+      - button_text: Register
+        button_link: >-
+          https://www.eventbrite.com/e/friends-night-presentations-from-innovators-tickets-921036844997?aff=oddtdtcreator
+    section_break: false
+    include_left-hand_column_text_: false
   - template: text-block
     text_block: >-
       <p>We are thrilled to announce an exclusive event for Friends of BWAF!
@@ -155,13 +162,6 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-  - template: buttons-block
-    button:
-      - button_text: Register
-        button_link: >-
-          https://www.eventbrite.com/e/friends-night-presentations-from-innovators-tickets-921036844997?aff=oddtdtcreator
-    section_break: false
-    include_left-hand_column_text_: false
 date: 2021-05-05 13:33:04
 description: >-
   The Friends program offers unique networking opportunities and brings together
