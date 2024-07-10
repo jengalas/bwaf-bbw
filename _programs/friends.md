@@ -12,13 +12,13 @@ page_blocks:
       and design. The program provides individual and corporate members access
       to three events yearly involving high profile professionals in
       architecture and design, engineering, construction, and architectural
-      journalism. Stay tuned for our next Friends event coming this spring.<br
-      />Your annual support directly enables Beverly Willis Architecture
-      Foundation, a nonprofit 501(c)(3) organization, in leading a cultural
-      revolution in the building industry that acknowledges, cultivates and
-      values women’s contributions and achievements- past, present and future.
-      We cultivate leaders at all levels and seek to build global change.
-      Support our efforts and become a BWAF Friend today.</p>
+      journalism. <br /><br />Your annual support directly enables Beverly
+      Willis Architecture Foundation, a nonprofit 501(c)(3) organization, in
+      leading a cultural revolution in the building industry that acknowledges,
+      cultivates and values women’s contributions and achievements- past,
+      present and future. We cultivate leaders at all levels and seek to build
+      global change. <br /><br />Support our efforts and become a BWAF Friend
+      today!</p>
     section_break: false
     include_left-hand_column_text_: true
     label: Intro Text Block
@@ -50,16 +50,17 @@ page_blocks:
       <p>We are thrilled to announce an exclusive event for Friends of BWAF!
       Join us for an evening of inspiration and innovation as some of our
       esteemed friends present their groundbreaking projects in a TED talk-style
-      format.<br />This program is a unique opportunity to witness the creative
-      minds within our community as they share their visionary work and ideas.
-      Our presenters will cover a range of topics that reflect the diverse and
-      dynamic nature of architecture and design today. You'll have the chance to
-      engage with these thought leaders, ask questions, and gain insights into
-      the latest trends and developments in the field.<br />We encourage you to
-      RSVP as soon as possible, as spaces are limited. You can secure your spot
-      by signing up to the Eventbrite linked below!<br />We look forward to
-      seeing you there and sharing this exciting evening with you. Thank you for
-      your continued support of the Beverly Willis Architecture Foundation.</p>
+      format.<br /><br />This program is a unique opportunity to witness the
+      creative minds within our community as they share their visionary work and
+      ideas. Our presenters will cover a range of topics that reflect the
+      diverse and dynamic nature of architecture and design today. You'll have
+      the chance to engage with these thought leaders, ask questions, and gain
+      insights into the latest trends and developments in the field.<br />We
+      encourage you to RSVP as soon as possible, as spaces are limited. You can
+      secure your spot by signing up to the Eventbrite linked above!<br /><br
+      />We look forward to seeing you there and sharing this exciting evening
+      with you. Thank you for your continued support of the Beverly Willis
+      Architecture Foundation!</p>
     section_break: false
     include_left-hand_column_text_: false
     label: Annual Membership Info
@@ -138,11 +139,6 @@ page_blocks:
         title_role: ''
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1657646187/cooper_carry_ekgnpo.png
-        description: ''
-      - title: ''
-        title_role: ''
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1657646141/JBB_Logo_1_nzkx5a.png
         description: ''
       - title: ''
         title_role: ''
