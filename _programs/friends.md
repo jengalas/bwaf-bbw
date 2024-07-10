@@ -76,8 +76,8 @@ page_blocks:
       ten years of professional experience): $250</p><p>Professional (ten or
       more years of professional experience): $500</p><p>Corporate Friendship*:
       $5000</p><h6>*Allows for 4 participants per
-      event&nbsp;</h6><h2><strong>For your annual donation, you will
-      receive:</strong></h2><ul><li><p>Invitation to three BWAF Friends events
+      event&nbsp;</h6><h2><strong>Friends benefits
+      include:</strong></h2><ul><li><p>Invitation to three BWAF Friends events
       per year</p></li><li><p>Built By Women tote bag</p></li><li><p>Early
       notification of BWAF activities</p></li><li><p>Monthly BWAF
       newsletter</p></li><li><p>Copy of BWAF film</p></li><li><p>Prominent
