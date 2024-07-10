@@ -73,8 +73,8 @@ page_blocks:
   - template: text-block
     text_block: >-
       <h2><strong>Annual Membership</strong></h2><p>Early Professional (up to
-      ten years of professional experience): $250</p><p>Professional (ten or
-      more years of professional experience): $500</p><p>Corporate Friendship*:
+      ten years of professional experience): $250<br />Professional (ten+ years
+      of professional experience): $500<br />Corporate Friendship*:
       $5000</p><h6>*Allows for 4 participants per
       event&nbsp;</h6><h2><strong>Friends benefits
       include:</strong></h2><p>Invitation to three BWAF Friends events per
@@ -90,6 +90,16 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
+  - template: buttons-block
+    button:
+      - button_text: Become a Corporate Friend
+        button_link: https://buy.stripe.com/eVa7sTawm8ef7YY8wC
+      - button_text: Become a Professional Friend
+        button_link: https://buy.stripe.com/dR600r1ZQ2TV0ww4gn
+      - button_text: Become an Early Professional Friend
+        button_link: https://buy.stripe.com/14k9B19sibqra76aEM
+    section_break: false
+    include_left-hand_column_text_: false
   - template: image-block
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1709326819/IMG-3541.jpg
@@ -157,16 +167,6 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-  - template: buttons-block
-    button:
-      - button_text: Become a Corporate Friend
-        button_link: https://buy.stripe.com/eVa7sTawm8ef7YY8wC
-      - button_text: Become a Professional Friend
-        button_link: https://buy.stripe.com/dR600r1ZQ2TV0ww4gn
-      - button_text: Become an Early Professional Friend
-        button_link: https://buy.stripe.com/14k9B19sibqra76aEM
-    section_break: false
-    include_left-hand_column_text_: false
 date: 2021-05-05 13:33:04
 description: >-
   The Friends program offers unique networking opportunities and brings together
