@@ -168,22 +168,21 @@ _structures:
     values:
       - label: Buttons
         preview:
-          text: Button
-          subtext: '[Do not modify]'
+          text: Buttons
+          subtext:
           icon: smart_button
         value:
           template: buttons-block
+          button:
+            - button_text:
+              button_link:
+          section_break: false
+          include_left-hand_column_text_: false
         _inputs:
           icon:
             hidden: true
           button:
-            hidden: true
-          button_text:
-            hidden: true
-          button_link:
-            hidden: true
-          buttons_header__optional_:
-            hidden: true
+            hidden: false
       - label: Text Block
         preview:
           text: Text Block
