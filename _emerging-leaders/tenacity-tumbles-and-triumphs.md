@@ -41,11 +41,6 @@ page_blocks:
       Swenson, Senior Principal at MASS Design Group; Isabel Castilla, ASLA,
       Associate Partner at Field Operations; and Julia Murphy, AIA, LEED AP,
       Partner at SOM.
-  - template: portrait-gallery-block-small
-    portrait:
-      - title:
-        title_role:
-        image: /uploads/emerging-leaders-graphic-speaker-schedule-v5.jpg
   - template: featured-portrait-block
     header: TENACITY
     time-location:
