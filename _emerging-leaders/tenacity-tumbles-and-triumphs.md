@@ -31,7 +31,7 @@ page_blocks:
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Medium Header
-      text: Detours, Diligence, Dreams
+      text: Tenacity, Tumbles, and Triumphs
       download: ''
       link_url: ''
       link_text: ''
@@ -41,6 +41,11 @@ page_blocks:
       Swenson, Senior Principal at MASS Design Group; Isabel Castilla, ASLA,
       Associate Partner at Field Operations; and Julia Murphy, AIA, LEED AP,
       Partner at SOM.
+  - template: portrait-gallery-block-small
+    portrait:
+      - title:
+        title_role:
+        image: /uploads/emerging-leaders-graphic-speaker-schedule-v5.jpg
   - template: featured-portrait-block
     header: TENACITY
     time-location:
