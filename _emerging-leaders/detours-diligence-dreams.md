@@ -1,7 +1,7 @@
 ---
 _schema: default
 layout: innerPageCC
-date: 2023-12-04 00:00:00
+date: 2024-09-12 00:00:00
 navCategory: ''
 title: Tenacity, Tumbles, and Triumphs
 description: ''
@@ -40,81 +40,12 @@ page_blocks:
       October 10, and October 24, 2024. Participants will hear from Katie
       Swenson, Senior Principal at MASS Design Group; Isabel Castilla, ASLA,
       Associate Partner at Field Operations; and Julia Murphy, AIA, LEED AP,
-      Partner at SOM
-  - template: portrait-gallery-block-small
-    portrait:
-      - title: Anna Kuchera
-        title_role: Associate, RAMSA
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701736911/Anna.Kuchera_Headshot.jpg
-      - title: Danielle Rose Aspitz
-        title_role: Architectural Designer, KPF
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701736959/DSC_3491.jpg
-      - title: Jade Ferrara
-        title_role: Senior Staff Engineer, Langan
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701737059/Ferrara_Jade.jpg
-      - title: Jennifer Li
-        title_role: Design Associate, Associate AIA, Alloy
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701737095/Jennifer_Li_headshot.jpg
-      - title: Josephine Stoddard
-        title_role: Senior Facade Engineer, Thornton Tomasetti
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701737137/Stoddard_J.jpg
-      - title: Katherine O‘Shea
-        title_role: >-
-          Senior Project Engineer, Plumbing & Fire Protection, Jaros, Baum &
-          Bolles
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701737296/HS_O_Shea-K.jpg
-      - title: Laura Sciarrino
-        title_role: Senior Architect, SOM
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701737358/Laura-Sciarrino_2022_18923_large.jpg
-      - title: Maedeh Tavakoli
-        title_role: Senior Staff Engineer, Langan Engineering
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701737394/Tavakoli_Maedeh.jpg
-      - title: Maria Kefalas
-        title_role: Associate Attorney, Zetlin & De Chiara, LLP
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701737425/Maria-Kefalas.png
-      - title: Megan Friedman
-        title_role: Architect, Grimshaw Architects
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701737460/MeganFriedman_Headshot.jpg
-      - title: Miryam Varona Rogel
-        title_role: BIM Manager, Gilsanz Murray Steficek LLP
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701737504/Varona_1.jpg
-      - title: Morgan Miller
-        title_role: Associate, Severud Associates
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701737545/Severud_Associates_-_Personnel_Photo_-_Miller_Morgan.jpg
-      - title: Stephania Ponce
-        title_role: Economic Inclusion Manager, Gilbane Building Company
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701737585/Stephania_Ponce.jpg
-      - title: Yafei Zhang
-        title_role: Associate Principal/ Adjunct Professor, KPF/ Kean University
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701737637/yafei_headshot.jpg
-      - title: Zheng Wu
-        title_role: Senior Associate Principal, KPF
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701793384/update.jpg
-      - title: Zhurong Qian
-        title_role: Architect, KPF
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701737709/Image.jpg
+      Partner at SOM.
   - template: featured-portrait-block
-    header: DREAMS
-    image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701736611/500x500_KristinaNewmanScott.png
+    header: TUMBLES
+    image: /uploads/isabel-castilla-w5.jpg
     label: Speaker
-    title: Kristina Newman-Scott
+    title: Isabel Castilla
     description: >-
       Kristina Newman-Scott is an award-winning, purpose-driven executive with
       over 20 years of experience in arts and culture, the creative economy,
@@ -158,7 +89,7 @@ page_blocks:
       the US in 2005. She currently lives in Brooklyn with her husband and two
       children.
     time-location:
-      line-1: Tuesday, December 5, 2023, 6:30-8PM
+      line-1: Thursday, September 26, 2024, 6:00-8:00PM
       line-2: ''
     section_break: false
     include_left-hand_column_text_: false
@@ -168,14 +99,14 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-    subtitle: Executive Director, The Greene Space
+    subtitle: Associate Partner, Field Operations
   - template: featured-portrait-block
-    header: DETOURS
+    header: TRIUMPHS
     time-location:
-      line-1: Tuesday, February 13th, 2024, 6:30-8PM
+      line-1: 'Thursday, October 10, 6:00-8:00pm '
       line-2: ''
     label: Speaker
-    title: Allison Robin, LEED AP
+    title: Julia Murphy, AIA, LEED AP
     section_break: false
     include_left-hand_column_text_: false
     lefthand_text:
@@ -184,9 +115,8 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-    image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701736016/Allison_Robin.jpg
-    subtitle: Owner & Co-Founder, Envoie Projects LLC
+    image: /uploads/murphy-julia-2018-680x510-som-lucasblair-0981-1366x1024-c.jpg
+    subtitle: Partner, Skidmore, Owings, & Merrill
     description: >-
       Allison thrives on leading collaborative teams and organizing systems. 
       She has led the development of the firm’s standards of practice and brings
@@ -212,12 +142,12 @@ page_blocks:
       from the Schack Institute of Real Estate at New York University, and her
       Bachelor of Science from Cornell University.
   - template: featured-portrait-block
-    header: DETOURS
+    header: TENACITY
     time-location:
-      line-1: Tuesday, February 13th,  2024, 6:30-8PM
+      line-1: 'Thursday, September 12, 7:30-9:30pm '
       line-2: ''
     label: Speaker
-    title: 'Adrienne Hepler '
+    title: Katie Swenson
     section_break: false
     include_left-hand_column_text_: false
     lefthand_text:
@@ -226,9 +156,8 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-    image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701736421/Adrienne_Hepler.jpg
-    subtitle: Owner & Co-Founder, Envoie Projects LLC
+    image: /uploads/katie-swenson.jpg
+    subtitle: Senior Principal, MASS Design Group
     description: >-
       Adrienne excels at strategic oversight and planning for complex capital
       projects, with a particular passion for and expertise in projects for
@@ -255,50 +184,6 @@ page_blocks:
       a Beverly Willis Foundation Emerging Leader. She received a Master’s
       Degree from the Robert F. Wagner Graduate School of Public Affairs at New
       York University, and her Bachelor of Arts from Tulane University. 
-  - template: featured-portrait-block
-    header: DILIGENCE
-    section_break: false
-    include_left-hand_column_text_: false
-    lefthand_text:
-      header_type: ''
-      text: ''
-      download: ''
-      link_url: ''
-      link_text: ''
-    image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1701736558/Raygorodetsky-248x293.jpg
-    label: Speaker
-    title: Mimi Raygorodetsky
-    subtitle: Principal, Langan
-    description: >-
-      Mimi Raygorodetsky is an environmental practice leader in Langan’s New
-      York City and Denver offices with more than 21 years of experience in
-      environmental consulting and brownfields remediation. She sources and
-      directs large, complex environmental remediation and redevelopment
-      projects from the earliest stages of pre-development diligence, through
-      the remediation/construction phase, to long-term operation and monitoring
-      of remedial systems and engineering controls. She has a comprehensive
-      understanding of federal, state, and local regulatory programs and uses
-      this expertise to guide her clients through a preliminary cost benefit
-      analysis to select the right program(s) given the clients’ legal
-      obligations, development desires, and risk tolerance. She is particularly
-      strong at integrating the requirements of selected programs and client
-      needs to develop and design targeted and streamlined diligence programs
-      and remediation strategies.
-
-      Raygorodetsky is a founding member and current chair of Women@Langan and
-      is also a founding member of Langan’s Diversity & Inclusion Committee. She
-      is also a member of numerous professional organizations including New York
-      Women Executives in Real Estate (WX), the New York City Brownfield
-      Partnership, and the NY Building Congress Council of Industry Women. She
-      also guest lectures at Columbia University on the topic of brownfields
-      redevelopment in New York City.
-
-      In 2017, she was awarded the CREW NY Career Advancement for Women Impact
-      Award.
-    time-location:
-      line-1: Tuesday, January 9th, 6:30-8PM
-      line-2: ''
 _structures:
   page_blocks:
     id_key: template
