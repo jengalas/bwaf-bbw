@@ -3,7 +3,7 @@ _schema: default
 layout: innerPageCC
 date: 2023-12-04 00:00:00
 navCategory: ''
-title: Detours, Diligence, Dreams
+title: Tenacity, Tumbles, and Triumphs
 description: ''
 page_blocks:
   - template: text-block
@@ -36,13 +36,11 @@ page_blocks:
       link_url: ''
       link_text: ''
     text_block: >-
-      Detours, Diligence, and Dreams was held December 5th, 2023, and January
-      9th and February 13th, 2024. Participants heard from speakers Kristina
-      Newman-Scott, Executive Director of The Greene Space; Allison Robin, LEED
-      AP Owner & Co-Founder of Envoie Projects LLC; Adrienne Hepler ,Owner &
-      Co-Founder of Envoie Projects LLC; and Mimi Raygorodetsky, an
-      environmental practice leader in Langan’s New York City and Denver
-      offices.
+      Tenacity, Tumbles, and Triumphs will be held September 12, September 26,
+      October 10, and October 24, 2024. Participants will hear from Katie
+      Swenson, Senior Principal at MASS Design Group; Isabel Castilla, ASLA,
+      Associate Partner at Field Operations; and Julia Murphy, AIA, LEED AP,
+      Partner at SOM
   - template: portrait-gallery-block-small
     portrait:
       - title: Anna Kuchera
