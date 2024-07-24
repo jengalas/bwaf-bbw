@@ -88,7 +88,7 @@ page_blocks:
     header: TUMBLES
     image: /uploads/isabel-castilla-w5.jpg
     label: Speaker
-    title: Isabel Castilla
+    title: Isabel Castilla, ASLA
     description: >-
       Kristina Newman-Scott is an award-winning, purpose-driven executive with
       over 20 years of experience in arts and culture, the creative economy,
