@@ -1,7 +1,7 @@
 ---
 _schema: default
 layout: innerPageCC
-date: 2024-07-24 00:00:00
+date: 2024-07-23 00:00:00
 navCategory: ''
 title: Tenacity, Tumbles, and Triumphs
 description: ''
