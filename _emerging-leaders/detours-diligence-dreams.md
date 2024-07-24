@@ -42,6 +42,49 @@ page_blocks:
       Associate Partner at Field Operations; and Julia Murphy, AIA, LEED AP,
       Partner at SOM.
   - template: featured-portrait-block
+    header: TENACITY
+    time-location:
+      line-1: 'Thursday, September 12, 7:30-9:30pm '
+      line-2: ''
+    label: Speaker
+    title: Katie Swenson
+    section_break: false
+    include_left-hand_column_text_: false
+    lefthand_text:
+      header_type: ''
+      text: ''
+      download: ''
+      link_url: ''
+      link_text: ''
+    image: /uploads/katie-swenson.jpg
+    subtitle: Senior Principal, MASS Design Group
+    description: >-
+      Adrienne excels at strategic oversight and planning for complex capital
+      projects, with a particular passion for and expertise in projects for
+      cultural, mission-driven and not-for-profit clients. She builds and
+      directs large teams and is adept at navigating capital projects of all
+      types and sizes through regulatory review and approvals processes to
+      completion on time and on budget.
+
+      Prior to co-founding Envoie Projects, Adrienne was the Chief Operating
+      Officer for Levien and Company, where she managed staff assignments and
+      client relations, improved operating systems, and directed firm strategy.
+      Before joining Levien, Adrienne worked on the owner’s side, where she
+      served as Director of Capital Projects and Government Relations for The
+      Public Theater in New York City, managing a $42 million renovation to a
+      landmark building, which remained operational during four years of
+      construction. During her tenure at the Lower Manhattan Development
+      Corporation, where she oversaw the implementation of over $200M in
+      Post-9/11 federal grants, she was able to help small nonprofits receive
+      and utilize grant money to make the most impact to their organizations. 
+
+      Adrienne is a member of both WX New York Women Executives in Real Estate
+      and the Owner’s Representative Project Manager Alliance, serves on the
+      Ambassador Council for Nontraditional Employment for Women (NEW), and was
+      a Beverly Willis Foundation Emerging Leader. She received a Master’s
+      Degree from the Robert F. Wagner Graduate School of Public Affairs at New
+      York University, and her Bachelor of Arts from Tulane University. 
+  - template: featured-portrait-block
     header: TUMBLES
     image: /uploads/isabel-castilla-w5.jpg
     label: Speaker
@@ -141,49 +184,6 @@ page_blocks:
       Professional, and received her Master’s Degree in Construction Management
       from the Schack Institute of Real Estate at New York University, and her
       Bachelor of Science from Cornell University.
-  - template: featured-portrait-block
-    header: TENACITY
-    time-location:
-      line-1: 'Thursday, September 12, 7:30-9:30pm '
-      line-2: ''
-    label: Speaker
-    title: Katie Swenson
-    section_break: false
-    include_left-hand_column_text_: false
-    lefthand_text:
-      header_type: ''
-      text: ''
-      download: ''
-      link_url: ''
-      link_text: ''
-    image: /uploads/katie-swenson.jpg
-    subtitle: Senior Principal, MASS Design Group
-    description: >-
-      Adrienne excels at strategic oversight and planning for complex capital
-      projects, with a particular passion for and expertise in projects for
-      cultural, mission-driven and not-for-profit clients. She builds and
-      directs large teams and is adept at navigating capital projects of all
-      types and sizes through regulatory review and approvals processes to
-      completion on time and on budget.
-
-      Prior to co-founding Envoie Projects, Adrienne was the Chief Operating
-      Officer for Levien and Company, where she managed staff assignments and
-      client relations, improved operating systems, and directed firm strategy.
-      Before joining Levien, Adrienne worked on the owner’s side, where she
-      served as Director of Capital Projects and Government Relations for The
-      Public Theater in New York City, managing a $42 million renovation to a
-      landmark building, which remained operational during four years of
-      construction. During her tenure at the Lower Manhattan Development
-      Corporation, where she oversaw the implementation of over $200M in
-      Post-9/11 federal grants, she was able to help small nonprofits receive
-      and utilize grant money to make the most impact to their organizations. 
-
-      Adrienne is a member of both WX New York Women Executives in Real Estate
-      and the Owner’s Representative Project Manager Alliance, serves on the
-      Ambassador Council for Nontraditional Employment for Women (NEW), and was
-      a Beverly Willis Foundation Emerging Leader. She received a Master’s
-      Degree from the Robert F. Wagner Graduate School of Public Affairs at New
-      York University, and her Bachelor of Arts from Tulane University. 
 _structures:
   page_blocks:
     id_key: template
