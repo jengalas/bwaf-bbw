@@ -58,7 +58,7 @@ page_blocks:
       link_text: ''
     image: /uploads/katie-swenson.jpg
     subtitle: Senior Principal, MASS Design Group
-    description: >-
+    description: >
       Adrienne excels at strategic oversight and planning for complex capital
       projects, with a particular passion for and expertise in projects for
       cultural, mission-driven and not-for-profit clients. She builds and
@@ -78,59 +78,24 @@ page_blocks:
       Post-9/11 federal grants, she was able to help small nonprofits receive
       and utilize grant money to make the most impact to their organizations. 
 
-      Adrienne is a member of both WX New York Women Executives in Real Estate
-      and the Owner’s Representative Project Manager Alliance, serves on the
-      Ambassador Council for Nontraditional Employment for Women (NEW), and was
-      a Beverly Willis Foundation Emerging Leader. She received a Master’s
-      Degree from the Robert F. Wagner Graduate School of Public Affairs at New
-      York University, and her Bachelor of Arts from Tulane University. 
+      A nationally recognized design leader, researcher, writer, and educator,
+      Katie Swenson is a Senior Principal at MASS Design Group, where she leads
+      the Advocacy team. Katie is a talented global public speaker and thought
+      leader whose work explores how critical design practice can, and should,
+      promote economic and social equity, environmental sustainability, and
+      healthy communities. 
   - template: featured-portrait-block
     header: TUMBLES
     image: /uploads/isabel-castilla-w5.jpg
     label: Speaker
     title: Isabel Castilla, ASLA
     description: >-
-      Kristina Newman-Scott is an award-winning, purpose-driven executive with
-      over 20 years of experience in arts and culture, the creative economy,
-      community development and entertainment and media. She most recently
-      served as President of BRIC, a leading arts and media institution anchored
-      in Downtown Brooklyn whose work spans contemporary visual and performing
-      arts, media, and civic action. She was the first immigrant and first woman
-      of color to serve as BRIC’s President and one of the very few women of
-      color to lead a major New York cultural institution.
-
-      Under her tenure, BRIC embarked on an ambitious, human-centered process in
-      pursuit of clarity of purpose in the form of a new four-year Strategic
-      Plan. That process led to a re-articulated mission informed by the
-      institution’s impact and legacy, and a new vision statement guided by
-      aspirational goals, centered on artists and the communities served by
-      BRIC. Additionally, she led a renewed commitment to equity, diversity, and
-      inclusivity in every aspect of the organization.
-
-      Newman-Scott’s awards and recognitions include being named one of the City
-      and State New York’s, 2021 Telecommunications Power 50 (individuals
-      shaping New York’s digital future), an Observer’s NYC 2020 Arts Power 50,
-      a National Arts Strategies Creative Community Fellow, A Hive Global
-      Leadership Selectee, and a Next City Urban Vanguard. In June 2018,
-      Americans for the Arts presented Kristina with the Selina Roberts Ottum
-      Award, which recognizes an individual working in arts management who
-      exemplifies extraordinary leadership qualities.
-
-      Previously, Newman-Scott served as the Director of Culture and State
-      Historic Preservation Officer for the State of Connecticut; Director of
-      Marketing, Events and Cultural Affairs for the City of Hartford; Director
-      of Programs at the Boston Center for the Arts; and Director of Visual Arts
-      at Hartford’s Real Art Ways.
-
-      Kristina was appointed to the NYC Department of Cultural Affairs Advisory
-      Commission in 2020 and currently serves on the Boards of National Arts
-      Strategies, New Yorkers for Culture and Arts, the Brooklyn Arts Council
-      and the NYC Arts and Education Roundtable.
-
-      Kristina was born and raised in Kingston, Jamaica and worked as a
-      practicing artist and TV/radio host in her home country before moving to
-      the US in 2005. She currently lives in Brooklyn with her husband and two
-      children.
+      As an Associate Partner at Field Operations, Isabel Castilla brings
+      exceptional attention to design creativity, detailing, and construction
+      implementation. Fully bilingual in Spanish and English, Isabel is a strong
+      communicator with deep experience leading extensive public engagement
+      efforts and complex multi-agency approvals for large public realm
+      projects. 
     time-location:
       line-1: Thursday, September 26, 2024, 6:00-8:00PM
       line-2: ''
@@ -160,30 +125,13 @@ page_blocks:
       link_text: ''
     image: /uploads/murphy-julia-2018-680x510-som-lucasblair-0981-1366x1024-c.jpg
     subtitle: Partner, Skidmore, Owings, & Merrill
-    description: >-
-      Allison thrives on leading collaborative teams and organizing systems. 
-      She has led the development of the firm’s standards of practice and brings
-      detail-driven and systems-focused leadership to every project. Prior to
-      co-founding Envoie Projects, Allison spent 11 years at Levien and Company,
-      where she rose to the position of Chief Financial Officer and oversaw the
-      firm’s financial management.  During those years, she successfully
-      completed a wide range of project types – from ground up construction to
-      historic preservation – and developed a passion for negotiating contracts
-      and claims and resolving disputes.
-
-      Before joining Levien, Allison worked as a project manager for Richter +
-      Ratner Contracting where she developed a strong technical background while
-      managing interior renovations and base building construction projects,
-      including the 45,000 sf Center for Global Conservation at the Bronx Zoo.
-
-      Allison has served as President of Commercial Real Estate Women (CREW) New
-      York, and is an adjunct professor at NYU's Schack Institute of Real
-      Estate, a member of the Owner’s Representative Project Manager Alliance
-      and Professional Women in Construction New York.  Allison was also a
-      Beverly Willis Foundation Emerging Leader. She is a LEED Accredited
-      Professional, and received her Master’s Degree in Construction Management
-      from the Schack Institute of Real Estate at New York University, and her
-      Bachelor of Science from Cornell University.
+    description: >
+      A partner at SOM, Julia Murphy has built a career around two main goals:
+      to solve large-scale architectural problems, and to help move the design
+      and real estate industries toward equality for women and minorities. She
+      is an expert in solving the physical, financial, and administrative
+      challenges of building in New York City, and has founded multiple career
+      development programs for women.
 _structures:
   page_blocks:
     id_key: template
@@ -212,7 +160,7 @@ _structures:
           template: featured-portrait-block
         _inputs:
           description:
-            hidden: false  
+            hidden: false
             label: Biography
       - label: Participants
         preview:
