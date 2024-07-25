@@ -41,6 +41,10 @@ page_blocks:
       Swenson, Senior Principal at MASS Design Group; Isabel Castilla, ASLA,
       Associate Partner at Field Operations; and Julia Murphy, AIA, LEED AP,
       Partner at SOM.
+
+
+      Application deadline is  Friday, August 16 and notifications will be made
+      at the beginning of September. 
   - template: featured-portrait-block
     header: TENACITY
     time-location:
@@ -113,6 +117,12 @@ page_blocks:
       is an expert in solving the physical, financial, and administrative
       challenges of building in New York City, and has founded multiple career
       development programs for women.
+  - template: buttons-block
+    button:
+      - button_text: 'Apply Here '
+        button_link: https://bwaf.wufoo.com/forms/mm6xfr80e1ij3b/
+    section_break: false
+    include_left-hand_column_text_: false
 _structures:
   page_blocks:
     id_key: template
