@@ -58,26 +58,7 @@ page_blocks:
       link_text: ''
     image: /uploads/katie-swenson.jpg
     subtitle: Senior Principal, MASS Design Group
-    description: >
-      Adrienne excels at strategic oversight and planning for complex capital
-      projects, with a particular passion for and expertise in projects for
-      cultural, mission-driven and not-for-profit clients. She builds and
-      directs large teams and is adept at navigating capital projects of all
-      types and sizes through regulatory review and approvals processes to
-      completion on time and on budget.
-
-      Prior to co-founding Envoie Projects, Adrienne was the Chief Operating
-      Officer for Levien and Company, where she managed staff assignments and
-      client relations, improved operating systems, and directed firm strategy.
-      Before joining Levien, Adrienne worked on the owner’s side, where she
-      served as Director of Capital Projects and Government Relations for The
-      Public Theater in New York City, managing a $42 million renovation to a
-      landmark building, which remained operational during four years of
-      construction. During her tenure at the Lower Manhattan Development
-      Corporation, where she oversaw the implementation of over $200M in
-      Post-9/11 federal grants, she was able to help small nonprofits receive
-      and utilize grant money to make the most impact to their organizations. 
-
+    description: >-
       A nationally recognized design leader, researcher, writer, and educator,
       Katie Swenson is a Senior Principal at MASS Design Group, where she leads
       the Advocacy team. Katie is a talented global public speaker and thought
