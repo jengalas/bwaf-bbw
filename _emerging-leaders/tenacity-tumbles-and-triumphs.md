@@ -213,6 +213,7 @@ _structures:
         _inputs:
           description:
             hidden: false  
+            label: Biography
       - label: Participants
         preview:
           text: Participants
