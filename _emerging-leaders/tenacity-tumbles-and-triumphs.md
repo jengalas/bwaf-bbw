@@ -210,6 +210,9 @@ _structures:
           text: Speaker
         value:
           template: featured-portrait-block
+        _inputs:
+          description:
+            hidden: false  
       - label: Participants
         preview:
           text: Participants
