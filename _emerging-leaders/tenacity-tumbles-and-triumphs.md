@@ -55,7 +55,7 @@ page_blocks:
     header: TENACITY
     time-location:
       line-1: 'Thursday, September 12, 7:30-9:30pm '
-      line-2: ''
+      line-2: The Bev, 424 W 33rd Street, Suite 280, New York, NY 10001
     label: Speaker
     title: Katie Swenson
     section_break: false
