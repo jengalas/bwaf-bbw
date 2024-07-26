@@ -103,7 +103,7 @@ page_blocks:
     header: TRIUMPHS
     time-location:
       line-1: 'Thursday, October 10, 6:00-8:00pm '
-      line-2: ''
+      line-2: TYLin/Silman, 32 Old Slip, New York, NY 10005
     label: Speaker
     title: Julia Murphy, AIA, LEED AP
     section_break: false
