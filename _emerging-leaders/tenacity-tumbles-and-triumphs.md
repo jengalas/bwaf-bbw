@@ -89,7 +89,7 @@ page_blocks:
       projects. 
     time-location:
       line-1: Thursday, September 26, 2024, 6:00-8:00PM
-      line-2: ''
+      line-2: Marvel, 7 Lispenard Street, New York, NY 10013
     section_break: false
     include_left-hand_column_text_: false
     lefthand_text:
