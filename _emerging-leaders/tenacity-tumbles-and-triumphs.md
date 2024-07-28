@@ -190,10 +190,10 @@ _structures:
           icon:
             hidden: false
           button:
-            hidden: false
+            hidden: true
           lefthand_text:
             hidden: true
           miscellaneous:
-            type: markdown              
+            type: html              
 _unlisted: false
 ---
