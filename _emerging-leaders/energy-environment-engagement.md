@@ -237,6 +237,13 @@ _structures:
           text: Speaker
         value:
           template: featured-portrait-block
+        _inputs:
+          description: 
+            type: html
+            hidden: false  
+            label: Biography
+          image:
+            type: image
       - label: Participants
         preview:
           text: Participants
