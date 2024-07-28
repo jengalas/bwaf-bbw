@@ -243,6 +243,7 @@ _structures:
             hidden: false  
             label: Biography
           image:
+            type: image
       - label: Participants
         preview:
           text: Participants
