@@ -163,5 +163,37 @@ _structures:
             - title:
               title_role:
               image:
+      - label: Image Block
+        preview:
+          text: Image Block
+          subtext: Add images and captions
+          icon:
+        value:
+          template: image-block
+          button:
+            - button_text:
+              button_link:
+          section_break: false
+      - label: Text Block/Details
+        preview:
+          text: Text Block/Details
+          subtext: 
+          icon:
+        value:
+          template: miscellaneous-block
+          button:
+            - button_text:
+              button_link:
+          section_break: false
+          include_left-hand_column_text_: true
+        _inputs:
+          icon:
+            hidden: false
+          button:
+            hidden: false
+          lefthand_text:
+            hidden: true
+          miscellaneous:
+            type: markdown              
 _unlisted: false
 ---
