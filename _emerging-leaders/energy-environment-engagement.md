@@ -238,9 +238,11 @@ _structures:
         value:
           template: featured-portrait-block
         _inputs:
-          description:
+          description: 
+            type: html
             hidden: false  
             label: Biography
+          image:
       - label: Participants
         preview:
           text: Participants
