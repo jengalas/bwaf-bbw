@@ -174,13 +174,13 @@ _structures:
             - button_text:
               button_link:
           section_break: false
-      - label: Text Block/Details
+      - label: Text Block
         preview:
-          text: Text Block/Details
-          subtext: 
+          text: Text Block
+          subtext:
           icon:
         value:
-          template: miscellaneous-block
+          template: text-block
           button:
             - button_text:
               button_link:
@@ -190,10 +190,10 @@ _structures:
           icon:
             hidden: false
           button:
-            hidden: true
+            hidden: false
           lefthand_text:
-            hidden: true
-          miscellaneous:
-            type: html              
+            hidden: false
+          text_block:
+            type: markdown
 _unlisted: false
 ---
