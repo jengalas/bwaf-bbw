@@ -176,6 +176,22 @@ page_blocks:
         button_link:
     section_break: false
     image:
+      - image: /uploads/1720793723932.jpeg
+        caption: >-
+          Industry Leaders Roundtable Retreat: Chicago, IL, June 25-26, 2024,
+          Graham Foundation
+      - image: /uploads/1720793720254.jpeg
+        caption: >-
+          Industry Leaders Roundtable Retreat: Chicago, IL, June 25-26, 2024,
+          Obama Presidential Center model tour 
+      - image: /uploads/1720793724889.jpeg
+        caption: >-
+          Industry Leaders Roundtable Retreat: Chicago, IL, June 25-26, 2024,
+          Obama Presidential Center hard hat tour 
+      - image: /uploads/img-8564.jpeg
+        caption: >-
+          Industry Leaders Roundtable Retreat: Chicago, IL, June 25-26, 2024 at
+          the Experimental Station 
       - image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1621354567/RT5_uiahzn.jpg
         caption: Industry Leaders Roundtable Retreat, Miami, FL, December 3-4, 2018
@@ -190,8 +206,6 @@ page_blocks:
       - image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1621354718/IMG_9661_wszhuh.jpg
         caption: Industry Leaders Roundtable Retreat, Chicago, IL, October 23-24, 2017
-      - image: ''
-        caption: ''
     include_left-hand_column_text_: false
     lefthand_text:
       header_type: ''
