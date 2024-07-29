@@ -166,6 +166,10 @@ _structures:
           text: Speaker
         value:
           template: featured-portrait-block
+        _inputs:
+          description:
+            hidden: false
+            label: Biography
       - label: Image
         preview:
           image:
