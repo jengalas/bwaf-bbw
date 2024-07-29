@@ -39,6 +39,27 @@ page_blocks:
       and engineering to change culture by providing research, information and
       action-oriented programs to achieve greater representation of women in the
       AEC industries.
+
+
+      BWAF is delighted to share the second of three Industry Leaders Roundtable
+      events happening in cities across North America. Taking place in Toronto
+      on September 24 & 25, this immersive two-day retreat welcomes senior
+      thought leaders across the built environment for a rigorous and engaging
+      series of conversations and discussions. Attendees will have the
+      opportunity to explore innovative strategies, share best practices, and
+      network with peers in the industry. The event aims to foster collaboration
+      and drive forward-thinking solutions to some of the most pressing
+      challenges in architecture, engineering, and construction. Join us in
+      shaping the future of the built environment through dynamic and impactful
+      dialogue. 
+
+
+      More details about Industry Leaders Roundtable: Toronto and how to
+      register coming soon. 
+
+
+      Keep reading to learn about our recent Industry Leaders Roundtable:
+      Chicago program. 
   - template: image-block
     button:
       - button_text:
