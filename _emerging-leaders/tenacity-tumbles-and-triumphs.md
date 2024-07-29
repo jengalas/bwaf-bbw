@@ -170,6 +170,19 @@ _structures:
           description:
             hidden: false
             label: Biography
+      - label: Image
+        preview:
+          image:
+            - key: image
+          icon: image
+          subtext: Add images and captions
+        value:
+          template: image-block
+          image:
+          image_caption_text:
+          alt_text:
+          section_break: false
+          include_left-hand_column_text_: false              
       - label: Participants
         preview:
           text: Participants
