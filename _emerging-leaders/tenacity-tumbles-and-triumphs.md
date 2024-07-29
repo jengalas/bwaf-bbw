@@ -45,6 +45,23 @@ page_blocks:
 
       Application deadline is  Friday, August 16 and notifications will be made
       at the beginning of September. 
+  - template: image-block
+    button:
+      - button_text:
+        button_link:
+    section_break: false
+    include_left-hand_column_text_: false
+    lefthand_text:
+      header_type: ''
+      text: ''
+      download: ''
+      link_url: ''
+      link_text: ''
+    image: >-
+      /uploads/emerging-leaders-2024-graphic.jpg
+    alt_text: >-
+      
+    image_caption_text: ''    
   - template: buttons-block
     button:
       - button_text: 'Apply Here '
