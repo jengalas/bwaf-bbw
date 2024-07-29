@@ -170,6 +170,7 @@ _structures:
           description:
             hidden: false
             label: Biography
+            type: textarea
       - label: Image
         preview:
           image:
