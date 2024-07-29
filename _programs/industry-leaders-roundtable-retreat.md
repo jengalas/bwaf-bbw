@@ -128,69 +128,7 @@ page_blocks:
       engineering
 
 
-      **Day 1: Graham Foundation<br>**10:00-11:00<br>Welcome breakfast and
-      Introduction
-
-
-      11:00-12:00<br>*Value vs. Values: Time and the evolving workforce<br>*Ann
-      Lui, Future Firm
-
-
-      12:00-1:00<br>*Values in the Studio: Teaching Leadership<br>*Reed Kroloff,
-      IIT
-
-
-      1:00-1:30<br>Lunch Served
-
-
-      1:30-2:30<br>*The Value of Design: Advancing the stakes and
-      intersections<br>*Jackie Koo, Koo Architecture
-
-
-      2:30-3:30<br>*Inheriting the past, building for the future: New workplace
-      ideals<br>*Lynda Dossey, AIA, Jahn/
-
-
-      3:30-4:30<br>*Maintaining Value: Underacknowledged Archives<br>*Alison
-      Fisher, Art Institute of Chicago
-
-
-      6:30-9:30<br>Cocktail Reception + Dinner<br>Gilt Bar<br>230 W Kinzie
-      Street, Chicago, IL 60654
-
-
-      **Day 2: Experimental Station**
-
-
-      10:00- 11:00<br>*Relearning Value I: Creativity in Community<br>*Christy
-      Cheng, OMA + Hana Ishikawa, Site Design Group
-
-
-      11:00-12:00<br>*Relearning Value II: Challenges in Community<br>*Dr.
-      Louise Bernard, Obama Presidential Center Museum and Nootan Bharani, AIA,
-      Arts+ Public Life, University of Chicago
-
-
-      12:00-2:00<br>*Relearning Value III: Building in Community<br>*Tour of
-      Obama Presidential Center\*
-
-
-      \*First 10 registrations receive a private Hard-Hat Tour.
-
-
-      2:00-3:00<br>Concluding Lunch
-
-
-      ## **Registration Information**
-
-
-      Space is limited to 20 participants. First 10 registrations receive a
-      private Hard Hat Tour of the Obama Presidential Center. Remaining
-      participants will receive a outside-the-fence and model tour, including a
-      history of Jackson Park and visits to the Japanese Garden that dates back
-      to the 1893 World's Columbian Exposition and Yoko Ono's first public
-      artwork in the US. Registrants will receive an  itinerary and bibliography
-      in advance of the event.
+      &nbsp;
     lefthand_text:
       header_type: ''
       text: ''
