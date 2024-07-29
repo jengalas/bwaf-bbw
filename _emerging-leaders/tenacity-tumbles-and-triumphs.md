@@ -60,7 +60,7 @@ page_blocks:
     image: >-
       /uploads/emerging-leaders-2024-graphic.jpg
     alt_text: >-
-      
+      Dates for the program (Sept. 12, Sept. 26, Oct. 10, Oct. 24, 2024) and a schedule of sessions.
     image_caption_text: ''    
   - template: buttons-block
     button:
