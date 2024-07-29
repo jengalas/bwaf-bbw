@@ -244,6 +244,13 @@ _structures:
             label: Biography
           image:
             type: image
+      - label: Image Block
+        preview:
+          text: Image Block
+          subtext: Add images and captions
+          icon:
+        value:
+          template: image-block      
       - label: Participants
         preview:
           text: Participants
