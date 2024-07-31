@@ -156,7 +156,7 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-    image:
+    image: /uploads/bwaf-logo-two-color-black-on-white.jpg
     subtitle:
     description:
 _structures:
