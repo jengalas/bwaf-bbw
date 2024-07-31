@@ -141,6 +141,24 @@ page_blocks:
       is an expert in solving the physical, financial, and administrative
       challenges of building in New York City, and has founded multiple career
       development programs for women.
+  - template: featured-portrait-block
+    header: MIXER
+    time-location:
+      line-1: 'Thursday, October 24, 6:00-9:30pm '
+      line-2:
+    label:
+    title:
+    section_break: false
+    include_left-hand_column_text_: false
+    lefthand_text:
+      header_type: ''
+      text: ''
+      download: ''
+      link_url: ''
+      link_text: ''
+    image:
+    subtitle:
+    description:
 _structures:
   page_blocks:
     id_key: template
