@@ -160,6 +160,12 @@ page_blocks:
     image: /uploads/bwaf-logo-two-color-black-on-white.jpg
     subtitle:
     description:
+  - template: buttons-block
+    button:
+      - button_text: 'Apply Here '
+        button_link: https://bwaf.wufoo.com/forms/mm6xfr80e1ij3b/
+    section_break: false
+    include_left-hand_column_text_: false
 _structures:
   page_blocks:
     id_key: template
