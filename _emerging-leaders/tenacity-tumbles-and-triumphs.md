@@ -45,7 +45,8 @@ page_blocks:
 
       Application deadline is  Friday, August 16 and notifications will be made
       at the beginning of September.  Total program cost is $1000. Two full,
-      need-based scholarships will be available. 
+      need-based scholarships will be made available to qualifying individuals
+      as selected by BWAF. 
   - template: image-block
     image: /uploads/emerging-leaders-2024-graphic.jpg
     image_caption_text: ''
