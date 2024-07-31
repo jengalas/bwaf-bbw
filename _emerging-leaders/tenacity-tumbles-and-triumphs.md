@@ -44,24 +44,25 @@ page_blocks:
 
 
       Application deadline is  Friday, August 16 and notifications will be made
-      at the beginning of September. 
+      at the beginning of September.  Total program cost is $1000. Two full,
+      need-based scholarships will be available. 
   - template: image-block
+    image: /uploads/emerging-leaders-2024-graphic.jpg
+    image_caption_text: ''
+    alt_text: >-
+      Dates for the program (Sept. 12, Sept. 26, Oct. 10, Oct. 24, 2024) and a
+      schedule of sessions.
+    section_break: false
+    include_left-hand_column_text_: false
     button:
       - button_text:
         button_link:
-    section_break: false
-    include_left-hand_column_text_: false
     lefthand_text:
       header_type: ''
       text: ''
       download: ''
       link_url: ''
       link_text: ''
-    image: >-
-      /uploads/emerging-leaders-2024-graphic.jpg
-    alt_text: >-
-      Dates for the program (Sept. 12, Sept. 26, Oct. 10, Oct. 24, 2024) and a schedule of sessions.
-    image_caption_text: ''    
   - template: buttons-block
     button:
       - button_text: 'Apply Here '
@@ -182,7 +183,7 @@ _structures:
           image_caption_text:
           alt_text:
           section_break: false
-          include_left-hand_column_text_: false              
+          include_left-hand_column_text_: false
       - label: Participants
         preview:
           text: Participants
