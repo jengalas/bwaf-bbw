@@ -47,6 +47,12 @@ page_blocks:
       at the beginning of September.  Total program cost is $1000. Two full,
       need-based scholarships will be made available to qualifying individuals
       as selected by BWAF. 
+  - template: buttons-block
+    button:
+      - button_text: 'Apply Here '
+        button_link: https://bwaf.wufoo.com/forms/mm6xfr80e1ij3b/
+    section_break: false
+    include_left-hand_column_text_: false
   - template: image-block
     image: /uploads/emerging-leaders-2024-graphic.jpg
     image_caption_text: ''
@@ -64,12 +70,6 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-  - template: buttons-block
-    button:
-      - button_text: 'Apply Here '
-        button_link: https://bwaf.wufoo.com/forms/mm6xfr80e1ij3b/
-    section_break: false
-    include_left-hand_column_text_: false
   - template: featured-portrait-block
     header: TENACITY
     time-location:
