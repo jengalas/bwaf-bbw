@@ -520,6 +520,10 @@ page_blocks:
           Architecture. She worked for Philip Johnson in the 80’s and taught at
           the University of Virginia, New Jersey Institute of Technology and her
           alma mater. 
+      - title: 'Ryan Langley '
+        title_role: Operations & Communications Coordinator
+        image: /uploads/img-6010.jpg
+        description: ''
     section_break: false
 description: Beverly Willis Architecture Foundation Board and Staff
 ---
