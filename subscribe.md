@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Subscribe
-permalink: "/subscribe"
-header: Angles, a monthly BWAF newsletter
-text-block: Sign up to receive news, updates, and ways to get involved in supporting
-  women and the acknowledgement of their contributions to the built environment.
-description: Sign up to receive news, updates, and ways to get involved in supporting
-  women and the acknowledgement of their contributions to the built environment.
-
-#  CloudCannon config
+permalink: /subscribe
+header: Biweekly BWAF newsletter
+text-block: >-
+  Sign up to receive news, updates, and ways to get involved in supporting women
+  and the acknowledgement of their contributions to the built environment.
+description: >-
+  Sign up to receive news, updates, and ways to get involved in supporting women
+  and the acknowledgement of their contributions to the built environment.
 _inputs:
   title:
     hidden: true
