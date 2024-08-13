@@ -194,22 +194,22 @@ _structures:
         value:
           template: featured-portrait-block
           header:
-            time-location:
-              line-1:
-              line-2:
-            label:
-            title:
-            section_break: false
-            include_left-hand_column_text_: false
-            lefthand_text:
-              header_type: ''
-              text: ''
-              download: ''
-              link_url: ''
-              link_text: ''
-            image:
-            subtitle:
-            description:
+          time-location:
+            line-1:
+            line-2:
+          label:
+          title:
+          section_break: false
+          include_left-hand_column_text_: false
+          lefthand_text:
+            header_type: ''
+            text: ''
+            download: ''
+            link_url: ''
+            link_text: ''
+          image:
+          subtitle:
+          description:
       - label: Image
         preview:
           image:
