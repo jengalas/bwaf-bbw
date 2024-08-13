@@ -167,6 +167,13 @@ page_blocks:
         button_link: https://bwaf.wufoo.com/forms/mm6xfr80e1ij3b/
     section_break: false
     include_left-hand_column_text_: false
+  - template: image-block
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1723553461/emerging-leaders-2024-graphic-v2.jpg
+    image_caption_text:
+    alt_text:
+    section_break: false
+    include_left-hand_column_text_: false
 _structures:
   page_blocks:
     id_key: template
