@@ -71,15 +71,6 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-  - template: image-block
-    image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1723553461/emerging-leaders-2024-graphic-v2.jpg
-    image_caption_text:
-    alt_text: >-
-      Dates for the program (Sept. 12, Sept. 26, Oct. 10, Oct. 24, 2024) and a
-      schedule of sessions.
-    section_break: false
-    include_left-hand_column_text_: false
   - template: featured-portrait-block
     header: TENACITY
     time-location:
