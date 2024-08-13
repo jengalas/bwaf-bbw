@@ -54,7 +54,8 @@ page_blocks:
     section_break: false
     include_left-hand_column_text_: false
   - template: image-block
-    image: /uploads/emerging-leaders-2024-graphic.jpg
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1723553461/emerging-leaders-2024-graphic-v2.jpg
     image_caption_text: ''
     alt_text: >-
       Dates for the program (Sept. 12, Sept. 26, Oct. 10, Oct. 24, 2024) and a
