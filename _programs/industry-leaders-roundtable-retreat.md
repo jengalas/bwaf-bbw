@@ -54,12 +54,13 @@ page_blocks:
       dialogue. 
 
 
-      More details about Industry Leaders Roundtable: Toronto and how to
-      register coming soon. 
-
-
-      Keep reading to learn about our recent Industry Leaders Roundtable:
-      Chicago program. 
+      Stay tuned for more information regarding speakers. 
+  - template: buttons-block
+    button:
+      - button_text: Register Here
+        button_link: https://www.eventbrite.com/e/989006433867?aff=oddtdtcreator
+    section_break: false
+    include_left-hand_column_text_: false
   - template: image-block
     button:
       - button_text:
@@ -72,13 +73,13 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-    image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1718637060/061724_IndustryLeadersRoundtableInvite.png
+    image: /uploads/bwaf-graphic-templates-toronto.jpg
     alt_text: >-
-      Mint green background with white and grey text that reads "2024 Industry
-      Leaders Roundtable: Chicago. Graham Foundation Madlener House, 4 West
-      Burton Place Chicago, Illinois 60610. June 25-26, 2024. Values-Driven
-      Design"
+      Orange background with white and grey text that reads: "2024 Industry
+      Leaders Roundtable: Toronto, T3 Bayside, 251 Queens Quay East, Toronto,
+      Onatario, M5A 4K9; Toronto Metropolitan University, 325 Church Street, ARC
+      206, Toronto, Ontario, M5B 2M2; Values Driven Design, Beverly Willis
+      Architecture Foundation"
     image_caption_text: ''
   - template: image-block
     button:
@@ -92,12 +93,15 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-    image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1718637419/061724_IndustryLeadersRoundtableInvite2.png
-    alt_text: >-
-      Mint green background with white and grey text that lists the agenda
-      described below.
+    image: /uploads/bwaf-graphic-templates-updated-240814.jpg
+    alt_text:
     image_caption_text: ''
+  - template: buttons-block
+    button:
+      - button_text: Register Here
+        button_link: https://www.eventbrite.com/e/989006433867?aff=oddtdtcreator
+    section_break: false
+    include_left-hand_column_text_: false
   - template: miscellaneous-block
     button:
       - button_text:
