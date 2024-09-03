@@ -73,7 +73,7 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-    image: /uploads/240903-toronto-graphic.jpg
+    image: /uploads/bwaf-graphic-templates-toronto.jpg
     alt_text: >-
       Orange background with white and grey text that reads: "2024 Industry
       Leaders Roundtable: Toronto, T3 Bayside, 251 Queens Quay East, Toronto,
@@ -93,7 +93,7 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-    image: /uploads/240903-toronto-graphic2.jpg
+    image: /uploads/bwaf-graphic-templates-updated-240814.jpg
     alt_text: 'Grey text on light orange background lists event schedule '
     image_caption_text: ''
   - template: buttons-block
@@ -112,135 +112,64 @@ page_blocks:
       ## **Schedule**
 
 
-      **Day 1: T3 Bayside**
+      **Day 1: T3 Bayside<br>**251 Queens Quay East, Toronto
 
 
-      251 Queens Quay East, Toronto
+      <u>9:30-10:00<br /></u>*Welcome breakfast + networking*
 
 
-      <u>9:30-10:00</u>
+      <u>10:00-11:00<br /></u>*Introduction by Tizziana Baldenebro + Host
+      Committee*
 
 
-      *Welcome breakfast + networking*
+      <u>11:00-12:00<br /></u>*Value vs. Values: Time and the evolving
+      workforce<br>*Melissa Burton, Arup
 
 
-      <u>10:00-11:00</u>
+      <u>12:00-1:00<br /></u>*The Value of Design: Advancing the stakes and
+      intersections<br>*Angelica Baccon, SHoP Architects
 
 
-      *Introduction by Tizziana Baldenebro + Host Committee*
+      <u>1:00-2:00<br /></u>Lunch + Breakout Session I
 
 
-      <u>11:00-12:00</u>
+      <u>2:30-4:00<br /></u>*Value in the Studio: Teaching Leadership
+      Panel*<br>Maya Przybylski, University of Waterloo<br>Pina Petricone, UT
+      Daniels <br>Lisa Landrum, TMU
 
 
-      *Value vs. Values: Time and the evolving workforce*
+      <u>4:00-5:00<br /></u>*Group Discussion*
 
 
-      Melissa Burton, Arup
+      <u>7:00-9:00<br /></u>*Cocktail Reception + Dinner*
 
 
-      <u>12:00-1:00</u>
+      **Day 2: TMU<br>**325 Church Street, ARC 206, Toronto
 
 
-      *The Value of Design: Advancing the stakes and intersections*
+      <u>9:00- 10:30<br /></u>*Welcome breakfast<br>Exhibition Tour* Buone
+      Nuove/Good News: Women In Architecture – from MAXXI to MET
 
 
-      Angelica Baccon, SHoP Architects
+      <u>10:30-11:30<br /></u>*Re-learning Value I<br>*Camille Mitchell, BEAT
+      Advisory Committee<br>Elsa Lam, BEAT Advisory Committee
 
 
-      <u>1:00-2:00</u>
+      <u>11:30-12:30<br /></u>*Re-learning Value II<br>*DIALOG Design & SvN
+      Architects + Planners Panel
 
 
-      Lunch + Breakout Session I
+      <u>12:30-1:30<br /></u>*Lunch + Breakout Session II*
 
 
-      <u>2:30-4:00</u>
+      <u>1:30-3:30<br /></u>*Site Tour<br>MRKT Alexandra Park*
 
 
-      *Value in the Studio: Teaching Leadership Panel*<br>Maya Przybylski,
-      University of Waterloo<br>Pina Petricone, UT Daniels <br>Lisa Landrum, TMU
+      <u>4:00-5:00<br /></u>*Keynote<br>*Sarah Midanik, Gord Downie & Chanie
+      Wenjack Fund
 
 
-      <u>4:00-5:00</u>
-
-
-      *Group Discussion*
-
-
-      <u>7:00-9:00</u>
-
-
-      *Cocktail Reception + Dinner*
-
-
-      **Day 2: TMU**
-
-
-      325 Church Street, ARC 206, Toronto
-
-
-      <u>9:00- 10:30</u>
-
-
-      *Welcome breakfast*
-
-
-      *Exhibition Tour* Buone Nuove/Good News: Women In Architecture – from
-      MAXXI to MET
-
-
-      <u>10:30-11:30</u>
-
-
-      *Re-learning Value I*
-
-
-      Camille Mitchell, BEAT Advisory Committee
-
-
-      Elsa Lam, BEAT Advisory Committee
-
-
-      <u>11:30-12:30</u>
-
-
-      *Re-learning Value II*
-
-
-      DIALOG Design & SvN Architects + Planners Panel
-
-
-      <u>12:30-1:30</u>
-
-
-      *Lunch + Breakout Session II*
-
-
-      <u>1:30-3:30</u>
-
-
-      *Site Tour*
-
-
-      *MRKT Alexandra Park*
-
-
-      <u>4:00-5:00</u>
-
-
-      *Keynote*
-
-
-      Sarah Midanik, Gord Downie & Chanie Wenjack Fund
-
-
-      <u>5:00-5:30</u>
-
-
-      *Group Discussion*
-
-
-      BWAF Wrap Up
+      <u>5:00-5:30<br /></u>*Group Discussion<br>*BWAF Wrap Up
 
 
       ## <br>**Why attend?**
