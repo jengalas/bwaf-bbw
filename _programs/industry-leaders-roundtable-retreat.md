@@ -96,12 +96,6 @@ page_blocks:
     image: /uploads/bwaf-graphic-templates-updated-240814.jpg
     alt_text: 'Grey text on light orange background lists event schedule '
     image_caption_text: ''
-  - template: buttons-block
-    button:
-      - button_text: Register Here
-        button_link: https://www.eventbrite.com/e/989006433867?aff=oddtdtcreator
-    section_break: false
-    include_left-hand_column_text_: false
   - template: miscellaneous-block
     button:
       - button_text:
@@ -202,6 +196,12 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
+  - template: buttons-block
+    button:
+      - button_text: Register Here
+        button_link: https://www.eventbrite.com/e/989006433867?aff=oddtdtcreator
+    section_break: false
+    include_left-hand_column_text_: false
   - template: buttons-block
     button:
       - button_text: 2022 Industry Leaders Roundtable
