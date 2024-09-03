@@ -70,7 +70,27 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-    image: /uploads/bwaf-graphic-templates-updated-240814.jpg
+    image: /uploads/bwaf-graphic-templates-toronto.jpg
+    alt_text: >-
+      Orange background with white and grey text that reads: "2024 Industry
+      Leaders Roundtable: Toronto, T3 Bayside, 251 Queens Quay East, Toronto,
+      Onatario, M5A 4K9; Toronto Metropolitan University, 325 Church Street, ARC
+      206, Toronto, Ontario, M5B 2M2; Values Driven Design, Beverly Willis
+      Architecture Foundation"
+    image_caption_text: ''
+  - template: image-block
+    button:
+      - button_text:
+        button_link:
+    section_break: false
+    include_left-hand_column_text_: false
+    lefthand_text:
+      header_type: ''
+      text: ''
+      download: ''
+      link_url: ''
+      link_text: ''
+    image: /uploads/240903-toronto-landscape-speakers.jpg
     alt_text: >-
       Orange background with white and grey text that reads: "2024 Industry
       Leaders Roundtable: Toronto, T3 Bayside, 251 Queens Quay East, Toronto,
