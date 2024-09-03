@@ -52,9 +52,6 @@ page_blocks:
       challenges in architecture, engineering, and construction. Join us in
       shaping the future of the built environment through dynamic and impactful
       dialogue. 
-
-
-      Stay tuned for more information regarding speakers. 
   - template: buttons-block
     button:
       - button_text: Register Here
