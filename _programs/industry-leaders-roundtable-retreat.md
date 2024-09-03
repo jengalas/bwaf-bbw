@@ -70,7 +70,7 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-    image: /uploads/240903-toronto-graphic2.jpg
+    image: /uploads/bwaf-graphic-templates-updated-240814.jpg
     alt_text: >-
       Orange background with white and grey text that reads: "2024 Industry
       Leaders Roundtable: Toronto, T3 Bayside, 251 Queens Quay East, Toronto,
