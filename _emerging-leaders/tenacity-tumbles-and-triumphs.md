@@ -97,19 +97,11 @@ page_blocks:
       healthy communities. 
   - template: featured-portrait-block
     header: TUMBLES
-    image: /uploads/isabel-castilla-w5.jpg
-    label: Speaker
-    title: Isabel Castilla, ASLA
-    description: >-
-      As an Associate Partner at Field Operations, Isabel Castilla brings
-      exceptional attention to design creativity, detailing, and construction
-      implementation. Fully bilingual in Spanish and English, Isabel is a strong
-      communicator with deep experience leading extensive public engagement
-      efforts and complex multi-agency approvals for large public realm
-      projects. 
     time-location:
       line-1: Thursday, September 26, 2024, 6:00-8:00PM
       line-2: Marvel, 7 Lispenard Street, New York, NY 10013
+    label: Speaker
+    title: Isabel Castilla, ASLA
     section_break: false
     include_left-hand_column_text_: false
     lefthand_text:
@@ -118,7 +110,16 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
+    image: /uploads/isabel-castilla-w5.jpg
     subtitle: Associate Partner, Field Operations
+    description: >-
+      <p>As an Associate Partner at Field Operations, Isabel Castilla brings
+      exceptional attention to design creativity, detailing, and construction
+      implementation. Fully bilingual in Spanish and English, Isabel is a strong
+      communicator with deep experience leading extensive public engagement
+      efforts and complex multi-agency approvals for large public realm
+      projects. She is also the landscape architect member of the New York City
+      Public Design Commission<em>.</em></p>
   - template: featured-portrait-block
     header: TRIUMPHS
     time-location:
@@ -216,7 +217,7 @@ _structures:
             hidden: false
             label: Biography
           image:
-            type: image  
+            type: image
       - label: Image
         preview:
           image:
