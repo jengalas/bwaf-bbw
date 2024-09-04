@@ -101,6 +101,30 @@ page_blocks:
       line-1: Thursday, September 26, 2024, 6:00-8:00PM
       line-2: Marvel, 7 Lispenard Street, New York, NY 10013
     label: Speaker
+    title: Julia Murphy, AIA, LEED AP
+    section_break: false
+    include_left-hand_column_text_: false
+    lefthand_text:
+      header_type: ''
+      text: ''
+      download: ''
+      link_url: ''
+      link_text: ''
+    image: /uploads/murphy-julia-2018-680x510-som-lucasblair-0981-1366x1024-c.jpg
+    subtitle: Partner, Skidmore, Owings, & Merrill
+    description: >-
+      <p>A partner at SOM, Julia Murphy has built a career around two main
+      goals: to solve large-scale architectural problems, and to help move the
+      design and real estate industries toward equality for women and
+      minorities. She is an expert in solving the physical, financial, and
+      administrative challenges of building in New York City, and has founded
+      multiple career development programs for women.</p>
+  - template: featured-portrait-block
+    header: TRIUMPHS
+    time-location:
+      line-1: 'Thursday, October 10, 6:00-8:00pm '
+      line-2: TYLin/Silman, 32 Old Slip, New York, NY 10005
+    label: Speaker
     title: Isabel Castilla, ASLA
     section_break: false
     include_left-hand_column_text_: false
@@ -119,31 +143,7 @@ page_blocks:
       communicator with deep experience leading extensive public engagement
       efforts and complex multi-agency approvals for large public realm
       projects. She is also the landscape architect member of the New York City
-      Public Design Commission<em>.</em></p>
-  - template: featured-portrait-block
-    header: TRIUMPHS
-    time-location:
-      line-1: 'Thursday, October 10, 6:00-8:00pm '
-      line-2: TYLin/Silman, 32 Old Slip, New York, NY 10005
-    label: Speaker
-    title: Julia Murphy, AIA, LEED AP
-    section_break: false
-    include_left-hand_column_text_: false
-    lefthand_text:
-      header_type: ''
-      text: ''
-      download: ''
-      link_url: ''
-      link_text: ''
-    image: /uploads/murphy-julia-2018-680x510-som-lucasblair-0981-1366x1024-c.jpg
-    subtitle: Partner, Skidmore, Owings, & Merrill
-    description: >
-      A partner at SOM, Julia Murphy has built a career around two main goals:
-      to solve large-scale architectural problems, and to help move the design
-      and real estate industries toward equality for women and minorities. She
-      is an expert in solving the physical, financial, and administrative
-      challenges of building in New York City, and has founded multiple career
-      development programs for women.
+      Public Design Commission<em>.</em></p><p><br /></p>
   - template: featured-portrait-block
     header: MIXER
     time-location:
