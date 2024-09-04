@@ -254,6 +254,13 @@ _structures:
           image:
           subtitle:
           description:
+        _inputs:
+          description:
+            type: html
+            hidden: false
+            label: Biography
+          image:
+            type: image
       - label: Image
         preview:
           image:
