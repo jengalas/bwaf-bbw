@@ -168,6 +168,11 @@ page_blocks:
         button_link: https://bwaf.wufoo.com/forms/mm6xfr80e1ij3b/
     section_break: false
     include_left-hand_column_text_: false
+  - template: portrait-gallery-block-small
+    portrait:
+      - title: Jennifer Mahan
+        title_role: Thornton Tomasetti
+        image: /uploads/screenshot-2024-09-10-at-2-47-06-pm.png
 _structures:
   page_blocks:
     id_key: template
