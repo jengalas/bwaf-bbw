@@ -94,6 +94,36 @@ page_blocks:
       - title: Kolby Forbes
         title_role: Bernheimer Architecture
         image: /uploads/screenshot-2024-09-10-at-3-21-35-pm.png
+      - title: 'Lauren Kott '
+        title_role: Langan
+        image: /uploads/screenshot-2024-09-09-at-2-40-06-pm.png
+      - title: Lauren McMahon
+        title_role: Langan
+        image: /uploads/screenshot-2024-09-09-at-2-39-58-pm.png
+      - title: Maggie Lei
+        title_role: Loring Consulting Engineers
+        image: /uploads/screenshot-2024-09-09-at-2-39-50-pm.png
+      - title: Nicole Kuzler
+        title_role: Turner Construction
+        image: /uploads/screenshot-2024-09-09-at-2-39-37-pm.png
+      - title: Rose Florian Rodriguez
+        title_role: Dattner Architects
+        image: /uploads/screenshot-2024-09-09-at-2-39-24-pm.png
+      - title: Roshni Krishnan
+        title_role: Wulff Architects
+        image: /uploads/screenshot-2024-09-10-at-3-25-44-pm.png
+      - title: Roujia Bai
+        title_role: Marvel Architects
+        image: /uploads/screenshot-2024-09-09-at-2-39-13-pm.png
+      - title: Sara Karim Mahmud
+        title_role: Turner Construction
+        image: /uploads/screenshot-2024-09-10-at-11-59-21-am.png
+      - title: Stephanie Pujols
+        title_role: New York Presbyterian Hospital
+        image: /uploads/screenshot-2024-09-09-at-2-38-59-pm.png
+      - title: 'Tess McNamara '
+        title_role: Arup
+        image: /uploads/screenshot-2024-09-09-at-2-38-49-pm.png
   - template: featured-portrait-block
     header: TENACITY
     time-location:
