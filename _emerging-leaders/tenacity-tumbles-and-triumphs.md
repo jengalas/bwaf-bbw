@@ -26,24 +26,6 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-  - template: text-block
-    section_break: true
-    include_left-hand_column_text_: true
-    lefthand_text:
-      header_type: Medium Header
-      text: Tenacity, Tumbles, and Triumphs
-      download: ''
-      link_url: ''
-      link_text: ''
-    text_block: >-
-      Tenacity, Tumbles, and Triumphs will be held September 12, September 26,
-      October 10, and October 24, 2024. Participants will hear from Katie
-      Swenson, Senior Principal at MASS Design Group; Isabel Castilla, ASLA,
-      Associate Partner at Field Operations; and Julia Murphy, AIA, LEED AP,
-      Partner at SOM.
-
-
-      Applications are now closed.
   - template: image-block
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1723553461/emerging-leaders-2024-graphic-v2.jpg
@@ -62,6 +44,24 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
+  - template: text-block
+    section_break: true
+    include_left-hand_column_text_: true
+    lefthand_text:
+      header_type: Medium Header
+      text: Tenacity, Tumbles, and Triumphs
+      download: ''
+      link_url: ''
+      link_text: ''
+    text_block: >-
+      Tenacity, Tumbles, and Triumphs will be held September 12, September 26,
+      October 10, and October 24, 2024. Participants will hear from Katie
+      Swenson, Senior Principal at MASS Design Group; Isabel Castilla, ASLA,
+      Associate Partner at Field Operations; and Julia Murphy, AIA, LEED AP,
+      Partner at SOM.
+
+
+      Applications are now closed.
   - template: portrait-gallery-block-small
     portrait:
       - title: Beatrix Dalton
