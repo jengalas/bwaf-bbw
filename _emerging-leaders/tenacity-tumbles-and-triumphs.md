@@ -62,6 +62,38 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
+  - template: portrait-gallery-block-small
+    portrait:
+      - title: Beatrix Dalton
+        title_role: Office of U.S. Senator Richard Blumenthal (D-CT)
+        image: /uploads/screenshot-2024-09-09-at-2-36-33-pm.png
+      - title: Chelsea Kreielsheimer
+        title_role: The SEED Lighting
+        image: /uploads/screenshot-2024-09-09-at-2-36-55-pm.png
+      - title: Clara Goitia
+        title_role: Marvel Architects
+        image: /uploads/screenshot-2024-09-09-at-2-37-13-pm.png
+      - title: Daniela Deu
+        title_role: Robert A.M. Stern Architects
+        image: /uploads/screenshot-2024-09-09-at-2-37-26-pm.png
+      - title: Jennifer Mahan
+        title_role: Thornton Tomasetti
+        image: /uploads/screenshot-2024-09-10-at-2-47-06-pm.png
+      - title: Jennifer Rivera
+        title_role: Jaros, Baum & Bolles
+        image: /uploads/screenshot-2024-09-09-at-2-43-39-pm.png
+      - title: Juliana Herrmann De Alba
+        title_role: Interior Architect & Product Designer
+        image: /uploads/screenshot-2024-09-09-at-2-38-40-pm.png
+      - title: Kaleen Juarez
+        title_role: Scape Landscape Architects
+        image: /uploads/screenshot-2024-09-09-at-2-40-13-pm.png
+      - title: Kelsey Habla
+        title_role: Arup
+        image: /uploads/screenshot-2024-09-10-at-3-19-52-pm.png
+      - title: Kolby Forbes
+        title_role: Bernheimer Architecture
+        image: /uploads/screenshot-2024-09-10-at-3-21-35-pm.png
   - template: featured-portrait-block
     header: TENACITY
     time-location:
@@ -153,20 +185,6 @@ page_blocks:
     image: /uploads/bwaf-logo-two-color-black-on-white.jpg
     subtitle:
     description:
-  - template: portrait-gallery-block-small
-    portrait:
-      - title: Beatrix Dalton
-        title_role: Office of U.S. Senator Richard Blumenthal (D-CT)
-        image: /uploads/screenshot-2024-09-09-at-2-36-33-pm.png
-      - title: Chelsea Kreielsheimer
-        title_role: The SEED Lighting
-        image: /uploads/screenshot-2024-09-09-at-2-36-55-pm.png
-      - title: Jennifer Mahan
-        title_role: Thornton Tomasetti
-        image: /uploads/screenshot-2024-09-10-at-2-47-06-pm.png
-      - title: Clara Goitia
-        title_role: Marvel Architects
-        image: /uploads/screenshot-2024-09-09-at-2-37-13-pm.png
 _structures:
   page_blocks:
     id_key: template
