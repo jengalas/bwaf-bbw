@@ -105,7 +105,7 @@ page_blocks:
         image: /uploads/screenshot-2024-09-09-at-2-39-50-pm.png
       - title: Nicole Kuzler
         title_role: Turner Construction
-        image: /uploads/screenshot-2024-09-09-at-2-39-37-pm.png
+        image: /uploads/screenshot-2024-09-10-at-3-32-12-pm.png
       - title: Rose Florian Rodriguez
         title_role: Dattner Architects
         image: /uploads/screenshot-2024-09-09-at-2-39-24-pm.png
