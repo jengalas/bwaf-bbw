@@ -43,16 +43,7 @@ page_blocks:
       Partner at SOM.
 
 
-      Application deadline is  Friday, August 16 and notifications will be made
-      at the beginning of September.  Total program cost is $1000. Two full,
-      need-based scholarships will be made available to qualifying individuals
-      as selected by BWAF. 
-  - template: buttons-block
-    button:
-      - button_text: 'Apply Here '
-        button_link: https://bwaf.wufoo.com/forms/mm6xfr80e1ij3b/
-    section_break: false
-    include_left-hand_column_text_: false
+      Applications are now closed.
   - template: image-block
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1723553461/emerging-leaders-2024-graphic-v2.jpg
@@ -162,17 +153,14 @@ page_blocks:
     image: /uploads/bwaf-logo-two-color-black-on-white.jpg
     subtitle:
     description:
-  - template: buttons-block
-    button:
-      - button_text: 'Apply Here '
-        button_link: https://bwaf.wufoo.com/forms/mm6xfr80e1ij3b/
-    section_break: false
-    include_left-hand_column_text_: false
   - template: portrait-gallery-block-small
     portrait:
       - title: Jennifer Mahan
         title_role: Thornton Tomasetti
         image: /uploads/screenshot-2024-09-10-at-2-47-06-pm.png
+      - title: Beatrix Dalton
+        title_role: Office of U.S. Senator Richard Blumenthal (D-CT)
+        image: /uploads/screenshot-2024-09-09-at-2-36-33-pm.png
 _structures:
   page_blocks:
     id_key: template
