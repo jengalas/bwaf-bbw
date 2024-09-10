@@ -93,7 +93,7 @@ page_blocks:
         image: /uploads/screenshot-2024-09-10-at-3-19-52-pm.png
       - title: Kolby Forbes
         title_role: Bernheimer Architecture
-        image: /uploads/screenshot-2024-09-10-at-3-21-35-pm.png
+        image: /uploads/screenshot-2024-09-10-at-3-28-52-pm.png
       - title: 'Lauren Kott '
         title_role: Langan
         image: /uploads/screenshot-2024-09-09-at-2-40-06-pm.png
