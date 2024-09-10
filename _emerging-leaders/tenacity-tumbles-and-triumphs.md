@@ -155,12 +155,18 @@ page_blocks:
     description:
   - template: portrait-gallery-block-small
     portrait:
-      - title: Jennifer Mahan
-        title_role: Thornton Tomasetti
-        image: /uploads/screenshot-2024-09-10-at-2-47-06-pm.png
       - title: Beatrix Dalton
         title_role: Office of U.S. Senator Richard Blumenthal (D-CT)
         image: /uploads/screenshot-2024-09-09-at-2-36-33-pm.png
+      - title: Chelsea Kreielsheimer
+        title_role: The SEED Lighting
+        image: /uploads/screenshot-2024-09-09-at-2-36-55-pm.png
+      - title: Jennifer Mahan
+        title_role: Thornton Tomasetti
+        image: /uploads/screenshot-2024-09-10-at-2-47-06-pm.png
+      - title: Clara Goitia
+        title_role: Marvel Architects
+        image: /uploads/screenshot-2024-09-09-at-2-37-13-pm.png
 _structures:
   page_blocks:
     id_key: template
