@@ -111,7 +111,7 @@ page_blocks:
         image: /uploads/screenshot-2024-09-09-at-2-39-24-pm.png
       - title: Roshni Krishnan
         title_role: Wulff Architects
-        image: /uploads/screenshot-2024-09-11-at-12-51-03-pm.png
+        image: /uploads/screenshot-2024-09-11-at-12-54-13-pm.png
       - title: Roujia Bai
         title_role: Marvel Architects
         image: /uploads/screenshot-2024-09-09-at-2-39-13-pm.png
