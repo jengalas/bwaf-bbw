@@ -99,9 +99,19 @@ page_blocks:
           citywide workplace standards since 1971.
       - title: Kirsten Sibilia, Assoc. AIA, LEED AP
         title_role: Secretary
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1695415020/Screen_Shot_2023-09-22_at_4.36.41_PM.png
-        description: "Kirsten Sibilia is a vocal advocate for the value of design. As managing partner, she is focused on the firm’s health and vitality. Her design training and entrepreneurial spirit have allowed her to approach the business side of the practice as a design project; with each initiative, she reflects the firm’s commitment to improving public life, through the creation of resilient and sustainable urban density.\nKirsten joined BWAF in 2017, \_is on the board of Habitat for Humanity of New York City & Westchester and the New York Building Foundation and served on the Architectural Review Board for over a decade while a resident of Hastings-on-Hudson. She recently moved back to Brooklyn.\nShe earned her Bachelor of Fine Arts from the New School’s Parson School of Design as well as a Bachelor of Arts from The New School’s Lang College."
+        image: /uploads/2024-sibilia-kirsten.jpg
+        description: >-
+          Kirsten Sibilia is a vocal advocate for the value of design. She is
+          the managing partner of Dattner Architects, a NYC-based firm and a
+          Women-Owned Business. Her design training and entrepreneurial spirit
+          have allowed her to approach the business side of the practice as a
+          design project; with each initiative, she reflects the firm’s
+          commitment to improving public life, through the creation of resilient
+          and sustainable urban density. Kirsten joined BWAF in 2017,  is on the
+          board of Habitat for Humanity of New York City & Westchester, and the
+          New York Building Foundation. She earned her Bachelor of Fine Arts
+          from the New School’s Parson School of Design as well as a Bachelor of
+          Arts from The New School’s Lang College.
       - title: Michele O’Connor, PE, LEED AP
         title_role: Immediate Past Chair
         image: >-
