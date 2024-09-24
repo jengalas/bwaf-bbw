@@ -90,7 +90,7 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-    image: /uploads/240917-toronto-long.jpg
+    image: /uploads/toronto-landscape-final.jpg
     alt_text: >-
       Orange background with white and grey text that reads: "2024 Industry
       Leaders Roundtable: Toronto, T3 Bayside, 251 Queens Quay East, Toronto,
@@ -147,18 +147,19 @@ page_blocks:
       Nuove/Good News: Women In Architecture – from MAXXI to MET
 
 
-      <u>10:30-11:30<br /></u>*Re-learning Value I<br>*Camille Mitchell, BEAT
-      Advisory Committee<br>Elsa Lam, BEAT Advisory Committee
+      <u>10:30-11:30<br /></u>*Re-learning Value I<br>*Heather Dubbeldam, BEAT,
+      Dubbeldam Architecture + Design<br>Elsa Lam, Canadian Architect Magazine
 
 
-      <u>11:30-12:30<br /></u>*Re-learning Value II<br>*DIALOG Design & SvN
-      Architects + Planners Panel
+      <u>11:30-12:30<br /></u>*Re-learning Value II<br>*Pauline Thimm, DIALOG
+      Design<br>Laura Sellors and Liana Bresler, SvN Architects + Planners
 
 
       <u>12:30-1:30<br /></u>*Lunch + Breakout Session II*
 
 
-      <u>1:30-3:30<br /></u>*Site Tour<br>MRKT Alexandra Park*
+      <u>1:30-3:30<br /></u>*Site Tour<br>MRKT Alexandra Park* by SvN Architects
+      + Planners and CS&P Architects
 
 
       <u>4:00-5:00<br /></u>*Keynote<br>*Sarah Midanik, Gord Downie & Chanie
