@@ -195,12 +195,6 @@ page_blocks:
       link_text: ''
   - template: buttons-block
     button:
-      - button_text: Register Here
-        button_link: https://www.eventbrite.com/e/989006433867?aff=oddtdtcreator
-    section_break: false
-    include_left-hand_column_text_: false
-  - template: buttons-block
-    button:
       - button_text: 2022 Industry Leaders Roundtable
         button_link: >-
           https://www.dropbox.com/scl/fi/5cmvng4opaze1ywavr4ln/2022-BWAF-Industry-Leaders-Roundtable-Agenda.pdf?rlkey=7ewtj6gqezirjfooxx08tt3hu&st=ygrn5edq&dl=0
