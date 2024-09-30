@@ -184,9 +184,6 @@ page_blocks:
 
       * Academic leaders in business management, architecture, planning, and
       engineering
-
-
-      &nbsp;
     lefthand_text:
       header_type: ''
       text: ''
