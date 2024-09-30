@@ -52,12 +52,6 @@ page_blocks:
       challenges in architecture, engineering, and construction. Join us in
       shaping the future of the built environment through dynamic and impactful
       dialogue. 
-  - template: buttons-block
-    button:
-      - button_text: Register Here
-        button_link: https://www.eventbrite.com/e/989006433867?aff=oddtdtcreator
-    section_break: false
-    include_left-hand_column_text_: false
   - template: image-block
     button:
       - button_text:
@@ -246,6 +240,19 @@ page_blocks:
         button_link:
     section_break: false
     image:
+      - image: /uploads/pxl-20240925-141207400-mp.jpg
+        caption: >-
+          Industry Leaders Roundtable: Toronto, September 24-25, Exhibition Tour
+          "Buone Nuove/Good News: Women In Architecture" at TMU
+      - image: /uploads/pxl-20240925-192027795.jpg
+        caption: >-
+          Industry Leaders Roundtable: Toronto, September 24-25, Neighborhood
+          Tour of MRKT Alexandra Park by SvN Architects + Planners and CS&P
+          Architects
+      - image: /uploads/pxl-20240924-145708112-mp.jpg
+        caption: 'Industry Leaders Roundtable: Toronto, September 24-25'
+      - image: /uploads/pxl-20240925-143625720-mp.jpg
+        caption: 'Industry Leaders Roundtable: Toronto, September 24-25'
       - image: /uploads/1720793723932.jpeg
         caption: >-
           Industry Leaders Roundtable Retreat: Chicago, IL, June 25-26, 2024,
@@ -258,10 +265,6 @@ page_blocks:
         caption: >-
           Industry Leaders Roundtable Retreat: Chicago, IL, June 25-26, 2024,
           Obama Presidential Center hard hat tour 
-      - image: /uploads/img-8564.jpeg
-        caption: >-
-          Industry Leaders Roundtable Retreat: Chicago, IL, June 25-26, 2024 at
-          the Experimental Station 
       - image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1621354567/RT5_uiahzn.jpg
         caption: Industry Leaders Roundtable Retreat, Miami, FL, December 3-4, 2018
