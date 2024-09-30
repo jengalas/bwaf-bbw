@@ -250,9 +250,9 @@ page_blocks:
           Tour of MRKT Alexandra Park by SvN Architects + Planners and CS&P
           Architects
       - image: /uploads/pxl-20240924-145708112-mp.jpg
-        caption: 'Industry Leaders Roundtable: Toronto, September 24-25'
+        caption: 'Industry Leaders Roundtable: Toronto, September 24-25, T3 Bayside'
       - image: /uploads/pxl-20240925-143625720-mp.jpg
-        caption: 'Industry Leaders Roundtable: Toronto, September 24-25'
+        caption: 'Industry Leaders Roundtable: Toronto, September 24-25, TMU'
       - image: /uploads/1720793723932.jpeg
         caption: >-
           Industry Leaders Roundtable Retreat: Chicago, IL, June 25-26, 2024,
