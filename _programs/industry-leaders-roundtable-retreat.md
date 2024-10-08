@@ -52,7 +52,7 @@ page_blocks:
       come.
 
 
-      Email info@bwaf.org if you’d like to be involved.
+      Contact info@bwaf.org for details and info on how you can be involved. 
   - template: image-block
     button:
       - button_text:
