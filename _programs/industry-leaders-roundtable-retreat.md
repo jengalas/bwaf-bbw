@@ -16,39 +16,28 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-    text_block: >-
+    text_block: >
       The Industry Leaders Roundtable program is designed to embolden firms and
       their representatives to undertake institutional change within their
       organizations, by providing them research, tools, and support to be agents
       of change.  
-
-
-      Save the Date
-
-      Industry Leaders Roundtable: Miami
-
-      December 3-4, 2024
-
-
-      We’re excited to announce the third and final of our 2024 Industry Leaders
-      Roundtable events will be happening in Miami, December 3-4!
-
-
-      Attendees will have the opportunity to explore innovative strategies,
-      share best practices, and network with peers in the industry. The event
-      aims to foster collaboration and drive forward-thinking solutions to some
-      of the most pressing challenges in architecture, engineering, and
-      construction.
-
-
-      This retreat will culminate in a tour of Art Basel and Design Miami, where
-      we will explore the intersection of art, design, and the built
-      environment. Join us in shaping the future of the built environment
-      through dynamic and impactful dialogue. Stay tuned for more information to
-      come.
-
-
-      Email info@bwaf.org if you’d like to be involved.
+  - template: text-block
+    button:
+      - button_text:
+        button_link:
+    section_break: false
+    include_left-hand_column_text_: true
+    lefthand_text:
+      header_type: Medium Header
+      text: Save the Date
+      download: ''
+      link_url: ''
+      link_text: ' We’re excited to announce the third and final of our 2024 Industry Leaders Roundtable events will be happening in Miami, December 3-4!  Attendees will have the opportunity to explore innovative strategies, share best practices, and network with peers in the industry. The event aims to foster collaboration and drive forward-thinking solutions to some of the most pressing challenges in architecture, engineering, and construction.  This retreat will culminate in a tour of Art Basel and Design Miami, where we will explore the intersection of art, design, and the built environment. Join us in shaping the future of the built environment through dynamic and impactful dialogue. Stay tuned for more information to come.  Email info@bwaf.org if you’d like to be involved.'
+    text_block: >
+      The Industry Leaders Roundtable program is designed to embolden firms and
+      their representatives to undertake institutional change within their
+      organizations, by providing them research, tools, and support to be agents
+      of change.  
   - template: image-block
     button:
       - button_text:
