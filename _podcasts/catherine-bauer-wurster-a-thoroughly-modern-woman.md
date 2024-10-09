@@ -5,7 +5,7 @@ navCategory: Resources
 layout: full-podcast-page
 title: 'Catherine Bauer Wurster: A Thoroughly Modern Woman'
 season: 3
-episode_number: 3
+episode_number: 13
 description: >
   Catherine Bauer’s life divided into two names and two geographies: her urban
   east coast youth, and her Bay Area soft landing. She hobnobbed with the
