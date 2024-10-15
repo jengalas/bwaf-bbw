@@ -206,6 +206,12 @@ page_blocks:
       earned her Bachelor of Fine Arts from the New School’s Parson School of
       Design as well as a Bachelor of Arts from The New School’s Lang
       College.</p><p></p>
+  - template: buttons-block
+    button:
+      - button_text: Apply Here
+        button_link: https://bwaf.wufoo.com/forms/m5h59bd0ol99o5/
+    section_break: false
+    include_left-hand_column_text_: false
 _structures:
   page_blocks:
     id_key: template
