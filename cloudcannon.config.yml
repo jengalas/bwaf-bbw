@@ -144,7 +144,28 @@ collections_config:
       date:
         type: date
       description:
-        hidden: true          
+        hidden: true   
+  emerging-firms:
+    schemas:
+      default:
+        path: schemas/emerging-firms.md
+    _enabled_editors:
+      - data      
+    _inputs:
+      navCategory:
+        hidden: true
+      layout:
+        hidden: true
+      template:
+        hidden: true
+      section_break:
+        hidden: true      
+      text_block:
+        type: textarea
+      date:
+        type: date
+      description:
+        hidden: true               
 
 collection_groups:
   - heading: Pages
@@ -160,7 +181,8 @@ collection_groups:
   - heading: Collections 
     collections:     
       - podcasts
-      - emerging-leaders   
+      - emerging-leaders
+      - emerging-firms   
 
 _structures:
   page_blocks:

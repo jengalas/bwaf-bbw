@@ -49,6 +49,9 @@ collections:
   emerging-leaders:
     output: true
     permalink: programs/emerging-leaders/:year/:title
+  emerging-firms:
+    output: true
+    permalink: programs/emerging-firms/:year/:title
 defaults:
   -
     scope:

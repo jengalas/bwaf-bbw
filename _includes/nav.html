@@ -33,6 +33,11 @@
                             {% for el in els limit: 1 %}
                                 {% assign link = el.url %}
                             {% endfor %}
+                        {% elsif item.label == "Emerging Firms" %}
+                            {% assign els = site.emerging-firms | sort: 'date' | reverse %}
+                            {% for el in els limit: 1 %}
+                                {% assign link = el.url %}
+                            {% endfor %}
                         {% else %}
                             {% assign link = item.link %}
                         {% endif %}
