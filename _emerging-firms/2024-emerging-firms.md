@@ -40,16 +40,16 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-  - template: image-block
-    image: /uploads/emerging-firms-final.jpg
-    image_caption_text:
-    alt_text:
-    section_break: false
-    include_left-hand_column_text_: false
   - template: buttons-block
     button:
       - button_text: Apply Here
         button_link: https://bwaf.wufoo.com/forms/m5h59bd0ol99o5/
+    section_break: false
+    include_left-hand_column_text_: false
+  - template: image-block
+    image: /uploads/emerging-firms-final.jpg
+    image_caption_text:
+    alt_text:
     section_break: false
     include_left-hand_column_text_: false
   - template: featured-portrait-block
