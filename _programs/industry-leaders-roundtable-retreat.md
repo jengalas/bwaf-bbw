@@ -53,6 +53,13 @@ page_blocks:
 
 
       Contact info@bwaf.org for details and info on how you can be involved. 
+  - template: buttons-block
+    button:
+      - button_text: Register Here
+        button_link: >-
+          https://www.eventbrite.com/e/2024-industry-leaders-roundtable-retreat-miami-tickets-1055638526249
+    section_break: false
+    include_left-hand_column_text_: false
   - template: image-block
     button:
       - button_text:
