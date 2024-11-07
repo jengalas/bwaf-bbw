@@ -72,7 +72,8 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-    image: /uploads/miami-teaser-2.jpg
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1730997769/Miami_website_2.jpg
     alt_text:
     image_caption_text: ''
   - template: text-block
