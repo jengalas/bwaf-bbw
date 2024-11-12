@@ -72,8 +72,7 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-    image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1731344398/241108_Miami_Graphics_1_4.jpg
+    image: /uploads/241111-miami-graphics-4.jpg
     alt_text:
     image_caption_text: ''
   - template: text-block
