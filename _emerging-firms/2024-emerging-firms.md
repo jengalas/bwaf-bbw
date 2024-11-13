@@ -20,18 +20,15 @@ page_blocks:
       link_url: ''
       link_text: ''
   - template: text-block
-    text_block: >-
-      The program will be held in person on October 25 and November 8 at BWAF's
+    text_block: >+
+      The program will be held in person on January 24 & 31, 2025 at BWAF's
       offices. Participating firms will hear from leaders and founding
       principals of exciting firms including: Marta Sanders of Architecture
       Outfit, Miriam Peterson of Peterson Rich Office, and Dungjai Pungauthaikan
       of Once–Future Office. Additionally, you will have the opportunity to gain
       key advice from experts during Legal and Media FAQ sessions with Anazette
-      Ray of Zetlin & De Chiara LLP and Kirsten Sibilia of Dattner Architects.
+      Ray of Zetlin & De Chiara LLP and Tami Hausman of Hausman LLC.
 
-
-      The application deadline is Friday, October 18. Total program cost $500.
-      Contact info@bwaf.org for any questions. 
     section_break: false
     include_left-hand_column_text_: true
     lefthand_text:
