@@ -45,7 +45,7 @@ page_blocks:
     include_left-hand_column_text_: false
   - template: image-block
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1731526454/241113_Emerging_Firms.jpg
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1731526956/241113_Emerging_Firms_2025.jpg
     image_caption_text:
     alt_text:
     section_break: false
