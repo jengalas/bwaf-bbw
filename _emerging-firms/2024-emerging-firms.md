@@ -53,8 +53,8 @@ page_blocks:
   - template: featured-portrait-block
     header: Speakers
     time-location:
-      line-1: October 25, 2024
-      line-2: 4:00-5:00pm
+      line-1:
+      line-2:
     label:
     title: Marta Sanders
     section_break: true
@@ -84,8 +84,8 @@ page_blocks:
   - template: featured-portrait-block
     header:
     time-location:
-      line-1: October 25, 2024
-      line-2: 5:00-6:00pm
+      line-1:
+      line-2:
     label: Legal FAQ
     title: Anazette Ray
     section_break: false
@@ -116,8 +116,8 @@ page_blocks:
   - template: featured-portrait-block
     header:
     time-location:
-      line-1: November 8, 2024
-      line-2: 3:00-4:00pm
+      line-1:
+      line-2:
     label:
     title: 'Miriam Peterson '
     section_break: false
@@ -145,8 +145,8 @@ page_blocks:
   - template: featured-portrait-block
     header:
     time-location:
-      line-1: November 8, 2024
-      line-2: 4:00pm-5:00pm
+      line-1:
+      line-2:
     label:
     title: Dungjai Pungauthaikan
     section_break: false
@@ -178,10 +178,10 @@ page_blocks:
   - template: featured-portrait-block
     header:
     time-location:
-      line-1: November 8, 2024
-      line-2: 5:00-6:00pm
+      line-1:
+      line-2:
     label: Media FAQ
-    title: Kirsten Sibilia
+    title: Tami Hausman
     section_break: false
     include_left-hand_column_text_: false
     lefthand_text:
@@ -190,20 +190,21 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-    image: /uploads/2024-sibilia-kirsten.jpg
-    subtitle: 'Managing Principal, Dattner Architects '
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1731526901/Tami_3057-768x1009.jpg
+    subtitle: Founder and President, Hausman LLC
     description: >-
-      <p>Kirsten is a vocal advocate for the value of design. She is the
-      managing partner of Dattner Architects, a NYC-based firm and a Women-Owned
-      Business. Her design training and entrepreneurial spirit have allowed her
-      to approach the business side of the practice as a design project; with
-      each initiative, she reflects the firm’s commitment to improving public
-      life, through the creation of resilient and sustainable urban density.
-      Kirsten joined BWAF in 2017, is on the board of Habitat for Humanity of
-      New York City &amp; Westchester, and the New York Building Foundation. She
-      earned her Bachelor of Fine Arts from the New School’s Parson School of
-      Design as well as a Bachelor of Arts from The New School’s Lang
-      College.</p><p></p>
+      <p>For over 20 years, Tami Hausman has been an expert advisor to top firms
+      who seek out her experience and insights. Her international roster of
+      clients includes architects, engineers, construction firms, expeditors,
+      interiors firms, real estate developers, project management firms,
+      construction cost consultants, artists, and non-profit organizations.
+      Using her wide network of contacts in the media, Tami positions her
+      clients’ knowledge and expertise to best advantage and opens doors to
+      targeted audiences that strengthen their position in the marketplace. In
+      addition to her experience in marketing and public relations, Tami is an
+      architectural historian who frequently writes and lectures about trends
+      and topics in architecture and urban planning.</p>
   - template: buttons-block
     button:
       - button_text: Apply Here
