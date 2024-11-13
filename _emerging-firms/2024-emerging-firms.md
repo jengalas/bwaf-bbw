@@ -44,7 +44,8 @@ page_blocks:
     section_break: false
     include_left-hand_column_text_: false
   - template: image-block
-    image: /uploads/emerging-firms-final.jpg
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1731526454/241113_Emerging_Firms.jpg
     image_caption_text:
     alt_text:
     section_break: false
