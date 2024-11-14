@@ -25,15 +25,22 @@ page_blocks:
     button:
       - button_text:
         button_link:
-    section_break: false
+    section_break: true
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Medium Header
-      text: Register Now
+      text: Values-Driven Design
       download: ''
-      link_url: ''
-      link_text: ' We’re excited to announce the third and final of our 2024 Industry Leaders Roundtable events will be happening in Miami, December 3-4!  Attendees will have the opportunity to explore innovative strategies, share best practices, and network with peers in the industry. The event aims to foster collaboration and drive forward-thinking solutions to some of the most pressing challenges in architecture, engineering, and construction.  This retreat will culminate in a tour of Art Basel and Design Miami, where we will explore the intersection of art, design, and the built environment. Join us in shaping the future of the built environment through dynamic and impactful dialogue. Stay tuned for more information to come.  Email info@bwaf.org if you’d like to be involved.'
+      link_url: https://bit.ly/3yDTDw9
+      link_text: Apply Here
     text_block: >-
+      In its thirteenth year, the Industry Leaders Roundtable brings together
+      thought leaders in organizational psychology, sociology, law, architecture
+      and engineering to change culture by providing research, information and
+      action-oriented programs to achieve greater representation of women in the
+      AEC industries.
+
+
       We’re excited to announce the third and final of our 2024 Industry Leaders
       Roundtable events will be happening in Miami, December 3-4!
 
@@ -75,169 +82,13 @@ page_blocks:
     image: /uploads/241111-miami-graphics-4.jpg
     alt_text:
     image_caption_text: ''
-  - template: text-block
-    button:
-      - button_text:
-        button_link:
-    section_break: true
-    include_left-hand_column_text_: true
-    lefthand_text:
-      header_type: Medium Header
-      text: Values-Driven Design
-      download: ''
-      link_url: https://bit.ly/3yDTDw9
-      link_text: Apply Here
-    text_block: >-
-      In its thirteenth year, the Industry Leaders Roundtable brings together
-      thought leaders in organizational psychology, sociology, law, architecture
-      and engineering to change culture by providing research, information and
-      action-oriented programs to achieve greater representation of women in the
-      AEC industries.
-
-
-      BWAF is delighted to share the second of three Industry Leaders Roundtable
-      events happening in cities across North America. Taking place in Toronto
-      on September 24 & 25, this immersive two-day retreat welcomes senior
-      thought leaders across the built environment for a rigorous and engaging
-      series of conversations and discussions. Attendees will have the
-      opportunity to explore innovative strategies, share best practices, and
-      network with peers in the industry. The event aims to foster collaboration
-      and drive forward-thinking solutions to some of the most pressing
-      challenges in architecture, engineering, and construction. Join us in
-      shaping the future of the built environment through dynamic and impactful
-      dialogue. 
-  - template: image-block
-    button:
-      - button_text:
-        button_link:
-    section_break: false
-    include_left-hand_column_text_: false
-    lefthand_text:
-      header_type: ''
-      text: ''
-      download: ''
-      link_url: ''
-      link_text: ''
-    image: /uploads/bwaf-graphic-templates-toronto.jpg
-    alt_text: >-
-      Orange background with white and grey text that reads: "2024 Industry
-      Leaders Roundtable: Toronto, T3 Bayside, 251 Queens Quay East, Toronto,
-      Onatario, M5A 4K9; Toronto Metropolitan University, 325 Church Street, ARC
-      206, Toronto, Ontario, M5B 2M2; Values Driven Design, Beverly Willis
-      Architecture Foundation"
-    image_caption_text: ''
-  - template: image-block
-    button:
-      - button_text:
-        button_link:
-    section_break: false
-    include_left-hand_column_text_: false
-    lefthand_text:
-      header_type: ''
-      text: ''
-      download: ''
-      link_url: ''
-      link_text: ''
-    image: /uploads/toronto-landscape-final.jpg
-    alt_text: >-
-      Orange background with white and grey text that reads: "2024 Industry
-      Leaders Roundtable: Toronto, T3 Bayside, 251 Queens Quay East, Toronto,
-      Onatario, M5A 4K9; Toronto Metropolitan University, 325 Church Street, ARC
-      206, Toronto, Ontario, M5B 2M2; Values Driven Design, Beverly Willis
-      Architecture Foundation"
-    image_caption_text: ''
   - template: miscellaneous-block
     button:
       - button_text:
         button_link:
     section_break: false
     include_left-hand_column_text_: false
-    miscellaneous: >-
-      ## **Schedule**
-
-
-      **Day 1: T3 Bayside<br>**251 Queens Quay East, Toronto
-
-
-      <u>9:30-10:00<br /></u>*Welcome breakfast + networking*
-
-
-      <u>10:00-11:00<br /></u>*Introduction by Tizziana Baldenebro + Host
-      Committee*
-
-
-      <u>11:00-12:00<br /></u>*Value vs. Values: Time and the evolving
-      workforce<br>*Melissa Burton, Arup
-
-
-      <u>12:00-1:00<br /></u>*The Value of Design: Advancing the stakes and
-      intersections<br>*Angelica Baccon, SHoP Architects
-
-
-      <u>1:00-2:00<br /></u>Lunch + Breakout Session I
-
-
-      <u>2:30-4:00<br /></u>*Value in the Studio: Teaching Leadership
-      Panel*<br>Maya Przybylski, University of Waterloo<br>Pina Petricone, UT
-      Daniels <br>Lisa Landrum, TMU
-
-
-      <u>4:00-5:00<br /></u>*Group Discussion*
-
-
-      <u>7:00-9:00<br /></u>*Cocktail Reception + Dinner*
-
-
-      **Day 2: TMU<br>**325 Church Street, ARC 206, Toronto
-
-
-      <u>9:00- 10:30<br /></u>*Welcome breakfast<br>Exhibition Tour* Buone
-      Nuove/Good News: Women In Architecture – from MAXXI to MET
-
-
-      <u>10:30-11:30<br /></u>*Re-learning Value I<br>*Heather Dubbeldam, BEAT,
-      Dubbeldam Architecture + Design<br>Elsa Lam, Canadian Architect Magazine
-
-
-      <u>11:30-12:30<br /></u>*Re-learning Value II<br>*Pauline Thimm, DIALOG
-      Design<br>Laura Sellors and Liana Bresler, SvN Architects + Planners
-
-
-      <u>12:30-1:30<br /></u>*Lunch + Breakout Session II*
-
-
-      <u>1:30-3:30<br /></u>*Site Tour<br>MRKT Alexandra Park* by SvN Architects
-      + Planners and CS&P Architects
-
-
-      <u>4:00-5:00<br /></u>*Keynote<br>*Sarah Midanik, Gord Downie & Chanie
-      Wenjack Fund
-
-
-      <u>5:00-5:30<br /></u>*Group Discussion<br>*BWAF Wrap Up
-
-
-      ## <br>**Why attend?**
-
-
-      The full integration of women into the workplace produces firm-wide
-      benefits including expanded markets, improved recruitment, and retention
-      of key talent. This two-day retreat is the only event of its kind where
-      participants develop targeted plans to combat bias, promote and retain
-      leaders, and effect change in the organizational culture.
-
-
-      ## **Who attends?**
-
-
-      * Principals in architecture, engineering, and construction
-
-      * Directors of Human Resources in the AEC industries
-
-      * Attorneys in related fields
-
-      * Academic leaders in business management, architecture, planning, and
-      engineering
+    miscellaneous: ''
     lefthand_text:
       header_type: ''
       text: ''
