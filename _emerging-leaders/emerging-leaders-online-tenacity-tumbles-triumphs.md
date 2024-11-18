@@ -40,6 +40,12 @@ page_blocks:
 
 
       The application deadline is Thursday, December 5th. 
+  - template: buttons-block
+    button:
+      - button_text: Apply Here
+        button_link: https://bwaf.wufoo.com/forms/mxx9kje0m8h5qg/
+    section_break: false
+    include_left-hand_column_text_: false
   - template: image-block
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1731950068/241028_Emerging_Leaders_Online_v5.jpg
@@ -53,6 +59,12 @@ page_blocks:
       link_url: ''
       download: ''
       link_text: ''
+  - template: buttons-block
+    button:
+      - button_text: Apply Here
+        button_link: https://bwaf.wufoo.com/forms/mxx9kje0m8h5qg/
+    section_break: false
+    include_left-hand_column_text_: false
   - template: featured-portrait-block
     header: TENACITY
     image:
