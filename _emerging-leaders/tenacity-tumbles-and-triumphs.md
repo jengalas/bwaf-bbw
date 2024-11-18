@@ -8,16 +8,16 @@ description: ''
 page_blocks:
   - template: text-block
     text_block: >-
-      (test change)Launched in 2017, the BWAF Emerging Leaders program is a
-      selective professional development opportunity for early- and mid-career
-      women. Within a small group format, participants engage with significant
-      senior women in architecture, design, engineering, construction, real
-      estate, law, and financial services to advance their own career goals and
-      connect with a cohort of ambitious colleagues across at similar
-      professional levels. Participants share common experiences and trade
-      personal strategies for advancing their field. Over 200 women have
-      participated in past cohorts, building a timeless network of allies and
-      support for each other.
+      Launched in 2017, the BWAF Emerging Leaders program is a selective
+      professional development opportunity for early- and mid-career women.
+      Within a small group format, participants engage with significant senior
+      women in architecture, design, engineering, construction, real estate,
+      law, and financial services to advance their own career goals and connect
+      with a cohort of ambitious colleagues across at similar professional
+      levels. Participants share common experiences and trade personal
+      strategies for advancing their field. Over 200 women have participated in
+      past cohorts, building a timeless network of allies and support for each
+      other.
     section_break: false
     include_left-hand_column_text_: true
     lefthand_text:
