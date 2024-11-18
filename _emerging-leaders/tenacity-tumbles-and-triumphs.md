@@ -26,6 +26,28 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
+  - template: text-block
+    text_block: >-
+      This winter, we are launching a remote version of this beloved program,
+      extending the reach of the relationships and connections formed throughout
+      the cohort. TENACITY, TUMBLES & TRIUMPHS will be held December 12,
+      December 19, January 9, and January 16.  
+
+
+      Participants will hear from speakers including Carole Wedge from Heaths
+      Bridge, Yiselle Santos River of YSR, LLC, and Jen Park of ParkFowler
+      Plus. 
+
+
+      The application deadline is Thursday, December 5th. 
+    section_break: false
+    include_left-hand_column_text_: false
+    lefthand_text:
+      header_type: Large Header
+      text: Emerging Leaders
+      download: ''
+      link_url: ''
+      link_text: ''
   - template: image-block
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1731950068/241028_Emerging_Leaders_Online_v5.jpg
@@ -231,6 +253,12 @@ page_blocks:
     image: /uploads/bwaf-logo-two-color-black-on-white.jpg
     subtitle:
     description:
+  - template: buttons-block
+    button:
+      - button_text: Apply Here
+        button_link: https://bwaf.wufoo.com/forms/mxx9kje0m8h5qg/
+    section_break: false
+    include_left-hand_column_text_: false
 _structures:
   page_blocks:
     id_key: template
