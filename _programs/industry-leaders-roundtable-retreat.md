@@ -99,6 +99,13 @@ page_blocks:
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1731948267/BWAF_Miami_Roundtable_2.jpg
     alt_text:
     image_caption_text: ''
+  - template: buttons-block
+    button:
+      - button_text: Register Here
+        button_link: >-
+          https://www.eventbrite.com/e/2024-industry-leaders-roundtable-retreat-miami-tickets-1055638526249
+    section_break: false
+    include_left-hand_column_text_: false
   - template: miscellaneous-block
     button:
       - button_text:
