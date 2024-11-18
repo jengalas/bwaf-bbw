@@ -1,7 +1,7 @@
 ---
 _schema: default
 layout: innerPageCC
-date: 2024-12-12 00:00:00
+date: 2024-11-17 00:00:00
 navCategory: Programs
 title: 'Emerging Leaders Online '
 description: >-
@@ -159,5 +159,5 @@ _structures:
             - title:
               title_role:
               image:
-_unlisted: true
+_unlisted: false
 ---
