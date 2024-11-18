@@ -26,6 +26,22 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
+  - template: image-block
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1731950068/241028_Emerging_Leaders_Online_v5.jpg
+    image_caption_text: ''
+    alt_text:
+    section_break: false
+    include_left-hand_column_text_: false
+    button:
+      - button_text:
+        button_link:
+    lefthand_text:
+      header_type: ''
+      text: ''
+      download: ''
+      link_url: ''
+      link_text: ''
   - template: text-block
     section_break: true
     include_left-hand_column_text_: true
