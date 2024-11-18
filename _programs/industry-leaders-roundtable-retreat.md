@@ -79,7 +79,24 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-    image: /uploads/241111-miami-graphics-4.jpg
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1731948288/BWAF_Miami_Roundtable_1.jpg
+    alt_text:
+    image_caption_text: ''
+  - template: image-block
+    button:
+      - button_text:
+        button_link:
+    section_break: false
+    include_left-hand_column_text_: false
+    lefthand_text:
+      header_type: ''
+      text: ''
+      download: ''
+      link_url: ''
+      link_text: ''
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1731948267/BWAF_Miami_Roundtable_2.jpg
     alt_text:
     image_caption_text: ''
   - template: miscellaneous-block
