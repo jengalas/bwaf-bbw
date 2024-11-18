@@ -3,7 +3,7 @@ _schema: default
 layout: innerPageCC
 date: 2024-11-18 00:00:00
 navCategory: Programs
-title: 'Emerging Leaders Online: Tenacity, Tumbles, Triumphs '
+title: 'Emerging Leaders Online:  Tenacity, Tumbles, Triumphs '
 description: >-
   Beverly Willis Architecture Foundation Emerging Leaders program is a New
   York-based, selective professional development opportunity for women 5–10
