@@ -39,7 +39,7 @@ page_blocks:
       Plus. 
 
 
-      The application deadline is Thursday, December 5th. 
+      The application deadline is Friday, December 6th. Program cost is $150. 
   - template: buttons-block
     button:
       - button_text: Apply Here
