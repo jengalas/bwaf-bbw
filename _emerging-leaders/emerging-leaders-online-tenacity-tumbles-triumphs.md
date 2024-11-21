@@ -67,7 +67,8 @@ page_blocks:
     include_left-hand_column_text_: false
   - template: featured-portrait-block
     header: TENACITY
-    image:
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1732224962/R_180207_N123_medium.jpg
     label: Speaker
     title: Carole Wedge
     subtitle: 'Heaths Bridge '
@@ -79,7 +80,8 @@ page_blocks:
     include_left-hand_column_text_: false
   - template: featured-portrait-block
     header: Tumbles
-    image:
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1732224994/cropEVPMFTAY-Presenter-SantosRiveraY.jpg
     label: Speaker
     title: Yiselle Santos Rivera
     subtitle: YSR, LLC
@@ -91,7 +93,8 @@ page_blocks:
     include_left-hand_column_text_: false
   - template: featured-portrait-block
     header: 'Triumphs '
-    image:
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1732224977/MK_20200929_6_Jennifer_Park_1673-Edit_website.jpg
     label: Speaker
     title: Jen Park
     subtitle: ParkFowler Plus
