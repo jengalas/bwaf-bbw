@@ -106,124 +106,70 @@ page_blocks:
           https://www.eventbrite.com/e/2024-industry-leaders-roundtable-retreat-miami-tickets-1055638526249
     section_break: false
     include_left-hand_column_text_: false
-  - template: text-block
-    button:
-      - button_text:
-        button_link:
-    section_break: true
-    include_left-hand_column_text_: true
-    lefthand_text:
-      header_type: Medium Header
-      text: 'Industry Leaders Roundtable: Miami'
-      download: ''
-      link_url: >-
-        https://www.eventbrite.com/e/2024-industry-leaders-roundtable-retreat-miami-tickets-1055638526249?aff=oddtdtcreator
-      link_text:
-    text_block: >
-      Day 1: Tuesday, December 3
-
-      E11EVEN Residences Sales Gallery
-
-
-      9:00-10:00
-
-      Introduction, Welcome Breakfast & Networking
-
-
-      10:00-11:00
-
-      Value vs. Values: Time and the evolving workforce 
-
-      Pat Bosch, Design Director, Perkins+Will
-
-
-      11:00-12:00
-
-      The Value of Design: Advancing the stakes and intersections 
-
-      Susanna Sirefman, Owner, Dovetail Design Strategists
-
-
-      12:00-1:00
-
-      Lunch & Breakout Session
-
-
-      1:00-2:00
-
-      Inheriting the past, building for the future: New workplace ideals 
-
-      Thorsten Kiefer, Design and Development, Citadel
-
-
-      2:00-3:00
-
-      Relearning Value: Building with Community 
-
-      Meg Daly, CEO, Friends of the Underline 
-
-      Alex Daly, Founder, Daly
-
-
-      3:00-4:00
-
-      Value in the Studio: Teaching Leadership 
-
-      Marilys Nepomechie, Associate Dean, College of Communication, Architecture
-      + the Arts, FlU
-
-      Elizabeth Plater-Zyberk, Director of Master of Urban Design Program, U of
-      Miami
-
-      Dr. Thelma Lazo Flores, Dean of Interior Design, Istituto Marangoni
-
-
-      4:00-5:00
-
-      Group Discussion
-
-
-      6:00-9:00
-
-      Cocktail Reception & Dinner @ The River Oyster Bar 
-
-
-
-      Day 2: Wednesday, December 4
-
-      Faena Hotel, 3201 Collins Ave, Miami Beach, FL 33140
-
-
-      9:30- 10:00
-
-      Coffee Service and Networking 
-
-
-      10:00-11:oo
-
-      Presentation
-
-      Jennifer Baez, Chief of Staff, Miami-Dade County Office of Innovation and
-      Economic Development 
-
-
-      11:00-12:00
-
-      Keynote/Conclusion 
-
-      Angelica Baccon, Principal, SHoP Architects 
-
-
-      1:00-7:00
-
-      Design Miami/Art Basel
   - template: miscellaneous-block
     button:
       - button_text:
         button_link:
     section_break: false
     include_left-hand_column_text_: false
-    miscellaneous: ''
+    miscellaneous: >-
+      Day 1: Tuesday, December 3<br>E11EVEN Residences Sales Gallery
+
+
+      9:00-10:00<br>Introduction, Welcome Breakfast & Networking
+
+
+      10:00-11:00<br>Value vs. Values: Time and the evolving workforce <br>Pat
+      Bosch, Design Director, Perkins+Will
+
+
+      11:00-12:00<br>The Value of Design: Advancing the stakes and intersections
+      <br>Susanna Sirefman, Owner, Dovetail Design Strategists
+
+
+      12:00-1:00<br>Lunch & Breakout Session
+
+
+      1:00-2:00<br>Inheriting the past, building for the future: New workplace
+      ideals Thorsten Kiefer, Design and Development, Citadel
+
+
+      2:00-3:00<br>Relearning Value: Building with Community <br>Meg Daly, CEO,
+      Friends of the Underline <br>Alex Daly, Founder, Daly
+
+
+      3:00-4:00<br>Value in the Studio: Teaching Leadership <br>Marilys
+      Nepomechie, Associate Dean, College of Communication, Architecture + the
+      Arts, FlU<br>Elizabeth Plater-Zyberk, Director of Master of Urban Design
+      Program, U of Miami<br>Dr. Thelma Lazo Flores, Dean of Interior Design,
+      Istituto Marangoni
+
+
+      4:00-5:00<br>Group Discussion
+
+
+      6:00-9:00<br>Cocktail Reception & Dinner @ The River Oyster Bar
+
+
+      Day 2: Wednesday, December 4<br>Faena Hotel, 3201 Collins Ave, Miami
+      Beach, FL 33140
+
+
+      9:30- 10:00<br>Coffee Service and Networking
+
+
+      10:00-11:00<br>Presentation<br>Jennifer Baez, Chief of Staff, Miami-Dade
+      County Office of Innovation and Economic Development
+
+
+      11:00-12:00<br>Keynote/Conclusion <br>Angelica Baccon, Principal, SHoP
+      Architects
+
+
+      2:00-5:00<br>Design Miami/Art Basel
+
+
+      &nbsp;
     lefthand_text:
       header_type: ''
       text: ''
