@@ -55,11 +55,7 @@ page_blocks:
       This retreat will culminate in a tour of Art Basel and Design Miami, where
       we will explore the intersection of art, design, and the built
       environment. Join us in shaping the future of the built environment
-      through dynamic and impactful dialogue. Stay tuned for more information to
-      come.
-
-
-      Contact info@bwaf.org for details and info on how you can be involved. 
+      through dynamic and impactful dialogue. Contact info@bwaf.org for details.
   - template: buttons-block
     button:
       - button_text: Register Here
