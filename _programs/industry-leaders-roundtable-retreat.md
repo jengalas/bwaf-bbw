@@ -114,7 +114,7 @@ page_blocks:
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Medium Header
-      text: Values-Driven Design
+      text: 'Industry Leaders Roundtable: Miami'
       download: ''
       link_url: >-
         https://www.eventbrite.com/e/2024-industry-leaders-roundtable-retreat-miami-tickets-1055638526249?aff=oddtdtcreator
