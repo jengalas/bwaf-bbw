@@ -51,10 +51,39 @@ page_blocks:
     section_break: false
     include_left-hand_column_text_: false
   - template: featured-portrait-block
+    header:
+    time-location:
+      line-1: January 24, 3:00-4:00pm
+      line-2: 424 W 33rd Street, Suite 280, NY 10001
+    label:
+    title: 'Miriam Peterson '
+    section_break: false
+    include_left-hand_column_text_: false
+    lefthand_text:
+      header_type: ''
+      text: ''
+      download: ''
+      link_url: ''
+      link_text: ''
+    image: /uploads/1708609530715.jpeg
+    subtitle: Partner, Peterson Rich Office
+    description: >-
+      <p>Miriam majored in Economics at Cornell University and her advanced
+      undergraduate research focused on issues related to urban economics and
+      more specifically the factors impacting depressed areas within the urban
+      cores that were left behind after white flight and urban renewal. As an
+      M.Arch at Yale University School of Architecture, her design and seminar
+      work focused on investigating how public investments in infrastructure can
+      facilitate the creation of public spaces and environmentally responsible
+      development. Upon graduation she was awarded the William Edward Parsons
+      Memorial Medal for the student showing the most promise in urban design.
+      Miriam is currently Adjunct Faculty at the Yale School of
+      Architecture.</p><p></p>
+  - template: featured-portrait-block
     header: Speakers
     time-location:
-      line-1:
-      line-2:
+      line-1: January 24, 4:00-5:00pm
+      line-2: 424 W 33rd Street, Suite 280, NY 10001
     label:
     title: Marta Sanders
     section_break: true
@@ -84,8 +113,8 @@ page_blocks:
   - template: featured-portrait-block
     header:
     time-location:
-      line-1:
-      line-2:
+      line-1: January 24, 5:00-6:00pm
+      line-2: 424 W 33rd Street, Suite 280, NY 10001
     label: Legal FAQ
     title: Anazette Ray
     section_break: false
@@ -116,37 +145,8 @@ page_blocks:
   - template: featured-portrait-block
     header:
     time-location:
-      line-1:
-      line-2:
-    label:
-    title: 'Miriam Peterson '
-    section_break: false
-    include_left-hand_column_text_: false
-    lefthand_text:
-      header_type: ''
-      text: ''
-      download: ''
-      link_url: ''
-      link_text: ''
-    image: /uploads/1708609530715.jpeg
-    subtitle: Partner, Peterson Rich Office
-    description: >-
-      <p>Miriam majored in Economics at Cornell University and her advanced
-      undergraduate research focused on issues related to urban economics and
-      more specifically the factors impacting depressed areas within the urban
-      cores that were left behind after white flight and urban renewal. As an
-      M.Arch at Yale University School of Architecture, her design and seminar
-      work focused on investigating how public investments in infrastructure can
-      facilitate the creation of public spaces and environmentally responsible
-      development. Upon graduation she was awarded the William Edward Parsons
-      Memorial Medal for the student showing the most promise in urban design.
-      Miriam is currently Adjunct Faculty at the Yale School of
-      Architecture.</p><p></p>
-  - template: featured-portrait-block
-    header:
-    time-location:
-      line-1:
-      line-2:
+      line-1: January 31, 4:00-5:00pm
+      line-2: 424 W 33rd Street, Suite 280, NY 10001
     label:
     title: Dungjai Pungauthaikan
     section_break: false
@@ -178,8 +178,8 @@ page_blocks:
   - template: featured-portrait-block
     header:
     time-location:
-      line-1:
-      line-2:
+      line-1: January 31, 5:00-6:00pm
+      line-2: 424 W 33rd Street, Suite 280, NY 10001
     label: Media FAQ
     title: Tami Hausman
     section_break: false
