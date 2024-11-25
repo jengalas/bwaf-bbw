@@ -35,7 +35,7 @@ page_blocks:
 
 
       Participants will hear from speakers including Carole Wedge from Heaths
-      Bridge, Yiselle Santos River of YSR, LLC, and Jen Park of ParkFowler
+      Bridge, Yiselle Santos Rivera of YSR, LLC, and Jen Park of ParkFowler
       Plus. 
 
 
