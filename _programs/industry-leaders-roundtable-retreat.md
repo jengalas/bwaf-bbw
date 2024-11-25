@@ -92,7 +92,7 @@ page_blocks:
       link_url: ''
       link_text: ''
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1732293708/BWAF_Miami_Roundtable_Schedule.jpg
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1732569588/241125_Miami_Graphics.jpg
     alt_text:
     image_caption_text: ''
   - template: buttons-block
