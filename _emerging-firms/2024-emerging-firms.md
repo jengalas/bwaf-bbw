@@ -181,7 +181,7 @@ page_blocks:
     time-location:
       line-1: January 31, 5:00-6:00pm
       line-2: 424 W 33rd Street, Suite 280, NY 10001
-    label: Media FAQ
+    label: Communications/Media FAQ
     title: Tami Hausman
     section_break: false
     include_left-hand_column_text_: false
