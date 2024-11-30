@@ -26,8 +26,9 @@ page_blocks:
       principals of exciting firms including: Marta Sanders of Architecture
       Outfit, Miriam Peterson of Peterson Rich Office, and Dungjai Pungauthaikan
       of Once–Future Office. Additionally, you will have the opportunity to gain
-      key advice from experts during Legal and Media FAQ sessions with Anazette
-      Ray of Zetlin & De Chiara LLP and Tami Hausman of Hausman LLC.
+      key advice from experts during Legal and Communications/Media FAQ sessions
+      with Anazette Ray of Zetlin & De Chiara LLP and Tami Hausman of Hausman
+      LLC.
 
     section_break: false
     include_left-hand_column_text_: true
