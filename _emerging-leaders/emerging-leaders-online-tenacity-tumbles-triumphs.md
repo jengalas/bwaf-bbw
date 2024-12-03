@@ -19,13 +19,16 @@ page_blocks:
       link_text: ''
     section_break: false
     text_block: >-
-      Since 2017 the Beverly Willis Architecture Foundation Emerging Leaders
-      program has offered an innovative professional development opportunity for
-      select women 5-10 years out of school. In small group format (maximum of
-      24 selected participants), invitees will engage with significant senior
-      women in architecture, real estate, law, and financial services to advance
-      their own career goals. Share common experiences and trade personal
-      strategies for success.
+      Launched in 2017, the BWAF Emerging Leaders program is a selective
+      professional development opportunity for early- and mid-career women.
+      Within a small group format, participants engage with significant senior
+      women in architecture, design, engineering, construction, real estate,
+      law, and financial services to advance their own career goals and connect
+      with a cohort of ambitious colleagues across at similar professional
+      levels. Participants share common experiences and trade personal
+      strategies for advancing their field. Over 200 women have participated in
+      past cohorts, building a timeless network of allies and support for each
+      other.
 
 
       This winter, we are launching a remote version of this beloved program,
