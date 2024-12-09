@@ -158,6 +158,22 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
+  - template: image-block
+    button:
+      - button_text:
+        button_link:
+    section_break: false
+    include_left-hand_column_text_: false
+    lefthand_text:
+      header_type: ''
+      text: ''
+      download: ''
+      link_url: ''
+      link_text: ''
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1733782975/Roundtable_Logos.jpg
+    alt_text:
+    image_caption_text: 'Industry Leaders Roundtables are made possible by the support of:'
   - template: buttons-block
     button:
       - button_text: 2022 Industry Leaders Roundtable
