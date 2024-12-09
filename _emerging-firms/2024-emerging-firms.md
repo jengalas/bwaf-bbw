@@ -20,7 +20,7 @@ page_blocks:
       link_url: ''
       link_text: ''
   - template: text-block
-    text_block: >+
+    text_block: >-
       The program will be held in person on January 24 & 31, 3:00-6:00pm at
       BWAF's offices. Participating firms will hear from leaders and founding
       principals of exciting firms including: Marta Sanders of Architecture
@@ -29,7 +29,6 @@ page_blocks:
       key advice from experts during Legal and Communications/Media FAQ sessions
       with Anazette Ray of Zetlin & De Chiara LLP and Tami Hausman of Hausman
       LLC.
-
     section_break: false
     include_left-hand_column_text_: true
     lefthand_text:
