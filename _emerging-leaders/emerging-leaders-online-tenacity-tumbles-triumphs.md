@@ -69,7 +69,7 @@ page_blocks:
     section_break: false
     include_left-hand_column_text_: false
   - template: featured-portrait-block
-    header: TENACITY
+    header: Tenacity
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1732224962/R_180207_N123_medium.jpg
     label: Speaker
