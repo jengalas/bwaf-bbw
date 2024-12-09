@@ -111,7 +111,7 @@ page_blocks:
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1733783040/Emerging_Leader_Logos.jpg
     section_break: false
-    image_caption_text: 'Emerging Leaders is made possible by the support of:'
+    image_caption_text: 'Thank you to our supporters for making this program possible. '
     alt_text: ''
     include_left-hand_column_text_: false
     lefthand_text:
