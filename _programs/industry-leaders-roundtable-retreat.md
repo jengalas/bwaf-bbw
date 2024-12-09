@@ -41,21 +41,24 @@ page_blocks:
       AEC industries.
 
 
-      We’re excited to announce the third and final of our 2024 Industry Leaders
-      Roundtable events will be happening in Miami, December 3-4!
+      In December we concluded the third and final of our 2024 Industry Leaders
+      Roundtable events in Miami, Florida. We are deeply grateful to the
+      community of amazing attendees and speakers we’ve connected with in the
+      course of mounting this program in Chicago, Toronto, and Miami, building
+      networks within and across the AEC industry.
 
 
-      Attendees will have the opportunity to explore innovative strategies,
-      share best practices, and network with peers in the industry. The event
-      aims to foster collaboration and drive forward-thinking solutions to some
-      of the most pressing challenges in architecture, engineering, and
-      construction.
+      The uniting theme of the roundtable series, Values-Driven Design, has
+      yielded such expansive thinking and generative conversations as we strive
+      to understand both the measurable and immeasurable worth of our work as
+      designers, architects, engineers, builders, developers, educators,
+      community organizers, and beyond.
 
 
-      This retreat will culminate in a tour of Art Basel and Design Miami, where
-      we will explore the intersection of art, design, and the built
-      environment. Join us in shaping the future of the built environment
-      through dynamic and impactful dialogue. Contact info@bwaf.org for details.
+      In 2025, we look forward to sharing a report summarizing the questions and
+      findings we’ve amassed through these Industry Leaders Roundtables. Stay
+      tuned as we will also be bringing this key program to more cities,
+      continuing this critical conversation that has only just begun.
   - template: image-block
     button:
       - button_text:
