@@ -34,7 +34,7 @@ page_blocks:
       This winter, we are launching a remote version of this beloved program,
       extending the reach of the relationships and connections formed throughout
       the cohort. TENACITY, TUMBLES & TRIUMPHS will be held December 19, January
-      9, and January 16.  
+      9, and January 16, 6:00-8:00pm EST.   
 
 
       Participants will hear from speakers including Carole Wedge from Heaths
