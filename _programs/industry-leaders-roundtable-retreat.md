@@ -56,13 +56,6 @@ page_blocks:
       we will explore the intersection of art, design, and the built
       environment. Join us in shaping the future of the built environment
       through dynamic and impactful dialogue. Contact info@bwaf.org for details.
-  - template: buttons-block
-    button:
-      - button_text: Register Here
-        button_link: >-
-          https://www.eventbrite.com/e/2024-industry-leaders-roundtable-retreat-miami-tickets-1055638526249
-    section_break: false
-    include_left-hand_column_text_: false
   - template: image-block
     button:
       - button_text:
@@ -95,13 +88,6 @@ page_blocks:
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1732569588/241125_Miami_Graphics.jpg
     alt_text:
     image_caption_text: ''
-  - template: buttons-block
-    button:
-      - button_text: Register Here
-        button_link: >-
-          https://www.eventbrite.com/e/2024-industry-leaders-roundtable-retreat-miami-tickets-1055638526249
-    section_break: false
-    include_left-hand_column_text_: false
   - template: miscellaneous-block
     button:
       - button_text:
@@ -213,6 +199,9 @@ page_blocks:
         button_link:
     section_break: false
     image:
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1733782899/Untitled_design-11.gif
+        caption: 'Industry Leaders Roundtable: Miami, December 3-4, '
       - image: /uploads/pxl-20240925-141207400-mp.jpg
         caption: >-
           Industry Leaders Roundtable: Toronto, September 24-25, Exhibition Tour
