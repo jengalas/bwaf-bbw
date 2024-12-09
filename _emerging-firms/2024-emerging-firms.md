@@ -21,8 +21,8 @@ page_blocks:
       link_text: ''
   - template: text-block
     text_block: >+
-      The program will be held in person on January 24 & 31, 2025 at BWAF's
-      offices. Participating firms will hear from leaders and founding
+      The program will be held in person on January 24 & 31, 3:00-6:00pm at
+      BWAF's offices. Participating firms will hear from leaders and founding
       principals of exciting firms including: Marta Sanders of Architecture
       Outfit, Miriam Peterson of Peterson Rich Office, and Dungjai Pungauthaikan
       of Once–Future Office. Additionally, you will have the opportunity to gain
