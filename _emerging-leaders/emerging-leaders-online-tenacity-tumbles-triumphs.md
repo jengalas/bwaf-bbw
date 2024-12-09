@@ -33,8 +33,8 @@ page_blocks:
 
       This winter, we are launching a remote version of this beloved program,
       extending the reach of the relationships and connections formed throughout
-      the cohort. TENACITY, TUMBLES & TRIUMPHS will be held December 12,
-      December 19, January 9, and January 16.  
+      the cohort. TENACITY, TUMBLES & TRIUMPHS will be held December 19, January
+      9, and January 16.  
 
 
       Participants will hear from speakers including Carole Wedge from Heaths
@@ -42,7 +42,7 @@ page_blocks:
       Plus. 
 
 
-      The application deadline is Tuesday, December 10th. Program cost is $150. 
+      The application deadline is Monday, December 14th. Program cost is $150. 
   - template: buttons-block
     button:
       - button_text: Apply Here
@@ -51,7 +51,7 @@ page_blocks:
     include_left-hand_column_text_: false
   - template: image-block
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1731950068/241028_Emerging_Leaders_Online_v5.jpg
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1733770578/241209_Emerging_Leaders_Online_Square.jpg
     section_break: false
     image_caption_text: ''
     alt_text: ''
