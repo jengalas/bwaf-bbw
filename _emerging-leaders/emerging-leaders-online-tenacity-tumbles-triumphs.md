@@ -99,7 +99,7 @@ page_blocks:
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1732224977/MK_20200929_6_Jennifer_Park_1673-Edit_website.jpg
     label: Speaker
-    title: Jen Park
+    title: Jennifer Park
     subtitle: ParkFowler Plus
     description: ''
     time-location:
