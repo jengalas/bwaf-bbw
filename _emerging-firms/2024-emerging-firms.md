@@ -56,7 +56,7 @@ page_blocks:
     section_break: false
     include_left-hand_column_text_: false
   - template: featured-portrait-block
-    header:
+    header: Speakers
     time-location:
       line-1: January 24, 3:00-4:00pm
       line-2: 424 W 33rd Street, Suite 280, NY 10001
@@ -65,8 +65,8 @@ page_blocks:
     section_break: false
     include_left-hand_column_text_: false
     lefthand_text:
-      header_type: ''
-      text: ''
+      header_type:
+      text: Speaker
       download: ''
       link_url: ''
       link_text: ''
@@ -85,7 +85,7 @@ page_blocks:
       Miriam is currently Adjunct Faculty at the Yale School of
       Architecture.</p><p></p>
   - template: featured-portrait-block
-    header: Speakers
+    header:
     time-location:
       line-1: January 24, 4:00-5:00pm
       line-2: 424 W 33rd Street, Suite 280, NY 10001
