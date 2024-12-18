@@ -22,13 +22,18 @@ page_blocks:
   - template: text-block
     text_block: >-
       The program will be held in person on January 24 & 31, 3:00-6:00pm at
-      BWAF's offices. Participating firms will hear from leaders and founding
-      principals of exciting firms including: Marta Sanders of Architecture
-      Outfit, Miriam Peterson of Peterson Rich Office, and Dungjai Pungauthaikan
-      of Once–Future Office. Additionally, you will have the opportunity to gain
-      key advice from experts during Legal and Communications/Media FAQ sessions
-      with Anazette Ray of Zetlin & De Chiara LLP and Tami Hausman of Hausman
-      LLC.
+      BWAF's offices. 
+
+
+      Participating firms will hear from leaders and founding principals of
+      exciting firms including: Marta Sanders of Architecture Outfit, Miriam
+      Peterson of Peterson Rich Office, and Dungjai Pungauthaikan of Once–Future
+      Office. Additionally, you will have the opportunity to gain key advice
+      from experts during Legal and Communications/Media FAQ sessions with
+      Anazette Ray of Zetlin & De Chiara LLP and Tami Hausman of Hausman LLC.
+
+
+      Total program cost is $500. Deadline to apply is January 8th. 
     section_break: false
     include_left-hand_column_text_: true
     lefthand_text:
