@@ -43,12 +43,6 @@ page_blocks:
 
 
       The application deadline is Monday, December 16th. Program cost is $150. 
-  - template: buttons-block
-    button:
-      - button_text: Apply Here
-        button_link: https://bwaf.wufoo.com/forms/mxx9kje0m8h5qg/
-    section_break: false
-    include_left-hand_column_text_: false
   - template: image-block
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1733770578/241209_Emerging_Leaders_Online_Square.jpg
@@ -62,12 +56,6 @@ page_blocks:
       link_url: ''
       download: ''
       link_text: ''
-  - template: buttons-block
-    button:
-      - button_text: Apply Here
-        button_link: https://bwaf.wufoo.com/forms/mxx9kje0m8h5qg/
-    section_break: false
-    include_left-hand_column_text_: false
   - template: featured-portrait-block
     header: Tenacity
     image: >-
@@ -107,6 +95,84 @@ page_blocks:
       line-2: ''
     section_break: false
     include_left-hand_column_text_: false
+  - template: portrait-gallery-block-small
+    portrait:
+      - title: Amie Hollmann
+        title_role: NJ Caine Architecture & J. Mackey Gallery
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736203644/Screenshot_2025-01-06_at_5.03.20_PM.png
+      - title: 'Anna Grib '
+        title_role: Gabellini Sheppard Associates
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736203644/Screenshot_2025-01-06_at_5.03.28_PM.png
+      - title: Annie Levine
+        title_role: Thornton Tomasetti
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736203641/Screenshot_2025-01-06_at_5.02.48_PM.png
+      - title: Catherine Peter
+        title_role: Plugger Architects
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736203641/Screenshot_2025-01-06_at_5.03.03_PM.png
+      - title: Cindy Maleise
+        title_role: CSARCH
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736203641/Screenshot_2025-01-06_at_5.03.09_PM.png
+      - title: Claire Wagner
+        title_role: Future Firm
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736203642/Screenshot_2025-01-06_at_5.04.01_PM.png
+      - title: Elizabeth Dame
+        title_role: Perkins&Will
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736203641/Screenshot_2025-01-06_at_5.02.54_PM.png
+      - title: Elizabeth Flaherty
+        title_role: JB&B
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736203644/Screenshot_2025-01-06_at_5.12.59_PM.png
+      - title: 'Hillary Gee '
+        title_role: Perkins&Will
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736203640/Screenshot_2025-01-06_at_5.02.29_PM.png
+      - title: Irene Fajardo
+        title_role: Robert A.M. Stern Architects
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736203640/Screenshot_2025-01-06_at_5.02.24_PM.png
+      - title: MaryKate Krege
+        title_role: Gensler
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736203642/Screenshot_2025-01-06_at_5.03.55_PM.png
+      - title: Molly Santoroski
+        title_role: JB&B
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736203643/Screenshot_2025-01-06_at_5.04.26_PM.png
+      - title: 'Navnika Sudhir '
+        title_role: DCI Engineers
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736203642/Screenshot_2025-01-06_at_5.03.49_PM.png
+      - title: 'Rebecca Eberlein '
+        title_role: Perkins&Will
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736203641/Screenshot_2025-01-06_at_5.02.36_PM.png
+      - title: 'Sabontu Tuse '
+        title_role: Thornton Tomasetti
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736203643/Screenshot_2025-01-06_at_5.03.44_PM.png
+      - title: Samantha Grey
+        title_role: Thornton Tomasetti
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736203643/Screenshot_2025-01-06_at_5.03.39_PM.png
+      - title: Samantha Rohlfsen
+        title_role: 'Atura Architecture '
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736203643/Screenshot_2025-01-06_at_5.04.11_PM.png
+      - title: Sophie Boumisdia
+        title_role: Congresswoman Lisa Blunt Rochester
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736203641/Screenshot_2025-01-06_at_5.02.42_PM.png
+      - title: Tooba Jalal
+        title_role: 'WRA Architects '
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736203643/Screenshot_2025-01-06_at_5.04.19_PM.png
   - template: image-block
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1733783040/Emerging_Leader_Logos.jpg
