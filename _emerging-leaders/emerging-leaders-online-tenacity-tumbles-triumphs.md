@@ -123,7 +123,7 @@ page_blocks:
         title_role: Plugger Architects
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736203641/Screenshot_2025-01-06_at_5.03.03_PM.png
-      - title: Cindy Maleise
+      - title: Cindy Maleike
         title_role: CSARCH
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736203641/Screenshot_2025-01-06_at_5.03.09_PM.png
