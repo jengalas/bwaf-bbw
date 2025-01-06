@@ -95,6 +95,16 @@ page_blocks:
       line-2: ''
     section_break: false
     include_left-hand_column_text_: false
+  - template: text-block
+    include_left-hand_column_text_: true
+    lefthand_text:
+      text: Participants
+      header_type: Large Header
+      download: ''
+      link_url: ''
+      link_text: ''
+    section_break: false
+    text_block:
   - template: portrait-gallery-block-small
     portrait:
       - title: Amie Hollmann
