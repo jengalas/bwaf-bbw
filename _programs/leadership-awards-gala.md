@@ -86,8 +86,6 @@ page_blocks:
       - image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189705/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-194.jpg
         caption: 2023 BEVY Awards Gala
-      - image: ''
-        caption: ''
     automatic: false
   - template: text-block
     button:
