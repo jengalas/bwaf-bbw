@@ -97,21 +97,6 @@ page_blocks:
           communities. As 2007 President of AIA NYC, she worked with city
           agencies and the Mayor's Office, resulting in the first revamping of
           citywide workplace standards since 1971.
-      - title: Kirsten Sibilia, Assoc. AIA, LEED AP
-        title_role: Secretary
-        image: /uploads/2024-sibilia-kirsten.jpg
-        description: >-
-          Kirsten Sibilia is a vocal advocate for the value of design. She is
-          the managing partner of Dattner Architects, a NYC-based firm and a
-          Women-Owned Business. Her design training and entrepreneurial spirit
-          have allowed her to approach the business side of the practice as a
-          design project; with each initiative, she reflects the firm’s
-          commitment to improving public life, through the creation of resilient
-          and sustainable urban density. Kirsten joined BWAF in 2017,  is on the
-          board of Habitat for Humanity of New York City & Westchester, and the
-          New York Building Foundation. She earned her Bachelor of Fine Arts
-          from the New School’s Parson School of Design as well as a Bachelor of
-          Arts from The New School’s Lang College.
       - title: Michele O’Connor, PE, LEED AP
         title_role: Immediate Past Chair
         image: >-
@@ -146,24 +131,6 @@ page_blocks:
           legal practice focuses on mergers and acquisitions, business
           organization and management issues, succession, strategy and licensing
           issues.
-      - title: Ann Rolland, FAIA, LEED AP
-        title_role: Trustee
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618330597/ARolland_web_farbmn.jpg
-        description: >-
-          Ann is a partner at FXCollaborative. She directs their Architects’
-          Cultural and Educational practice, and has been instrumental in its
-          development from its inception. She is inquisitive and optimistic by
-          nature, and with a keen blend of analytical and organizational skills,
-          Ann uncovers possibilities, unlocks potentials, and maximizes
-          outcomes. Ann is a Fellow of the AIA, a registered architect in New
-          York, and a graduate of Washington University in St. Louis, where she
-          earned both Bachelor of Arts and Master of Architecture degrees. A
-          frequent speaker and active member of the design community, she has
-          served on the advisory boards of several organizations and is active
-          in the AIA New York Committee on Architecture for Education,
-          Non-Traditional Employment for Women (NEW), and Beverly Willis
-          Architecture Foundation (BWAF).
       - title: 'Annya Ramírez-Jiménez, AIA '
         title_role: Trustee
         description: >-
@@ -273,24 +240,6 @@ page_blocks:
           buildings to the National Register of Historic Places. She is
           currently Managing Director, SVP, Sr. Leadership & Legacy Consultant
           at Ascent Private Capital Management of U.S. Bank
-      - title: Melissa Burton, Ph.D.
-        title_role: Trustee
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937147/2017_Burton_Melissa_01_980x780_aev98l.jpg
-        description: >-
-          Melissa Burton is a Principal with Arup and currently serves as the
-          Consulting Practice Leader for Canada. She oversees a variety of work
-          for Arup in the consulting practice from early stage advisory through
-          specialty technical consulting work to complex design studies. In her
-          role she brings together teams of engineers and consultants with a
-          breadth and depth of skills and experience to enable them to
-          collaborate with clients and develop creative, robust solutions to
-          realize her client’s visions. Melissa started her career looking at
-          how the wind climate affects the buildings we design, and how the
-          consequential reaction of the buildings affects the people that occupy
-          them. Her technical expertise extends to beyond code approaches using
-          advanced analytical tools to quantify and reduce design risk from wind
-          loading.
       - title: Phoebe Yee, AIA
         title_role: Trustee
         image: >-
@@ -309,23 +258,6 @@ page_blocks:
           University. She is a current member of the American Institute of
           Architects (AIA) and has been a speaker at AIA conferences and Urban
           Land Institute events.
-      - title: 'Richard M. McFadden, PE, LEED AP '
-        title_role: Trustee
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618331280/sml_HS_McFadden-R_gt7mcj.jpg
-        description: >-
-          Rich McFadden joined JB&B in 2003, and has acted as Project Manager
-          and Partner-in-Charge in the Electrical Department on a wide variety
-          of projects and building types. With a strong background in facilities
-          operations, Rich has lent his expertise to the live upgrade of large
-          mission-critical systems supporting projects such as Citigroup’s New
-          York headquarters at 388-390 Greenwich Street. He has also played an
-          instrumental role in the development of Brookfield’s multi-building
-          complex at Manhattan West for which he serves as the
-          Partner-in-Charge. Rich currently serves as National Director on the
-          ACEC New York Executive Committee. He holds a Bachelor of Science
-          degree in Electrical Engineering from Bucknell University, and is a
-          licensed Professional Engineer and LEED Accredited Professional.  
       - title: Sandra Joslyn, AIA, CDT, LEED AP BD+C,
         title_role: Trustee
         image: >-
