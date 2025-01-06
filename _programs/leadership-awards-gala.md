@@ -4,22 +4,9 @@ navCategory: Programs
 title: Leadership Awards Celebration
 permalink: /programs/leadership-awards-celebration
 page_blocks:
-  - template: buttons-block
-    button:
-      - button_text: Visit the Gala Website
-        button_link: http://gala.bwaf.org/
-    section_break: false
-    include_left-hand_column_text_: false
-    lefthand_text:
-      header_type: ''
-      text: ''
-      download: ''
-      link_url: ''
-      link_text: ''
-    buttons_header__optional_: ''
   - template: image-block
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/Screen_Shot_2023-08-10_at_2.30.23_PM.png
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736184197/BWAFGala_invite-09.jpg
     section_break: false
     image_caption_text: ''
     include_left-hand_column_text_: true
@@ -31,6 +18,9 @@ page_blocks:
       link_text: ''
     alt_text: ''
   - template: text-block
+    button:
+      - button_text:
+        button_link:
     section_break: false
     include_left-hand_column_text_: false
     lefthand_text:
@@ -40,10 +30,18 @@ page_blocks:
       link_url: ''
       link_text: ''
     text_block: >-
-      Join us for our annual BEVY Leadership Awards! For sponsorship
-      information, and to see this year's honorees, visit the website at the
-      link above or contact info@bwaf.org.&nbsp;
+      Join us for our 10th annual Bevy Leadership Awards. In 2025, we are
+      reimagining our celebration for springtime in a stunning new venue: The
+      Shed! In the coming weeks will announce our panel of remarkable honorees
+      for the evening.
+
+
+      For sponsorship and ticket information, contact info@bwaf.org.&nbsp;
   - template: slideshow-block
+    button:
+      - button_text:
+        button_link:
+    section_break: false
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Large Header
@@ -88,9 +86,12 @@ page_blocks:
       - image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/bwaf-bevy-awards-2022-173_52451406910_o.jpg
         caption: 2022 BEVY Awards Gala
-    section_break: false
     automatic: false
   - template: text-block
+    button:
+      - button_text:
+        button_link:
+    section_break: false
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Link
@@ -127,8 +128,10 @@ page_blocks:
       within our industry—A special evening of friends, family, and professional
       colleagues provides an opportunity to expand contacts and demonstrate that
       networking with women is good business.
-    section_break: false
   - template: text-block
+    button:
+      - button_text:
+        button_link:
     section_break: true
     include_left-hand_column_text_: true
     lefthand_text:
