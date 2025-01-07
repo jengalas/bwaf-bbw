@@ -389,7 +389,7 @@ page_blocks:
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1706733586/scott_lomax.jpg
         description: "A co-leader of our Structural Engineering practice, Scott Lomax specializes in the design, analysis and project management of complex and creative structures. During his 20-plus-year-career, he has been responsible for a range of projects, including large-scale sports and entertainment venues, cultural and mixed-use buildings, bridges, pedestrian walkways and unique specialty structures. Scott, who also serves as global leader of business development, has a broad engineering background, which gives him a keen understanding of the importance of collaboration, creativity and flexibility for the successful\_delivery of signature, architecturally exposed structures. His portfolio includes The Shed moveable arts space and Vessel interactive sculpture in New York City’s Hudson Yards, the 1,200-foot Margaret Hunt Hill vehicular bridge in Dallas, Texas, and the Museu Do Amanha in Rio de Janeiro, Brazil. Scott joined Thornton Tomasetti in 2012, after nine years with Santiago Calatrava’s New York and Valencia, Spain offices. He has strong global project management skills acquired through assignments in North and South America, Asia and Europe."
-      - title: Tami Hausman
+      - title: Tami Hausman, PhD
         title_role: Trustee
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1706733982/Tami_Hausman_headshot.jpg
