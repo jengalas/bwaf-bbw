@@ -372,6 +372,27 @@ page_blocks:
           leadership and professional development.  She recently completed five
           years of service on the Board of Directors for the New York chapter of
           Commercial Real Estate for Women, serving as the President in 2023.
+      - title: Ruth Ro, AIA NOMA LEED AP BD+C (she/they)
+        title_role: Trustee
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736266895/Ruth_Ro.jpg
+        description: >
+          Ruth Ro is a Partner at Dattner Architects, a women-owned firm, where
+          she leads the design of large-scale, mixed-use placemaking projects.
+          She has a passion for complex, multi-stakeholder endeavors, advocating
+          for good design, and rallying support to act on behalf of the greater
+          community. As an openly queer person of color, she is a leader and
+          vocal advocate for social justice, both within the profession and
+          civically. She spearheaded the formation of Dattner’s DEI Committee
+          and advancing the firm’s equitable policies and practices. She serves
+          on the board of Build Out Alliance, where she leads advocacy efforts
+          for LGBTQIA+ professionals in the building industry. Additionally,
+          Ruth is a founding board member of AAPI New Jersey, the state’s
+          largest Asian American non-profit advocacy organization. She
+          facilitates discussions on race with local school administrators and
+          community leaders, and she frequently speaks at rallies and testifies
+          on behalf of marginalized voices. In 2021, Ruth was recognized as one
+          of Crain’s Notable LGBTQ Leaders and Executives.
       - title: Mary McLeod, Ph.D.
         title_role: Consulting Historian
         image: >-
