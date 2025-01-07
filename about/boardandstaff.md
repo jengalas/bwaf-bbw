@@ -40,8 +40,26 @@ page_blocks:
       link_url: ''
       link_text: ''
     portrait:
-      - title: Angelica T. Baccon, AIA
+      - title: Phoebe Yee, AIA
         title_role: Chair
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618329168/Yee-722x349_dsjmio.jpg
+        description: >-
+          As Executive Vice President of Design for Related California, Ms. Yee
+          is responsible for the management of architecture and design for all
+          market rate and mixed-income residential developments in California.
+          Ms. Yee works closely with the architectural team, sales and
+          marketing, and development executives throughout the entire
+          development process to ensure seamless design and execution. 
+
+          A recipient of the Asian Women in Business Corporate Leadership Award,
+          Ms. Yee holds a Master in Architecture from the University of
+          California, Los Angeles and a bachelor’s degree from Georgetown
+          University. She is a current member of the American Institute of
+          Architects (AIA) and has been a speaker at AIA conferences and Urban
+          Land Institute events.
+      - title: Angelica T. Baccon, AIA
+        title_role: Immediate Past Chair
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1674591543/210902_Baccon_Portraits-0131_qhyo0l.jpg
         description: >-
@@ -57,25 +75,11 @@ page_blocks:
           delivery challenges with multilayered stakeholder groups, successfully
           leveraging programs to promote vitality, equity and community in the
           private sector and public realm.
-      - title: Julia Murphy, AIA
-        title_role: Chair Nominating Committee
+      - title: Jennifer Stone, AIA
+        title_role: Secretary
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618330990/j_murphy_headshot_mfhzye.png
-        description: >-
-          A partner at SOM, Julia Murphy is integral to the firm's engagement
-          with the built environment of New York City. In her decade of
-          experience at SOM, she has worked on some of the most complex projects
-          in Manhattan, emerging as an expert project manager. She has a diverse
-          range of project responsibilities, from day-to-day interaction with
-          the client and coordination with the consultant team to maintaining
-          staffing, schedule, and budget. Much of her work involves mitigating
-          risk for clients who must build their projects within the exigencies
-          of New York’s physical and regulatory environments.
-
-          She was featured in Architect Magazine’s feature piece, “Workers in
-          Progress.” Murphy is a member of the WX Women Executives in Real
-          Estate and is the Immediate Past Chair of Beverly Willis Architecture
-          Foundation. 
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618329715/Stone_ltb0db.jpg
+        description: "Experienced in managing complex institutional planning and design projects, as Partner at Robert A.M. Stern Architects LLP, Jennifer Stone brings a love of contextually appropriate, sustainable architecture to her work with clients, communities, and building industry partners.\_\nJennifer is an active participant, mentor, and volunteer in her professional community. As a council member of the Society for College and University Planning, she shares her extensive knowledge and stays current with global best practices. Her presentations at numerous professional conferences and her leadership roles with the New York Building Congress Foundation, ACE Mentorship Programs, and the Urban Land Institute, as well as the firm's own Women Leadership Initiative and Sustainability Committee, testify to her commitment to developing and opening the field of architecture."
       - title: Joan Blumenfeld, FAIA, FIIDA, LEED ID+C
         title_role: Co-Chair, Nominating Committee
         image: >-
@@ -97,8 +101,50 @@ page_blocks:
           communities. As 2007 President of AIA NYC, she worked with city
           agencies and the Mayor's Office, resulting in the first revamping of
           citywide workplace standards since 1971.
+      - title: Julia Murphy, AIA
+        title_role: Chair Nominating Committee
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618330990/j_murphy_headshot_mfhzye.png
+        description: >-
+          A partner at SOM, Julia Murphy is integral to the firm's engagement
+          with the built environment of New York City. In her decade of
+          experience at SOM, she has worked on some of the most complex projects
+          in Manhattan, emerging as an expert project manager. She has a diverse
+          range of project responsibilities, from day-to-day interaction with
+          the client and coordination with the consultant team to maintaining
+          staffing, schedule, and budget. Much of her work involves mitigating
+          risk for clients who must build their projects within the exigencies
+          of New York’s physical and regulatory environments.
+
+          She was featured in Architect Magazine’s feature piece, “Workers in
+          Progress.” Murphy is a member of the WX Women Executives in Real
+          Estate and is the Immediate Past Chair of Beverly Willis Architecture
+          Foundation. 
+      - title: Kate Wittels
+        title_role: Treasurer
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1711751470/Kate_Wittels_square.jpg
+        description: >-
+          Kate Wittels is Partner at HR&A Advisors, an industry-leading economic
+          development, real estate advisory, and public policy consulting firm.
+          Based in New York, Kate works at the intersection of tech and city
+          building helping clients build places, train people, and deliver
+          infrastructure to make today's cities ready for tomorrow's
+          opportunities. She provides real estate advisory, conducts impact
+          assessments and develops programs and policies to support governments,
+          developers and businesses on growing tech and innovation ecosystems in
+          cities around the world. Working at the company, district, and city
+          scales, Kate helps her clients leverage technology for economic
+          development and to encourage more equitable urban environments. Prior
+          to joining HR&A, Kate served as a Director of Corporate Real Estate
+          for Sony where she managed real estate acquisitions, dispositions, and
+          lease activity for a 20 million square foot portfolio. Kate earned a
+          Master of Science in Real Estate Development from the Massachusetts
+          Institute of Technology and a Bachelor of Arts in Urban Studies from
+          the University of Pennsylvania. Kate is also on the board of the
+          Regional Plan Association and the Center for an Urban Future.
       - title: Michele O’Connor, PE, LEED AP
-        title_role: Immediate Past Chair
+        title_role:
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618330674/MOC_headshot_do3brf.jpg
         description: >-
@@ -115,22 +161,6 @@ page_blocks:
           passionate about supporting, mentoring, and empowering women in STEM
           and the engineering community. This dedication inspired her to
           co-found Women@Langan in September 2015.
-      - title: Patricia Harris, Esq., LEED AP
-        title_role: Treasurer
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937223/PatriciaHarrisHeadshot-2-e1454609739415_rkq5sz.jpg
-        description: >-
-          Patti Harris, Founder and CEO of LicenseSure LLC and Special Counsel
-          to Zetlin & De Chiara LLP, provides legal and business counsel to
-          architects and engineers throughout the United States. A serial
-          entrepreneur as well as an attorney, Patti started her career as a
-          corporate attorney with two New York City law firms. From 2000 to
-          2013, Patti served as the Managing Partner of Zetlin & De Chiara.
-          Harris is the Founder and CEO of LicenseSure, which provides business
-          and licensing compliance services to design professionals. Ms. Harris’
-          legal practice focuses on mergers and acquisitions, business
-          organization and management issues, succession, strategy and licensing
-          issues.
       - title: 'Annya Ramírez-Jiménez, AIA '
         title_role: Trustee
         description: >-
@@ -192,6 +222,10 @@ page_blocks:
           University of New York, Hunter College. She is passionate about
           service and is the founder of four impact organizations:
           SheBuildsWaves, SheBuildsLives, SheBuildsMoney and REACH Nigeria.
+      - title: Claudia Cusumano AIA, LEED AP, BD+C
+        title_role: Trustee
+        image: ''
+        description: ''
       - title: Diana Zakem, PE
         title_role: Trustee
         image: >-
@@ -215,11 +249,10 @@ page_blocks:
           Wisecarver currently serves as the executive sponsor of the company's
           employee resource group, Women of WeWork. 
            
-      - title: Jennifer Stone, AIA
+      - title: Jen Grosso, AIA
         title_role: Trustee
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618329715/Stone_ltb0db.jpg
-        description: "Experienced in managing complex institutional planning and design projects, as Partner at Robert A.M. Stern Architects LLP, Jennifer Stone brings a love of contextually appropriate, sustainable architecture to her work with clients, communities, and building industry partners.\_\nJennifer is an active participant, mentor, and volunteer in her professional community. As a council member of the Society for College and University Planning, she shares her extensive knowledge and stays current with global best practices. Her presentations at numerous professional conferences and her leadership roles with the New York Building Congress Foundation, ACE Mentorship Programs, and the Urban Land Institute, as well as the firm's own Women Leadership Initiative and Sustainability Committee, testify to her commitment to developing and opening the field of architecture."
+        image: ''
+        description: ''
       - title: Karen McNeill, Ph.D.
         title_role: Trustee
         image: >-
@@ -240,24 +273,70 @@ page_blocks:
           buildings to the National Register of Historic Places. She is
           currently Managing Director, SVP, Sr. Leadership & Legacy Consultant
           at Ascent Private Capital Management of U.S. Bank
-      - title: Phoebe Yee, AIA
+      - title: Michelle DeCarlo, PE, LEED AP
         title_role: Trustee
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618329168/Yee-722x349_dsjmio.jpg
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736266668/Michelle_DeCarlo.jpg
+        description: >
+          Michelle DeCarlo serves as an Associate Partner at JB&B.  She has led
+          the HVAC design for JB&B on a variety of projects, including premier
+          commercial office buildings, laboratories and transportation
+          facilities.  Among her recent projects are the new core and shell
+          office design for 30 Hudson Yards, the commercial office redevelopment
+          of the landmarked Moynihan Train Hall, and The New Terminal One at
+          John F. Kennedy International Airport. Michelle is very involved in
+          the advancement of women in the industry.  In 2018, she launched the
+          JB&B Women’s Initiative, an in-house membership group whose mission is
+          the empowerment of women to position them as leaders inside and
+          outside the firm, and to promote the retention of women through
+          leadership and professional development.  She recently completed five
+          years of service on the Board of Directors for the New York chapter of
+          Commercial Real Estate for Women, serving as the President in 2023.
+      - title: Michelle Roelofs
+        title_role: Trustee
+        image: ''
+        description: ''
+      - title: Nicole Emmons
+        title_role: 'Trustee '
+        image: ''
+        description: ''
+      - title: Patricia Harris, Esq., LEED AP
+        title_role: Counsel
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937223/PatriciaHarrisHeadshot-2-e1454609739415_rkq5sz.jpg
         description: >-
-          As Executive Vice President of Design for Related California, Ms. Yee
-          is responsible for the management of architecture and design for all
-          market rate and mixed-income residential developments in California.
-          Ms. Yee works closely with the architectural team, sales and
-          marketing, and development executives throughout the entire
-          development process to ensure seamless design and execution. 
-
-          A recipient of the Asian Women in Business Corporate Leadership Award,
-          Ms. Yee holds a Master in Architecture from the University of
-          California, Los Angeles and a bachelor’s degree from Georgetown
-          University. She is a current member of the American Institute of
-          Architects (AIA) and has been a speaker at AIA conferences and Urban
-          Land Institute events.
+          Patti Harris, Founder and CEO of LicenseSure LLC and Special Counsel
+          to Zetlin & De Chiara LLP, provides legal and business counsel to
+          architects and engineers throughout the United States. A serial
+          entrepreneur as well as an attorney, Patti started her career as a
+          corporate attorney with two New York City law firms. From 2000 to
+          2013, Patti served as the Managing Partner of Zetlin & De Chiara.
+          Harris is the Founder and CEO of LicenseSure, which provides business
+          and licensing compliance services to design professionals. Ms. Harris’
+          legal practice focuses on mergers and acquisitions, business
+          organization and management issues, succession, strategy and licensing
+          issues.
+      - title: Ruth Ro, AIA NOMA LEED AP BD+C (she/they)
+        title_role: Trustee
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736266895/Ruth_Ro.jpg
+        description: >
+          Ruth Ro is a Partner at Dattner Architects, a women-owned firm, where
+          she leads the design of large-scale, mixed-use placemaking projects.
+          She has a passion for complex, multi-stakeholder endeavors, advocating
+          for good design, and rallying support to act on behalf of the greater
+          community. As an openly queer person of color, she is a leader and
+          vocal advocate for social justice, both within the profession and
+          civically. She spearheaded the formation of Dattner’s DEI Committee
+          and advancing the firm’s equitable policies and practices. She serves
+          on the board of Build Out Alliance, where she leads advocacy efforts
+          for LGBTQIA+ professionals in the building industry. Additionally,
+          Ruth is a founding board member of AAPI New Jersey, the state’s
+          largest Asian American non-profit advocacy organization. She
+          facilitates discussions on race with local school administrators and
+          community leaders, and she frequently speaks at rallies and testifies
+          on behalf of marginalized voices. In 2021, Ruth was recognized as one
+          of Crain’s Notable LGBTQ Leaders and Executives.
       - title: Sandra Joslyn, AIA, CDT, LEED AP BD+C,
         title_role: Trustee
         image: >-
@@ -330,85 +409,6 @@ page_blocks:
           approach to deliver innovative, well-designed, and artistic
           structures. A natural educator, Victoria has been a lecturer in the
           Graduate Program at Yale University School of Architecture since 2015.
-      - title: Kate Wittels
-        title_role: Trustee
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1711751470/Kate_Wittels_square.jpg
-        description: >-
-          Kate Wittels is Partner at HR&A Advisors, an industry-leading economic
-          development, real estate advisory, and public policy consulting firm.
-          Based in New York, Kate works at the intersection of tech and city
-          building helping clients build places, train people, and deliver
-          infrastructure to make today's cities ready for tomorrow's
-          opportunities. She provides real estate advisory, conducts impact
-          assessments and develops programs and policies to support governments,
-          developers and businesses on growing tech and innovation ecosystems in
-          cities around the world. Working at the company, district, and city
-          scales, Kate helps her clients leverage technology for economic
-          development and to encourage more equitable urban environments. Prior
-          to joining HR&A, Kate served as a Director of Corporate Real Estate
-          for Sony where she managed real estate acquisitions, dispositions, and
-          lease activity for a 20 million square foot portfolio. Kate earned a
-          Master of Science in Real Estate Development from the Massachusetts
-          Institute of Technology and a Bachelor of Arts in Urban Studies from
-          the University of Pennsylvania. Kate is also on the board of the
-          Regional Plan Association and the Center for an Urban Future.
-      - title: Claudia Cusumano AIA, LEED AP, BD+C
-        title_role: Trustee
-        image: ''
-        description: ''
-      - title: Jen Grosso, AIA
-        title_role: Trustee
-        image: ''
-        description: ''
-      - title: Michelle DeCarlo, PE, LEED AP
-        title_role: Trustee
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736266668/Michelle_DeCarlo.jpg
-        description: >
-          Michelle DeCarlo serves as an Associate Partner at JB&B.  She has led
-          the HVAC design for JB&B on a variety of projects, including premier
-          commercial office buildings, laboratories and transportation
-          facilities.  Among her recent projects are the new core and shell
-          office design for 30 Hudson Yards, the commercial office redevelopment
-          of the landmarked Moynihan Train Hall, and The New Terminal One at
-          John F. Kennedy International Airport. Michelle is very involved in
-          the advancement of women in the industry.  In 2018, she launched the
-          JB&B Women’s Initiative, an in-house membership group whose mission is
-          the empowerment of women to position them as leaders inside and
-          outside the firm, and to promote the retention of women through
-          leadership and professional development.  She recently completed five
-          years of service on the Board of Directors for the New York chapter of
-          Commercial Real Estate for Women, serving as the President in 2023.
-      - title: Michelle Roelofs
-        title_role: Trustee
-        image: ''
-        description: ''
-      - title: Nicole Emmons
-        title_role: 'Trustee '
-        image: ''
-        description: ''
-      - title: Ruth Ro, AIA NOMA LEED AP BD+C (she/they)
-        title_role: Trustee
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736266895/Ruth_Ro.jpg
-        description: >
-          Ruth Ro is a Partner at Dattner Architects, a women-owned firm, where
-          she leads the design of large-scale, mixed-use placemaking projects.
-          She has a passion for complex, multi-stakeholder endeavors, advocating
-          for good design, and rallying support to act on behalf of the greater
-          community. As an openly queer person of color, she is a leader and
-          vocal advocate for social justice, both within the profession and
-          civically. She spearheaded the formation of Dattner’s DEI Committee
-          and advancing the firm’s equitable policies and practices. She serves
-          on the board of Build Out Alliance, where she leads advocacy efforts
-          for LGBTQIA+ professionals in the building industry. Additionally,
-          Ruth is a founding board member of AAPI New Jersey, the state’s
-          largest Asian American non-profit advocacy organization. She
-          facilitates discussions on race with local school administrators and
-          community leaders, and she frequently speaks at rallies and testifies
-          on behalf of marginalized voices. In 2021, Ruth was recognized as one
-          of Crain’s Notable LGBTQ Leaders and Executives.
       - title: Mary McLeod, Ph.D.
         title_role: Consulting Historian
         image: >-
