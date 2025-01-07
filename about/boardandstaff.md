@@ -353,6 +353,14 @@ page_blocks:
           Institute of Technology and a Bachelor of Arts in Urban Studies from
           the University of Pennsylvania. Kate is also on the board of the
           Regional Plan Association and the Center for an Urban Future.
+      - title: Claudia Cusumano AIA, LEED AP, BD+C
+        title_role: Trustee
+        image: ''
+        description: ''
+      - title: Jen Grosso, AIA
+        title_role: Trustee
+        image: ''
+        description: ''
       - title: Michelle DeCarlo, PE, LEED AP
         title_role: Trustee
         image: >-
@@ -372,6 +380,14 @@ page_blocks:
           leadership and professional development.  She recently completed five
           years of service on the Board of Directors for the New York chapter of
           Commercial Real Estate for Women, serving as the President in 2023.
+      - title: Michelle Roelofs
+        title_role: Trustee
+        image: ''
+        description: ''
+      - title: Nicole Emmons
+        title_role: 'Trustee '
+        image: ''
+        description: ''
       - title: Ruth Ro, AIA NOMA LEED AP BD+C (she/they)
         title_role: Trustee
         image: >-
