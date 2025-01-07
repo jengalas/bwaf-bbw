@@ -99,7 +99,7 @@ page_blocks:
     include_left-hand_column_text_: true
     lefthand_text:
       text: Participants
-      header_type: Large Header
+      header_type: Medium Header
       download: ''
       link_url: ''
       link_text: ''
