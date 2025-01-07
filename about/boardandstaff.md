@@ -353,6 +353,25 @@ page_blocks:
           Institute of Technology and a Bachelor of Arts in Urban Studies from
           the University of Pennsylvania. Kate is also on the board of the
           Regional Plan Association and the Center for an Urban Future.
+      - title: Michelle DeCarlo, PE, LEED AP
+        title_role: Trustee
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736266668/Michelle_DeCarlo.jpg
+        description: >
+          Michelle DeCarlo serves as an Associate Partner at JB&B.  She has led
+          the HVAC design for JB&B on a variety of projects, including premier
+          commercial office buildings, laboratories and transportation
+          facilities.  Among her recent projects are the new core and shell
+          office design for 30 Hudson Yards, the commercial office redevelopment
+          of the landmarked Moynihan Train Hall, and The New Terminal One at
+          John F. Kennedy International Airport. Michelle is very involved in
+          the advancement of women in the industry.  In 2018, she launched the
+          JB&B Women’s Initiative, an in-house membership group whose mission is
+          the empowerment of women to position them as leaders inside and
+          outside the firm, and to promote the retention of women through
+          leadership and professional development.  She recently completed five
+          years of service on the Board of Directors for the New York chapter of
+          Commercial Real Estate for Women, serving as the President in 2023.
       - title: Mary McLeod, Ph.D.
         title_role: Consulting Historian
         image: >-
