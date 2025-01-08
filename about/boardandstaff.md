@@ -41,7 +41,7 @@ page_blocks:
       link_text: ''
     portrait:
       - title: Angelica T. Baccon, AIA
-        title_role: Chair
+        title_role: Board Chair
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1674591543/210902_Baccon_Portraits-0131_qhyo0l.jpg
         description: >-
