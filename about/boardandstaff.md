@@ -58,7 +58,7 @@ page_blocks:
           leveraging programs to promote vitality, equity and community in the
           private sector and public realm.
       - title: Phoebe Yee, AIA
-        title_role: Incoming Chair
+        title_role: 'Board Chair Elect '
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618329168/Yee-722x349_dsjmio.jpg
         description: >-
