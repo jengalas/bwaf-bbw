@@ -40,8 +40,25 @@ page_blocks:
       link_url: ''
       link_text: ''
     portrait:
-      - title: Phoebe Yee, AIA
+      - title: Angelica T. Baccon, AIA
         title_role: Chair
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1674591543/210902_Baccon_Portraits-0131_qhyo0l.jpg
+        description: >-
+          Angelica Trevino Baccon is a principal of SHoP. She has a particular
+          specialty in leading complex mixed-use and workplace design projects,
+          often at the intersection of enterprise and technology. These include
+          the new Uber headquarters in San Francisco and several confidential
+          projects for global leaders in Silicon Valley. She holds a Bachelor in
+          Architecture degree from ITESM in Monterrey, Mexico, and a Master of
+          Architecture from Harvard University, where she has also served as a
+          professor. Her work on New York City’s South Street Seaport
+          established her deep expertise in fast-paced, high-profile design and
+          delivery challenges with multilayered stakeholder groups, successfully
+          leveraging programs to promote vitality, equity and community in the
+          private sector and public realm.
+      - title: Phoebe Yee, AIA
+        title_role: Incoming Chair
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618329168/Yee-722x349_dsjmio.jpg
         description: >-
@@ -58,23 +75,6 @@ page_blocks:
           University. She is a current member of the American Institute of
           Architects (AIA) and has been a speaker at AIA conferences and Urban
           Land Institute events.
-      - title: Angelica T. Baccon, AIA
-        title_role: Immediate Past Chair
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1674591543/210902_Baccon_Portraits-0131_qhyo0l.jpg
-        description: >-
-          Angelica Trevino Baccon is a principal of SHoP. She has a particular
-          specialty in leading complex mixed-use and workplace design projects,
-          often at the intersection of enterprise and technology. These include
-          the new Uber headquarters in San Francisco and several confidential
-          projects for global leaders in Silicon Valley. She holds a Bachelor in
-          Architecture degree from ITESM in Monterrey, Mexico, and a Master of
-          Architecture from Harvard University, where she has also served as a
-          professor. Her work on New York City’s South Street Seaport
-          established her deep expertise in fast-paced, high-profile design and
-          delivery challenges with multilayered stakeholder groups, successfully
-          leveraging programs to promote vitality, equity and community in the
-          private sector and public realm.
       - title: Jennifer Stone, AIA
         title_role: Secretary
         image: >-
@@ -144,7 +144,7 @@ page_blocks:
           the University of Pennsylvania. Kate is also on the board of the
           Regional Plan Association and the Center for an Urban Future.
       - title: Michele O’Connor, PE, LEED AP
-        title_role:
+        title_role: 'Immediate Past Chair '
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618330674/MOC_headshot_do3brf.jpg
         description: >-
