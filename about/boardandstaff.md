@@ -224,8 +224,25 @@ page_blocks:
           SheBuildsWaves, SheBuildsLives, SheBuildsMoney and REACH Nigeria.
       - title: Claudia Cusumano AIA, LEED AP, BD+C
         title_role: Trustee
-        image: ''
-        description: ''
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736363105/claudia-cusumano-headshot.jpg.webp
+        description: >-
+          Since joining KPF in 2001, Claudia has honed her focus on
+          program-driven developments in the United States. Throughout over 25
+          years of experience, Claudia has positioned herself as a strategic
+          leader in the firm across civic, cultural, institutional, interiors,
+          and commercial office projects. From cultural institutions to
+          skyline-defining supertalls to academic innovation centers, Claudia
+          has led the management and coordination of projects from concept
+          through construction. She played a guiding role as the Managing
+          Director of 30 Hudson Yards, the Manhattan neighborhood’s tallest
+          tower at approximately 1,300 feet, home to the highest observation
+          deck in the Western Hemisphere. Also in the role of Managing Director
+          of The University of Michigan’s Center for Innovation in Detroit,
+          Claudia worked with the client to expand the institution’s reach,
+          putting science and technology on display. Claudia is passionate about
+          mentorship in architecture and participates in various programs
+          including WAIA’s mentorship program and the Architecture League.
       - title: Diana Zakem, PE
         title_role: Trustee
         image: >-
@@ -251,7 +268,8 @@ page_blocks:
            
       - title: Jen Grosso, AIA
         title_role: Trustee
-        image: ''
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736363125/1577719787296.jpg
         description: ''
       - title: Karen McNeill, Ph.D.
         title_role: Trustee
@@ -310,9 +328,10 @@ page_blocks:
           teaching a course on mass timber design.  She holds her undergraduate 
           degree from the University of Michigan and a Master's degree in
           structural engineering from the University of California - Berkeley.
-      - title: Nicole Emmons
+      - title: Nicole Emmons, AIA, LEED AP
         title_role: 'Trustee '
-        image: ''
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736362953/headshot-Nicole-Emmons_x2.webp
         description: ''
       - title: Patricia Harris, Esq., LEED AP
         title_role: Counsel
