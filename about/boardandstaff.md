@@ -292,10 +292,24 @@ page_blocks:
           leadership and professional development.  She recently completed five
           years of service on the Board of Directors for the New York chapter of
           Commercial Real Estate for Women, serving as the President in 2023.
-      - title: Michelle Roelofs
+      - title: 'Michelle Roelofs, PE '
         title_role: Trustee
-        image: ''
-        description: ''
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736362803/Michelle_Roelofs.jpg
+        description: >
+          Michelle Roelofs, PE, is a structural engineer and Associate Principal
+          at Arup.   Since joining the firm in 2008, she has designed and
+          managed a wide range of projects including academic, cultural,
+          commercial, and residential buildings.  She has developed an expertise
+          in the use of novel materials, expressive structure, and adaptive
+          reuse/renovation.  Recent projects include the Gilder Center at the
+          American Museum of Natural History, the renovation and expansion of
+          the Hopkins Center for the Arts at Dartmouth, and the David Rubenstein
+          Treehouse which will be the first mass timber project on Harvard's
+          campus.  Michelle also serves as an Adjunct Professor at Cooper Union,
+          teaching a course on mass timber design.  She holds her undergraduate 
+          degree from the University of Michigan and a Master's degree in
+          structural engineering from the University of California - Berkeley.
       - title: Nicole Emmons
         title_role: 'Trustee '
         image: ''
