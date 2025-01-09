@@ -278,6 +278,7 @@ page_blocks:
           Rudin Management. She holds a B. Arch from Cornell University and a
           Real Estate Investment Certificate from New York University.
 
+
           In 2020 Jen was an Urban Design Forum Forefront Fellow researching
           green cooperative financing and serves on the Forefront Steering
           Committee. She has previously held adjunct positions at CCNY and
