@@ -269,8 +269,21 @@ page_blocks:
       - title: Jen Grosso, AIA
         title_role: Trustee
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736363125/1577719787296.jpg
-        description: ''
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736436395/Headshot.jpg
+        description: >-
+          Jen Grosso is the Director of Architecture at Alloy Development where
+          she oversees the design and architecture team for large scale
+          mixed-use projects in Brooklyn. Prior to joining Alloy in 2019, Jen
+          practiced at SOM on developments for Related Companies, AvalonBay, and
+          Rudin Management. She holds a B. Arch from Cornell University and a
+          Real Estate Investment Certificate from New York University.
+
+          In 2020 Jen was an Urban Design Forum Forefront Fellow researching
+          green cooperative financing and serves on the Forefront Steering
+          Committee. She has previously held adjunct positions at CCNY and
+          Boston Architectural College teaching professional practice and design
+          studios. She is a member of GREG New York City, is a LEED Accredited
+          Professional, and a Licensed Architect in New York State.
       - title: Karen McNeill, Ph.D.
         title_role: Trustee
         image: >-
