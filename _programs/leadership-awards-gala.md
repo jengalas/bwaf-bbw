@@ -140,17 +140,17 @@ page_blocks:
       link_url: ''
       link_text: ''
     text_block: |-
-      **Organizational Excellence**<br>Elizabeth Velez
+      **Organizational Excellence**<br>Elizabeth Velez \| Velez Organization
 
-      **Innovative Executive**<br>Elizabeth Leber
+      **Innovative Executive**<br>Elizabeth Leber \| Beyer Blinder Belle
 
-      **Mentorship**<br>Rosalind Tsang
+      **Mentorship**<br>Rosalind Tsang \| Building Design Partnership
 
-      **Academic Excellence**<br>Monica Ponce de Leon
+      **Academic Excellence**<br>Monica Ponce de Leon \| Princeton University
 
-      **Media Engagement**<br>Christopher Hawthorne
+      **Media Engagement**<br>Christopher Hawthorne \| Yale University
 
-      **Emerging Leader**<br>Mariana Giraldo
+      **Emerging Leader**<br>Mariana Giraldo \| Perkins&Will
 date: 2021-05-05 13:32:44
 description: >-
   Beverly Willis Architecture Foundation brings attention to the work of
