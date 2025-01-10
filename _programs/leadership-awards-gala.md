@@ -135,28 +135,22 @@ page_blocks:
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Medium Header
-      text: 2022 Honorees
+      text: 2023 Honorees
       download: ''
       link_url: ''
       link_text: ''
-    text_block: >-
-      **Organizational Excellence**<br>Fiona Cousins \| Director, ARUP
+    text_block: |-
+      **Organizational Excellence**<br>Elizabeth Velez
 
+      **Innovative Executive**<br>Elizabeth Leber
 
-      **Innovative Executive**<br>Judy Kessler \| Consultant, Vornado
+      **Mentorship**<br>Rosalind Tsang
 
+      **Academic Excellence**<br>Monica Ponce de Leon
 
-      **Mentorship**<br>Brennan Gilbane Koch \| Client Relations, Gilbane
+      **Media Engagement**<br>Christopher Hawthorne
 
-
-      Elaine Molinar \| Managing Director, Partner, Snøhetta
-
-
-      **Academic Excellence**<br>J. Meejin Yoon \| Dean, Cornell University
-      College of Architecture, Art, and Planning
-
-
-      **Emerging Leader**<br>Adrienne Hepler \| Owner & Founder, Envoie Projects
+      **Emerging Leader**<br>Mariana Giraldo
 date: 2021-05-05 13:32:44
 description: >-
   Beverly Willis Architecture Foundation brings attention to the work of
