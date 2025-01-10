@@ -346,7 +346,32 @@ page_blocks:
         title_role: 'Trustee '
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736362953/headshot-Nicole-Emmons_x2.webp
-        description: ''
+        description: >-
+          Nicole Emmons, a partner at Hart Howerton, brings experience designing
+          impactful spaces at every scale. Her expertise includes academic,
+          residential, and mixed-use developments, as well as master planning
+          for new communities and redevelopment. Known for her leadership of
+          interdisciplinary teams, Nicole has contributed to transformative
+          projects across North America, blending thoughtful design with
+          strategic vision to create spaces that inspire and endure.
+
+
+          Nicole's portfolio reflects her diverse range, spanning private
+          residential and club developments in Idaho and the Hudson River
+          Valley, the strategic planning of the University of Virginia
+          Foundation’s Morven Farm, and the transformation of Hollywood Park in
+          Inglewood, California—a dynamic mixed-use sports and entertainment
+          district home to the Los Angeles Rams and Chargers.
+
+
+          In addition to her professional accomplishments, Nicole is dedicated
+          to advancing gender equity and diversity in architecture. She serves
+          as Co-Chair of Yale Women in Architecture and is Co-Chair of Hart
+          Howerton's Diversity, Equity, and Inclusion (DEI) Committee. She is
+          also a member of the Urban Land Institute’s Placemaking Council.
+          Nicole holds a Master of Architecture from the University of Virginia
+          and a Bachelor of Arts in Architecture from Yale University. She
+          currently resides with her family in Brooklyn, New York.
       - title: Patricia Harris, Esq., LEED AP
         title_role: Counsel
         image: >-
