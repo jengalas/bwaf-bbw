@@ -111,10 +111,6 @@ page_blocks:
         title_role: NJ Caine Architecture & J. Mackey Gallery
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736203644/Screenshot_2025-01-06_at_5.03.20_PM.png
-      - title: 'Anna Grib '
-        title_role: Gabellini Sheppard Associates
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736203644/Screenshot_2025-01-06_at_5.03.28_PM.png
       - title: Annie Levine
         title_role: Thornton Tomasetti
         image: >-
