@@ -251,7 +251,7 @@ page_blocks:
       - title: Ebbie Wisecarver
         title_role: Trustee
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1643050566/Ebbie_Headshot_ytuxeq.jpg
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1737044637/IMG_6240.jpg
         description: >-
           Ebbie Wisecarver is Chief Design Officer at WeWork. Since joining the
           company in 2015, she has held multiple positions, including architect
