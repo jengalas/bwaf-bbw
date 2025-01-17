@@ -33,7 +33,7 @@ page_blocks:
       Anazette Ray of Zetlin & De Chiara LLP and Tami Hausman of Hausman LLC.
 
 
-      Total program cost is $500. Deadline to apply is January 8th. 
+      Total program cost is $500. Deadline to apply extended to January 21st.
     section_break: false
     include_left-hand_column_text_: true
     lefthand_text:
