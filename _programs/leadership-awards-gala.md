@@ -38,7 +38,7 @@ page_blocks:
     alt_text: ''
   - template: buttons-block
     button:
-      - button_text:
+      - button_text: SPONSORSHIP INFO HERE
         button_link:
     section_break: false
     include_left-hand_column_text_: false
@@ -73,9 +73,27 @@ page_blocks:
 
       **Special Award** <br>Wanda Bubriski \| Founding Executive Director,
       Beverly Willis Architecture Foundation
-  - template: buttons-block
+  - template: text-block
     button:
       - button_text:
+        button_link:
+    section_break: true
+    include_left-hand_column_text_: true
+    lefthand_text:
+      header_type: Medium Header
+      text: 2025 Committee Chairs
+      download: ''
+      link_url: ''
+      link_text: ''
+    text_block: |-
+      Michele O'Connor \| LANGAN
+
+      Sara Kendall \| Turner Construction
+
+      Tami Hausman \| Hausman LLC
+  - template: buttons-block
+    button:
+      - button_text: SPONSORSHIP INFO HERE
         button_link:
     section_break: false
     include_left-hand_column_text_: false
