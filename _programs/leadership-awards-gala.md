@@ -30,18 +30,11 @@ page_blocks:
       link_url: ''
       link_text: ''
     text_block: >-
-      Join us for our 10th annual Bevy Leadership Awards. In 2025, we are
-      reimagining our celebration for springtime in a stunning new venue: The
-      Shed!
+      Join us for our annual Bevy Leadership Awards. In 2025, we are reimagining
+      our celebration for springtime in a stunning new venue: The Shed!
 
 
       For sponsorship and ticket information, contact info@bwaf.org.&nbsp;
-  - template: buttons-block
-    button:
-      - button_text: SPONSORSHIP INFO HERE
-        button_link:
-    section_break: false
-    include_left-hand_column_text_: false
   - template: text-block
     button:
       - button_text:
@@ -99,12 +92,6 @@ page_blocks:
 
 
       Tami Hausman \| Owner & Founder, Hausman LLC
-  - template: buttons-block
-    button:
-      - button_text: SPONSORSHIP INFO HERE
-        button_link:
-    section_break: false
-    include_left-hand_column_text_: false
   - template: text-block
     button:
       - button_text:
