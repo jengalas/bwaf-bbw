@@ -11,7 +11,7 @@ page_blocks:
     section_break: false
     include_left-hand_column_text_: false
     lefthand_text:
-      header_type: 'Large '
+      header_type: Large Header
       text: Leadership Awards 2025
       download: ''
       link_url: ''
@@ -112,7 +112,7 @@ page_blocks:
     section_break: false
     include_left-hand_column_text_: true
     lefthand_text:
-      header_type: Medium
+      header_type: Medium Header
       text: '2023 Leadership Awards '
       link_text:
       download:
