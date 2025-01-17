@@ -12,7 +12,7 @@ page_blocks:
     include_left-hand_column_text_: false
     lefthand_text:
       header_type: 'Large '
-      text: Leadership Awards Celebration
+      text: Leadership Awards 2025
       download: ''
       link_url: ''
       link_text: ''
