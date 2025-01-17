@@ -11,8 +11,8 @@ page_blocks:
     section_break: false
     include_left-hand_column_text_: false
     lefthand_text:
-      header_type: ''
-      text: ''
+      header_type: 'Large '
+      text: Leadership Awards Celebration
       download: ''
       link_url: ''
       link_text: ''
@@ -86,7 +86,7 @@ page_blocks:
       link_url: ''
       link_text: ''
     text_block: |-
-      Michele O'Connor \| LANGAN
+      Michele O’Connor \| LANGAN
 
       Sara Kendall \| Turner Construction
 
