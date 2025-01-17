@@ -104,8 +104,8 @@ page_blocks:
     section_break: false
     include_left-hand_column_text_: true
     lefthand_text:
-      header_type:
-      text:
+      header_type: Medium
+      text: '2023 Leadership Awards '
       link_text:
       download:
       link_url:
