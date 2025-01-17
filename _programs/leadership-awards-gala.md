@@ -91,6 +91,37 @@ page_blocks:
     button:
       - button_text:
         button_link:
+    section_break: true
+    include_left-hand_column_text_: true
+    lefthand_text:
+      header_type: Medium Header
+      text: 2025 Honorees
+      download: ''
+      link_url: ''
+      link_text: ''
+    text_block: >-
+      **Academic Excellence <br>**Paola Antonelli \| Museum of Modern Art
+
+
+      **Organizational Excellence**<br>Suzen Heeley \| Memorial Sloan Kettering
+      Center Center
+
+
+      **Innovative Executive**<br>Hailey Sarage \| Related Companies
+
+
+      **Media Engagement**<br>Josephine Minutillo \| Architectural Record
+
+
+      **Emerging Leader**<br>Miryam Varona & Yafei Zhang \| NYC Women in BIM
+
+
+      **Special Award** <br>Wanda Bubriski \| Founding Executive Director,
+      Beverly Willis Architecture Foundation
+  - template: text-block
+    button:
+      - button_text:
+        button_link:
     section_break: false
     include_left-hand_column_text_: true
     lefthand_text:
@@ -127,30 +158,6 @@ page_blocks:
       within our industry—A special evening of friends, family, and professional
       colleagues provides an opportunity to expand contacts and demonstrate that
       networking with women is good business.
-  - template: text-block
-    button:
-      - button_text:
-        button_link:
-    section_break: true
-    include_left-hand_column_text_: true
-    lefthand_text:
-      header_type: Medium Header
-      text: 2023 Honorees
-      download: ''
-      link_url: ''
-      link_text: ''
-    text_block: |-
-      **Organizational Excellence**<br>Elizabeth Velez \| Velez Organization
-
-      **Innovative Executive**<br>Elizabeth Leber \| Beyer Blinder Belle
-
-      **Mentorship**<br>Rosalind Tsang \| Building Design Partnership
-
-      **Academic Excellence**<br>Monica Ponce de Leon \| Princeton University
-
-      **Media Engagement**<br>Christopher Hawthorne \| Yale University
-
-      **Emerging Leader**<br>Mariana Giraldo \| Perkins&Will
 date: 2021-05-05 13:32:44
 description: >-
   Beverly Willis Architecture Foundation brings attention to the work of
