@@ -4,6 +4,19 @@ navCategory: Programs
 title: Leadership Awards Celebration
 permalink: /programs/leadership-awards-celebration
 page_blocks:
+  - template: image-block
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736184197/BWAFGala_invite-09.jpg
+    section_break: false
+    image_caption_text: ''
+    include_left-hand_column_text_: true
+    lefthand_text:
+      header_type: Large Header
+      text: Leadership Awards Celebration
+      download: ''
+      link_url: ''
+      link_text: ''
+    alt_text: ''
   - template: text-block
     button:
       - button_text:
@@ -23,19 +36,6 @@ page_blocks:
 
 
       For sponsorship and ticket information, contact info@bwaf.org.&nbsp;
-  - template: image-block
-    image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736184197/BWAFGala_invite-09.jpg
-    section_break: false
-    image_caption_text: ''
-    include_left-hand_column_text_: true
-    lefthand_text:
-      header_type: Large Header
-      text: Leadership Awards Celebration
-      download: ''
-      link_url: ''
-      link_text: ''
-    alt_text: ''
   - template: buttons-block
     button:
       - button_text: SPONSORSHIP INFO HERE
