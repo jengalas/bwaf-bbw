@@ -55,20 +55,25 @@ page_blocks:
       link_url: ''
       link_text: ''
     text_block: >-
-      **Academic Excellence <br>**Paola Antonelli \| Museum of Modern Art
+      **Academic Excellence <br>**Paola Antonelli \| Senior Curator of
+      Architecture & Design, Director of Research & Development, Museum of
+      Modern Art
 
 
-      **Organizational Excellence**<br>Suzen Heeley \| Memorial Sloan Kettering
-      Center Center
+      **Organizational Excellence**<br>Suzen Heeley \| Executive Director of
+      Design & Construction, Memorial Sloan Kettering Center Center
 
 
-      **Innovative Executive**<br>Hailey Sarage \| Related Companies
+      **Innovative Executive**<br>Hailey Sarage \| Senior Vice President of
+      Development, Related Companies
 
 
-      **Media Engagement**<br>Josephine Minutillo \| Architectural Record
+      **Media Engagement**<br>Josephine Minutillo \| Editor-in-Chief,
+      Architectural Record
 
 
-      **Emerging Leader**<br>Miryam Varona & Yafei Zhang \| NYC Women in BIM
+      **Emerging Leader**<br>Miryam Varona & Yafei Zhang \| Co-Founders, NYC
+      Women in BIM
 
 
       **Special Award** <br>Wanda Bubriski \| Founding Executive Director,
@@ -85,12 +90,15 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-    text_block: |-
-      Michele O’Connor \| LANGAN
+    text_block: >-
+      Michele O’Connor \| Principal, LANGAN
 
-      Sara Kendall \| Turner Construction
 
-      Tami Hausman \| Hausman LLC
+      Sara Kendall \| Vice President & General Manager of Interiors, Turner
+      Construction
+
+
+      Tami Hausman \| Owner & Founder, Hausman LLC
   - template: buttons-block
     button:
       - button_text: SPONSORSHIP INFO HERE
