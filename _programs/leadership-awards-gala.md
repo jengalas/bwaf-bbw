@@ -235,9 +235,10 @@ _structures:
         value:
           template: sponsor-block
           sponsors:
+            type: array
             sponsor:
               - amt:
-              - sponsors:
+              - sp:
                 type: array
       - label: Slideshow
         preview:
