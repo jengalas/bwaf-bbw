@@ -240,7 +240,7 @@ _structures:
             spon:
         _inputs:
           spon:
-            type: array     
+            type: text     
       - label: Slideshow
         preview:
           text: Slideshow
