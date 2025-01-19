@@ -231,17 +231,6 @@ _structures:
             hidden: false
           text_block:
             type: markdown
-      - label: Image Block
-        preview:
-          text: Image Block
-          subtext: Add images and captions
-          icon:
-        value:
-          template: image-block
-          button:
-            - button_text:
-              button_link:
-          section_break: false      
       - label: Slideshow
         preview:
           text: Slideshow
