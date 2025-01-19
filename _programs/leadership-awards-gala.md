@@ -190,11 +190,12 @@ description: >-
   through a highly respected awards program, with the honorees celebrated at an
   annual gala.
 sponsors:
-  - sponsors-header: 
+  - sponsors-header: test
     sponsors:
-    - amt: 
-      sponsors:
-      - 
+      - amt: '1'
+        sponsors:
+          - '23'
+          - '4'
 _structures:
   page_blocks:
     id_key: template
