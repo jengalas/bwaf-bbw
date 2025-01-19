@@ -238,6 +238,9 @@ _structures:
           sp:
           - amt:
             spon:
+        _inputs:
+          sp.spon:
+            type: array
       - label: Slideshow
         preview:
           text: Slideshow
