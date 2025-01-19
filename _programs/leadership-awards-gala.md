@@ -131,7 +131,7 @@ page_blocks:
       significant portion of our annual operating expense. It is a unique event
       within our industry—A special evening of friends, family, and professional
       colleagues provides an opportunity to expand contacts and demonstrate that
-      networking with women is good business.
+      networking with women is good business.   
   - template: slideshow-block
     button:
       - button_text:
@@ -231,6 +231,12 @@ _structures:
             hidden: false
           text_block:
             type: markdown
+      - label: Sponsors 
+        value:
+          template: sponsor-block
+          sponsors:
+            - amt:
+            - sponsors:  
       - label: Slideshow
         preview:
           text: Slideshow
