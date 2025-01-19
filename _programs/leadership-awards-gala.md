@@ -236,6 +236,7 @@ _structures:
           template: sponsor-block
           sponsors:
           - sponsors-header: test sponsors header
+            sponsors:
       - label: Slideshow
         preview:
           text: Slideshow
