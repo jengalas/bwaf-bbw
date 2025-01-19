@@ -234,6 +234,13 @@ _structures:
       - label: Sponsors 
         value:
           template: sponsor-block
+          sponsor-header:
+          sp:
+          - amt:
+            spon:
+        _inputs:
+          spon:
+            type: array     
       - label: Slideshow
         preview:
           text: Slideshow
