@@ -233,7 +233,16 @@ _structures:
             type: markdown
       - label: Sponsors 
         value:
-          template: sponsor-block   
+          template: sponsor-block
+          sponsor-header:
+          sp:
+          - amt:
+            spon:
+        _inputs: 
+          spon:   
+            type: array
+          spon[*]:
+            type: text   
       - label: Slideshow
         preview:
           text: Slideshow
