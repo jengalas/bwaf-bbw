@@ -239,6 +239,8 @@ _structures:
           - category:
             sponsor-name:
         _inputs: 
+          category:
+            type: text
           sponsor-name:   
             type: array
           sponsor-name[*]:
