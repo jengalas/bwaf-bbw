@@ -236,12 +236,12 @@ _structures:
           template: sponsor-block
           sponsor-header:
           sp:
-          - amt:
-            spon:
+          - category:
+            sponsor-name:
         _inputs: 
-          spon:   
+          sponsor-name:   
             type: array
-          spon[*]:
+          sponsor-name[*]:
             type: text   
       - label: Slideshow
         preview:
