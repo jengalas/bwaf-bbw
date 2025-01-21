@@ -47,6 +47,63 @@ page_blocks:
       Contact info@bwaf.org with any questions.
   - template: text-block
     button:
+      - button_text:
+        button_link:
+    section_break: true
+    include_left-hand_column_text_: true
+    lefthand_text:
+      header_type: Medium Header
+      text: 2025 Honorees
+      download: ''
+      link_url: ''
+      link_text: ''
+    text_block: >-
+      **Academic Excellence <br>**Paola Antonelli \| Senior Curator of
+      Architecture & Design, Director of Research & Development, Museum of
+      Modern Art
+
+
+      **Organizational Excellence**<br>Suzen Heeley \| Executive Director of
+      Design & Construction, Memorial Sloan Kettering Center Center
+
+
+      **Innovative Executive**<br>Hailey Sarage \| Senior Vice President of
+      Development, Related Companies
+
+
+      **Media Engagement**<br>Josephine Minutillo \| Editor-in-Chief,
+      Architectural Record
+
+
+      **Emerging Leader**<br>Miryam Varona & Yafei Zhang \| Co-Founders, NYC
+      Women in BIM
+
+
+      **Special Award** <br>Wanda Bubriski \| Founding Executive Director,
+      Beverly Willis Architecture Foundation
+  - template: text-block
+    button:
+      - button_text:
+        button_link:
+    section_break: true
+    include_left-hand_column_text_: true
+    lefthand_text:
+      header_type: Medium Header
+      text: 2025 Committee Chairs
+      download: ''
+      link_url: ''
+      link_text: ''
+    text_block: >-
+      Michele O’Connor \| Principal, LANGAN
+
+
+      Sara Kendall \| Vice President & General Manager of Interiors, Turner
+      Construction
+
+
+      Tami Hausman \| Owner & Founder, Hausman LLC
+  - template: text-block
+    button:
       - button_text: 'Leadership Sponsorship: $50,000'
         button_link: https://buy.stripe.com/9AQ8wXdIy9ijdji28v
     section_break: true
@@ -173,63 +230,6 @@ page_blocks:
         button_link: mailto:info@bwaf.org?subject=&body=
     section_break: false
     include_left-hand_column_text_: false
-  - template: text-block
-    button:
-      - button_text:
-        button_link:
-    section_break: true
-    include_left-hand_column_text_: true
-    lefthand_text:
-      header_type: Medium Header
-      text: 2025 Honorees
-      download: ''
-      link_url: ''
-      link_text: ''
-    text_block: >-
-      **Academic Excellence <br>**Paola Antonelli \| Senior Curator of
-      Architecture & Design, Director of Research & Development, Museum of
-      Modern Art
-
-
-      **Organizational Excellence**<br>Suzen Heeley \| Executive Director of
-      Design & Construction, Memorial Sloan Kettering Center Center
-
-
-      **Innovative Executive**<br>Hailey Sarage \| Senior Vice President of
-      Development, Related Companies
-
-
-      **Media Engagement**<br>Josephine Minutillo \| Editor-in-Chief,
-      Architectural Record
-
-
-      **Emerging Leader**<br>Miryam Varona & Yafei Zhang \| Co-Founders, NYC
-      Women in BIM
-
-
-      **Special Award** <br>Wanda Bubriski \| Founding Executive Director,
-      Beverly Willis Architecture Foundation
-  - template: text-block
-    button:
-      - button_text:
-        button_link:
-    section_break: true
-    include_left-hand_column_text_: true
-    lefthand_text:
-      header_type: Medium Header
-      text: 2025 Committee Chairs
-      download: ''
-      link_url: ''
-      link_text: ''
-    text_block: >-
-      Michele O’Connor \| Principal, LANGAN
-
-
-      Sara Kendall \| Vice President & General Manager of Interiors, Turner
-      Construction
-
-
-      Tami Hausman \| Owner & Founder, Hausman LLC
   - template: text-block
     button:
       - button_text:
