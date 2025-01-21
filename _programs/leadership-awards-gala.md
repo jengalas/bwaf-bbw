@@ -104,7 +104,7 @@ page_blocks:
       Tami Hausman \| Owner & Founder, Hausman LLC
   - template: text-block
     button:
-      - button_text: 'Leader Sponsorship: $50,000'
+      - button_text: Become a Sponsor
         button_link: https://buy.stripe.com/9AQ8wXdIy9ijdji28v
     section_break: true
     include_left-hand_column_text_: true
@@ -139,7 +139,7 @@ page_blocks:
     include_left-hand_column_text_: false
   - template: text-block
     button:
-      - button_text: 'Visionary Sponsorship: $20,000'
+      - button_text: Become a Sponsor
         button_link: https://buy.stripe.com/dR628z1ZQbqr2EE3cA
     section_break: true
     include_left-hand_column_text_: true
@@ -170,7 +170,7 @@ page_blocks:
     include_left-hand_column_text_: false
   - template: text-block
     button:
-      - button_text: 'Advocate Sponsorship: $10,000'
+      - button_text: Become a Sponsor
         button_link: https://buy.stripe.com/14k8wXeMC523gvufZo
     section_break: true
     include_left-hand_column_text_: true
@@ -198,7 +198,7 @@ page_blocks:
     include_left-hand_column_text_: false
   - template: text-block
     button:
-      - button_text: 'Supporter Sponsorship: $4,000'
+      - button_text: Become a Sponsor
         button_link: https://buy.stripe.com/5kA6oPawm2TVgvu00r
     section_break: true
     include_left-hand_column_text_: true
