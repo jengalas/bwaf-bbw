@@ -104,7 +104,7 @@ page_blocks:
       Tami Hausman \| Owner & Founder, Hausman LLC
   - template: text-block
     button:
-      - button_text: 'Leadership Sponsorship: $50,000'
+      - button_text: 'Leader Sponsorship: $50,000'
         button_link: https://buy.stripe.com/9AQ8wXdIy9ijdji28v
     section_break: true
     include_left-hand_column_text_: true
@@ -115,7 +115,7 @@ page_blocks:
       link_url: ''
       link_text: ''
     text_block: >-
-      **Leadership Sponsorship: $50,000**
+      **Leader Sponsorship: $50,000**
 
 
       * Customized event tickets package with specially designed table and
@@ -129,7 +129,7 @@ page_blocks:
       * Listed as a supporter for one year on all printed and digital materials
       including Industry Leaders Roundtable and Emerging Leaders.
 
-      * Logo on BWAF website, in the evening's program and on digital event
+      * Logo on BWAF website, in the evening’s program and on digital event
       materials.
   - template: buttons-block
     button:
