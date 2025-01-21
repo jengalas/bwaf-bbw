@@ -30,11 +30,21 @@ page_blocks:
       link_url: ''
       link_text: ''
     text_block: >-
-      Join us for our annual Bevy Leadership Awards. In 2025, we are reimagining
-      our celebration for springtime in a stunning new venue: The Shed!
+      The Beverly Willis Architecture Foundation is delighted to invite you to
+      our annual **Bevy Leadership Awards**, on **April 3rd, 2025**, celebrating
+      visionaries and leaders in the built environment.
 
 
-      For sponsorship and ticket information, contact info@bwaf.org.&nbsp;
+      This year, we are reimagining our celebration in a stunning venue: **The
+      Shed**, marking a new chapter in our mission to honor trailblazing women,
+      including our accomplished honorees.
+
+
+      See below for honorees, sponsorship, and ticket information. Individual
+      tickets forthcoming.
+
+
+      Contact info@bwaf.org with any questions.
   - template: text-block
     button:
       - button_text: 'Leadership Sponsorship: $50,000'
