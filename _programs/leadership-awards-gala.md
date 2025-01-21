@@ -37,7 +37,7 @@ page_blocks:
       For sponsorship and ticket information, contact info@bwaf.org.&nbsp;
   - template: buttons-block
     button:
-      - button_text: Contact Us Online
+      - button_text: Contact Us to Inquire
         button_link: mailto:info@bwaf.org?subject=&body=
     section_break: false
     include_left-hand_column_text_: false
