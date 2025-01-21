@@ -213,10 +213,11 @@ page_blocks:
       colleagues provides an opportunity to expand contacts and demonstrate that
       networking with women is good business.
   - template: sponsor-block
-    sponsor-header:
+    sponsor-header: 2025 Sponsors
     sp:
-      - category:
+      - category: Advocate
         sponsor-name:
+          - SOM
 date: 2021-05-05 13:32:44
 description: >-
   Beverly Willis Architecture Foundation brings attention to the work of
