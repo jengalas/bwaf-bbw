@@ -53,6 +53,18 @@ page_blocks:
         button_link: https://buy.stripe.com/dR628z1ZQbqr2EE3cA
     section_break: false
     include_left-hand_column_text_: false
+  - template: buttons-block
+    button:
+      - button_text: 'Advocate Sponsorship: $10,000'
+        button_link: https://buy.stripe.com/14k8wXeMC523gvufZo
+    section_break: false
+    include_left-hand_column_text_: false
+  - template: buttons-block
+    button:
+      - button_text: 'Supporter Sponsorship: $4,000'
+        button_link: https://buy.stripe.com/5kA6oPawm2TVgvu00r
+    section_break: false
+    include_left-hand_column_text_: false
   - template: text-block
     button:
       - button_text:
