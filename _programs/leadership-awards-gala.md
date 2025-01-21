@@ -122,6 +122,12 @@ page_blocks:
 
 
       Tami Hausman \| Owner & Founder, Hausman LLC
+  - template: sponsor-block
+    sponsor-header: 2025 Sponsors
+    sp:
+      - category: Advocate
+        sponsor-name:
+          - SOM
   - template: slideshow-block
     button:
       - button_text:
@@ -212,12 +218,6 @@ page_blocks:
       within our industry—A special evening of friends, family, and professional
       colleagues provides an opportunity to expand contacts and demonstrate that
       networking with women is good business.
-  - template: sponsor-block
-    sponsor-header: 2025 Sponsors
-    sp:
-      - category: Advocate
-        sponsor-name:
-          - SOM
 date: 2021-05-05 13:32:44
 description: >-
   Beverly Willis Architecture Foundation brings attention to the work of
