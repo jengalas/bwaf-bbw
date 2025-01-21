@@ -142,7 +142,7 @@ page_blocks:
       link_url: ''
       link_text: ''
     text_block: >-
-      **Supporter Sponsorship: $10,000**
+      **Supporter Sponsorship: $4,000**
 
 
       * 2 event tickets.
