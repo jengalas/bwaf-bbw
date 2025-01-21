@@ -75,8 +75,9 @@ page_blocks:
       Architectural Record
 
 
-      **Emerging Leader**<br>Miryam Varona & Yafei Zhang \| Co-Founders, NYC
-      Women in BIM
+      **Emerging Leader**<br>Miryam Varona \| Architect, BIM Specialist, Gilsanz
+      Murray Steficek, Co-Founder, NYC Women in BIM<br>Yafei Zhang \| Associate
+      Principal, KPF, Co-Founder, NYC Women in BIM
 
 
       **Special Award** <br>Wanda Bubriski \| Founding Executive Director,
