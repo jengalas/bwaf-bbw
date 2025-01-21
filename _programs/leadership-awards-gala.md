@@ -7,8 +7,9 @@ page_blocks:
   - template: image-block
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736184197/BWAFGala_invite-09.jpg
-    section_break: false
     image_caption_text: ''
+    alt_text: ''
+    section_break: false
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Large Header
@@ -16,7 +17,6 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-    alt_text: ''
   - template: text-block
     button:
       - button_text:
@@ -35,6 +35,12 @@ page_blocks:
 
 
       For sponsorship and ticket information, contact info@bwaf.org.&nbsp;
+  - template: buttons-block
+    button:
+      - button_text: 'Leader Sponsorship: $50,000'
+        button_link: https://buy.stripe.com/9AQ8wXdIy9ijdji28v
+    section_break: false
+    include_left-hand_column_text_: false
   - template: text-block
     button:
       - button_text:
@@ -92,46 +98,6 @@ page_blocks:
 
 
       Tami Hausman \| Owner & Founder, Hausman LLC
-  - template: text-block
-    button:
-      - button_text:
-        button_link:
-    section_break: false
-    include_left-hand_column_text_: true
-    lefthand_text:
-      header_type: Medium Header
-      text: '2023 Leadership Awards '
-      link_text:
-      download:
-      link_url:
-    text_block: >-
-      Thank you to all who attended and supported the 2023 BEVY Leadership
-      Awards Celebration!
-
-
-      Beverly Willis Architecture Foundation brings attention to the work of
-      contemporary women in the fields of architecture, landscape architecture,
-      engineering, development and construction. Since 2014, we have done this
-      through a highly respected awards program, with the honorees celebrated at
-      an annual gala.
-
-
-      Each year an event Chair is selected by the Board to head up the selection
-      of the annual honorees. Names put forth for consideration are presented by
-      the Committee to the Executive Committee of the Board of Trustees for
-      consideration by the full board. In addition to names put forth by our
-      constituency, the Committee seeks to identify women who may not yet have
-      come to the attention of the general public for recognition. We are
-      interested in scholarship, professional distinction, journalism, corporate
-      achievement, and impact in the advancement of women in the building
-      industry.
-
-
-      The event is our major fundraising event, and is responsible for a
-      significant portion of our annual operating expense. It is a unique event
-      within our industry—A special evening of friends, family, and professional
-      colleagues provides an opportunity to expand contacts and demonstrate that
-      networking with women is good business.   
   - template: slideshow-block
     button:
       - button_text:
@@ -182,6 +148,57 @@ page_blocks:
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189705/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-194.jpg
         caption: 2023 BEVY Awards Gala
     automatic: false
+  - template: text-block
+    button:
+      - button_text:
+        button_link:
+    section_break: false
+    include_left-hand_column_text_: true
+    lefthand_text:
+      header_type: Medium Header
+      text: '2023 Leadership Awards '
+      link_text:
+      download:
+      link_url:
+    text_block: >-
+      Thank you to all who attended and supported the 2023 BEVY Leadership
+      Awards Celebration!
+
+
+      Beverly Willis Architecture Foundation brings attention to the work of
+      contemporary women in the fields of architecture, landscape architecture,
+      engineering, development and construction. Since 2014, we have done this
+      through a highly respected awards program, with the honorees celebrated at
+      an annual gala.
+
+
+      Each year an event Chair is selected by the Board to head up the selection
+      of the annual honorees. Names put forth for consideration are presented by
+      the Committee to the Executive Committee of the Board of Trustees for
+      consideration by the full board. In addition to names put forth by our
+      constituency, the Committee seeks to identify women who may not yet have
+      come to the attention of the general public for recognition. We are
+      interested in scholarship, professional distinction, journalism, corporate
+      achievement, and impact in the advancement of women in the building
+      industry.
+
+
+      The event is our major fundraising event, and is responsible for a
+      significant portion of our annual operating expense. It is a unique event
+      within our industry—A special evening of friends, family, and professional
+      colleagues provides an opportunity to expand contacts and demonstrate that
+      networking with women is good business.
+  - template: sponsor-block
+    sponsor-header:
+    sp:
+      - category:
+        sponsor-name:
+  - template: buttons-block
+    button:
+      - button_text: Leader Sponsorship
+        button_link:
+    section_break: false
+    include_left-hand_column_text_: false
 date: 2021-05-05 13:32:44
 description: >-
   Beverly Willis Architecture Foundation brings attention to the work of
@@ -231,20 +248,20 @@ _structures:
             hidden: false
           text_block:
             type: markdown
-      - label: Sponsors 
+      - label: Sponsors
         value:
           template: sponsor-block
           sponsor-header:
           sp:
-          - category:
-            sponsor-name:
-        _inputs: 
+            - category:
+              sponsor-name:
+        _inputs:
           category:
             type: text
-          sponsor-name:   
+          sponsor-name:
             type: array
           sponsor-name[*]:
-            type: text   
+            type: text
       - label: Slideshow
         preview:
           text: Slideshow
@@ -268,5 +285,5 @@ _structures:
           image_caption_text:
           alt_text:
           section_break: false
-          include_left-hand_column_text_: false    
+          include_left-hand_column_text_: false
 ---
