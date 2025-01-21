@@ -205,12 +205,6 @@ page_blocks:
     sp:
       - category:
         sponsor-name:
-  - template: buttons-block
-    button:
-      - button_text: Leader Sponsorship
-        button_link:
-    section_break: false
-    include_left-hand_column_text_: false
 date: 2021-05-05 13:32:44
 description: >-
   Beverly Willis Architecture Foundation brings attention to the work of
