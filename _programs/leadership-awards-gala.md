@@ -110,7 +110,7 @@ page_blocks:
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Medium Header
-      text: Become a Sponsor
+      text: Be A Leader
       download: ''
       link_url: ''
       link_text: ''
@@ -144,8 +144,8 @@ page_blocks:
     section_break: true
     include_left-hand_column_text_: true
     lefthand_text:
-      header_type:
-      text:
+      header_type: Medium Header
+      text: Be A Visionary
       download: ''
       link_url: ''
       link_text: ''
@@ -175,8 +175,8 @@ page_blocks:
     section_break: true
     include_left-hand_column_text_: true
     lefthand_text:
-      header_type:
-      text:
+      header_type: Medium Header
+      text: Be An Advocate
       download: ''
       link_url: ''
       link_text: ''
@@ -203,8 +203,8 @@ page_blocks:
     section_break: true
     include_left-hand_column_text_: true
     lefthand_text:
-      header_type:
-      text:
+      header_type: Medium Header
+      text: Be A Supporter
       download: ''
       link_url: ''
       link_text: ''
