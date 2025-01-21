@@ -233,6 +233,12 @@ page_blocks:
       link_url: ''
       link_text: ''
     text_block: '**Advocate** <br>Skidmore, Owings, & Merrill<br>Thornton Tomasetti'
+  - template: buttons-block
+    button:
+      - button_text: Contact Us to Inquire
+        button_link: mailto:info@bwaf.org?subject=&body=
+    section_break: false
+    include_left-hand_column_text_: false
   - template: slideshow-block
     button:
       - button_text:
