@@ -35,34 +35,132 @@ page_blocks:
 
 
       For sponsorship and ticket information, contact info@bwaf.org.&nbsp;
-  - template: buttons-block
+  - template: text-block
     button:
-      - button_text: Contact Us to Inquire
-        button_link: mailto:info@bwaf.org?subject=&body=
-    section_break: false
-    include_left-hand_column_text_: false
+      - button_text: 'Leadership Sponsorship: $50,000'
+        button_link: https://buy.stripe.com/9AQ8wXdIy9ijdji28v
+    section_break: true
+    include_left-hand_column_text_: true
+    lefthand_text:
+      header_type: Medium Header
+      text: Become a Sponsor
+      download: ''
+      link_url: ''
+      link_text: ''
+    text_block: >-
+      **Leadership Sponsorship: $50,000**
+
+
+      * Customized event tickets package with specially designed table and
+      complimentary champagne.
+
+      * Company name to be added to the donor wall. Contact info@bwaf.org for
+      more details.
+
+      * Friends membership for one year.
+
+      * Listed as a supporter for one year on all printed and digital materials
+      including Industry Leaders Roundtable and Emerging Leaders.
+
+      * Logo on BWAF website, in the evening's program and on digital event
+      materials.
   - template: buttons-block
     button:
       - button_text: 'Leader Sponsorship: $50,000'
         button_link: https://buy.stripe.com/9AQ8wXdIy9ijdji28v
     section_break: false
     include_left-hand_column_text_: false
+  - template: text-block
+    button:
+      - button_text: 'Visionary Sponsorship: $20,000'
+        button_link: https://buy.stripe.com/dR628z1ZQbqr2EE3cA
+    section_break: true
+    include_left-hand_column_text_: true
+    lefthand_text:
+      header_type: Medium Header
+      text: Become a Sponsor
+      download: ''
+      link_url: ''
+      link_text: ''
+    text_block: >-
+      **Visionary Sponsorship: $20,000**
+
+
+      * 8 event tickets.
+
+      * Invitation to one Friends evening event.
+
+      * Listed as a supporter for one year on all printed and digital materials
+      for the Industry Leaders Roundtable program and Emerging Leaders.
+
+      * Logo on BWAF website, in the evening's program and on digital event
+      materials.
   - template: buttons-block
     button:
       - button_text: 'Visionary Sponsorship: $20,000'
         button_link: https://buy.stripe.com/dR628z1ZQbqr2EE3cA
     section_break: false
     include_left-hand_column_text_: false
+  - template: text-block
+    button:
+      - button_text: 'Advocate Sponsorship: $10,000'
+        button_link: https://buy.stripe.com/14k8wXeMC523gvufZo
+    section_break: true
+    include_left-hand_column_text_: true
+    lefthand_text:
+      header_type: Medium Header
+      text: Become a Sponsor
+      download: ''
+      link_url: ''
+      link_text: ''
+    text_block: >-
+      **Advocate Sponsorship: $10,000**
+
+
+      * 4 event tickets.
+
+      * Listed as a supporter for one year on all printed and digital materials
+      for the Emerging Leaders program. Logo included in the evening's program.
+
+      * Logo on digital event materials.
   - template: buttons-block
     button:
       - button_text: 'Advocate Sponsorship: $10,000'
         button_link: https://buy.stripe.com/14k8wXeMC523gvufZo
     section_break: false
     include_left-hand_column_text_: false
+  - template: text-block
+    button:
+      - button_text: 'Supporter Sponsorship: $4,000'
+        button_link: https://buy.stripe.com/5kA6oPawm2TVgvu00r
+    section_break: true
+    include_left-hand_column_text_: true
+    lefthand_text:
+      header_type: Medium Header
+      text: Become a Sponsor
+      download: ''
+      link_url: ''
+      link_text: ''
+    text_block: >-
+      **Supporter Sponsorship: $10,000**
+
+
+      * 2 event tickets.
+
+      * Listed as a supporter for one year on all printed and digital materials
+      for the Emerging Leaders program. Logo included in the evening's program.
+
+      * Logo on digital event materials.
   - template: buttons-block
     button:
       - button_text: 'Supporter Sponsorship: $4,000'
         button_link: https://buy.stripe.com/5kA6oPawm2TVgvu00r
+    section_break: false
+    include_left-hand_column_text_: false
+  - template: buttons-block
+    button:
+      - button_text: Contact Us to Inquire
+        button_link: mailto:info@bwaf.org?subject=&body=
     section_break: false
     include_left-hand_column_text_: false
   - template: text-block
