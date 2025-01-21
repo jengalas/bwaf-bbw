@@ -125,9 +125,12 @@ page_blocks:
   - template: sponsor-block
     sponsor-header: 2025 Sponsors
     sp:
-      - category: Advocate
+      - category:
         sponsor-name:
-          - SOM
+          - Skidmore, Owings, & Merrill
+      - category: ''
+        sponsor-name:
+          - Thornton Tomasetti
   - template: slideshow-block
     button:
       - button_text:
