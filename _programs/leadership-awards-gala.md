@@ -77,8 +77,8 @@ page_blocks:
     section_break: true
     include_left-hand_column_text_: true
     lefthand_text:
-      header_type: Medium Header
-      text: Become a Sponsor
+      header_type:
+      text:
       download: ''
       link_url: ''
       link_text: ''
@@ -93,7 +93,7 @@ page_blocks:
       * Listed as a supporter for one year on all printed and digital materials
       for the Industry Leaders Roundtable program and Emerging Leaders.
 
-      * Logo on BWAF website, in the evening's program and on digital event
+      * Logo on BWAF website, in the evening’s program and on digital event
       materials.
   - template: buttons-block
     button:
@@ -108,8 +108,8 @@ page_blocks:
     section_break: true
     include_left-hand_column_text_: true
     lefthand_text:
-      header_type: Medium Header
-      text: Become a Sponsor
+      header_type:
+      text:
       download: ''
       link_url: ''
       link_text: ''
@@ -120,7 +120,7 @@ page_blocks:
       * 4 event tickets.
 
       * Listed as a supporter for one year on all printed and digital materials
-      for the Emerging Leaders program. Logo included in the evening's program.
+      for the Emerging Leaders program. Logo included in the evening’s program.
 
       * Logo on digital event materials.
   - template: buttons-block
@@ -136,8 +136,8 @@ page_blocks:
     section_break: true
     include_left-hand_column_text_: true
     lefthand_text:
-      header_type: Medium Header
-      text: Become a Sponsor
+      header_type:
+      text:
       download: ''
       link_url: ''
       link_text: ''
@@ -148,7 +148,7 @@ page_blocks:
       * 2 event tickets.
 
       * Listed as a supporter for one year on all printed and digital materials
-      for the Emerging Leaders program. Logo included in the evening's program.
+      for the Emerging Leaders program. Logo included in the evening’s program.
 
       * Logo on digital event materials.
   - template: buttons-block
