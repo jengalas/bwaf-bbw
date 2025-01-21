@@ -37,8 +37,20 @@ page_blocks:
       For sponsorship and ticket information, contact info@bwaf.org.&nbsp;
   - template: buttons-block
     button:
+      - button_text: Contact Us Online
+        button_link: mailto:info@bwaf.org?subject=&body=
+    section_break: false
+    include_left-hand_column_text_: false
+  - template: buttons-block
+    button:
       - button_text: 'Leader Sponsorship: $50,000'
         button_link: https://buy.stripe.com/9AQ8wXdIy9ijdji28v
+    section_break: false
+    include_left-hand_column_text_: false
+  - template: buttons-block
+    button:
+      - button_text: 'Visionary Sponsorship: $20,000'
+        button_link: https://buy.stripe.com/dR628z1ZQbqr2EE3cA
     section_break: false
     include_left-hand_column_text_: false
   - template: text-block
