@@ -63,25 +63,25 @@ page_blocks:
       Modern Art
 
 
+      **Special Award** <br>Wanda Bubriski \| Founding Executive Director,
+      Beverly Willis Architecture Foundation
+
+
       **Organizational Excellence**<br>Suzen Heeley \| Executive Director of
       Design & Construction, Memorial Sloan Kettering Cancer Center
-
-
-      **Innovative Executive**<br>Hailey Sarage \| Senior Vice President of
-      Development, Related Companies
 
 
       **Media Engagement**<br>Josephine Minutillo \| Editor-in-Chief,
       Architectural Record
 
 
+      **Innovative Executive**<br>Hailey Sarage \| Senior Vice President of
+      Development, Related Companies
+
+
       **Emerging Leader**<br>Miryam Varona \| Architect, BIM Specialist, Gilsanz
       Murray Steficek, Co-Founder, NYC Women in BIM<br>Yafei Zhang \| Associate
       Principal, KPF, Co-Founder, NYC Women in BIM
-
-
-      **Special Award** <br>Wanda Bubriski \| Founding Executive Director,
-      Beverly Willis Architecture Foundation
   - template: text-block
     button:
       - button_text:
