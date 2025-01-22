@@ -59,7 +59,7 @@ page_blocks:
       link_text: ''
     text_block: >-
       **Academic Excellence <br>**Paola Antonelli \| Senior Curator of
-      Architecture & Design, Director of Research & Development, Museum of
+      Architecture & Design, Director of Research & Development, The Museum of
       Modern Art
 
 
