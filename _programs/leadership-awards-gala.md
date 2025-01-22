@@ -64,7 +64,7 @@ page_blocks:
 
 
       **Organizational Excellence**<br>Suzen Heeley \| Executive Director of
-      Design & Construction, Memorial Sloan Kettering Center Center
+      Design & Construction, Memorial Sloan Kettering Cancer Center
 
 
       **Innovative Executive**<br>Hailey Sarage \| Senior Vice President of
