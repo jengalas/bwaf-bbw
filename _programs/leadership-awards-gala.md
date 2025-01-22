@@ -135,7 +135,7 @@ page_blocks:
   - template: buttons-block
     button:
       - button_text: 'Leader Sponsorship: $50,000'
-        button_link: https://buy.stripe.com/9AQ8wXdIy9ijdji28v
+        button_link: https://buy.stripe.com/8wM14v47Y1PR1AAcNi
     section_break: false
     include_left-hand_column_text_: false
   - template: text-block
@@ -166,7 +166,7 @@ page_blocks:
   - template: buttons-block
     button:
       - button_text: 'Visionary Sponsorship: $20,000'
-        button_link: https://buy.stripe.com/dR628z1ZQbqr2EE3cA
+        button_link: https://buy.stripe.com/7sIfZpfQG3XZ5QQ4gN
     section_break: false
     include_left-hand_column_text_: false
   - template: text-block
