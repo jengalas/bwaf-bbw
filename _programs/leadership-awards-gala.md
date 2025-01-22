@@ -222,7 +222,7 @@ page_blocks:
   - template: buttons-block
     button:
       - button_text: 'Supporter Sponsorship: $4,000'
-        button_link: https://buy.stripe.com/5kA6oPawm2TVgvu00r
+        button_link: https://buy.stripe.com/bIY00rcEu3XZ5QQ14x
     section_break: false
     include_left-hand_column_text_: false
   - template: buttons-block
