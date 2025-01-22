@@ -95,14 +95,14 @@ page_blocks:
       link_url: ''
       link_text: ''
     text_block: >-
-      Michele O’Connor \| Principal, LANGAN
+      Tami Hausman \| Owner & Founder, Hausman LLC
 
 
       Sara Kendall \| Vice President & General Manager of Interiors, Turner
       Construction
 
 
-      Tami Hausman \| Owner & Founder, Hausman LLC
+      Michele O’Connor \| Principal, LANGAN
   - template: text-block
     button:
       - button_text: Become a Sponsor
