@@ -194,7 +194,7 @@ page_blocks:
   - template: buttons-block
     button:
       - button_text: 'Advocate Sponsorship: $10,000'
-        button_link: https://buy.stripe.com/28obJ947Yamncfe14y
+        button_link: https://buy.stripe.com/00g5kL6g6dyzfrqcNh
     section_break: false
     include_left-hand_column_text_: false
   - template: text-block
