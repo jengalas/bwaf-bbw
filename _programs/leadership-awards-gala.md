@@ -31,13 +31,13 @@ page_blocks:
       link_text: ''
     text_block: >-
       The Beverly Willis Architecture Foundation is delighted to invite you to
-      our annual **Bevy Leadership Awards**, on **April 3rd, 2025**, celebrating
+      our annual **Bevy Leadership Awards** on **April 3rd, 2025**, celebrating
       visionaries and leaders in the built environment.
 
 
-      This year, we are reimagining our celebration in a stunning venue: **The
-      Shed**, marking a new chapter in our mission to honor trailblazing women,
-      including our accomplished honorees.
+      This year, we are reimagining our celebration in a stunning venue, **The
+      Shed**, where we will honor trailblazing women, including our 2025
+      honorees.
 
 
       See below for honorees, sponsorship, and ticket information. Individual
@@ -159,7 +159,7 @@ page_blocks:
       * Invitation to one Friends evening event.
 
       * Listed as a supporter for one year on all printed and digital materials
-      for the Industry Leaders Roundtable program and Emerging Leaders.
+      for the Industry Leaders Roundtable programs and Emerging Leaders.
 
       * Logo on BWAF website, in the evening’s program and on digital event
       materials.
@@ -188,9 +188,9 @@ page_blocks:
       * 4 event tickets.
 
       * Listed as a supporter for one year on all printed and digital materials
-      for the Emerging Leaders program. Logo included in the evening’s program.
+      for the Emerging Leaders program.
 
-      * Logo on digital event materials.
+      * Logo in the evening's program and on digital event materials.
   - template: buttons-block
     button:
       - button_text: 'Advocate Sponsorship: $10,000'
@@ -216,9 +216,9 @@ page_blocks:
       * 2 event tickets.
 
       * Listed as a supporter for one year on all printed and digital materials
-      for the Emerging Leaders program. Logo included in the evening’s program.
+      for the Emerging Leaders program.
 
-      * Logo on digital event materials.
+      * Logo in the evening's program and on digital event materials.
   - template: buttons-block
     button:
       - button_text: 'Supporter Sponsorship: $4,000'
