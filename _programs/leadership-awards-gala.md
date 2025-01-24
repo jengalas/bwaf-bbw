@@ -240,6 +240,7 @@ page_blocks:
         sponsor-name:
           - Skidmore, Owings, & Merrill
           - Thornton Tomasetti
+    section_break: true
     include_left-hand_column_text_: true
   - template: buttons-block
     button:
