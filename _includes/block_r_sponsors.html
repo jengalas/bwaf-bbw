@@ -1,30 +1,9 @@
-{% for sponsorsgroup in page.sponsors %}
-<div class="main-two-up">
-    <div>
-        <h2 class="h3"><b>{{sponsorsgroup.sponsors-header}}</b></h2>
-    </div>
-    <div>
-          <div class="logos-block">
-            {% for supporter in page.supporters %}
-            <div><img src="{{supporter.image | replace: 'https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload', 'https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/w_200'}}" alt="{{supporter.name}}"></div>
-            {% endfor %}
-            <br><br><br><br>
-          </div>
-          <div class="text-block">
-              {% for sponsorgroup in sponsorsgroup.sponsors %}
-              <p>
-                  <strong>{{sponsorgroup.amt}}</strong><br>
-                      {% for sponsor in sponsorgroup.sponsors %}
-                          {% if forloop.index > 1 %}
-                              <br>{{sponsor}}
-                          {% else %}
-                              {{sponsor}}
-                          {% endif %}
-                      {% endfor %}
-              </p>
-              {% endfor %}
-          </div>
-          <br>
-    </div>
-</div>
-{% endfor %}
+<div class="text-block">
+  {% for sp in block.sponsor %}
+    <p><strong>{{ sp.category }}</strong><br>
+    {% for sponsor in sp.sponsor-name %}
+      {{sponsor}}<br>
+    {% endfor %}
+    </p>
+  {% endfor %}
+</div>      

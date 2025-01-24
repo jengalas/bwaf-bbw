@@ -392,10 +392,13 @@ _structures:
       - label: Sponsors
         value:
           template: sponsor-block
-          sponsor-header:
-          sp:
+          lefthand_text:
+            header_type:
+            text:
+          sponsor:
             - category:
               sponsor-name:
+          include_left-hand_column_text_: true
         _inputs:
           category:
             type: text
@@ -403,6 +406,10 @@ _structures:
             type: array
           sponsor-name[*]:
             type: text
+          lefthand_text:
+            hidden: false
+          lefthand_text.header_type:
+            hidden: true  
       - label: Slideshow
         preview:
           text: Slideshow
