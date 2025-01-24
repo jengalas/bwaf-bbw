@@ -244,6 +244,16 @@ page_blocks:
       link_url: ''
       link_text: ''
     text_block: '**Advocate** <br>Skidmore, Owings, & Merrill<br>Thornton Tomasetti'
+  - template: sponsor-block
+    lefthand_text:
+      header_type:
+      text: 2025 Sponsors
+    sponsor:
+      - category: Advocate
+        sponsor-name:
+          - Skidmore, Owings, & Merrill
+          - Thornton Tomasetti
+    include_left-hand_column_text_: true
   - template: buttons-block
     button:
       - button_text: Contact Us to Inquire
@@ -409,7 +419,7 @@ _structures:
           lefthand_text:
             hidden: false
           lefthand_text.header_type:
-            hidden: true  
+            hidden: true
       - label: Slideshow
         preview:
           text: Slideshow
