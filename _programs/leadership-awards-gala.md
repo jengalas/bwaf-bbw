@@ -231,19 +231,6 @@ page_blocks:
         button_link: mailto:info@bwaf.org?subject=&body=
     section_break: false
     include_left-hand_column_text_: false
-  - template: text-block
-    button:
-      - button_text:
-        button_link:
-    section_break: true
-    include_left-hand_column_text_: true
-    lefthand_text:
-      header_type: Medium Header
-      text: 2025 Sponsors
-      download: ''
-      link_url: ''
-      link_text: ''
-    text_block: '**Advocate** <br>Skidmore, Owings, & Merrill<br>Thornton Tomasetti'
   - template: sponsor-block
     lefthand_text:
       header_type:
