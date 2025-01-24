@@ -6,7 +6,7 @@ permalink: /programs/leadership-awards-celebration
 page_blocks:
   - template: image-block
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1737733824/BWAFGala_final-invite-07.jpg
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1737133158/Benefit_save_the_date.jpg
     image_caption_text: ''
     alt_text: ''
     section_break: false
