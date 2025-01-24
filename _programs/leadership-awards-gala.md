@@ -6,7 +6,7 @@ permalink: /programs/leadership-awards-celebration
 page_blocks:
   - template: image-block
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736184197/BWAFGala_invite-09.jpg
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1737733824/BWAFGala_final-invite-07.jpg
     image_caption_text: ''
     alt_text: ''
     section_break: false
@@ -190,7 +190,7 @@ page_blocks:
       * Listed as a supporter for one year on all printed and digital materials
       for the Emerging Leaders program.
 
-      * Logo in the evening's program and on digital event materials.
+      * Logo in the evening’s program and on digital event materials.
   - template: buttons-block
     button:
       - button_text: 'Advocate Sponsorship: $10,000'
@@ -218,7 +218,7 @@ page_blocks:
       * Listed as a supporter for one year on all printed and digital materials
       for the Emerging Leaders program.
 
-      * Logo in the evening's program and on digital event materials.
+      * Logo in the evening’s program and on digital event materials.
   - template: buttons-block
     button:
       - button_text: 'Supporter Sponsorship: $4,000'
@@ -240,8 +240,8 @@ page_blocks:
         sponsor-name:
           - Skidmore, Owings, & Merrill
           - Thornton Tomasetti
-    section_break: true
     include_left-hand_column_text_: true
+    section_break: true
   - template: buttons-block
     button:
       - button_text: Contact Us to Inquire
