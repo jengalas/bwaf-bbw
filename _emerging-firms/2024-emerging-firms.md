@@ -33,7 +33,7 @@ page_blocks:
       Anazette Ray of Zetlin & De Chiara LLP and Tami Hausman of Hausman LLC.
 
 
-      Total program cost is $500. Deadline to apply extended to January 21st.
+      Total program cost is $500. Applications now closed.
     section_break: false
     include_left-hand_column_text_: true
     lefthand_text:
@@ -42,12 +42,6 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-  - template: buttons-block
-    button:
-      - button_text: Apply Here
-        button_link: https://bwaf.wufoo.com/forms/m5h59bd0ol99o5/
-    section_break: false
-    include_left-hand_column_text_: false
   - template: image-block
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1732983633/241130_Emerging_Firms.jpg
@@ -210,12 +204,6 @@ page_blocks:
       addition to her experience in marketing and public relations, Tami is an
       architectural historian who frequently writes and lectures about trends
       and topics in architecture and urban planning.</p>
-  - template: buttons-block
-    button:
-      - button_text: Apply Here
-        button_link: https://bwaf.wufoo.com/forms/m5h59bd0ol99o5/
-    section_break: false
-    include_left-hand_column_text_: false
 _structures:
   page_blocks:
     id_key: template
