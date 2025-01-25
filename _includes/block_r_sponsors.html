@@ -1,9 +1,16 @@
 <div class="text-block">
-  {% for sp in block.sponsor %}
-    <p><strong>{{ sp.category }}</strong><br>
-    {% for sponsor in sp.sponsor-name %}
-      {{sponsor}}<br>
+  {% for sp in block.sponsors %}
+    <p style="margin-bottom: 0;"><strong>{{ sp.category }}</strong><br>
+      <div class="logos-block" style="margin-bottom: .6em;">
+        {% for item in sp.sponsor %}
+          {% if item.image %}
+            <div><img src="{{item.image}}"></div>
+          {% endif%}
+        {% endfor %}
+      </div>
+    {% for item in sp.sponsor %}
+      {{item.name}}<br>
     {% endfor %}
     </p>
   {% endfor %}
-</div>      
+</div>

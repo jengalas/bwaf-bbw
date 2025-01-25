@@ -235,11 +235,13 @@ page_blocks:
     lefthand_text:
       header_type: Medium Header
       text: 2025 Sponsors
-    sponsor:
+    sponsors:
       - category: Advocate
-        sponsor-name:
-          - Skidmore, Owings, & Merrill
-          - Thornton Tomasetti
+        sponsor:
+          - name: Skidmore, Owings, & Merrill
+            image: /uploads/skidmore-owings-merrill-logo-svg-copy.svg
+          - name: Thornton Tomasetti
+            image: /uploads/thornton-thomasetti-logo-black-stacked.jpg    
     include_left-hand_column_text_: true
     section_break: true
   - template: buttons-block
@@ -393,21 +395,16 @@ _structures:
           lefthand_text:
             header_type:
             text:
-          sponsor:
-            - category:
-              sponsor-name:
           include_left-hand_column_text_: true
         _inputs:
           category:
-            type: text
-          sponsor-name:
-            type: array
-          sponsor-name[*]:
             type: text
           lefthand_text:
             hidden: false
           lefthand_text.header_type:
             hidden: true
+          image:
+            type: image
       - label: Slideshow
         preview:
           text: Slideshow
