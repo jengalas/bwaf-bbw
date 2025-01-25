@@ -235,14 +235,16 @@ page_blocks:
     lefthand_text:
       header_type: Medium Header
       text: 2025 Sponsors
+    include_left-hand_column_text_: true
     sponsors:
       - category: Advocate
         sponsor:
           - name: Skidmore, Owings, & Merrill
-            image: /uploads/skidmore-owings-merrill-logo-svg-copy.svg
+            image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1737833009/Skidmore__Owings___Merrill_logo.svg_copy.svg
           - name: Thornton Tomasetti
-            image: /uploads/thornton-thomasetti-logo-black-stacked.jpg    
-    include_left-hand_column_text_: true
+            image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1737833026/Thornton-Thomasetti-logo-black-stacked.jpg
     section_break: true
   - template: buttons-block
     button:
