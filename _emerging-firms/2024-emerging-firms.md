@@ -44,7 +44,7 @@ page_blocks:
       link_text: ''
   - template: image-block
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1732983633/241130_Emerging_Firms.jpg
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1737748416/Emerging_Firms_Square.jpg
     image_caption_text:
     alt_text:
     section_break: false
@@ -204,6 +204,19 @@ page_blocks:
       addition to her experience in marketing and public relations, Tami is an
       architectural historian who frequently writes and lectures about trends
       and topics in architecture and urban planning.</p>
+  - template: portrait-gallery-block-small
+    portrait:
+      - title: Sara Ngan
+        title_role: 'Founding Principal, Fenix Design Consultants '
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738092142/Fenix_Logo_-_Red_-_Large.png
+      - title: Wells Megalli
+        title_role: 'Founder, Chief Design Officer, Person Place Thing Architects '
+        image: ''
+      - title: Isabel Lewis
+        title_role: 'Designer, LVF Landscape Architects '
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738092204/LVF-Logo-WHITE_CIRCLE.png
 _structures:
   page_blocks:
     id_key: template
