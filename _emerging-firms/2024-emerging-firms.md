@@ -209,7 +209,7 @@ page_blocks:
       - title: Sara Ngan
         title_role: 'Founding Principal, Fenix Design Consultants '
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738092142/Fenix_Logo_-_Red_-_Large.png
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738092604/Screenshot_2025-01-28_at_2.29.48_PM.png
       - title: Wells Megalli
         title_role: 'Founder, Chief Design Officer, Person Place Thing Architects '
         image: ''
