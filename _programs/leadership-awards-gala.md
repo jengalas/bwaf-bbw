@@ -92,9 +92,12 @@ page_blocks:
 
       See below for honorees, sponsorship, and ticket information. Individual
       tickets forthcoming.
-
-
-      Contact info@bwaf.org with any questions.
+  - template: buttons-block
+    button:
+      - button_text: Contact Us to Inquire
+        button_link: mailto:info@bwaf.org?subject=&body=
+    section_break: false
+    include_left-hand_column_text_: false
   - template: text-block
     button:
       - button_text:
@@ -288,12 +291,6 @@ page_blocks:
     button:
       - button_text: 'Supporter Sponsorship: $4,000'
         button_link: https://buy.stripe.com/bIY00rcEu3XZ5QQ14x
-    section_break: false
-    include_left-hand_column_text_: false
-  - template: buttons-block
-    button:
-      - button_text: Contact Us to Inquire
-        button_link: mailto:info@bwaf.org?subject=&body=
     section_break: false
     include_left-hand_column_text_: false
   - template: buttons-block
