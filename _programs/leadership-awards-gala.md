@@ -17,6 +17,37 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
+  - template: text-block
+    button:
+      - button_text:
+        button_link:
+    section_break: false
+    include_left-hand_column_text_: false
+    lefthand_text:
+      header_type:
+      text:
+      download: ''
+      link_url: ''
+      link_text: ''
+    text_block: >-
+      The Beverly Willis Architecture Foundation is delighted to invite you to
+      our annual **Bevy Leadership Awards** on **April 3rd, 2025**, celebrating
+      visionaries and leaders in the built environment.
+
+
+      This year, we are reimagining our celebration in a stunning venue, **The
+      Shed**, where we will honor trailblazing women, including our 2025
+      honorees.
+
+
+      See below for honorees, sponsorship, and ticket information. Individual
+      tickets forthcoming.
+  - template: buttons-block
+    button:
+      - button_text: Contact Us to Inquire
+        button_link: mailto:info@bwaf.org?subject=&body=
+    section_break: false
+    include_left-hand_column_text_: false
   - template: slideshow-block
     button:
       - button_text:
@@ -67,37 +98,6 @@ page_blocks:
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189705/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-194.jpg
         caption: 2023 BEVY Awards Gala
     automatic: false
-  - template: text-block
-    button:
-      - button_text:
-        button_link:
-    section_break: false
-    include_left-hand_column_text_: false
-    lefthand_text:
-      header_type:
-      text:
-      download: ''
-      link_url: ''
-      link_text: ''
-    text_block: >-
-      The Beverly Willis Architecture Foundation is delighted to invite you to
-      our annual **Bevy Leadership Awards** on **April 3rd, 2025**, celebrating
-      visionaries and leaders in the built environment.
-
-
-      This year, we are reimagining our celebration in a stunning venue, **The
-      Shed**, where we will honor trailblazing women, including our 2025
-      honorees.
-
-
-      See below for honorees, sponsorship, and ticket information. Individual
-      tickets forthcoming.
-  - template: buttons-block
-    button:
-      - button_text: Contact Us to Inquire
-        button_link: mailto:info@bwaf.org?subject=&body=
-    section_break: false
-    include_left-hand_column_text_: false
   - template: text-block
     button:
       - button_text:
