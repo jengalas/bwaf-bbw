@@ -17,6 +17,56 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
+  - template: slideshow-block
+    button:
+      - button_text:
+        button_link:
+    section_break: false
+    include_left-hand_column_text_: true
+    lefthand_text:
+      header_type: Large Header
+      text: ''
+      download: ''
+      link_url: ''
+      link_text: ''
+    image:
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189691/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-29.jpg
+        caption: 2023 BEVY Awards Gala
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189697/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-92.jpg
+        caption: 2023 BEVY Awards Gala
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189619/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-89.jpg
+        caption: 2023 BEVY Awards Gala
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736190160/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-174_hjq5jf.jpg
+        caption: 2023 BEVY Awards Gala
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189696/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-87.jpg
+        caption: 2023 BEVY Awards Gala
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736190158/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-166_yuvsig.jpg
+        caption: 2023 BEVY Awards Gala
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189698/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-103.jpg
+        caption: 2023 BEVY Awards Gala
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189704/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-122.jpg
+        caption: 2023 BEVY Awards Gala
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189700/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-118.jpg
+        caption: 2023 BEVY Awards Gala
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736190582/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-156.jpg
+        caption: 2023 BEVY Awards Gala
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189702/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-137.jpg
+        caption: 2023 BEVY Awards Gala
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189705/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-194.jpg
+        caption: 2023 BEVY Awards Gala
+    automatic: false
   - template: text-block
     button:
       - button_text:
@@ -103,6 +153,21 @@ page_blocks:
 
 
       Michele O’Connor \| Principal, LANGAN
+  - template: sponsor-block
+    lefthand_text:
+      header_type: Medium Header
+      text: 2025 Sponsors
+    include_left-hand_column_text_: true
+    sponsors:
+      - category: Advocate
+        sponsor:
+          - name:
+            image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1737833009/Skidmore__Owings___Merrill_logo.svg_copy.svg
+          - name:
+            image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1737833026/Thornton-Thomasetti-logo-black-stacked.jpg
+    section_break: true
   - template: text-block
     button:
       - button_text: Become a Sponsor
@@ -231,117 +296,12 @@ page_blocks:
         button_link: mailto:info@bwaf.org?subject=&body=
     section_break: false
     include_left-hand_column_text_: false
-  - template: sponsor-block
-    lefthand_text:
-      header_type: Medium Header
-      text: 2025 Sponsors
-    include_left-hand_column_text_: true
-    sponsors:
-      - category: Advocate
-        sponsor:
-          - name:
-            image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1737833009/Skidmore__Owings___Merrill_logo.svg_copy.svg
-          - name:
-            image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1737833026/Thornton-Thomasetti-logo-black-stacked.jpg
-    section_break: true
   - template: buttons-block
     button:
       - button_text: Contact Us to Inquire
         button_link: mailto:info@bwaf.org?subject=&body=
     section_break: false
     include_left-hand_column_text_: false
-  - template: slideshow-block
-    button:
-      - button_text:
-        button_link:
-    section_break: false
-    include_left-hand_column_text_: true
-    lefthand_text:
-      header_type: Large Header
-      text: ''
-      download: ''
-      link_url: ''
-      link_text: ''
-    image:
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189691/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-29.jpg
-        caption: 2023 BEVY Awards Gala
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189697/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-92.jpg
-        caption: 2023 BEVY Awards Gala
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189619/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-89.jpg
-        caption: 2023 BEVY Awards Gala
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736190160/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-174_hjq5jf.jpg
-        caption: 2023 BEVY Awards Gala
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189696/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-87.jpg
-        caption: 2023 BEVY Awards Gala
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736190158/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-166_yuvsig.jpg
-        caption: 2023 BEVY Awards Gala
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189698/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-103.jpg
-        caption: 2023 BEVY Awards Gala
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189704/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-122.jpg
-        caption: 2023 BEVY Awards Gala
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189700/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-118.jpg
-        caption: 2023 BEVY Awards Gala
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736190582/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-156.jpg
-        caption: 2023 BEVY Awards Gala
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189702/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-137.jpg
-        caption: 2023 BEVY Awards Gala
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189705/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-194.jpg
-        caption: 2023 BEVY Awards Gala
-    automatic: false
-  - template: text-block
-    button:
-      - button_text:
-        button_link:
-    section_break: false
-    include_left-hand_column_text_: true
-    lefthand_text:
-      header_type: Medium Header
-      text: '2023 Leadership Awards '
-      link_text:
-      download:
-      link_url:
-    text_block: >-
-      Thank you to all who attended and supported the 2023 BEVY Leadership
-      Awards Celebration!
-
-
-      Beverly Willis Architecture Foundation brings attention to the work of
-      contemporary women in the fields of architecture, landscape architecture,
-      engineering, development and construction. Since 2014, we have done this
-      through a highly respected awards program, with the honorees celebrated at
-      an annual gala.
-
-
-      Each year an event Chair is selected by the Board to head up the selection
-      of the annual honorees. Names put forth for consideration are presented by
-      the Committee to the Executive Committee of the Board of Trustees for
-      consideration by the full board. In addition to names put forth by our
-      constituency, the Committee seeks to identify women who may not yet have
-      come to the attention of the general public for recognition. We are
-      interested in scholarship, professional distinction, journalism, corporate
-      achievement, and impact in the advancement of women in the building
-      industry.
-
-
-      The event is our major fundraising event, and is responsible for a
-      significant portion of our annual operating expense. It is a unique event
-      within our industry—A special evening of friends, family, and professional
-      colleagues provides an opportunity to expand contacts and demonstrate that
-      networking with women is good business.
 date: 2021-05-05 13:32:44
 description: >-
   Beverly Willis Architecture Foundation brings attention to the work of
