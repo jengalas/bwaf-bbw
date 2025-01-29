@@ -164,10 +164,10 @@ page_blocks:
     sponsors:
       - category: Advocate
         sponsor:
-          - name:
+          - name: Skidmore, Owings, & Merrill
             image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1737833009/Skidmore__Owings___Merrill_logo.svg_copy.svg
-          - name:
+          - name: Thornton Tomasetti
             image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1737833026/Thornton-Thomasetti-logo-black-stacked.jpg
       - category: Supporter
