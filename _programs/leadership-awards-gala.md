@@ -299,7 +299,7 @@ page_blocks:
         button_link: mailto:info@bwaf.org?subject=&body=
     section_break: false
     include_left-hand_column_text_: false
-    - template: sponsor-levels
+  - template: sponsor-levels
     lefthand_text:
       header_type: Medium Header
       text: Become a Sponsor
