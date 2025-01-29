@@ -299,6 +299,70 @@ page_blocks:
         button_link: mailto:info@bwaf.org?subject=&body=
     section_break: false
     include_left-hand_column_text_: false
+    - template: sponsor-levels
+    lefthand_text:
+      header_type: Medium Header
+      text: Become a Sponsor
+    include_left-hand_column_text_: true
+    section_break: true
+    sponsor-levels:
+      - category: Leader
+        amount: $50,000
+        benefits: >-
+          * Customized event tickets package with specially designed table and
+          complimentary champagne.
+
+          * Company name to be added to the donor wall. Contact info@bwaf.org
+          for more details.
+
+          * Friends membership for one year.
+
+          * Listed as a supporter for one year on all printed and digital
+          materials including Industry Leaders Roundtable and Emerging Leaders.
+
+          * Logo on BWAF website, in the evening’s program and on digital event
+          materials.
+        payment_link: https://buy.stripe.com/8wM14v47Y1PR1AAcNi
+        button_text: Sponsor BWAF
+      - category: Visionary
+        amount: $20,000
+        benefits: >-
+          * 8 event tickets.
+
+          * Invitation to one Friends evening event.
+
+          * Listed as a supporter for one year on all printed and digital
+          materials for the Industry Leaders Roundtable program and Emerging
+          Leaders.
+
+          * Logo on BWAF website, in the evening’s program and on digital event
+          materials.
+        payment_link: https://buy.stripe.com/7sIfZpfQG3XZ5QQ4gN
+        button_text: Sponsor BWAF
+      - category: Advocate
+        amount: $10,000
+        benefits: >-
+          * 4 event tickets.
+
+          * Listed as a supporter for one year on all printed and digital
+          materials for the Emerging Leaders program. Logo included in the
+          evening’s program.
+
+          * Logo on digital event materials.
+        payment_link: https://buy.stripe.com/00g5kL6g6dyzfrqcNh
+        button_text: Sponsor BWAF
+      - category: Supporter
+        amount: $4,000
+        benefits: >-
+          * 2 event tickets.
+
+          * Listed as a supporter for one year on all printed and digital
+          materials for the Emerging Leaders program. Logo included in the
+          evening’s program.
+
+          * Logo on digital event materials.
+        payment_link: https://buy.stripe.com/bIY00rcEu3XZ5QQ14x
+        button_text: Sponsor BWAF  
 date: 2021-05-05 13:32:44
 description: >-
   Beverly Willis Architecture Foundation brings attention to the work of
@@ -364,6 +428,18 @@ _structures:
             hidden: true
           image:
             type: image
+      - label: Sponsorship Levels
+        value:
+          template: sponsor-levels
+        _inputs:
+          category:
+            type: text
+          lefthand_text:
+            hidden: false
+          lefthand_text.header_type:
+            hidden: true
+          benefits:
+            type: markdown
       - label: Slideshow
         preview:
           text: Slideshow
