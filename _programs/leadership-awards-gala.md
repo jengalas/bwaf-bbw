@@ -170,6 +170,10 @@ page_blocks:
           - name:
             image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1737833026/Thornton-Thomasetti-logo-black-stacked.jpg
+      - category: Supporter
+        sponsor:
+          - name: Great Ink Communications
+            image: ''
     section_break: true
   - template: sponsor-levels
     lefthand_text:
