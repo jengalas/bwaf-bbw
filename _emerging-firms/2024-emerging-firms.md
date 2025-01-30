@@ -212,7 +212,8 @@ page_blocks:
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738092604/Screenshot_2025-01-28_at_2.29.48_PM.png
       - title: Wells Megalli
         title_role: 'Founder, Chief Design Officer, Person Place Thing Architects '
-        image: ''
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738270167/PPT_Logo.png
       - title: Isabel Lewis
         title_role: 'Designer, LVF Landscape Architects '
         image: >-
