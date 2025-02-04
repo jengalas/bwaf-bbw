@@ -1,0 +1,23 @@
+<div class="portrait-gallery-block">
+    {% for person in block.portrait %}
+    <div>
+      <h4>{{ person.category }}</h4>
+        <div class="img" style="background-image: url({{person.image}})"></div>
+        {% if person.multiple != true %}
+          <h5>
+              <b>{{person.name}}</b>
+              <br>{{person.title_role}}
+          </h5>
+        {% elsif person.multiple == true %}
+          {% for someone in person.portrait %}
+          <h5>
+            <b>{{ someone.name }}</b>
+            <br>{{ someone.title_role }}
+          </h5>
+          {% endfor %}
+        {% endif %}
+        <p class="sm">{{person.description | markdownify}}</p>
+    </div>
+    {% endfor %}
+</div>
+

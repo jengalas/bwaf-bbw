@@ -34,6 +34,8 @@
         {% include block_r_timeline.html %}
         {% elsif block.template == "portrait-gallery-template"%}
         {% include block_r_portraitsCC.html %}
+        {% elsif block.template == "portrait-gallery-template-add-category"%}
+        {% include block_r_portraits_categoryCC.html %}
         {% elsif block.template == "portrait-gallery-block-small" %}
         {% include block_r_portraits_smCC.html %}
         {% elsif block.template == "featured-portrait-block" %}

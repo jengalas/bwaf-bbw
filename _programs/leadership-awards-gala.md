@@ -98,11 +98,8 @@ page_blocks:
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189705/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-194.jpg
         caption: 2023 BEVY Awards Gala
     automatic: false
-  - template: text-block
-    button:
-      - button_text:
-        button_link:
-    section_break: true
+  - template: portrait-gallery-template-add-category
+    label: 2025 Honorees
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Medium Header
@@ -110,36 +107,49 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-    text_block: >-
-      **Academic Excellence <br>**Paola Antonelli \| Senior Curator of
-      Architecture & Design, Director of Research & Development, The Museum of
-      Modern Art
-
-
-      **Organizational Excellence**<br>Suzen Heeley \| Executive Director of
-      Design & Construction, Memorial Sloan Kettering Cancer Center
-
-
-      **Media Engagement**<br>Josephine Minutillo \| Editor-in-Chief,
-      Architectural Record
-
-
-      **Innovative Executive**<br>Hailey Sarage \| Senior Vice President of
-      Development, Related Companies
-
-
-      **Special Award** <br>Wanda Bubriski \| Founding Executive Director,
-      Beverly Willis Architecture Foundation
-
-
-      **Emerging Leader**<br>Miryam Varona \| Architect, BIM Specialist, Gilsanz
-      Murray Steficek, Co-Founder, NYC Women in BIM<br>Yafei Zhang \| Associate
-      Principal, KPF, Co-Founder, NYC Women in BIM
-  - template: text-block
-    button:
-      - button_text:
-        button_link:
-    section_break: true
+    portrait:
+      - name: Paola Antonelli
+        title_role: >-
+          Senior Curator of Architecture & Design, Director of Research &
+          Development, The Museum of Modern Art
+        image: /uploads/paola-antonelli-1.jpg
+        category: Academic Excellence
+        description: ''
+      - name: Suzen Heeley
+        title_role: >-
+          Executive Director of Design & Construction, Memorial Sloan Kettering
+          Cancer Center
+        image: /uploads/suzen-heeley.jpg
+        category: Organizational Excellence
+        description: ''
+      - name: Josephine Minutillo
+        title_role: Editor-in-Chief, Architectural Record
+        image: /uploads/josephine-minutillo.jpeg
+        category: Media Engagement
+        description: ''
+      - name: Hailey Sarage
+        title_role: Senior Vice President of Development, Related Companies
+        image: /uploads/hailey-sarage.jpg
+        category: Innovative Executive
+        description: ''
+      - name: Wanda Bubriski
+        title_role: Founding Executive Director, Beverly Willis Architecture Foundation
+        image: /uploads/wanda-bubriski.jpeg
+        category: Special Award
+        description: ''
+      - portrait:
+          - name: Miryam Varona
+            title_role: >-
+              Architect, BIM Specialist, Gilsanz Murray Steficek, Co-Founder,
+              NYC Women in BIM
+          - name: Yafei Zhang
+            title_role: Associate Principal, KPF, Co-Founder, NYC Women in BIM
+        image: /uploads/screenshot-2025-02-04-at-11-57-42-am.png
+        category: Emerging Leader
+        multiple: true
+        description: ''
+  - template: portrait-gallery-template
+    label: 2025 Committee Chairs
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Medium Header
@@ -147,15 +157,17 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-    text_block: >-
-      Tami Hausman \| Owner & Founder, Hausman LLC
-
-
-      Sara Kendall \| Vice President & General Manager of Interiors, Turner
-      Construction
-
-
-      Michele O’Connor \| Principal, LANGAN
+    section_break: true
+    portrait:
+      - title: Tami Hausman
+        title_role: Owner & Founder, Hausman LLC
+        image: /uploads/tami-3057-768x1009.jpg
+      - title: Sara Kendall
+        title_role: Vice President & General Manager of Interiors, Turner
+        image: /uploads/sara-kendall.jpg
+      - title: Michele O’Connor
+        title_role: Principal, LANGAN
+        image: /uploads/michelle-oconnor-2.jpg
   - template: sponsor-block
     lefthand_text:
       header_type: Medium Header
@@ -326,6 +338,28 @@ _structures:
             hidden: true
           benefits:
             type: markdown
+      - label: Portrait Gallery with Category
+        value:
+          template: portrait-gallery-template-add-category
+        _inputs:
+          category:
+            type: text
+          title_role:
+            label: Title/Role
+          multiple:
+            hidden: true
+          description:
+            hidden: false
+            label: Biography
+            type: markdown
+      - label: Portrait Gallery
+        value:
+          template: portrait-gallery-template
+        _inputs:
+          title:
+            label: Name
+          title_role:
+            label: Title/Role
       - label: Slideshow
         preview:
           text: Slideshow
