@@ -167,13 +167,16 @@ page_blocks:
     portrait:
       - title: Tami Hausman
         title_role: Owner & Founder, Hausman LLC
-        image: /uploads/tami-3057-768x1009.jpg
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738704735/tami-3057-768x1009.jpg
       - title: Sara Kendall
         title_role: Vice President & General Manager of Interiors, Turner
-        image: /uploads/sara-kendall.jpg
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738704750/sara-kendall.jpg
       - title: Michele O’Connor
         title_role: Principal, LANGAN
-        image: /uploads/michelle-oconnor-2.jpg
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738704764/michelle-oconnor-2.jpg
   - template: sponsor-block
     lefthand_text:
       header_type: Medium Header
