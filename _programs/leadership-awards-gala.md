@@ -124,17 +124,17 @@ page_blocks:
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738704107/suzen-heeley.jpg
         category: Organizational Excellence
         description: ''
-      - name: Josephine Minutillo
-        title_role: Editor-in-Chief, Architectural Record
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738704123/josephine-minutillo.jpg
-        category: Media Engagement
-        description: ''
       - name: Hailey Sarage
         title_role: Senior Vice President of Development, Related Companies
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738704142/hailey-sarage.jpg
         category: Innovative Executive
+        description: ''
+      - name: Josephine Minutillo
+        title_role: Editor-in-Chief, Architectural Record
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738704123/josephine-minutillo.jpg
+        category: Media Engagement
         description: ''
       - name: Wanda Bubriski
         title_role: Founding Executive Director, Beverly Willis Architecture Foundation
