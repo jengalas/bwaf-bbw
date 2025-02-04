@@ -112,29 +112,34 @@ page_blocks:
         title_role: >-
           Senior Curator of Architecture & Design, Director of Research &
           Development, The Museum of Modern Art
-        image: /uploads/paola-antonelli-1.jpg
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738704087/paola-antonelli-1.jpg
         category: Academic Excellence
         description: ''
       - name: Suzen Heeley
         title_role: >-
           Executive Director of Design & Construction, Memorial Sloan Kettering
           Cancer Center
-        image: /uploads/suzen-heeley.jpg
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738704107/suzen-heeley.jpg
         category: Organizational Excellence
         description: ''
       - name: Josephine Minutillo
         title_role: Editor-in-Chief, Architectural Record
-        image: /uploads/josephine-minutillo.jpeg
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738704123/josephine-minutillo.jpg
         category: Media Engagement
         description: ''
       - name: Hailey Sarage
         title_role: Senior Vice President of Development, Related Companies
-        image: /uploads/hailey-sarage.jpg
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738704142/hailey-sarage.jpg
         category: Innovative Executive
         description: ''
       - name: Wanda Bubriski
         title_role: Founding Executive Director, Beverly Willis Architecture Foundation
-        image: /uploads/wanda-bubriski.jpeg
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738704157/wanda-bubriski.jpg
         category: Special Award
         description: ''
       - portrait:
@@ -144,7 +149,8 @@ page_blocks:
               NYC Women in BIM
           - name: Yafei Zhang
             title_role: Associate Principal, KPF, Co-Founder, NYC Women in BIM
-        image: /uploads/screenshot-2025-02-04-at-11-57-42-am.png
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738704183/screenshot-2025-02-04-at-11-57-42-am.png
         category: Emerging Leader
         multiple: true
         description: ''
