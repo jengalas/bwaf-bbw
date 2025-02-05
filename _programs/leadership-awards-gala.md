@@ -199,6 +199,9 @@ page_blocks:
           - name:
             image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738685378/Screenshot_2025-02-04_at_11.08.56_AM.png
+          - name:
+            image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738769022/TYLin_Logo_Black.jpg
     section_break: true
   - template: sponsor-levels
     lefthand_text:
