@@ -43,8 +43,6 @@ page_blocks:
       See below for honorees, sponsorship, and ticket information.
   - template: buttons-block
     button:
-      - button_text: Contact Us to Inquire
-        button_link: mailto:info@bwaf.org?subject=&body=
       - button_text: Tickets
         button_link: >-
           https://www.eventbrite.com/e/bevy-leadership-awards-2025-tickets-1236625673679?aff=oddtdtcreator
