@@ -40,7 +40,7 @@ page_blocks:
       honorees.
 
 
-      See below for honorees, sponsorship, and ticket information.
+      See below for ticket, honorees, and sponsorship information.
   - template: buttons-block
     button:
       - button_text: Tickets
