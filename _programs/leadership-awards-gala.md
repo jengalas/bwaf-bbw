@@ -45,8 +45,9 @@ page_blocks:
     button:
       - button_text: Contact Us to Inquire
         button_link: mailto:info@bwaf.org?subject=&body=
-      - button_text: TICKETS
-        button_link: https://www.eventbrite.com/e/1236625673679?aff=oddtdtcreator
+      - button_text: Tickets
+        button_link: >-
+          https://www.eventbrite.com/e/bevy-leadership-awards-2025-tickets-1236625673679?aff=oddtdtcreator
     section_break: false
     include_left-hand_column_text_: false
   - template: slideshow-block
