@@ -144,9 +144,7 @@ page_blocks:
         description: ''
       - portrait:
           - name: Miryam Varona
-            title_role: >-
-              Architect, BIM Specialist, Gilsanz Murray Steficek, Co-Founder,
-              NYC Women in BIM
+            title_role: Architect, BIM Specialist, GMS, Co-Founder, NYC Women in BIM
           - name: Yafei Zhang
             title_role: Associate Principal, KPF, Co-Founder, NYC Women in BIM
         image: >-
