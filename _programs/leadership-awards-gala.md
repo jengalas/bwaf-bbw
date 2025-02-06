@@ -40,12 +40,13 @@ page_blocks:
       honorees.
 
 
-      See below for honorees, sponsorship, and ticket information. Individual
-      tickets forthcoming.
+      See below for honorees, sponsorship, and ticket information.
   - template: buttons-block
     button:
       - button_text: Contact Us to Inquire
         button_link: mailto:info@bwaf.org?subject=&body=
+      - button_text: TICKETS
+        button_link: https://www.eventbrite.com/e/1236625673679?aff=oddtdtcreator
     section_break: false
     include_left-hand_column_text_: false
   - template: slideshow-block
