@@ -127,7 +127,7 @@ page_blocks:
           Alone, on video games and interactive design, and Life Cycles, on the
           materials of contemporary design. The Instagram platform, book, and
           now podcast Design Emergency, which she co-founded with design critic
-          Alice Rawsthorn, is an ongoing investigation on design's power to
+          Alice Rawsthorn, is an ongoing investigation on design’s power to
           envision a better future for all.
 
 
@@ -151,7 +151,27 @@ page_blocks:
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738704123/josephine-minutillo.jpg
         category: Media Engagement
-        description: ''
+        description: >-
+          Josephine Minutillo is editor in chief of Architectural Record.
+          Minutillo has a long history with Record, first contributing to the
+          magazine in 2001, the same year she began practicing architecture in
+          New York City. Her efforts in architecture during the early 2000s were
+          focused on affordable housing and, later, preservation.
+          Simultaneously, she wrote for numerous international architecture,
+          art, and design publications, and was a contributing editor to
+          Architectural Digest. Over the last two decades, and in a variety of
+          roles, Minutillo has covered the gamut of topics for Record, from
+          exhibition reviews and building technology articles to feature project
+          stories—traveling the world to report on new buildings. She has been a
+          member of the organizing committee of the Monterey Design Conference
+          since 2016, and is a trustee of the National Building Museum. She has
+          served as a guest critic at architecture schools across the country,
+          including Washington University in St. Louis, from which she received
+          her Master of Architecture degree. She holds a Bachelor of Arts from
+          Cornell University.
+
+
+          <br>
       - name: Wanda Bubriski
         title_role: Founding Executive Director, Beverly Willis Architecture Foundation
         image: >-
