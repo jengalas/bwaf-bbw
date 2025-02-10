@@ -115,23 +115,7 @@ page_blocks:
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738704087/paola-antonelli-1.jpg
         category: Academic Excellence
-        description: >-
-          Paola Antonelli is Senior Curator of Architecture & Design at The
-          Museum of Modern Art, as well as MoMA’s founding Director of Research
-          & Development. Her goal is to promote design’s understanding, until
-          its positive influence on the world is universally acknowledged. Her
-          work investigates design’s impact on everyday experience, often
-          including overlooked objects and practices, and combining design,
-          architecture, art, science, and technology. Among her most recent
-          exhibitions are the XXII Triennale di Milano Broken Nature, Never
-          Alone, on video games and interactive design, and Life Cycles, on the
-          materials of contemporary design. The Instagram platform, book, and
-          now podcast Design Emergency, which she co-founded with design critic
-          Alice Rawsthorn, is an ongoing investigation on design’s power to
-          envision a better future for all.
-
-
-          <br>
+        description: ''
       - name: Suzen Heeley
         title_role: >-
           Executive Director of Design & Construction, Memorial Sloan Kettering
@@ -145,55 +129,13 @@ page_blocks:
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738704142/hailey-sarage.jpg
         category: Innovative Executive
-        description: >-
-          Hailey Sarage is a Senior Vice President at Related Companies. Since
-          joining Related in 2017, Hailey has focused on the development,
-          execution and financing of several milestone projects for the
-          organization. In her role, she has overseen 15 Hudson Yards, a million
-          square foot residential building in the largest private development in
-          New York City history, Coterie Senior Living, Related’s first ever
-          luxury senior housing project in New York and The Set, the
-          first-of-its-kind luxury residential rental meets five-star hotel
-          experience. She is now working on the next development phase of Hudson
-          Yards, Hudson Yards West, as well as the transformation of NYCHA’s
-          Fulton and Elliott-Chelsea Houses through a historic partnership
-          between NYCHA, Essence Development, Related Companies and residents.
-
-
-          Prior to joining Related, Hailey was a Vice President at Leonard Green
-          & Partners, a preeminent private equity firm in Los Angeles, and also
-          previously worked in investment banking at Deutsche Bank. Hailey holds
-          a Master of Business Administration from Harvard Business School and a
-          Bachelor of Arts from Wesleyan University.
-
-
-          <br>
+        description: ''
       - name: Josephine Minutillo
         title_role: Editor-in-Chief, Architectural Record
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738704123/josephine-minutillo.jpg
         category: Media Engagement
-        description: >-
-          Josephine Minutillo is editor in chief of Architectural Record.
-          Minutillo has a long history with Record, first contributing to the
-          magazine in 2001, the same year she began practicing architecture in
-          New York City. Her efforts in architecture during the early 2000s were
-          focused on affordable housing and, later, preservation.
-          Simultaneously, she wrote for numerous international architecture,
-          art, and design publications, and was a contributing editor to
-          Architectural Digest. Over the last two decades, and in a variety of
-          roles, Minutillo has covered the gamut of topics for Record, from
-          exhibition reviews and building technology articles to feature project
-          stories—traveling the world to report on new buildings. She has been a
-          member of the organizing committee of the Monterey Design Conference
-          since 2016, and is a trustee of the National Building Museum. She has
-          served as a guest critic at architecture schools across the country,
-          including Washington University in St. Louis, from which she received
-          her Master of Architecture degree. She holds a Bachelor of Arts from
-          Cornell University.
-
-
-          <br>
+        description: ''
       - name: Wanda Bubriski
         title_role: Founding Executive Director, Beverly Willis Architecture Foundation
         image: >-
