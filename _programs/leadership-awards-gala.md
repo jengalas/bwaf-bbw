@@ -115,7 +115,23 @@ page_blocks:
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738704087/paola-antonelli-1.jpg
         category: Academic Excellence
-        description: ''
+        description: >-
+          Paola Antonelli is Senior Curator of Architecture & Design at The
+          Museum of Modern Art, as well as MoMA’s founding Director of Research
+          & Development. Her goal is to promote design’s understanding, until
+          its positive influence on the world is universally acknowledged. Her
+          work investigates design’s impact on everyday experience, often
+          including overlooked objects and practices, and combining design,
+          architecture, art, science, and technology. Among her most recent
+          exhibitions are the XXII Triennale di Milano Broken Nature, Never
+          Alone, on video games and interactive design, and Life Cycles, on the
+          materials of contemporary design. The Instagram platform, book, and
+          now podcast Design Emergency, which she co-founded with design critic
+          Alice Rawsthorn, is an ongoing investigation on design's power to
+          envision a better future for all.
+
+
+          <br>
       - name: Suzen Heeley
         title_role: >-
           Executive Director of Design & Construction, Memorial Sloan Kettering
