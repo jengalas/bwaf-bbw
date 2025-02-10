@@ -203,6 +203,9 @@ page_blocks:
           - name:
             image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738945999/KT_Logo_Black_HighResolution.png
+          - name:
+            image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739224266/hatfield_group_logo.png
     section_break: true
   - template: sponsor-levels
     lefthand_text:
