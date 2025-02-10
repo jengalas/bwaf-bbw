@@ -145,7 +145,29 @@ page_blocks:
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738704142/hailey-sarage.jpg
         category: Innovative Executive
-        description: ''
+        description: >-
+          Hailey Sarage is a Senior Vice President at Related Companies. Since
+          joining Related in 2017, Hailey has focused on the development,
+          execution and financing of several milestone projects for the
+          organization. In her role, she has overseen 15 Hudson Yards, a million
+          square foot residential building in the largest private development in
+          New York City history, Coterie Senior Living, Related’s first ever
+          luxury senior housing project in New York and The Set, the
+          first-of-its-kind luxury residential rental meets five-star hotel
+          experience. She is now working on the next development phase of Hudson
+          Yards, Hudson Yards West, as well as the transformation of NYCHA’s
+          Fulton and Elliott-Chelsea Houses through a historic partnership
+          between NYCHA, Essence Development, Related Companies and residents.
+
+
+          Prior to joining Related, Hailey was a Vice President at Leonard Green
+          & Partners, a preeminent private equity firm in Los Angeles, and also
+          previously worked in investment banking at Deutsche Bank. Hailey holds
+          a Master of Business Administration from Harvard Business School and a
+          Bachelor of Arts from Wesleyan University.
+
+
+          <br>
       - name: Josephine Minutillo
         title_role: Editor-in-Chief, Architectural Record
         image: >-
