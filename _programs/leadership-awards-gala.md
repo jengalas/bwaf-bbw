@@ -181,6 +181,11 @@ page_blocks:
       text: 2025 Sponsors
     include_left-hand_column_text_: true
     sponsors:
+      - category: Visionary
+        sponsor:
+          - name:
+            image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739224404/ramsa.png
       - category: Advocate
         sponsor:
           - name:
@@ -206,6 +211,9 @@ page_blocks:
           - name:
             image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739224266/hatfield_group_logo.png
+          - name:
+            image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739294409/SHOP_logo_SQ_400x400.jpg
     section_break: true
   - template: sponsor-levels
     lefthand_text:
