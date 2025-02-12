@@ -220,6 +220,9 @@ page_blocks:
           - name:
             image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739378472/dattnerau.png
+          - name:
+            image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739383098/Screenshot_2025-02-12_at_12.57.48_PM.png
     section_break: true
   - template: sponsor-levels
     lefthand_text:
