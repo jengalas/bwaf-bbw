@@ -216,7 +216,10 @@ page_blocks:
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739294409/SHOP_logo_SQ_400x400.jpg
           - name:
             image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739373044/NEW_LOGO_2018.png
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738946082/unnamed.jpg
+          - name:
+            image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739378472/dattnerau.png
     section_break: true
   - template: sponsor-levels
     lefthand_text:
