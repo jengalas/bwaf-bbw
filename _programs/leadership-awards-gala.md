@@ -216,7 +216,7 @@ page_blocks:
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739294409/SHOP_logo_SQ_400x400.jpg
           - name:
             image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739378592/Screenshot_2025-02-12_at_11.43.00_AM.png
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739414268/NEW_LOGO_FINAL_ALL_BLACK.png
           - name:
             image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739378472/dattnerau.png
