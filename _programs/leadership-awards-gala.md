@@ -148,7 +148,7 @@ page_blocks:
           - name: Yafei Zhang
             title_role: Associate Principal, KPF, Co-Founder, NYC Women in BIM
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738704183/screenshot-2025-02-04-at-11-57-42-am.png
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739483444/Email-honorees-group.jpg
         category: Emerging Leader
         multiple: true
         description: ''
