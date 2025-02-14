@@ -93,7 +93,7 @@ page_blocks:
       - title: ''
         title_role: ''
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739547815/mr_logo_3.svg
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739548018/Screenshot_2025-02-14_at_10.46.48_AM_tglic7.png
         description: ''
       - title: ''
         title_role: ''
