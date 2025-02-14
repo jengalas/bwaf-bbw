@@ -28,48 +28,6 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-  - template: image-block
-    image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1718743077/Friends_Header_Footer.jpg
-    image_caption_text:
-    alt_text: >-
-      White text on a darkened photograph of people talking reads: "BWAF Invites
-      you to a very special Friends Night, July 10th, 2024 5:30pm, Thornton
-      Tomasetti, 120 Broadway, New York NY 10271"
-    section_break: false
-    include_left-hand_column_text_: false
-  - template: text-block
-    text_block: >-
-      <p>We are thrilled to announce an exciting event for Friends of BWAF! Join
-      us for an evening of inspiration and innovation as some of our esteemed
-      Friends and Friends of Friends present their groundbreaking projects in a
-      TED talk-style format.<br /><br />This program is a unique opportunity to
-      witness the creative minds within our community as they share their
-      visionary work and ideas. Our presenters will cover a range of topics that
-      reflect the diverse and dynamic nature of architecture and design today.
-      You'll have the chance to engage with these thought leaders, ask
-      questions, and gain insights into the latest trends and developments in
-      the field.<br />We encourage you to RSVP as soon as possible, as spaces
-      are limited. You can secure your spot by signing up to the Eventbrite
-      linked above!<br /><br />We look forward to seeing you there and sharing
-      this exciting evening with you. Thank you for your continued support of
-      the Beverly Willis Architecture Foundation.</p>
-    section_break: false
-    include_left-hand_column_text_: false
-    label: Annual Membership Info
-    lefthand_text:
-      header_type: ''
-      text: ''
-      download: ''
-      link_url: ''
-      link_text: ''
-  - template: buttons-block
-    button:
-      - button_text: Register
-        button_link: >-
-          https://www.eventbrite.com/e/friends-night-presentations-from-innovators-tickets-921036844997?aff=oddtdtcreator
-    section_break: false
-    include_left-hand_column_text_: false
   - template: text-block
     text_block: >-
       <h2><strong>Annual Membership</strong></h2><p>Early Professional (up to
@@ -117,7 +75,7 @@ page_blocks:
       link_text: ''
   - template: portrait-gallery-block-small
     label: Friends Image/Logo Gallery
-    header: 2022-2023 Corporate Friends
+    header: 2024-2025 Corporate Friends
     portrait:
       - title: ''
         title_role: ''
@@ -133,11 +91,6 @@ page_blocks:
         title_role: ''
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1668537724/steinbergLogoFinal_aby90s.png
-        description: ''
-      - title: ''
-        title_role: ''
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1664471226/HKS-Logo-Grey-Digital_eczhng.jpg
         description: ''
       - title: ''
         title_role: ''
@@ -159,6 +112,21 @@ page_blocks:
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1697049447/Untitled-1.jpg
         description: ''
+      - title: ''
+        title_role: ''
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739546922/RAMSA-Logo-3.webp
+        description: ''
+      - title: ''
+        title_role: ''
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739546966/Gilbane_Building_Company_Logo.jpg
+        description: ''
+      - title: ''
+        title_role: ''
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739547043/Screenshot_2025-02-14_at_10.30.16_AM.png
+        description: ''
     section_break: true
     include_left-hand_column_text_: false
     lefthand_text:
@@ -167,6 +135,12 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
+  - template: image-block
+    image:
+    image_caption_text:
+    alt_text:
+    section_break: false
+    include_left-hand_column_text_: false
 date: 2021-05-05 13:33:04
 description: >-
   The Friends program offers unique networking opportunities and brings together
