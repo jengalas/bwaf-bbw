@@ -61,7 +61,7 @@ page_blocks:
   - template: image-block
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739547187/3M3A9306.jpg
-    image_caption_text: Friends Presentation Night, July 2023
+    image_caption_text: Friends Presentation Night, July 2024
     alt_text: ''
     section_break: true
     include_left-hand_column_text_: false
