@@ -41,56 +41,60 @@ page_blocks:
 
 
       See below for ticket, honorees, and sponsorship information.
-  - template: slideshow-block
-    button:
-      - button_text:
-        button_link:
-    section_break: false
+  - template: portrait-gallery-template-add-category
+    label: 2025 Honorees
     include_left-hand_column_text_: true
     lefthand_text:
-      header_type: Large Header
-      text: ''
+      header_type: Medium Header
+      text: 2025 Honorees
       download: ''
       link_url: ''
       link_text: ''
-    image:
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189691/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-29.jpg
-        caption: 2023 BEVY Awards Gala
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189697/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-92.jpg
-        caption: 2023 BEVY Awards Gala
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189619/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-89.jpg
-        caption: 2023 BEVY Awards Gala
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736190160/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-174_hjq5jf.jpg
-        caption: 2023 BEVY Awards Gala
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189696/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-87.jpg
-        caption: 2023 BEVY Awards Gala
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736190158/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-166_yuvsig.jpg
-        caption: 2023 BEVY Awards Gala
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189698/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-103.jpg
-        caption: 2023 BEVY Awards Gala
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189704/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-122.jpg
-        caption: 2023 BEVY Awards Gala
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189700/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-118.jpg
-        caption: 2023 BEVY Awards Gala
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736190582/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-156.jpg
-        caption: 2023 BEVY Awards Gala
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189702/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-137.jpg
-        caption: 2023 BEVY Awards Gala
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189705/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-194.jpg
-        caption: 2023 BEVY Awards Gala
-    automatic: false
+    portrait:
+      - name: Paola Antonelli
+        title_role: >-
+          Senior Curator of Architecture & Design, Director of Research &
+          Development, The Museum of Modern Art
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738704087/paola-antonelli-1.jpg
+        category: Academic Excellence
+        description: ''
+      - name: Suzen Heeley
+        title_role: >-
+          Executive Director of Design & Construction, Memorial Sloan Kettering
+          Cancer Center
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738704107/suzen-heeley.jpg
+        category: Organizational Excellence
+        description: ''
+      - name: Hailey Sarage
+        title_role: Senior Vice President of Development, Related Companies
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738704142/hailey-sarage.jpg
+        category: Innovative Executive
+        description: ''
+      - name: Josephine Minutillo
+        title_role: Editor-in-Chief, Architectural Record
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738704123/josephine-minutillo.jpg
+        category: Media Engagement
+        description: ''
+      - name: Wanda Bubriski
+        title_role: Founding Executive Director, Beverly Willis Architecture Foundation
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738704157/wanda-bubriski.jpg
+        category: Special Award
+        description: ''
+      - portrait:
+          - name: Miryam Varona
+            title_role: Architect, BIM Specialist, GMS, Co-Founder, NYC Women in BIM
+          - name: Yafei Zhang
+            title_role: Associate Principal, KPF, Co-Founder, NYC Women in BIM
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739483444/Email-honorees-group.jpg
+        category: Emerging Leader
+        multiple: true
+        description: ''
   - template: portrait-gallery-template
     label: 2025 Committee Chairs
     include_left-hand_column_text_: true
@@ -243,60 +247,56 @@ page_blocks:
             image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739491498/Field_Operations_logo.png
     section_break: true
-  - template: portrait-gallery-template-add-category
-    label: 2025 Honorees
+  - template: slideshow-block
+    button:
+      - button_text:
+        button_link:
+    section_break: false
     include_left-hand_column_text_: true
     lefthand_text:
-      header_type: Medium Header
-      text: 2025 Honorees
+      header_type: Large Header
+      text: ''
       download: ''
       link_url: ''
       link_text: ''
-    portrait:
-      - name: Paola Antonelli
-        title_role: >-
-          Senior Curator of Architecture & Design, Director of Research &
-          Development, The Museum of Modern Art
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738704087/paola-antonelli-1.jpg
-        category: Academic Excellence
-        description: ''
-      - name: Suzen Heeley
-        title_role: >-
-          Executive Director of Design & Construction, Memorial Sloan Kettering
-          Cancer Center
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738704107/suzen-heeley.jpg
-        category: Organizational Excellence
-        description: ''
-      - name: Hailey Sarage
-        title_role: Senior Vice President of Development, Related Companies
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738704142/hailey-sarage.jpg
-        category: Innovative Executive
-        description: ''
-      - name: Josephine Minutillo
-        title_role: Editor-in-Chief, Architectural Record
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738704123/josephine-minutillo.jpg
-        category: Media Engagement
-        description: ''
-      - name: Wanda Bubriski
-        title_role: Founding Executive Director, Beverly Willis Architecture Foundation
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738704157/wanda-bubriski.jpg
-        category: Special Award
-        description: ''
-      - portrait:
-          - name: Miryam Varona
-            title_role: Architect, BIM Specialist, GMS, Co-Founder, NYC Women in BIM
-          - name: Yafei Zhang
-            title_role: Associate Principal, KPF, Co-Founder, NYC Women in BIM
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739483444/Email-honorees-group.jpg
-        category: Emerging Leader
-        multiple: true
-        description: ''
+    image:
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189691/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-29.jpg
+        caption: 2023 BEVY Awards Gala
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189697/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-92.jpg
+        caption: 2023 BEVY Awards Gala
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189619/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-89.jpg
+        caption: 2023 BEVY Awards Gala
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736190160/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-174_hjq5jf.jpg
+        caption: 2023 BEVY Awards Gala
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189696/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-87.jpg
+        caption: 2023 BEVY Awards Gala
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736190158/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-166_yuvsig.jpg
+        caption: 2023 BEVY Awards Gala
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189698/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-103.jpg
+        caption: 2023 BEVY Awards Gala
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189704/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-122.jpg
+        caption: 2023 BEVY Awards Gala
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189700/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-118.jpg
+        caption: 2023 BEVY Awards Gala
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736190582/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-156.jpg
+        caption: 2023 BEVY Awards Gala
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189702/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-137.jpg
+        caption: 2023 BEVY Awards Gala
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189705/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-194.jpg
+        caption: 2023 BEVY Awards Gala
+    automatic: false
 date: 2021-05-05 13:32:44
 description: >-
   Beverly Willis Architecture Foundation brings attention to the work of
