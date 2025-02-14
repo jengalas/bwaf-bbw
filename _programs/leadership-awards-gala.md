@@ -175,65 +175,10 @@ page_blocks:
         title_role: Principal, LANGAN
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738704764/michelle-oconnor-2.jpg
-  - template: sponsor-block
-    lefthand_text:
-      header_type: Medium Header
-      text: 2025 Sponsors
-    include_left-hand_column_text_: true
-    sponsors:
-      - category: Visionary
-        sponsor:
-          - name:
-            image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739224404/ramsa.png
-      - category: Advocate
-        sponsor:
-          - name:
-            image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1737833009/Skidmore__Owings___Merrill_logo.svg_copy.svg
-          - name:
-            image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1737833026/Thornton-Thomasetti-logo-black-stacked.jpg
-          - name:
-            image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739491143/related-companies-logo-vector_800px-sq.png
-      - category: Supporter
-        sponsor:
-          - name:
-            image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738683166/Great_Ink_Logo_High_Res.png
-          - name:
-            image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738685378/Screenshot_2025-02-04_at_11.08.56_AM.png
-          - name:
-            image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738769022/TYLin_Logo_Black.jpg
-          - name:
-            image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738945999/KT_Logo_Black_HighResolution.png
-          - name:
-            image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739224266/hatfield_group_logo.png
-          - name:
-            image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739294409/SHOP_logo_SQ_400x400.jpg
-          - name:
-            image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739414268/NEW_LOGO_FINAL_ALL_BLACK.png
-          - name:
-            image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739378472/dattnerau.png
-          - name:
-            image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739383098/Screenshot_2025-02-12_at_12.57.48_PM.png
-          - name:
-            image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739491498/Field_Operations_logo.png
-    section_break: true
   - template: sponsor-levels
     lefthand_text:
       header_type: Medium Header
-      text: Become a Sponsor
+      text: Tickets, Sponsorships, Donations
     include_left-hand_column_text_: true
     section_break: true
     sponsor-levels:
@@ -296,10 +241,69 @@ page_blocks:
         button_text: Sponsor BWAF
   - template: buttons-block
     button:
-      - button_text: Contact Us to Inquire
+      - button_text: Buy Individual Tickets →
+        button_link: https://www.eventbrite.com/e/1236625673679?aff=oddtdtcreator
+      - button_text: Can't Make the Event? Make a Donation →
+        button_link: https://bwaf.org/support
+      - button_text: Contact Us to Inquire →
         button_link: mailto:info@bwaf.org?subject=&body=
     section_break: false
     include_left-hand_column_text_: false
+  - template: sponsor-block
+    lefthand_text:
+      header_type: Medium Header
+      text: 2025 Sponsors
+    include_left-hand_column_text_: true
+    sponsors:
+      - category: Visionary
+        sponsor:
+          - name:
+            image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739224404/ramsa.png
+      - category: Advocate
+        sponsor:
+          - name:
+            image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1737833009/Skidmore__Owings___Merrill_logo.svg_copy.svg
+          - name:
+            image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1737833026/Thornton-Thomasetti-logo-black-stacked.jpg
+          - name:
+            image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739491143/related-companies-logo-vector_800px-sq.png
+      - category: Supporter
+        sponsor:
+          - name:
+            image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738683166/Great_Ink_Logo_High_Res.png
+          - name:
+            image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738685378/Screenshot_2025-02-04_at_11.08.56_AM.png
+          - name:
+            image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738769022/TYLin_Logo_Black.jpg
+          - name:
+            image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738945999/KT_Logo_Black_HighResolution.png
+          - name:
+            image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739224266/hatfield_group_logo.png
+          - name:
+            image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739294409/SHOP_logo_SQ_400x400.jpg
+          - name:
+            image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739414268/NEW_LOGO_FINAL_ALL_BLACK.png
+          - name:
+            image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739378472/dattnerau.png
+          - name:
+            image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739383098/Screenshot_2025-02-12_at_12.57.48_PM.png
+          - name:
+            image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739491498/Field_Operations_logo.png
+    section_break: true
 date: 2021-05-05 13:32:44
 description: >-
   Beverly Willis Architecture Foundation brings attention to the work of
