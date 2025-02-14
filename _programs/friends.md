@@ -113,17 +113,17 @@ page_blocks:
       - title: ''
         title_role: ''
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739546922/RAMSA-Logo-3.webp
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739547650/images-2.png
         description: ''
       - title: ''
         title_role: ''
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739546966/Gilbane_Building_Company_Logo.jpg
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739547690/Red-Logo_FB-1.jpg
         description: ''
       - title: ''
         title_role: ''
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739547043/Screenshot_2025-02-14_at_10.30.16_AM.png
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739547731/Screenshot_2025-02-14_at_10.41.58_AM.png
         description: ''
     section_break: true
     include_left-hand_column_text_: false
