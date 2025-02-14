@@ -28,6 +28,19 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
+  - template: image-block
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739547187/3M3A9306.jpg
+    image_caption_text: Friends Presentation Night, July 2024
+    alt_text: ''
+    section_break: true
+    include_left-hand_column_text_: false
+    lefthand_text:
+      header_type: ''
+      text: ''
+      download: ''
+      link_url: ''
+      link_text: ''
   - template: text-block
     text_block: >-
       <h2><strong>Annual Membership</strong></h2><p>Early Professional (up to
@@ -58,19 +71,6 @@ page_blocks:
         button_link: https://buy.stripe.com/14k9B19sibqra76aEM
     section_break: false
     include_left-hand_column_text_: false
-  - template: image-block
-    image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739547187/3M3A9306.jpg
-    image_caption_text: Friends Presentation Night, July 2024
-    alt_text: ''
-    section_break: true
-    include_left-hand_column_text_: false
-    lefthand_text:
-      header_type: ''
-      text: ''
-      download: ''
-      link_url: ''
-      link_text: ''
   - template: portrait-gallery-block-small
     label: Friends Image/Logo Gallery
     header: 2024-2025 Corporate Friends
