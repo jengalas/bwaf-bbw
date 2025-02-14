@@ -113,7 +113,7 @@ page_blocks:
       - title: ''
         title_role: ''
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739547650/images-2.png
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739547856/RAMSA-Logo-ICAA.jpg
         description: ''
       - title: ''
         title_role: ''
