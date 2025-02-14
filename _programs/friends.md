@@ -60,10 +60,8 @@ page_blocks:
     include_left-hand_column_text_: false
   - template: image-block
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1709326819/IMG-3541.jpg
-    image_caption_text: >-
-      Board Member and Friends Chair Phoebe Yee, Executive Vice President,
-      Design Related California
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739547187/3M3A9306.jpg
+    image_caption_text: Friends Presentation Night, July 2023
     alt_text: ''
     section_break: true
     include_left-hand_column_text_: false
@@ -135,12 +133,6 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-  - template: image-block
-    image:
-    image_caption_text:
-    alt_text:
-    section_break: false
-    include_left-hand_column_text_: false
 date: 2021-05-05 13:33:04
 description: >-
   The Friends program offers unique networking opportunities and brings together
