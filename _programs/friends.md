@@ -133,6 +133,19 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
+  - template: slideshow-block
+    section_break: false
+    include_left-hand_column_text_: true
+    lefthand_text:
+      header_type: Large Header
+      text: ''
+      download: ''
+      link_url: ''
+      link_text: ''
+    image:
+      - image: >-
+        caption: 
+    automatic: false      
 date: 2021-05-05 13:33:04
 description: >-
   The Friends program offers unique networking opportunities and brings together
@@ -188,5 +201,13 @@ _structures:
           image_caption_text:
           alt_text:
           section_break: false
-          include_left-hand_column_text_: false
+          include_left-hand_column_text_: false  
+      - label: Slideshow
+        preview:
+          text: Slideshow
+          subtext: Add images and captions
+          icon:
+        value:
+          template: slideshow-block
+          section_break: false               
 ---
