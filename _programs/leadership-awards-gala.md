@@ -184,11 +184,11 @@ page_blocks:
         button_text: Sponsor BWAF
   - template: buttons-block
     button:
-      - button_text: Buy Individual Tickets →
+      - button_text: 'Buy Individual Tickets '
         button_link: https://www.eventbrite.com/e/1236625673679?aff=oddtdtcreator
-      - button_text: Can't Make the Event? Make a Donation →
+      - button_text: 'Can''t Make the Event? Make a Donation '
         button_link: https://bwaf.org/support
-      - button_text: Contact Us to Inquire →
+      - button_text: 'Contact Us to Inquire '
         button_link: mailto:info@bwaf.org?subject=&body=
     section_break: false
     include_left-hand_column_text_: false
