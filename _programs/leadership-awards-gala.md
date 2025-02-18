@@ -214,6 +214,9 @@ page_blocks:
           - name:
             image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739491143/related-companies-logo-vector_800px-sq.png
+          - name:
+            image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739905316/Screenshot_2025-02-18_at_2.01.39_PM.png
       - category: Supporter
         sponsor:
           - name:
