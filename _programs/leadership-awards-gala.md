@@ -246,6 +246,9 @@ page_blocks:
           - name:
             image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739491498/Field_Operations_logo.png
+          - name:
+            image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739905218/CETRA_RUDDY_Logo.png
     section_break: true
   - template: slideshow-block
     button:
