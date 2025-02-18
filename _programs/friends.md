@@ -28,19 +28,29 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-  - template: image-block
-    image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739547187/3M3A9306.jpg
-    image_caption_text: Friends Presentation Night, July 2024
-    alt_text: ''
-    section_break: true
-    include_left-hand_column_text_: false
+  - template: slideshow-block
+    section_break: false
+    include_left-hand_column_text_: true
     lefthand_text:
-      header_type: ''
+      header_type: Large Header
       text: ''
       download: ''
       link_url: ''
       link_text: ''
+    image:
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739547187/3M3A9306.jpg
+        caption: Friends Presentation Night at Thornton Tomasetti, July 2024
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739892567/3M3A9534.jpg
+        caption: Friends Presentation Night at Thornton Tomasetti, July 2024
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739892714/3M3A9606.jpg
+        caption: Friends Presentation Night at Thornton Tomasetti, July 2024
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739892629/3M3A9442.jpg
+        caption: Friends Presentation Night at Thornton Tomasetti, July 2024
+    automatic: false
   - template: text-block
     text_block: >-
       <h2><strong>Annual Membership</strong></h2><p>Early Professional (up to
@@ -133,19 +143,6 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-  - template: slideshow-block
-    section_break: false
-    include_left-hand_column_text_: true
-    lefthand_text:
-      header_type: Large Header
-      text: ''
-      download: ''
-      link_url: ''
-      link_text: ''
-    image:
-      - image: >-
-        caption: 
-    automatic: false      
 date: 2021-05-05 13:33:04
 description: >-
   The Friends program offers unique networking opportunities and brings together
@@ -201,7 +198,7 @@ _structures:
           image_caption_text:
           alt_text:
           section_break: false
-          include_left-hand_column_text_: false  
+          include_left-hand_column_text_: false
       - label: Slideshow
         preview:
           text: Slideshow
@@ -209,5 +206,5 @@ _structures:
           icon:
         value:
           template: slideshow-block
-          section_break: false               
+          section_break: false
 ---
