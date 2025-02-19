@@ -254,6 +254,9 @@ page_blocks:
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739294409/SHOP_logo_SQ_400x400.jpg
           - name:
             image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739991467/Stawski_Partners_Logo_002.jpg
+          - name:
+            image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738769022/TYLin_Logo_Black.jpg
     section_break: true
   - template: slideshow-block
