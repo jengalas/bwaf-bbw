@@ -202,7 +202,7 @@ page_blocks:
         sponsor:
           - name:
             image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1740083819/Brookfield_Properties_logo.png
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1740085626/Screenshot_2025-02-20_at_4.06.52_PM.png
       - category: Visionary
         sponsor:
           - name:
