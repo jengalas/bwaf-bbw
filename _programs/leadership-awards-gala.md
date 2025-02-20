@@ -212,6 +212,9 @@ page_blocks:
         sponsor:
           - name:
             image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1740091465/Screenshot_2025-02-20_at_1.18.34_PM.png
+          - name:
+            image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739905316/Screenshot_2025-02-18_at_2.01.39_PM.png
           - name:
             image: >-
