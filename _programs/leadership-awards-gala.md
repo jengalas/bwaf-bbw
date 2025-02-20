@@ -228,6 +228,9 @@ page_blocks:
           - name:
             image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1737833026/Thornton-Thomasetti-logo-black-stacked.jpg
+          - name:
+            image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1740091489/Screenshot_2025-02-20_at_4.28.25_PM.png
       - category: Supporter
         sponsor:
           - name:
