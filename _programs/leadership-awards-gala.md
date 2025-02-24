@@ -250,6 +250,9 @@ page_blocks:
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739491498/Field_Operations_logo.png
           - name:
             image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1740414865/GMS_Transparent_BLACK.png
+          - name:
+            image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738683166/Great_Ink_Logo_High_Res.png
           - name:
             image: >-
