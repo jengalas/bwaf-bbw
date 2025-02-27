@@ -224,6 +224,9 @@ page_blocks:
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739905514/Screenshot_2025-02-18_at_2.04.26_PM.png
           - name:
             image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1740686150/marvel_wordmark-black.jpg
+          - name:
+            image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739491143/related-companies-logo-vector_800px-sq.png
           - name:
             image: >-
