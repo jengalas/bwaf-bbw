@@ -268,6 +268,9 @@ page_blocks:
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738945999/KT_Logo_Black_HighResolution.png
           - name:
             image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1740673476/MAWD_Logo_Horizontal_RGB_Black_300ppi.png
+          - name:
+            image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1740673218/OMA_LOGO-TXT_BLACK_ON_WHITE.jpg
           - name:
             image: >-
