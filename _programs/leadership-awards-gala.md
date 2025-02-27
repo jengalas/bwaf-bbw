@@ -218,6 +218,9 @@ page_blocks:
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739905316/Screenshot_2025-02-18_at_2.01.39_PM.png
           - name:
             image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1740673253/Screenshot_2025-02-27_at_10.40.41_AM.png
+          - name:
+            image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739905514/Screenshot_2025-02-18_at_2.04.26_PM.png
           - name:
             image: >-
@@ -263,6 +266,9 @@ page_blocks:
           - name:
             image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738945999/KT_Logo_Black_HighResolution.png
+          - name:
+            image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1740673218/OMA_LOGO-TXT_BLACK_ON_WHITE.jpg
           - name:
             image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1740176049/S9_logo_BW.png
