@@ -247,6 +247,9 @@ page_blocks:
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1740757441/Bala_Black_Engineers_logo.png
           - name:
             image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741015980/Screenshot_2025-03-03_at_10.31.08_AM.png
+          - name:
+            image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739905218/CETRA_RUDDY_Logo.png
           - name:
             image: >-
@@ -296,9 +299,6 @@ page_blocks:
           - name:
             image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738769022/TYLin_Logo_Black.jpg
-          - name:
-            image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741015980/Screenshot_2025-03-03_at_10.31.08_AM.png
     section_break: true
   - template: slideshow-block
     button:
