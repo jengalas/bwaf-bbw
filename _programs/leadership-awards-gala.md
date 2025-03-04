@@ -289,6 +289,9 @@ page_blocks:
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739414268/NEW_LOGO_FINAL_ALL_BLACK.png
           - name:
             image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741103468/Screenshot_2025-03-04_at_10.49.53_AM.png
+          - name:
+            image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738945999/KT_Logo_Black_HighResolution.png
           - name:
             image: >-
@@ -311,9 +314,6 @@ page_blocks:
           - name:
             image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738769022/TYLin_Logo_Black.jpg
-          - name:
-            image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741103468/Screenshot_2025-03-04_at_10.49.53_AM.png
     section_break: true
   - template: slideshow-block
     button:
