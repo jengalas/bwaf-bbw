@@ -311,6 +311,9 @@ page_blocks:
           - name:
             image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738769022/TYLin_Logo_Black.jpg
+          - name:
+            image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741103468/Screenshot_2025-03-04_at_10.49.53_AM.png
     section_break: true
   - template: slideshow-block
     button:
