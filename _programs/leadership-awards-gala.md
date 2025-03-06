@@ -224,7 +224,7 @@ page_blocks:
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741298226/Screenshot_2025-03-06_at_4.56.36_PM.png
           - name:
             image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741103034/Screenshot_2025-03-04_at_10.43.34_AM.png
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741298338/Screenshot_2025-03-06_at_4.58.47_PM.png
           - name:
             image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739905514/Screenshot_2025-02-18_at_2.04.26_PM.png
