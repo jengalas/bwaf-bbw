@@ -250,7 +250,7 @@ page_blocks:
         sponsor:
           - name:
             image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741102858/Alloy_Logo__New_2017.png
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741294513/Alloy-Logo.png
           - name:
             image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739383098/Screenshot_2025-02-12_at_12.57.48_PM.png
