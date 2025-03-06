@@ -243,6 +243,9 @@ page_blocks:
           - name:
             image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1740091489/Screenshot_2025-02-20_at_4.28.25_PM.png
+          - name:
+            image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741292749/20250306_IgraceLogo_black_on_white_Builders_Advisors_3.jpg
       - category: Supporter
         sponsor:
           - name:
