@@ -221,7 +221,7 @@ page_blocks:
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1740673253/Screenshot_2025-02-27_at_10.40.41_AM.png
           - name:
             image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741292749/20250306_IgraceLogo_black_on_white_Builders_Advisors_3.jpg
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741298226/Screenshot_2025-03-06_at_4.56.36_PM.png
           - name:
             image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741103034/Screenshot_2025-03-04_at_10.43.34_AM.png
