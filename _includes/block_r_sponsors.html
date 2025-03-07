@@ -1,6 +1,6 @@
 <div class="text-block">
   {% for sp in block.sponsors %}
-    <p style="margin-bottom: .5em;"><strong>{{ sp.category }}</strong><br>
+    <p style="margin-bottom: .4rem;"><strong>{{ sp.category }}</strong>
       <div class="logos-block" style="margin-bottom: .6em; row-gap: 2em;">
         {% for item in sp.sponsor %}
           {% if item.image %}
@@ -9,7 +9,7 @@
         {% endfor %}
       </div>
     {% for item in sp.sponsor %}
-      {{item.name}}<br>
+      {{item.name}}
     {% endfor %}
     </p>
   {% endfor %}
