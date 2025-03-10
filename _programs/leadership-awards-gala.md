@@ -215,6 +215,9 @@ page_blocks:
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1740091465/Screenshot_2025-02-20_at_1.18.34_PM.png
           - name:
             image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741649339/Screenshot_2025-03-10_at_7.28.49_PM.png
+          - name:
+            image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739905316/Screenshot_2025-02-18_at_2.01.39_PM.png
           - name:
             image: >-
@@ -246,9 +249,6 @@ page_blocks:
           - name:
             image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1740091489/Screenshot_2025-02-20_at_4.28.25_PM.png
-          - name:
-            image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741649125/DeSimoneLogo_RGB_600px.jpg
       - category: Supporter
         sponsor:
           - name:
