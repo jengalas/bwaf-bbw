@@ -207,7 +207,7 @@ page_blocks:
         sponsor:
           - name:
             image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739224404/ramsa.png
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741727865/RAMSA_logo.jpg
       - category: Advocate
         sponsor:
           - name:
