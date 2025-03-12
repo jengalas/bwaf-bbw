@@ -304,6 +304,9 @@ page_blocks:
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741352575/BlackLogo.jpg
           - name:
             image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741802783/JFK_MConsultingGroupLogo_Highres.jpg
+          - name:
+            image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741352611/Screenshot_2025-02-20_at_4.24.30_PM.png
           - name:
             image: >-
