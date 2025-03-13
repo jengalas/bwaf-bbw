@@ -294,6 +294,9 @@ page_blocks:
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739905218/CETRA_RUDDY_Logo.png
           - name:
             image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741886835/Screenshot_2025-03-13_at_1.25.43_PM.png
+          - name:
+            image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1740777149/Clark_Construction_Group_-_BW_-_White_Text_Black_Box.png
           - name:
             image: >-
