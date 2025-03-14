@@ -285,6 +285,9 @@ page_blocks:
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739383098/Screenshot_2025-02-12_at_12.57.48_PM.png
           - name:
             image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741984151/AP_LogoLockup_lkcgw0.jpg
+          - name:
+            image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1740757441/Bala_Black_Engineers_logo.png
           - name:
             image: >-
@@ -370,9 +373,6 @@ page_blocks:
           - name:
             image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738769022/TYLin_Logo_Black.jpg
-          - name:
-            image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741984029/AP_LogoLockup.pdf
     section_break: true
   - template: slideshow-block
     button:
