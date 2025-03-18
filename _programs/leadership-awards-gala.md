@@ -324,6 +324,9 @@ page_blocks:
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738683166/Great_Ink_Logo_High_Res.png
           - name:
             image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1742311259/HH_lockup_with_CHOP_b_w.png
+          - name:
+            image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739224266/hatfield_group_logo.png
           - name:
             image: >-
