@@ -366,6 +366,9 @@ page_blocks:
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1740673218/OMA_LOGO-TXT_BLACK_ON_WHITE.jpg
           - name:
             image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1742400343/PE_Wordmark_01_Black_CMYK.jpg
+          - name:
+            image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1740176049/S9_logo_BW.png
           - name:
             image: >-
