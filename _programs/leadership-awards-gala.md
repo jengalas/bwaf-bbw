@@ -339,6 +339,9 @@ page_blocks:
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741103468/Screenshot_2025-03-04_at_10.49.53_AM.png
           - name:
             image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1742397680/Interface_Large_Black.interface.presentation..jpg
+          - name:
+            image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741352575/BlackLogo.jpg
           - name:
             image: >-
