@@ -223,7 +223,11 @@ page_blocks:
       - category: Leader
         sponsor:
           - name:
-            image: ''
+            image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739491143/related-companies-logo-vector_800px-sq.png
+          - name:
+            image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741893830/relatedross_logo.jpg
       - category: Visionary
         sponsor:
           - name:
@@ -261,12 +265,6 @@ page_blocks:
           - name:
             image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1740686150/marvel_wordmark-black.jpg
-          - name:
-            image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739491143/related-companies-logo-vector_800px-sq.png
-          - name:
-            image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741893830/relatedross_logo.jpg
           - name:
             image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741804203/Sciame_Logo_Black.png
