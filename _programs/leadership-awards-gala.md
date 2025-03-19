@@ -220,6 +220,10 @@ page_blocks:
           - name:
             image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1740085626/Screenshot_2025-02-20_at_4.06.52_PM.png
+      - category: Leader
+        sponsor:
+          - name:
+            image: ''
       - category: Visionary
         sponsor:
           - name:
