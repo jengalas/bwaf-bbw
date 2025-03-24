@@ -371,7 +371,7 @@ page_blocks:
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1742400343/PE_Wordmark_01_Black_CMYK.jpg
           - name:
             image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1742848504/Screenshot_2025-03-24_at_4.34.42_PM.png
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1742849047/PPM_RGB_Logo_with_Full_Name_Black.png
           - name:
             image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1740176049/S9_logo_BW.png
