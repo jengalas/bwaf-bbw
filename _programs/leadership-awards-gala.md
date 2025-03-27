@@ -323,6 +323,9 @@ page_blocks:
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741289650/Logo_Black_RGB_JPEG.jpg
           - name:
             image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1743088734/DS_R_logo_square.png
+          - name:
+            image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1743006120/EM_Logo_Blk.png
           - name:
             image: >-
