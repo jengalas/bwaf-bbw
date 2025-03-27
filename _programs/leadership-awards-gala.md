@@ -321,6 +321,9 @@ page_blocks:
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1743006120/EM_Logo_Blk.png
           - name:
             image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1743104796/empireoffice_logo-black_1.jpg
+          - name:
+            image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1743103886/Falk_logo_bk_NEW-3.png
           - name:
             image: >-
