@@ -40,18 +40,10 @@ page_blocks:
       honorees.
 
 
-      **Journal Ad Deadline<br><br>**Time is running out to **purchase your
-      journal ad** for the **2025 Bevy Leadership Awards**!
-
-
-      Journal placements for logos and ads are **limited** and must be secured
-      by **March 19.**
-
-
       **New! Emerging Firm and Emerging Leader Tickets<br>**<br>We’re pleased to
       offer a special benefit ticket price for Emerging Leaders and Emerging
       Firms. This is a unique opportunity for professionals of all levels to be
-      inspired and build relationships with their peers. Don't miss out on being
+      inspired and build relationships with their peers. Don’t miss out on being
       part of this transformative event!<br><br>**Secure your ticket today** and
       join us as we recognize leadership and innovation in the design and
       building industries.
