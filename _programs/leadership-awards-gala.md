@@ -392,7 +392,10 @@ page_blocks:
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741115454/SPI_Logo_black.png
           - name:
             image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739991467/Stawski_Partners_Logo_002.jpg
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1743091143/Screenshot_2025-02-20_at_1.13.29_PM.png
+          - name:
+            image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1743091106/SC_Logo_Black_L.jpg
           - name:
             image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1740176029/Studio_Gang_Wordmark_Black_CMYK.png
@@ -402,9 +405,6 @@ page_blocks:
           - name:
             image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1742403406/WeWork_Logo_Black.png
-          - name:
-            image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1743091106/SC_Logo_Black_L.jpg
     section_break: true
   - template: slideshow-block
     button:
