@@ -402,6 +402,9 @@ page_blocks:
           - name:
             image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1742403406/WeWork_Logo_Black.png
+          - name:
+            image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1743091106/SC_Logo_Black_L.jpg
     section_break: true
   - template: slideshow-block
     button:
