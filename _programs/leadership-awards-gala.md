@@ -137,7 +137,7 @@ page_blocks:
       - category: Leader
         amount: $50,000
         benefits: >-
-          * Customized event tickets package with specially designed table and
+          * Customized event tickets package with specially designated table and
           complimentary champagne.
 
           * Company name to be added to the donor wall. Contact info@bwaf.org
