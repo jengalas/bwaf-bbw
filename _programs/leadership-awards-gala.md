@@ -50,6 +50,16 @@ page_blocks:
 
 
       **Contact info@bwaf.org for sponsorship inquiries.**
+  - template: buttons-block
+    button:
+      - button_text: 'Buy Individual Tickets '
+        button_link: https://www.eventbrite.com/e/1236625673679?aff=oddtdtcreator
+      - button_text: 'Can''t Make the Event? Make a Donation '
+        button_link: https://bwaf.org/support
+      - button_text: 'Contact Us to Inquire '
+        button_link: mailto:info@bwaf.org?subject=&body=
+    section_break: false
+    include_left-hand_column_text_: false
   - template: portrait-gallery-template-add-category
     label: 2025 Honorees
     include_left-hand_column_text_: true
@@ -127,16 +137,6 @@ page_blocks:
         title_role: Principal, LANGAN
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738704764/michelle-oconnor-2.jpg
-  - template: buttons-block
-    button:
-      - button_text: 'Buy Individual Tickets '
-        button_link: https://www.eventbrite.com/e/1236625673679?aff=oddtdtcreator
-      - button_text: 'Can''t Make the Event? Make a Donation '
-        button_link: https://bwaf.org/support
-      - button_text: 'Contact Us to Inquire '
-        button_link: mailto:info@bwaf.org?subject=&body=
-    section_break: false
-    include_left-hand_column_text_: false
   - template: sponsor-block
     lefthand_text:
       header_type: Medium Header
