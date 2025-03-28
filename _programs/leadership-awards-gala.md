@@ -399,6 +399,9 @@ page_blocks:
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1740176029/Studio_Gang_Wordmark_Black_CMYK.png
           - name:
             image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1743194432/Trinity-Cerami-LL_Logo_Full_Color_B_W.png
+          - name:
+            image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738769022/TYLin_Logo_Black.jpg
           - name:
             image: >-
