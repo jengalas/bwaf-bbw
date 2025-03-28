@@ -49,7 +49,7 @@ page_blocks:
       building industries.
 
 
-      See below for ticket, honorees, and sponsorship information.
+      **Contact info@bwaf.org for sponsorship inquiries.**
   - template: portrait-gallery-template-add-category
     label: 2025 Honorees
     include_left-hand_column_text_: true
