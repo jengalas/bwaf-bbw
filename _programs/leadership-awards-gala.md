@@ -221,6 +221,9 @@ page_blocks:
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741984151/AP_LogoLockup_lkcgw0.jpg
           - name:
             image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1743434610/Atria_logo_418-1285x627-81b490d.jpg
+          - name:
+            image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1740757441/Bala_Black_Engineers_logo.png
           - name:
             image: >-
