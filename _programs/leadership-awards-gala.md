@@ -30,6 +30,13 @@ page_blocks:
       link_url: ''
       link_text: ''
     text_block: >-
+      **<u>Event Details</u>**
+
+
+      When: Thursday, April 3rd, 6-9pm<br>Where: The Shed in Hudson Yards, 545 W
+      30th St, New York, NY 10001<br>Attire: Creative Cocktail
+
+
       The Beverly Willis Architecture Foundation is delighted to invite you to
       our annual **Bevy Leadership Awards** on **April 3rd, 2025**, celebrating
       visionaries and leaders in the built environment.
@@ -49,7 +56,7 @@ page_blocks:
       building industries.
 
 
-      **Contact info@bwaf.org for sponsorship inquiries.**
+      &nbsp;
   - template: buttons-block
     button:
       - button_text: 'Buy Individual Tickets '
