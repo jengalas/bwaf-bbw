@@ -356,7 +356,7 @@ page_blocks:
             image: ''
           - name: Bungalow Projects |
             image: ''
-          - name: Captus Systems |
+          - name: Captus Systems LLC|
             image: ''
           - name: Hausman LLC |
             image: ''
