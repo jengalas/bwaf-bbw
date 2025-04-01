@@ -345,6 +345,24 @@ page_blocks:
           - name:
             image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1742403406/WeWork_Logo_Black.png
+      - category: Donors
+        sponsor:
+          - name: AKRF
+            image: ''
+          - name: Bungalow Projects
+            image: ''
+          - name: Captus Systems
+            image: ''
+          - name: Hausman LLC
+            image: ''
+          - name: JLL Capital Projects
+            image: ''
+          - name: New York Building Congress
+            image: ''
+          - name: Sabrina Kanner
+            image: ''
+          - name: Sage and Coombe Architects
+            image: ''
     section_break: true
   - template: slideshow-block
     button:
