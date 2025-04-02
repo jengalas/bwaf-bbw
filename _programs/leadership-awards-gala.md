@@ -226,9 +226,6 @@ page_blocks:
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741984151/AP_LogoLockup_lkcgw0.jpg
           - name:
             image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1743602154/Screenshot_2025-04-02_at_9.55.17_AM.png
-          - name:
-            image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1740757441/Bala_Black_Engineers_logo.png
           - name:
             image: >-
@@ -251,6 +248,9 @@ page_blocks:
           - name:
             image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738685378/Screenshot_2025-02-04_at_11.08.56_AM.png
+          - name:
+            image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1743602154/Screenshot_2025-04-02_at_9.55.17_AM.png
           - name:
             image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739378472/dattnerau.png
