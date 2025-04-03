@@ -31,8 +31,8 @@ page_blocks:
       link_text: ''
     text_block: >-
       **<u>Event Details<br /></u>**When: Thursday, April 3rd, 6-9pm<br>Where:
-      The Shed in Hudson Yards, 545 W 30th St, New York, NY 10001<br>Attire:
-      Creative Cocktail
+      The Shed, 11 Hudson Yards entrance via Hudson Yards public
+      plaza<br>Attire: Creative Cocktail
 
 
       The Beverly Willis Architecture Foundation is delighted to invite you to
