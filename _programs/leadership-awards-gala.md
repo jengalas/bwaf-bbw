@@ -43,28 +43,6 @@ page_blocks:
       This year, we are reimagining our celebration in a stunning venue, **The
       Shed**, where we will honor trailblazing women, including our 2025
       honorees.
-
-
-      **New! Emerging Firm and Emerging Leader Tickets<br>**<br>We’re pleased to
-      offer a special benefit ticket price for Emerging Leaders and Emerging
-      Firms. This is a unique opportunity for professionals of all levels to be
-      inspired and build relationships with their peers. Don’t miss out on being
-      part of this transformative event!<br><br>**Secure your ticket today** and
-      join us as we recognize leadership and innovation in the design and
-      building industries.
-
-
-      &nbsp;
-  - template: buttons-block
-    button:
-      - button_text: 'Buy Individual Tickets '
-        button_link: https://www.eventbrite.com/e/1236625673679?aff=oddtdtcreator
-      - button_text: 'Can''t Make the Event? Make a Donation '
-        button_link: https://bwaf.org/support
-      - button_text: 'Contact Us to Inquire '
-        button_link: mailto:info@bwaf.org?subject=&body=
-    section_break: false
-    include_left-hand_column_text_: false
   - template: portrait-gallery-template-add-category
     label: 2025 Honorees
     include_left-hand_column_text_: true
@@ -418,7 +396,7 @@ page_blocks:
       - image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189705/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-194.jpg
         caption: 2023 BEVY Awards Gala
-    automatic: false
+    automatic: true
 date: 2021-05-05 13:32:44
 description: >-
   Beverly Willis Architecture Foundation brings attention to the work of
