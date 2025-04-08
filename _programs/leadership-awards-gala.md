@@ -31,8 +31,7 @@ page_blocks:
       link_text: ''
     text_block: >-
       **<u>Event Details<br /></u>**When: Thursday, April 3rd, 6-9pm<br>Where:
-      The Shed, 11 Hudson Yards entrance via Hudson Yards public
-      plaza<br>Attire: Creative Cocktail
+      The Shed in Hudson Yards<br>Attire: Creative Cocktail
 
 
       On behalf of the Beverly Willis Architecture Foundation, we extend our
