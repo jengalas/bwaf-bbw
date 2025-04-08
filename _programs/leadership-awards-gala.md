@@ -48,7 +48,7 @@ page_blocks:
       architecture, design, and construction.
 
 
-      Check out some of the night’s special moments[linked
+      Check out some of the night’s special moments [linked
       here.](https://photosbysamuel.passgallery.com/-bevyleadershipawards2025/gallery)
       Photography courtesy of Samuel Lahoz.
 
