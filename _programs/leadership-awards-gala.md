@@ -35,14 +35,26 @@ page_blocks:
       plaza<br>Attire: Creative Cocktail
 
 
-      The Beverly Willis Architecture Foundation is delighted to invite you to
-      our annual **Bevy Leadership Awards** on **April 3rd, 2025**, celebrating
-      visionaries and leaders in the built environment.
+      On behalf of the Beverly Willis Architecture Foundation, we extend our
+      heartfelt thanks for joining us at the **2025 Bevy Leadership Awards
+      Celebration**! Your presence helped make this event a truly inspiring
+      evening as we honored trailblazing leaders who are shaping the future of
+      architecture and design.
 
 
-      This year, we are reimagining our celebration in a stunning venue, **The
-      Shed**, where we will honor trailblazing women, including our 2025
-      honorees.
+      We hope you left feeling as inspired as we did by the remarkable
+      achievements of our honorees and the collective impact of our community.
+      Your support and engagement are what make events like this possible, and
+      we are grateful for your commitment to advancing equity and leadership in
+      architecture, design, and construction.
+
+
+      Check out some of the night’s special moments[linked
+      here.](https://photosbysamuel.passgallery.com/-bevyleadershipawards2025/gallery)
+      Photography courtesy of Samuel Lahoz.
+
+
+      <br>
   - template: portrait-gallery-template-add-category
     label: 2025 Honorees
     include_left-hand_column_text_: true
