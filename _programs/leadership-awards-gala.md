@@ -372,42 +372,45 @@ page_blocks:
       link_text: ''
     image:
       - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189691/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-29.jpg
-        caption: 2023 BEVY Awards Gala
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744213921/1468_SLC03698.jpg
+        caption: '2025 Bevy Leadership Awards '
       - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189697/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-92.jpg
-        caption: 2023 BEVY Awards Gala
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744214004/1170_SL204034.jpg
+        caption: '2025 Bevy Leadership Awards '
       - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189619/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-89.jpg
-        caption: 2023 BEVY Awards Gala
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744213962/1132_SL203830.jpg
+        caption: '2025 Bevy Leadership Awards '
       - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736190160/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-174_hjq5jf.jpg
-        caption: 2023 BEVY Awards Gala
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744214064/1221_SL204080_ffloa7.jpg
+        caption: '2025 Bevy Leadership Awards '
       - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189696/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-87.jpg
-        caption: 2023 BEVY Awards Gala
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744214063/1237_SL204100_hetfaf.jpg
+        caption: '2025 Bevy Leadership Awards '
       - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736190158/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-166_yuvsig.jpg
-        caption: 2023 BEVY Awards Gala
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744214064/1273_SL204183_fecy8i.jpg
+        caption: '2025 Bevy Leadership Awards '
       - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189698/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-103.jpg
-        caption: 2023 BEVY Awards Gala
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744214063/1291_SL204215_jn5plx.jpg
+        caption: '2025 Bevy Leadership Awards '
       - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189704/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-122.jpg
-        caption: 2023 BEVY Awards Gala
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744214067/1358_SL204306_qtue4g.jpg
+        caption: '2025 Bevy Leadership Awards '
       - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189700/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-118.jpg
-        caption: 2023 BEVY Awards Gala
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744214069/1375_SLC03652_ph7ux5.jpg
+        caption: '2025 Bevy Leadership Awards '
       - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736190582/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-156.jpg
-        caption: 2023 BEVY Awards Gala
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744214073/1458_SL204548_ufdf3f.jpg
+        caption: '2025 Bevy Leadership Awards '
       - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189702/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-137.jpg
-        caption: 2023 BEVY Awards Gala
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744214057/1097_SLC03575_au8hzw.jpg
+        caption: '2025 Bevy Leadership Awards '
       - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1736189705/BWAF_Gala_2023_Bryant_Park_Grill_November_2023-194.jpg
-        caption: 2023 BEVY Awards Gala
-    automatic: true
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744214081/1576_SLC03828_kit3or.jpg
+        caption: '2025 Bevy Leadership Awards '
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744213984/1107_SLC03437.jpg
+        caption: '2025 Bevy Leadership Awards '
+    automatic: false
 date: 2021-05-05 13:32:44
 description: >-
   Beverly Willis Architecture Foundation brings attention to the work of
