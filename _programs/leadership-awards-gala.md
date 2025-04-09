@@ -98,7 +98,7 @@ page_blocks:
         caption: '2025 Bevy Leadership Awards '
       - image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744216387/1445_SLC03673.jpg
-        caption: ''
+        caption: '2025 Bevy Leadership Awards '
       - image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744213984/1107_SLC03437.jpg
         caption: '2025 Bevy Leadership Awards '
