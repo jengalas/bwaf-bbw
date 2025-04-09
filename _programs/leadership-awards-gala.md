@@ -64,10 +64,13 @@ page_blocks:
       link_text: ''
     image:
       - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744213921/1468_SLC03698.jpg
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744216167/1477_SLC03708.jpg
         caption: '2025 Bevy Leadership Awards '
       - image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744214004/1170_SL204034.jpg
+        caption: '2025 Bevy Leadership Awards '
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744216331/1165_SL204028.jpg
         caption: '2025 Bevy Leadership Awards '
       - image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744213962/1132_SL203830.jpg
@@ -85,20 +88,17 @@ page_blocks:
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744214063/1291_SL204215_jn5plx.jpg
         caption: '2025 Bevy Leadership Awards '
       - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744216309/1298_SLC03618.jpg
+        caption: '2025 Bevy Leadership Awards '
+      - image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744214067/1358_SL204306_qtue4g.jpg
         caption: '2025 Bevy Leadership Awards '
       - image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744214069/1375_SLC03652_ph7ux5.jpg
         caption: '2025 Bevy Leadership Awards '
       - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744214073/1458_SL204548_ufdf3f.jpg
-        caption: '2025 Bevy Leadership Awards '
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744214057/1097_SLC03575_au8hzw.jpg
-        caption: '2025 Bevy Leadership Awards '
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744214081/1576_SLC03828_kit3or.jpg
-        caption: '2025 Bevy Leadership Awards '
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744216387/1445_SLC03673.jpg
+        caption: ''
       - image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744213984/1107_SLC03437.jpg
         caption: '2025 Bevy Leadership Awards '
