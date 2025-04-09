@@ -30,10 +30,6 @@ page_blocks:
       link_url: ''
       link_text: ''
     text_block: >-
-      **<u>Event Details<br /></u>**When: Thursday, April 3rd, 6-9pm<br>Where:
-      The Shed in Hudson Yards<br>Attire: Creative Cocktail
-
-
       On behalf of the Beverly Willis Architecture Foundation, we extend our
       heartfelt thanks for joining us at the **2025 Bevy Leadership Awards
       Celebration**! Your presence helped make this event a truly inspiring
