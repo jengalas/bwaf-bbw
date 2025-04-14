@@ -183,21 +183,6 @@ page_blocks:
           Committee.
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1643045203/Annya_Headshot-min_qm0qnb.jpg
-      - title: Barbara Wilks, FAIA, FASLA
-        title_role: Trustee
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1706734242/wilks-headshot.jpg
-        description: >-
-          Barbara Wilks, FAIA, FASLA, is a leader in the design of urban,
-          public, and institutional projects. With more than 40 years of
-          combined experience practicing both architecture and landscape
-          architecture, she is a passionate advocate for reconnecting our urban
-          spaces to nature and provides a distinctive
-
-          perspective and ability to unify spaces and connect communities. “Seen
-          as a whole, we can no longer distinguish ‘Nature’ as a place apart or
-          separate from human endeavor and habitation. We are immersed in and
-          shaped by it. Embracing this is essential to how we live and design.”
       - title: Bolanle Williams-Olley
         title_role: Trustee
         image: >-
