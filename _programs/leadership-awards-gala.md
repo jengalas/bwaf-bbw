@@ -44,12 +44,17 @@ page_blocks:
       architecture, design, and construction.
 
 
-      Check out some of the night’s special moments [linked
-      here.](https://photosbysamuel.passgallery.com/rxrLaPVv4zpTt) Photography
-      courtesy of Samuel Lahoz.
+      Check out some of the night’s special moments in the gallery below.
+      Photography courtesy of Samuel Lahoz.
 
 
       <br>
+  - template: buttons-block
+    button:
+      - button_text: Photo Gallery
+        button_link: https://photosbysamuel.passgallery.com/rxrLaPVv4zpTt
+    section_break: false
+    include_left-hand_column_text_: false
   - template: slideshow-block
     button:
       - button_text:
