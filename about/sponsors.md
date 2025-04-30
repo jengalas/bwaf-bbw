@@ -28,16 +28,16 @@ friends:
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1621379491/cc_identity_logo_black_nnig5h.jpg
   - name:
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1680026853/8_2_17_member_dci_engineers.webp
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1746038218/Screenshot_2025-04-30_at_2.36.45_PM.png
   - name:
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739546966/Gilbane_Building_Company_Logo.jpg
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1746038159/Screenshot_2025-04-30_at_2.35.45_PM.png
   - image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1621379339/LanganBlackCMYK-print_ic5idu.jpg
     name:
   - name:
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1746028238/7829.jpg
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1746038085/Screenshot_2025-04-30_at_2.34.33_PM.png
   - name:
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741727865/RAMSA_logo.jpg
@@ -46,7 +46,7 @@ friends:
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739491143/related-companies-logo-vector_800px-sq.png
   - name:
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1668537580/steinbergLogoFinal_rog4vj.png
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1746038037/c174b70fe2ec4728804a112269d03528.jpg
   - name:
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1737833026/Thornton-Thomasetti-logo-black-stacked.jpg
