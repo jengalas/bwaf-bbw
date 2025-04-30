@@ -11,8 +11,14 @@ supporters-header: ''
 supporters:
   - name: Brookfield Properties
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1620155874/B-prop_id_rgb_q198gs.jpg
-friends-header: 'Corporate Sponsors: Friends'
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1740085626/Screenshot_2025-02-20_at_4.06.52_PM.png
+  - name: ''
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739491143/related-companies-logo-vector_800px-sq.png
+  - name: ''
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741893830/relatedross_logo.jpg
+friends-header: Friends
 friends:
   - name:
     image: >-
@@ -47,10 +53,6 @@ friends:
 sponsors:
   - sponsors-header: Bevy Leadership Awards 2025 Sponsors
     sponsors:
-      - amt: Leader
-        sponsors:
-          - 'Related '
-          - Related Ross
       - amt: Visionary
         sponsors:
           - 'Robert A.M Stern Architects '
