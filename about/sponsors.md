@@ -214,6 +214,4 @@ _inputs:
     </div>
 </div>
 
-<div class="hr"></div>
-
 {% include prefooter.html %}
