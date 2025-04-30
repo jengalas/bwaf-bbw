@@ -14,15 +14,36 @@ supporters:
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1620155874/B-prop_id_rgb_q198gs.jpg
 friends-header: 'Corporate Sponsors: Friends'
 friends:
-  - image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1621379339/LanganBlackCMYK-print_ic5idu.jpg
-    name: Langan Engineering
-  - image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1621379372/Arup_Logo_2011_Black_CMYK_-_revised_bevczb.jpg
-    name: Arup
+  - name:
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741294513/Alloy-Logo.png
   - name: Cooper Carry
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1621379491/cc_identity_logo_black_nnig5h.jpg
+  - name:
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1680026853/8_2_17_member_dci_engineers.webp
+  - name:
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739546966/Gilbane_Building_Company_Logo.jpg
+  - image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1621379339/LanganBlackCMYK-print_ic5idu.jpg
+    name:
+  - name:
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1746028238/7829.jpg
+  - name:
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741727865/RAMSA_logo.jpg
+  - name:
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739491143/related-companies-logo-vector_800px-sq.png
+  - name:
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1668537580/steinbergLogoFinal_rog4vj.png
+  - name:
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1737833026/Thornton-Thomasetti-logo-black-stacked.jpg
 sponsors:
   - sponsors-header: Bevy Leadership Awards 2025 Sponsors
     sponsors:
@@ -127,20 +148,11 @@ pioneering-women:
     Office; Christina Davis; Leers Weinzapfel Associates; Ronald Evitts
     Architect LLC; LandDesign, Inc. and Madlen Simon; Susan T. Rodriguez
     Architecture; Kristi Ambrosetti.
-previous-years-header: Additional Programming Support is Generously Provided By
+previous-years-header:
 previous-years:
-  - image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1629124128/Screen_Shot_2021-08-16_at_10.04.59_AM_eavjeu.png
-    name: Brookfield Properties
-  - name: Thornton Tomasetti
-    image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1628099307/TT_Logo_sfrylo.jpg
   - name: New York Building Foundation
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1621379817/nybf-logo-450x450_kyhv9k.png
-  - image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1621452344/Screen_Shot_2021-05-19_at_3.25.29_PM_i4nbyo.png
-    name: Harry T Wilks Family Foundation
 _inputs:
   supporters-header:
     hidden: true
@@ -155,6 +167,7 @@ _inputs:
         <p>{{page.description}}</p>
     </div>
 </div>
+
 {% for sponsorsgroup in page.sponsors %}
 <div class="main-two-up">
     <div>
@@ -185,7 +198,9 @@ _inputs:
     </div>
 </div>
 {% endfor %}
+
 <div class="hr"></div>
+
 <div class="main-two-up">
     <div>
         <h2><b>{{page.friends-header}}</b></h2>
@@ -196,7 +211,9 @@ _inputs:
         {% endfor %}
     </div>
 </div>
+
 <div class="hr"></div>
+
 <div class="main-two-up">
     <div>
       <h2><b>Sponsors: <a href="https://pioneeringwomen.bwaf.org/" target="_blank">Pioneering Women of American Architecture</a></b></h2>
@@ -231,10 +248,12 @@ _inputs:
                   </div>
               </li>
           </ul>
-          <br>
+          <br />
     </div>
 </div>
+
 <div class="hr"></div>
+
 <div class="main-two-up">
     <div>
         <h2><b>{{page.previous-years-header}}</b></h2>
@@ -245,4 +264,5 @@ _inputs:
         {% endfor %}
     </div>
 </div>
+
 {% include prefooter.html %}
