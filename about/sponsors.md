@@ -87,7 +87,7 @@ sponsors:
           - Clark Construction
           - Consigli
           - 'Coterie | Atria Senior Living '
-          - 'Dater Architects '
+          - 'Dattner Architects '
           - DLR Group
           - Diller Scofidio + Renfro
           - 'Elkus Manfredi Architects '
