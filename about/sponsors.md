@@ -150,9 +150,9 @@ pioneering-women:
     Architecture; Kristi Ambrosetti.
 previous-years-header:
 previous-years:
-  - name: New York Building Foundation
+  - name:
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1621379817/nybf-logo-450x450_kyhv9k.png
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1746028613/BWAF_logo_one-color_black.png
 _inputs:
   supporters-header:
     hidden: true
