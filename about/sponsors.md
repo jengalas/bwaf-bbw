@@ -205,7 +205,7 @@ _inputs:
 
 <div class="main-two-up">
     <div>
-        <h2><b>{{page.friends-header}}</b></h2>
+        <h2 class="h3"><b>{{page.friends-header}}</b></h2>
     </div>
     <div class="logos-block">
         {% for friend in page.friends %}
