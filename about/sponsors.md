@@ -141,6 +141,8 @@ friends-level:
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1737833026/Thornton-Thomasetti-logo-black-stacked.jpg           
 _inputs:
+  friends-level:
+    label: Friends
 
 ---
 <!-- TODO: Figure out how to add links to images here that will work with CloudCannon -->
