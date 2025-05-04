@@ -7,12 +7,15 @@ description: >-
   Beverly Willis Architecture Foundation would not exist without the financial
   support and generosity of our supporters. We give our deepest gratitude to all
   the supporters listed on this page.
+benefactor-level:
+  - benefactors-header: Benefactor
+    benefactors:
+      - name: Brookfield Properties
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1740085626/Screenshot_2025-02-20_at_4.06.52_PM.png  
 leader-level:
   - leaders-header: Leader
     leaders:
-      - name: Brookfield Properties
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1740085626/Screenshot_2025-02-20_at_4.06.52_PM.png
       - name: Related
         image:  >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739491143/related-companies-logo-vector_800px-sq.png 
@@ -157,6 +160,13 @@ _inputs:
       <h2 class="h3"><b>{{sponsorsgroup.sponsors-header}}</b></h2>
   </div>
   <div>
+    <p style="margin-bottom: -2rem;"><strong>{{ page.benefactor-level[0].benefactors-header }}</strong></p>
+    <div class="logos-block" style="margin-bottom: 2rem;">  
+      {% for benefactor in page.benefactor-level[0].benefactors %}
+      <div><img src="{{benefactor.image | replace: 'https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload', 'https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/w_200'}}" alt="{{benefactor.name}}"></div>
+      {% endfor %}
+      <br><br><br><br>
+    </div>
     <p style="margin-bottom: -2rem;"><strong>{{ page.leader-level[0].leaders-header }}</strong></p>
     <div class="logos-block" style="margin-bottom: 2rem;">  
       {% for leader in page.leader-level[0].leaders %}
