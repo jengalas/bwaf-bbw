@@ -130,31 +130,6 @@ sponsors:
           - 'Sabrina Kanner '
           - 'Sage and Coombe Architects '
           - Sandra Joslyn
-pioneering-women:
-  header: ''
-  sponsors-groups:
-    - amt: Significant Support from
-      sponsors:
-        - Art Works, a grants program of the National Endowment of the Arts
-        - The American Institute of Architects
-        - Beyond The Built Environment LLC
-  additional-supporters: >-
-    Claire Weisz; Erleen Hatfield; Forest City Realty Trust; Jacquiline Zehner;
-    Jane Chmielinski; John Carey; Leers Weinzapfel Associates; Marion White;
-    Mary-Jean Eastman; Nancy Alexander; Roger Williams University; Ronette
-    Riley; Susan Mitchell-Ketzes; Susan Rodriguez; Wanda Bubriski; Jill Lerner,
-    FAIA; Renee Charles; Kelly Hayes McAlonie, AIA; Sanders Pace Architecture;
-    The University of Tennessee College of Architecture and Design; Women of
-    FXFOWLE; Marilyn Jordan Taylor, FAIA; Marion Weiss, FAIA; Despina
-    Stratigakos; Jennifer Sage, FAIA; Sara Caples, AIA; Architecture Research
-    Office; Christina Davis; Leers Weinzapfel Associates; Ronald Evitts
-    Architect LLC; LandDesign, Inc. and Madlen Simon; Susan T. Rodriguez
-    Architecture; Kristi Ambrosetti.
-previous-years-header:
-previous-years:
-  - name:
-    image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1746028613/BWAF_logo_one-color_black.png
 _inputs:
   supporters-header:
     hidden: true
