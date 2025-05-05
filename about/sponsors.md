@@ -162,21 +162,21 @@ _inputs:
       <h2 class="h3"><b>{{sponsorsgroup.sponsors-header}}</b></h2>
   </div>
   <div>
-    <p style="margin-bottom: -2rem;"><strong>{{ page.benefactor-level[0].benefactors-header }}</strong></p>
+    <p style="margin-bottom: .9rem;"><strong>{{ page.benefactor-level[0].benefactors-header }}</strong></p>
     <div class="logos-block" style="margin-bottom: 2rem;">  
       {% for benefactor in page.benefactor-level[0].benefactors %}
       <div><img src="{{benefactor.image | replace: 'https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload', 'https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/w_200'}}" alt="{{benefactor.name}}"></div>
       {% endfor %}
       <br><br><br><br>
     </div>
-    <p style="margin-bottom: -2rem;"><strong>{{ page.leader-level[0].leaders-header }}</strong></p>
+    <p style="margin-bottom: -1rem;"><strong>{{ page.leader-level[0].leaders-header }}</strong></p>
     <div class="logos-block" style="margin-bottom: 2rem;">  
       {% for leader in page.leader-level[0].leaders %}
       <div><img src="{{leader.image | replace: 'https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload', 'https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/w_200'}}" alt="{{leader.name}}"></div>
       {% endfor %}
       <br><br><br><br>
     </div>
-    <p style="margin-bottom: -2rem;"><strong>{{ page.visionary-level[0].visionaries-header }}</strong></p>
+    <p style="margin-bottom: -1rem;"><strong>{{ page.visionary-level[0].visionaries-header }}</strong></p>
     <div class="logos-block" style="margin-bottom: 2rem;">  
       {% for visionary in page.visionary-level[0].visionaries %}
       <div><img src="{{visionary.image | replace: 'https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload', 'https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/w_200'}}" alt="{{visionary.name}}"></div>
