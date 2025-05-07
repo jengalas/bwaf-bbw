@@ -64,7 +64,7 @@ page_blocks:
     label: Image Block
     include_left-hand_column_text_: true
     lefthand_text:
-      header_type: ''
+      header_type: Financial Transparency
       text:
       download: ''
       link_url: >-
