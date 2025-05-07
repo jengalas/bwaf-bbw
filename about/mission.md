@@ -64,9 +64,10 @@ page_blocks:
     label: Image Block
     include_left-hand_column_text_: true
     lefthand_text:
-      header_type: Financial Transparency
-      text:
-      download: ''
+      header_type: Text with Download
+      text: Financial Transparency
+      download: >-
+        https://www.dropbox.com/scl/fi/r9tifix5n9rnnsvep4pnf/FY23-FORM-990-AMENDED-WITH-SCHEDULE-B-2.PDF?rlkey=cree7tc6i2eydhen4rxb5pzzd&st=r1hby6om&dl=0
       link_url: >-
         https://www.dropbox.com/scl/fi/r9tifix5n9rnnsvep4pnf/FY23-FORM-990-AMENDED-WITH-SCHEDULE-B-2.PDF?rlkey=cree7tc6i2eydhen4rxb5pzzd&st=r1hby6om&dl=0
       link_text: Form 990
