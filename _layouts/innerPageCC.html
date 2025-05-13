@@ -228,67 +228,6 @@
     <script src="/assets/js/form.js"></script>
 {% endif %}
 
-{% if page.title == "Friends" %}
-<div class="hr"></div>
-<div class="main-two-up">
-        <div>
-            <h2 class="h3"><b>Become a Friend</b></h2>
-        </div>
-        <div class="donation-block">
-            <div class="donation-block-inner pink">
-                <div>
-                    <h2><b>Select a membership</b></h2>
-                    <div class="sponsorship-buttons">
-                        <label>
-                            <span>Early Professional</span>
-                            <span>$250</span>
-                            <input type="radio" name="sponsorship-type" value="250">
-                        </label>
-                        <label>
-                            <span>Professional</span>
-                            <span>$500</span>
-                            <input type="radio" name="sponsorship-type" value="500">
-                        </label>
-                        <label>
-                            <span>Corporate Friendship</span>
-                            <span>$5,000</span>
-                            <input type="radio" name="sponsorship-type" value="5000">
-                        </label>
-                    </div>
-                </div>
-                <div>
-                    <h2><b>Select payment method</b></h2>
-                    <div class="payment-buttons">
-                        <button class="h2 active" id="btnPaypal"><b>PayPal</b></button>
-                        <button class="h2" id="btnPayByCheck"><b>Check</b></button>
-                    </div>
-                </div>
-                <div id="view-paypal">
-                    <h2><b>Enter your information</b></h2>
-                    <label for="firstname">First name</label>
-                    <input type="text" name="firstname" id="firstname" placeholder="First name"><br>
-                    <label for="lastname">Last name</label>
-                    <input type="text" name="lastname" id="lastname" placeholder="Last name"><br>
-                    <label for="emailaddress">Email address</label>
-                    <input type="text" name="emailaddress" id="emailaddress" placeholder="Email address"><br>
-                    <button id="donate-form--donate-btn"><span class="h2"><b>Donate Now</b></span></button>
-                </div>
-                <div id="view-pay-by-check">
-                    <h2>Please make your check payable to:<br><b>Beverly Willis Architecture Foundation</b></h2>
-                    
-                    <h2>Please mail your check to:
-                        <br><b>Beverly Willis Architecture Foundation</b>
-                        <br><b>141 West Broadway<br>New York, NY 10013</b>
-                    </h2>
-                    <figcaption>All contributions will be gratefully acknowledged and are 100% tax deductible.</figcaption>
-                </div>
-            </div>
-        </div>
-    </div>
-    <script src="/assets/js/form.js"></script>
-{% endif %}
-
-
 {% include prefooter.html %}
 
 {% include foot.html %}

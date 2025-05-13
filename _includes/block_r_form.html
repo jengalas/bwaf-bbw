@@ -1,0 +1,84 @@
+<div class="text-block">
+  {{block.text_block | markdownify}}
+  <div class="donation-block">
+    <div class="donation-block-inner pink">
+      <form name="friends-registration" action="/registration-success" netlify method="POST" class="form"
+        netlify-honeypot="more-info" data-netlify="true">
+        <div>
+          <h2><b>Select your desired Annual Friends Membership level:</b></h2>
+          <div class="sponsorship-buttons">
+            <label>
+              <span class="friends-level">Early Professional<br><span class="friends-level-subtext">up to ten years of professional experience</span></span>
+              <span>$250</span>
+              <input type="radio" name="sponsorship-type" value="Early Professional - $250">
+            </label>
+            <label>
+              <span class="friends-level">Professional<br><span class="friends-level-subtext">ten+ years of professional experience</span></span>
+              <span>$500</span>
+              <input type="radio" name="sponsorship-type" value="Professional - $500">
+            </label>
+            <label>
+              <span class="friends-level">Corporate Friendship<br><span class="friends-level-subtext">allows for up 4 participants per event</span></span>
+              <span>$5,000</span>
+              <input type="radio" name="sponsorship-type" value="Corporate - $5000">
+            </label>
+          </div>
+        </div>
+        <h2><b>Contact #1</b></h2>
+        <div class="form-group name1">
+          <label for="name1" class="form-label">Name</label>
+          <input type="text" class="form-control" id="name1" name="name1" tabindex="1" placeholder="Name" required>
+        </div>
+        <div class="form-group title1">
+          <label for="title1" class="form-label">Title</label>
+          <input type="text" class="form-control" id="title1" name="title1" tabindex="2" placeholder="Title" required>
+        </div>
+        <div class="form-group firm1">
+          <label for="firm1" class="form-label">Firm Name</label>
+          <input type="text" class="form-control" id="firm1" name="firm1" tabindex="3" placeholder="Firm name" required>
+        </div>
+        <div class="form-group email1">
+          <label for="email1" class="form-label">Email</label>
+          <input type="email" class="form-control" id="email1" name="email1" tabindex="4" placeholder="Email address" required>
+        </div>
+        <div class="form-group mailing1">
+          <label for="mailing1" class="form-label">Mailing Address</label>
+          <input type="text" class="form-control" id="mailing1" name="mailing1" tabindex="5" placeholder="Mailing address" required>
+        </div>
+        <h2><b>Contact #2 (optional)</b></h2>
+        <div class="form-group name2">
+          <label for="name2" class="form-label">Name 2</label>
+          <input type="text" class="form-control" id="name2" name="name2" tabindex="6" placeholder="Name">
+        </div>
+        <div class="form-group title2">
+          <label for="title2" class="form-label">Title 2</label>
+          <input type="text" class="form-control" id="title2" name="title2" tabindex="7" placeholder="Title">
+        </div>
+        <div class="form-group firm2">
+          <label for="firm2" class="form-label">Firm Name 2</label>
+          <input type="text" class="form-control" id="firm2" name="firm2" tabindex="8" placeholder="Firm name">
+        </div>
+        <div class="form-group email2">
+          <label for="email2" class="form-label">Email 2</label>
+          <input type="email" class="form-control" id="email2" name="email2" tabindex="9" placeholder="Email address">
+        </div>
+        <div class="form-group mailing2">
+          <label for="mailing2" class="form-label">Mailing Address 2</label>
+          <input type="text" class="form-control" id="mailing2" name="mailing2" tabindex="10" placeholder="Mailing address">
+        </div>
+        <h2><b>Comments/questions</b></h2>
+        <div class="form-group comment">
+          <label for="comment" class="form-label textarea">Comment</label>
+          <textarea id="comment" name="comment" class="form-control" tabindex="11"></textarea>
+        </div>
+        <button type="submit" id="donate-form--donate-btn">Submit</button>
+        <p class="hidden">
+          <label>
+            Don’t fill this out if you’re human: <input name="more-info" />
+          </label>
+        </p>
+      </form>
+    </div>
+  </div>
+</div>
+<script src="/assets/js/friends-form.js"></script>

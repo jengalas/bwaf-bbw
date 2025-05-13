@@ -1115,6 +1115,15 @@ figcaption, .smallest{
         color:var(--dark);
         font-family:'GT America', sans-serif;
     }
+    textarea {
+      border:5px solid var(--red);
+      font-family: 'GT America', sans-serif;
+      font-size:24px;
+      height: 10rem;
+      outline:none;
+      width: 100%;
+      max-width: 100%;
+    }
     button#donate-form--donate-btn, input[type="submit"]{
         background:var(--red);
         color:white;
@@ -1126,6 +1135,13 @@ figcaption, .smallest{
         line-height: 34px;
         font-weight:bold;
         margin-top:100px;
+    }
+    .friends-level {
+      text-align: left;
+    }
+    .friends-level-subtext {
+      font-size: 1.1rem;
+      color: #737373;
     }
 }
 .newsletter-block-inner{

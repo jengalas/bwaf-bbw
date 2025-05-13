@@ -1,5 +1,5 @@
 ---
-layout: innerPageCC
+layout: innerPageCCFriends
 navCategory: Programs
 title: Friends
 permalink: /programs/friends
@@ -81,6 +81,22 @@ page_blocks:
         button_link: https://buy.stripe.com/14k9B19sibqra76aEM
     section_break: false
     include_left-hand_column_text_: false
+  - template: form-block
+    text_block: >-
+      <p>Thank you for your interest in joining The Friends of BWAF program!
+      Please complete the below fields to begin your registration for 2025-2026.
+      Once your request is processed, you will receive an invoice, a Friends
+      Welcome letter, and be subscribed to receive bi-weekly newsletters about
+      upcoming events/programs.</p>
+    label: Membership Form
+    section_break: false
+    include_left-hand_column_text_: true
+    lefthand_text:
+      header_type: Medium Header
+      text: Become a Friend
+      download: ''
+      link_url: ''
+      link_text: ''    
   - template: portrait-gallery-block-small
     label: Friends Image/Logo Gallery
     header: 2024-2025 Corporate Friends
@@ -199,6 +215,22 @@ _structures:
           alt_text:
           section_break: false
           include_left-hand_column_text_: false
+      - label: Form Block
+        preview:
+          text:
+          subtext:
+          icon:
+        value:
+          template: form-block
+          text_block:
+        _inputs:
+          text_block:
+            type: html
+            label: Intro Text
+          label:
+            hidden: true
+          icon:
+            hidden: false          
       - label: Slideshow
         preview:
           text: Slideshow
