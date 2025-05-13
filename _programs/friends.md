@@ -71,16 +71,6 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-  - template: buttons-block
-    button:
-      - button_text: Become a Corporate Friend
-        button_link: https://buy.stripe.com/eVa7sTawm8ef7YY8wC
-      - button_text: Become a Professional Friend
-        button_link: https://buy.stripe.com/dR600r1ZQ2TV0ww4gn
-      - button_text: Become an Early Professional Friend
-        button_link: https://buy.stripe.com/14k9B19sibqra76aEM
-    section_break: false
-    include_left-hand_column_text_: false
   - template: form-block
     text_block: >-
       <p>Thank you for your interest in joining The Friends of BWAF program!
@@ -96,7 +86,7 @@ page_blocks:
       text: Become a Friend
       download: ''
       link_url: ''
-      link_text: ''    
+      link_text: ''
   - template: portrait-gallery-block-small
     label: Friends Image/Logo Gallery
     header: 2024-2025 Corporate Friends
@@ -230,7 +220,7 @@ _structures:
           label:
             hidden: true
           icon:
-            hidden: false          
+            hidden: false
       - label: Slideshow
         preview:
           text: Slideshow
