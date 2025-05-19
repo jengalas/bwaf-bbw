@@ -17,7 +17,7 @@ leader-level:
   - leaders-header: Leader
     leaders:
       - name: Related
-        image:  >-
+        image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739491143/related-companies-logo-vector_800px-sq.png 
       - name: Related Ross
         image: >-
@@ -121,6 +121,9 @@ friends-level:
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1746038218/Screenshot_2025-04-30_at_2.36.45_PM.png
       - name:
         image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1747663993/DOWBUILT_LOGO_BWv01.png
+      - name:
+        image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1746038159/Screenshot_2025-04-30_at_2.35.45_PM.png
       - image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1621379339/LanganBlackCMYK-print_ic5idu.jpg
@@ -143,7 +146,6 @@ friends-level:
 _inputs:
   friends-level:
     label: Friends
-
 ---
 <!-- TODO: Figure out how to add links to images here that will work with CloudCannon -->
 
@@ -163,21 +165,21 @@ _inputs:
   </div>
   <div>
     <p style="margin-bottom: .9rem;"><strong>{{ page.benefactor-level[0].benefactors-header }}</strong></p>
-    <div class="logos-block" style="margin-bottom: 2rem;">  
+    <div class="logos-block" style="margin-bottom: 2rem;">
       {% for benefactor in page.benefactor-level[0].benefactors %}
       <div><img src="{{benefactor.image | replace: 'https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload', 'https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/w_200'}}" alt="{{benefactor.name}}"></div>
       {% endfor %}
       <br><br><br><br>
     </div>
     <p style="margin-bottom: -1rem;"><strong>{{ page.leader-level[0].leaders-header }}</strong></p>
-    <div class="logos-block" style="margin-bottom: 2rem;">  
+    <div class="logos-block" style="margin-bottom: 2rem;">
       {% for leader in page.leader-level[0].leaders %}
       <div><img src="{{leader.image | replace: 'https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload', 'https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/w_200'}}" alt="{{leader.name}}"></div>
       {% endfor %}
       <br><br><br><br>
     </div>
     <p style="margin-bottom: -1rem;"><strong>{{ page.visionary-level[0].visionaries-header }}</strong></p>
-    <div class="logos-block" style="margin-bottom: 2rem;">  
+    <div class="logos-block" style="margin-bottom: 2rem;">
       {% for visionary in page.visionary-level[0].visionaries %}
       <div><img src="{{visionary.image | replace: 'https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload', 'https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/w_200'}}" alt="{{visionary.name}}"></div>
       {% endfor %}
