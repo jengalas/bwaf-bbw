@@ -94,22 +94,7 @@ page_blocks:
       - title: ''
         title_role: ''
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1680026853/8_2_17_member_dci_engineers.webp
-        description: ''
-      - title: ''
-        title_role: ''
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1668627990/Untitled-1_ylld3d.png
-        description: ''
-      - title: ''
-        title_role: ''
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1668537724/steinbergLogoFinal_aby90s.png
-        description: ''
-      - title: ''
-        title_role: ''
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739548018/Screenshot_2025-02-14_at_10.46.48_AM_tglic7.png
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739547731/Screenshot_2025-02-14_at_10.41.58_AM.png
         description: ''
       - title: ''
         title_role: ''
@@ -119,12 +104,27 @@ page_blocks:
       - title: ''
         title_role: ''
         image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1746038218/Screenshot_2025-04-30_at_2.36.45_PM.png
+        description: ''
+      - title: ''
+        title_role: ''
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1747663993/DOWBUILT_LOGO_BWv01.png
+        description: ''
+      - title: ''
+        title_role: ''
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1746038159/Screenshot_2025-04-30_at_2.35.45_PM.png
+        description: ''
+      - title: ''
+        title_role: ''
+        image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1657646119/LanganBlackCMYK-print_bpdp92.png
         description: ''
       - title: ''
         title_role: ''
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1697049447/Untitled-1.jpg
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1746038085/Screenshot_2025-04-30_at_2.34.33_PM.png
         description: ''
       - title: ''
         title_role: ''
@@ -134,12 +134,17 @@ page_blocks:
       - title: ''
         title_role: ''
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739547690/Red-Logo_FB-1.jpg
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739491143/related-companies-logo-vector_800px-sq.png
         description: ''
       - title: ''
         title_role: ''
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739547731/Screenshot_2025-02-14_at_10.41.58_AM.png
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1746038037/c174b70fe2ec4728804a112269d03528.jpg
+        description: ''
+      - title: ''
+        title_role: ''
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1697049447/Untitled-1.jpg
         description: ''
     section_break: true
     include_left-hand_column_text_: false
