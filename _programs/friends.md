@@ -104,7 +104,7 @@ page_blocks:
       - title: ''
         title_role: ''
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1680026853/8_2_17_member_dci_engineers.webp
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1747853116/Screenshot_2025-05-21_at_2.45.07_PM.png
         description: ''
       - title: ''
         title_role: ''
@@ -114,7 +114,7 @@ page_blocks:
       - title: ''
         title_role: ''
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739546966/Gilbane_Building_Company_Logo.jpg
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1747852990/Screenshot_2025-05-21_at_2.42.52_PM.png
         description: ''
       - title: ''
         title_role: ''
@@ -139,7 +139,7 @@ page_blocks:
       - title: ''
         title_role: ''
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1668537580/steinbergLogoFinal_rog4vj.png
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1747853032/Screenshot_2025-05-21_at_2.43.41_PM.png
         description: ''
       - title: ''
         title_role: ''
