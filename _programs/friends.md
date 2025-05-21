@@ -104,12 +104,12 @@ page_blocks:
       - title: ''
         title_role: ''
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1746038218/Screenshot_2025-04-30_at_2.36.45_PM.png
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1747852098/Screenshot_2025-05-21_at_2.25.16_PM.png
         description: ''
       - title: ''
         title_role: ''
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1747663993/DOWBUILT_LOGO_BWv01.png
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1747852123/Screenshot_2025-05-21_at_2.26.04_PM.png
         description: ''
       - title: ''
         title_role: ''
@@ -124,7 +124,7 @@ page_blocks:
       - title: ''
         title_role: ''
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1746038085/Screenshot_2025-04-30_at_2.34.33_PM.png
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1747852153/Screenshot_2025-05-21_at_2.28.00_PM.png
         description: ''
       - title: ''
         title_role: ''
@@ -139,7 +139,7 @@ page_blocks:
       - title: ''
         title_role: ''
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1746038037/c174b70fe2ec4728804a112269d03528.jpg
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1747852138/Screenshot_2025-05-21_at_2.27.26_PM.png
         description: ''
       - title: ''
         title_role: ''
