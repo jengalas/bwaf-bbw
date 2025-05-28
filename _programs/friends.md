@@ -53,11 +53,9 @@ page_blocks:
     automatic: false
   - template: text-block
     text_block: >-
-      <h2><strong>Annual Membership</strong></h2><p>Early Professional (up to
-      ten years of professional experience): $250<br />Professional (ten+ years
-      of professional experience): $500<br />Corporate Friendship*:
-      $5000</p><h6>*Allows for 4 participants per
-      event&nbsp;</h6><h2><strong>Friends benefits
+      <h2><strong>Annual Membership</strong></h2><p>Early Professional: $250<br
+      />Professional: $500<br />Corporate Friendship*: $5000</p><h6>*Allows for
+      4 participants per event&nbsp;</h6><h2><strong>Friends benefits
       include:</strong></h2><p>Invitation to three BWAF Friends events per
       year<br />Built By Women tote bag<br />Early notification of BWAF
       activities<br />Monthly BWAF newsletter<br />Prominent listing on BWAF
