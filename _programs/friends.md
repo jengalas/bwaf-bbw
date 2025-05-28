@@ -53,13 +53,10 @@ page_blocks:
     automatic: false
   - template: text-block
     text_block: >-
-      <h2><strong>Annual Membership</strong></h2><p>Early Professional: $250<br
-      />Professional: $500<br />Corporate Friendship*: $5000</p><h6>*Allows for
-      4 participants per event&nbsp;</h6><h2><strong>Friends benefits
-      include:</strong></h2><p>Invitation to three BWAF Friends events per
-      year<br />Built By Women tote bag<br />Early notification of BWAF
-      activities<br />Monthly BWAF newsletter<br />Prominent listing on BWAF
-      website (Corporate Friendship only)</p>
+      <h2><strong>Friends benefits include:</strong></h2><p>Invitation to three
+      BWAF Friends events per year<br />Built By Women tote bag<br />Early
+      notification of BWAF activities<br />Monthly BWAF newsletter<br
+      />Prominent listing on BWAF website (Corporate Friendship only)</p>
     section_break: false
     include_left-hand_column_text_: false
     label: Annual Membership Info
