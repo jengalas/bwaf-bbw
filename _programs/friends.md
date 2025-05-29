@@ -99,7 +99,7 @@ page_blocks:
       - title: ''
         title_role: ''
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1747853116/Screenshot_2025-05-21_at_2.45.07_PM.png
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1748555009/DCI_bw.png
         description: ''
       - title: ''
         title_role: ''
