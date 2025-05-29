@@ -109,7 +109,7 @@ page_blocks:
       - title: ''
         title_role: ''
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1747853282/Screenshot_2025-05-21_at_2.47.49_PM.png
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1748554677/Gilbane_bw.png
         description: ''
       - title: ''
         title_role: ''
