@@ -104,7 +104,7 @@ page_blocks:
       - title: ''
         title_role: ''
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1747852809/Screenshot_2025-05-21_at_2.39.49_PM.png
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1748555385/dowbuilt.png
         description: ''
       - title: ''
         title_role: ''
