@@ -130,7 +130,7 @@ friends-level:
         name:
       - name:
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1746038085/Screenshot_2025-04-30_at_2.34.33_PM.png
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1748555242/marmol_bw.png
       - name:
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741727865/RAMSA_logo.jpg
