@@ -36,6 +36,7 @@ page_blocks:
       achievements of these women and contextualizes their contributions to
       today’s built environment.
 
+
       New Angle: Voice is supported by the National Endowment for Humanities,
       the National Endowment for the Arts, the Graham Foundation, and
       MillerKnoll.
