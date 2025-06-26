@@ -73,6 +73,32 @@ page_blocks:
       BWAF seeks support for New Angle: Voice to cover research, production, and
       public engagement costs. Your support helps ensure that these important
       histories are documented and shared.
+  - template: image-block
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1750956425/2025_BWAF_Podcast_New_Angle_Page_1.jpg
+    section_break: false
+    image_caption_text: ''
+    alt_text:
+    include_left-hand_column_text_: false
+    lefthand_text:
+      header_type:
+      text:
+      download: ''
+      link_url:
+      link_text: ''
+  - template: image-block
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1750956488/2025_BWAF_Podcast_New_Angle_Page_2.jpg
+    section_break: false
+    image_caption_text: ''
+    alt_text:
+    include_left-hand_column_text_: false
+    lefthand_text:
+      header_type:
+      text:
+      download: ''
+      link_url:
+      link_text: ''
 _blocks: []
 _inputs:
   title:
