@@ -42,11 +42,8 @@ page_blocks:
       MillerKnoll.
 
 
-      Presented by BWAF
-
-      Editorial Advisor: Alexandra Lange 
-
-      Producer: Brandi Howell
+      Presented by BWAF. Editorial Advisor: Alexandra Lange. Producer: Brandi
+      Howell
   - template: image-block
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1674766181/podcast-front-side-by-side_vjdiiz.jpg
