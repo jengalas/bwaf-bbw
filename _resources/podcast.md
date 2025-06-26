@@ -77,7 +77,7 @@ page_blocks:
     section_break: false
     image_caption_text: ''
     alt_text:
-    include_left-hand_column_text_: false
+    include_left-hand_column_text_: true
     lefthand_text:
       header_type:
       text:
@@ -90,7 +90,7 @@ page_blocks:
     section_break: false
     image_caption_text: ''
     alt_text:
-    include_left-hand_column_text_: false
+    include_left-hand_column_text_: true
     lefthand_text:
       header_type:
       text:
