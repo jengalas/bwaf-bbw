@@ -38,30 +38,18 @@ page_blocks:
       link_url:
       link_text:
     text_block: >-
-      The Industry Leaders Roundtable brings together thought leaders in
-      organizational psychology, sociology, law, architecture and engineering to
-      change culture by providing research, information and action-oriented
-      programs to achieve greater representation of women in the AEC industries.
+      Industry Leaders Roundtable is going coast to coast! 
 
 
-      In December we concluded the third and final of our 2024 Industry Leaders
-      Roundtable events in Miami, Florida. We are deeply grateful to the
-      community of amazing attendees and speakers we’ve connected with in the
-      course of mounting this program in Chicago, Toronto, and Miami, building
-      networks within and across the AEC industry.
-
-
-      The uniting theme of the roundtable series, Values-Driven Design, has
-      yielded such expansive thinking and generative conversations as we strive
-      to understand both the measurable and immeasurable worth of our work as
-      designers, architects, engineers, builders, developers, educators,
-      community organizers, and beyond.
-
-
-      In 2025, we look forward to sharing a report summarizing the questions and
-      findings we’ve amassed through these Industry Leaders Roundtables. Stay
-      tuned as we will also be bringing this key program to more cities,
-      continuing this critical conversation that has only just begun.
+      BWAF is delighted to announce two Industry Leader Roundtable events taking
+      place this fall. Join us in San Francisco on September 16 & 17 and New
+      York City on October 21 & 22 for immersive, two-day retreats alongside
+      senior thought leaders across the built environment for a rigorous and
+      engaging series of conversations and discussions. Attendees will have the
+      opportunity to explore innovative strategies, share best practices, and
+      network with peers in the industry. The event aims to foster collaboration
+      and drive forward-thinking solutions to some of the most pressing
+      challenges in architecture, engineering, and construction.
   - template: image-block
     button:
       - button_text:
@@ -84,17 +72,7 @@ page_blocks:
         button_link:
     section_break: false
     include_left-hand_column_text_: false
-    miscellaneous: >-
-      Industry Leaders Roundtable is going coast to coast! ** ** BWAF is
-      delighted to announce two Industry Leader Roundtable events taking place
-      this fall. Join us in **San Francisco on September 16 & 17 and New York
-      City on October 21 & 22** for immersive, two-day retreats alongside senior
-      thought leaders across the built environment for a rigorous and engaging
-      series of conversations and discussions. Attendees will have the
-      opportunity to explore innovative strategies, share best practices, and
-      network with peers in the industry. The event aims to foster collaboration
-      and drive forward-thinking solutions to some of the most pressing
-      challenges in architecture, engineering, and construction.
+    miscellaneous: ''
     lefthand_text:
       header_type: ''
       text: ''
