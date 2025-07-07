@@ -16,11 +16,15 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-    text_block: >
+    text_block: >+
       The Industry Leaders Roundtable program is designed to embolden firms and
       their representatives to undertake institutional change within their
       organizations, by providing them research, tools, and support to be agents
-      of change.  
+      of change.  The event brings together thought leaders in organizational
+      psychology, sociology, law, architecture and engineering to change culture
+      by providing research, information and action-oriented programs to achieve
+      greater representation of women in the AEC industries.
+
   - template: text-block
     button:
       - button_text:
@@ -29,16 +33,15 @@ page_blocks:
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Medium Header
-      text: Values-Driven Design
+      text: Leading at the Edge of Innovation
       download: ''
-      link_url: https://bit.ly/3yDTDw9
-      link_text: Apply Here
+      link_url:
+      link_text:
     text_block: >-
-      In its thirteenth year, the Industry Leaders Roundtable brings together
-      thought leaders in organizational psychology, sociology, law, architecture
-      and engineering to change culture by providing research, information and
-      action-oriented programs to achieve greater representation of women in the
-      AEC industries.
+      The Industry Leaders Roundtable brings together thought leaders in
+      organizational psychology, sociology, law, architecture and engineering to
+      change culture by providing research, information and action-oriented
+      programs to achieve greater representation of women in the AEC industries.
 
 
       In December we concluded the third and final of our 2024 Industry Leaders
@@ -72,23 +75,7 @@ page_blocks:
       link_url: ''
       link_text: ''
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1731948288/BWAF_Miami_Roundtable_1.jpg
-    alt_text:
-    image_caption_text: ''
-  - template: image-block
-    button:
-      - button_text:
-        button_link:
-    section_break: false
-    include_left-hand_column_text_: false
-    lefthand_text:
-      header_type: ''
-      text: ''
-      download: ''
-      link_url: ''
-      link_text: ''
-    image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1732569588/241125_Miami_Graphics.jpg
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1751899454/IndustryLeadersRoundtable2025Graphic_Mailchimp.png
     alt_text:
     image_caption_text: ''
   - template: miscellaneous-block
@@ -98,63 +85,16 @@ page_blocks:
     section_break: false
     include_left-hand_column_text_: false
     miscellaneous: >-
-      Day 1: Tuesday, December 3<br>E11EVEN Residences Sales Gallery
-
-
-      9:00-10:00<br>Introduction, Welcome Breakfast & Networking
-
-
-      10:00-11:00<br>Value vs. Values: Time and the evolving workforce <br>Pat
-      Bosch, Design Director, Perkins+Will
-
-
-      11:00-12:00<br>The Value of Design: Advancing the stakes and intersections
-      <br>Susanna Sirefman, Owner, Dovetail Design Strategists
-
-
-      12:00-1:00<br>Lunch & Breakout Session
-
-
-      1:00-2:00<br>Inheriting the past, building for the future: New workplace
-      ideals Thorsten Kiefer, Design and Development, Citadel
-
-
-      2:00-3:00<br>Relearning Value: Building with Community <br>Meg Daly, CEO,
-      Friends of the Underline <br>Alex Daly, Founder, Daly
-
-
-      3:00-4:00<br>Value in the Studio: Teaching Leadership <br>Marilys
-      Nepomechie, Associate Dean, College of Communication, Architecture + the
-      Arts, FlU<br>Elizabeth Plater-Zyberk, Director of Master of Urban Design
-      Program, U of Miami<br>Dr. Thelma Lazo Flores, Dean of Interior Design,
-      Istituto Marangoni
-
-
-      4:00-5:00<br>Group Discussion
-
-
-      6:00-9:00<br>Cocktail Reception & Dinner @ The River Oyster Bar
-
-
-      Day 2: Wednesday, December 4<br>Faena Hotel, 3201 Collins Ave, Miami
-      Beach, FL 33140
-
-
-      9:30- 10:00<br>Coffee Service and Networking
-
-
-      10:00-11:00<br>Presentation<br>Jennifer Baez, Chief of Staff, Miami-Dade
-      County Office of Innovation and Economic Development
-
-
-      11:00-12:00<br>Keynote/Conclusion <br>Angelica Baccon, Principal, SHoP
-      Architects
-
-
-      2:00-5:00<br>Design Miami/Art Basel
-
-
-      &nbsp;
+      Industry Leaders Roundtable is going coast to coast! ** ** BWAF is
+      delighted to announce two Industry Leader Roundtable events taking place
+      this fall. Join us in **San Francisco on September 16 & 17 and New York
+      City on October 21 & 22** for immersive, two-day retreats alongside senior
+      thought leaders across the built environment for a rigorous and engaging
+      series of conversations and discussions. Attendees will have the
+      opportunity to explore innovative strategies, share best practices, and
+      network with peers in the industry. The event aims to foster collaboration
+      and drive forward-thinking solutions to some of the most pressing
+      challenges in architecture, engineering, and construction.
     lefthand_text:
       header_type: ''
       text: ''
