@@ -1,8 +1,8 @@
 ---
 layout: newsletter-page
-navCategory: Resources
-title: Newsletter Archive
-permalink: "/resources/newsletter-archive"
+navCategory: About
+title: News
+permalink: "/about/news"
 description: Angles (formerly Dispatches From Home, formerly Briefly News) is the
   monthly newsletter of Beverly Willis Architecture Foundation. Here you can view
   an archive of previous newsletters. You can also sign up to receive future newsletters

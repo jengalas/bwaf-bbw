@@ -16,6 +16,9 @@
   - label: Sponsors
     link: "/sponsors"
     page: ''
+  - label: News
+    link: "/about/news"
+    page: ''      
 - label: Programs
   subnav:
   - label: Emerging Leaders
@@ -38,9 +41,6 @@
     page: ''
 - label: Resources
   subnav:
-  - label: Newsletter Archive
-    link: "/resources/newsletter-archive"
-    page: ''
   - label: Podcast
     link: "/resources/podcast"
     page: ''
