@@ -2,126 +2,40 @@
 layout: newsletter-page
 navCategory: About
 title: News
-permalink: "/about/news"
-description: Angles (formerly Dispatches From Home, formerly Briefly News) is the
-  monthly newsletter of Beverly Willis Architecture Foundation. Here you can view
-  an archive of previous newsletters. You can also sign up to receive future newsletters
-  in your inbox.
-sign-up-text: Sign up for the newsletter and get the latest news on upcoming programs
-  and events
+permalink: /about/news
+description:
+sign-up-text: >-
+  Sign up for the newsletter and get the latest news on upcoming programs and
+  events
 newsletters:
-- title: Special Blast/ NEH Grant Recipient
-  month_year: August
-  link: https://mailchi.mp/bwaf/bwaf-awarded-neh-grant
-- title: Special Blast
-  link: https://mailchi.mp/bwaf/bwaf-important-update
-  month_year: July
-- title: Special Blast
-  link: https://mailchi.mp/36126d359462/20th-anniversary-celebration-save-the-date
-- title: Special Blast
-  month_year: June 2022
-  link: https://mailchi.mp/bwaf/new-bwaf-emerging-leaders-dates
-- title: Angles
-  month_year: April/May 2022
-  link: https://mailchi.mp/bwaf/87i3obsl38
-- title: Special Blast
-  month_year: May
-  link: https://mailchi.mp/bwaf/new-angle-voice-hit-30k-downloads
-- link: https://mailchi.mp/bwaf/march-angles-newsletter-2995212
-  month_year: March Newsletter
-  title: Angles
-- title: Angles
-  month_year: February Newsletter
-  link: https://mailchi.mp/bwaf/gzbptdxwc1?e=[UNIQID]
-- title: Special Blast
-  month_year: March 2022
-  link: https://mailchi.mp/a86faef6fb15/bwaf-2022-industry-leaders-roundtable-retreat
-- title: Angles
-  month_year: January 2022
-  link: https://mailchi.mp/bwaf/b5rrdu42wi-2995184?e=[UNIQID]
-- title: Angles
-  month_year: 'December 2021 '
-  link: https://mailchi.mp/bwaf/b5rrdu42wi-2995174
-- title: 'Special Blast '
-  month_year: 'November 2021 '
-  link: https://mailchi.mp/bwaf/less-than-one-week-left-to-sponsor-register-for-the-inaugural-bevy-awards-celebration-2995166
-- title: Angles
-  month_year: November 2021
-  link: https://mailchi.mp/bwaf/b5rrdu42wi-2995158
-- title: Special Blast
-  month_year: October 2021
-  link: https://mailchi.mp/bwaf/b5rrdu42wi-2995150
-- title: Angles
-  month_year: October 2021
-  link: https://mailchi.mp/bwaf/b5rrdu42wi-2995146
-- title: Special Blast
-  month_year: September 2021
-  link: https://mailchi.mp/bwaf/b5rrdu42wi-2995118
-- title: Angles
-  month_year: August 2021
-  link: https://mailchi.mp/bwaf/b5rrdu42wi-2995110
-- title: Angles
-  month_year: July 2021
-  link: https://mailchi.mp/bwaf/b5rrdu42wi-2995094
-- title: Angles
-  month_year: June 2021
-  link: https://mailchi.mp/bwaf/b5rrdu42wi-2995086
-- title: Angles
-  month_year: May 2021
-  link: https://mailchi.mp/bwaf/b5rrdu42wi-2995070
-  description: ''
-- title: Angles
-  month_year: April 2021
-  link: https://mailchi.mp/bwaf/k0man47s2m-2995066
-  description: ''
-- title: Angles
-  month_year: March 2021
-  link: https://mailchi.mp/bwaf/k0man47s2m
-  description: ''
-- title: Angles
-  month_year: February 2021
-  description: ''
-  link: https://mailchi.mp/bwaf/b5rrdu42wi-2995034
-- title: Angles
-  month_year: January 2021
-  link: https://mailchi.mp/bwaf/b5rrdu42wi
-  description: ''
-- title: Special Blast
-  month_year: December 2020
-  link: https://mailchi.mp/bwaf/b5rrdu42wi
-  description: ''
-- title: Dispatches From Home
-  month_year: December 2020
-  link: https://mailchi.mp/bwaf/bwaf-briefly-news-save-the-dates-2994994
-- title: Dispatches From Home
-  month_year: November 2020
-  link: https://mailchi.mp/bwaf/bwaf-briefly-news-save-the-dates-2994982
-- title: Dispatches From Home
-  link: https://mailchi.mp/bwaf/bwaf-briefly-news-save-the-dates-2994962
-  description: ''
-  month_year: October 2020
-- title: Dispatches From Home
-  month_year: September 2020
-  link: https://mailchi.mp/bwaf/bwaf-briefly-news-save-the-dates-2994954
-  description: ''
-- title: Dispatches From Home
-  month_year: August 2020
-  link: https://mailchi.mp/bwaf/dispatches-from-phase-2-and-pioneering-women-of-american-architecture-patricia-weston-swan-2994946
-  description: ''
-- title: Dispatches From Home
-  link: https://mailchi.mp/bwaf/dispatches-from-phase-2-and-pioneering-women-of-american-architecture-patricia-weston-swan-2994938
-  month_year: July 2020
-- title: Dispatches From Home
-  month_year: June 2020
-  link: https://mailchi.mp/bwaf/dispatches-from-phase-2-and-pioneering-women-of-american-architecture-patricia-weston-swan
-- title: Special Blast
-  month_year: June 2020
-  link: https://mailchi.mp/bwaf/in-solidarity
-  description: ''
-- title: Dispatches From Home
-  month_year: May 2020
-  link: https://mailchi.mp/bwaf/bwaf-briefly-news-save-the-dates-2994906
-#  CloudCannon config
+  - title: >-
+      Collective Access: Disability, Gender, and Design | Center for
+      Architecture Panel
+    month_year: July 2025
+    link: >-
+      https://calendar.aiany.org/2025/07/24/collective-access-disability-gender-and-design/
+  - title: >-
+      Architecture nonprofit leaders in New York form Public Design Alliance, a
+      new coalition to combat federal funding cuts
+    link: https://www.archpaper.com/2025/06/nonprofits-form-public-design-alliance/
+    month_year: June 2025
+  - title: Remembering Bev
+    month_year: September 2024
+    link: https://www.archpaper.com/2024/09/an-tributes-to-beverly-willis/
+  - title: BWAF Receives Special Citation for Service to Women in Architecture
+    month_year: June 2024
+    link: >-
+      https://www.aiany.org/news/aia-new-york-elects-2025-leadership-and-honors-community-achievements-at-157th-annual-meeting/
+  - title: >-
+      Beverly Willis Architecture Foundation opens The Bev, a new multi-use
+      headquarters in Manhattan
+    month_year: January 2024
+    link: >-
+      https://www.archpaper.com/2024/01/beverly-willis-architecture-foundation-the-bev-manhattan/
+  - link: >-
+      https://www.architectmagazine.com/Design/the-bev-a-new-manhattan-hub-for-women-in-architecture_o
+    month_year: January 2024
+    title: 'The Bev: a New Manhattan Hub for Women in Architecture'
 _inputs:
   $.title:
     hidden: true
