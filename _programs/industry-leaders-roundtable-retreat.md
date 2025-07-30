@@ -72,7 +72,55 @@ page_blocks:
         button_link:
     section_break: false
     include_left-hand_column_text_: false
-    miscellaneous: ''
+    miscellaneous: >-
+      **DAY 1: THE PRESIDIO**
+
+
+      <u>12:00-1:00pm<br /></u>Welcome Lunch & Introduction<br>**Angelica
+      Baccon**, SHoP Architects, Principal<br>**Tizziana Baldenebro**, BWAF,
+      Executive Director
+
+
+      <u>1:00-2:00pm<br /></u>**Design Thinking for Social Benefit
+      Panel<br>Jennifer Dunlop Fletcher**, SFMoMA, Head Curator of Architecture
+      & Design (Moderator)
+
+
+      <u>2:00-3:00pm<br /></u>**Michelle Lee**, Ideo Play Lab, Partner &
+      Managing Director
+
+
+      <u>3:00-5:00pm<br /></u>**Presidio Tunnel Tops Talk & Walking
+      Tour<br>**The Presidio Trust
+
+
+      <u>5:00-7:00pm<br /></u>Break
+
+
+      <u>7:00-9:00pm<br /></u>Cocktail Reception + Dinner
+
+
+      **DAY 2: THE AVERY**
+
+
+      <u>9:30am- 12:00pm<br /></u>**Julia Morgan Architecture Walking
+      Tour<br>Dr. Karen McNeil**, PhD, Julia Morgan expert
+
+
+      <u>12:00-1:00pm<br /></u>Lunch
+
+
+      <u>1:00-2:00pm<br /></u>Travel from Berkeley to The Avery
+
+
+      <u>2:00-3:30pm<br /></u>**Futures & Foresight Fluency Talk<br>Radha
+      Mistry**, Arup, Associate Principal & Americas Foresight Leader
+
+
+      <u>3:30-4:00pm<br /></u>Conclusion
+
+
+      <u>4:00-7:00pm<br /></u>Cocktail Invitational
     lefthand_text:
       header_type: ''
       text: ''
@@ -92,7 +140,7 @@ page_blocks:
       link_url: ''
       link_text: ''
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1733782975/Roundtable_Logos.jpg
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1753891401/Screenshot_2025-07-30_at_12.03.04_PM.png
     alt_text:
     image_caption_text: 'Thank you to our supporters for making this program possible. '
   - template: buttons-block
