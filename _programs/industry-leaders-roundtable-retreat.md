@@ -100,10 +100,10 @@ page_blocks:
       Tour<br>**The Presidio Trust
 
 
-      <u>5:00-7:00pm<br /></u>Break
+      <u>5:00-6:00pm<br /></u>Break
 
 
-      <u>7:00-9:00pm<br /></u>Cocktail Reception + Dinner
+      <u>6:00-9:00pm<br /></u>Cocktail Reception + Dinner
 
 
       **DAY 2: THE AVERY**
