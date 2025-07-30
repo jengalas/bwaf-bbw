@@ -52,7 +52,7 @@ page_blocks:
       challenges in architecture, engineering, and construction.
   - template: buttons-block
     button:
-      - button_text: TICKETS NOW AVAILABLE
+      - button_text: SF TICKETS NOW AVAILABLE
         button_link: https://www.eventbrite.com/e/1513912305459?aff=oddtdtcreator
     section_break: false
     include_left-hand_column_text_: false
