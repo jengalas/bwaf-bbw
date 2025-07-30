@@ -33,7 +33,7 @@ page_blocks:
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Medium Header
-      text: Leading at the Edge of Innovation
+      text: 'San Francisco, September 16-17: Leading at the Edge of Innovation'
       download: ''
       link_url:
       link_text:
