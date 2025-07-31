@@ -45,7 +45,7 @@ page_blocks:
     image:
     include_left-hand_column_text_: true
     lefthand_text:
-      header_type: Medium
+      header_type: Medium Header
       text: Vision, Voice, Value
       link_url: ''
       download: ''
