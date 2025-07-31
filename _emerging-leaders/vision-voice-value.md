@@ -18,7 +18,7 @@ page_blocks:
       link_url: ''
       link_text: ''
     section_break: false
-    text_block: >
+    text_block: >-
       Launched in 2017, the BWAF Emerging Leaders program is a selective
       professional development opportunity for early- and mid-career women.
       Within a small group format, participants engage with significant senior
@@ -29,11 +29,19 @@ page_blocks:
       strategies for advancing their field. Over 250 women have participated in
       past cohorts, building a timeless network of allies and support for each
       other.
-
-
-      "VISION, VOICE, & VALUE" will be held October 2, October 9, October 16,
-      and October 30, 2025, from 6:00-8:00pm. Participants will hear from:
-      Ya-Ting Liu, Chief Public Realm Officer, City of New York; Julia Gamolina,
+  - template: text-block
+    include_left-hand_column_text_: true
+    lefthand_text:
+      text: Vision, Voice, & Value
+      header_type: Medium Header
+      download: ''
+      link_url: ''
+      link_text: ''
+    section_break: false
+    text_block: >
+      VISION, VOICE, & VALUE will be held October 2, October 9, October 16, and
+      October 30, 2025, from 6:00-8:00pm. Participants will hear from: Ya-Ting
+      Liu, Chief Public Realm Officer, City of New York; Julia Gamolina,
       Associate Principal, Ennead Architects & Founder, Madame Architect; Brett
       Gaillard, Head of Capital Projects, The Met; and Christopher Bishop, Chief
       Reinvention Officer, Improvising Careers. 
@@ -45,8 +53,8 @@ page_blocks:
     image:
     include_left-hand_column_text_: true
     lefthand_text:
-      header_type: Medium Header
-      text: Vision, Voice, Value
+      header_type:
+      text:
       link_url: ''
       download: ''
       link_text: ''
