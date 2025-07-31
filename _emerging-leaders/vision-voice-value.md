@@ -53,12 +53,109 @@ page_blocks:
     section_break: false
     alt_text: ''
     image_caption_text: ''
+  - template: featured-portrait-block
+    header: VISION
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1753984878/YTL_Headshot_BW.png
+    label: Speaker
+    title: Ya-Ting Liu
+    subtitle: Chief Public Realm Officer, City of New York
+    description: >-
+      <p>As the first Chief Public Realm Officer for the City of New York,
+      Ya-Ting Liu is responsible for coordinating across city government,
+      community organizations, and the private sector to create extraordinary
+      public spaces across the entire city and continue to drive the city’s
+      economic recovery.</p><p>Since her appointment in February 2023, she has
+      advanced major public space policy and project initiatives for the Adams
+      Administration including overseeing the implementation of the country’s
+      largest outdoor dining program and transforming commercial districts
+      throughout the city, including the redesign of Fifth Avenue from Bryant
+      Park to Central Park. Ya-Ting is also focused on reforms that make it
+      easier for New Yorkers to activate, maintain, and program in public
+      spaces.</p><p>Liu brings over 15 years of policy, community organizing,
+      coalition building, and government affairs experience to the Adams
+      administration. Before entering city government, Liu worked as the
+      director of government affairs and policy for the rideshare company Via,
+      as sustainability program director for the New York League of Conservation
+      Voters, as director of transit advocacy for Transportation Alternatives,
+      and in federal advocacy for the Tri-State Transportation
+      Campaign.</p><p>Liu earned a bachelor’s in conservation studies from the
+      University of California, Berkeley, and a master's in city planning from
+      the Massachusetts Institute of Technology.</p>
+    time-location:
+      line-1: Thursday, October 2, 6:00-8:00PM
+      line-2: ' TYLin, 32 Old Slip, New York, NY 10005 '
+    section_break: false
+    include_left-hand_column_text_: false
+  - template: featured-portrait-block
+    header: VOICE
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1753985019/JULIA_GAMOLINA.png
+    label: Speaker
+    title: Julia Gamolina
+    subtitle: 'Associate Principal, Ennead Architects & Founder, Madame Architect '
+    description: >-
+      Julia Gamolina is the Founder and Editor-in-Chief of Madame Architect, a
+      digital magazine focused on the extraordinary women transforming our
+      world. Since starting Madame Architect in 2018, she has overseen all
+      editorial content, events, partnerships and strategic direction, growing
+      it into a globally recognized award-winning publication with readers in
+      more than one hundred countries.<p><br />In professional practice,
+      Gamolina focused on the strategic development of architecture practices
+      for the past eight years, Currently as an Associate Principal at Ennead
+      Architects, she spearheads business development, communications, and
+      strategic initiatives. Previously, she worked on all phases of design for
+      mixed-use, retail, residential, and commercial office projects in New York
+      City and Los Angeles, and on retail, higher education, and museum projects
+      in Korea, Brazil, and Austria.</p><p>Gamolina frequently speaks about how
+      she developed Madame Architect — and topics like architecture, career
+      development, entrepreneurship, and brand building — across college
+      campuses, international conferences, and at local events. Her writing has
+      been featured in A Women's Thing, Fast Company, Metropolis Magazine, and
+      the Architect's Newspaper, and she writes a Substack, “Both, And.”
+      Additionally, she's taught graduate-level professional practice and media
+      seminars at Pratt Institute, and is a frequent juror for design
+      competitions and various fellowships.</p><p>In 2024 and 2023, Gamolina was
+      included in Wallpaper*'s Creative America, a list of the people defining
+      the creative landscape in the US. She earned her Bachelor of Architecture
+      at Cornell University, graduating with the Charles Goodwin Sands Medal for
+      exceptional thesis. She was born in Novosibirsk, later immigrated to
+      Toronto and then to Colorado Springs, and is based in New York City,
+      having also lived and worked in Austria, Italy, France and Brazil.</p>
+    time-location:
+      line-1: Thursday, October 9, 6:00-8:00PM
+      line-2: Ennead Architects, 1 World Trade Center 40th floor, New York, NY 10007
+    section_break: false
+    include_left-hand_column_text_: false
+  - template: featured-portrait-block
+    header: VALUE
+    image:
+    label: Speaker
+    title: Brett Gaillard
+    subtitle: Head of Capital Projects, The Metropolitan Museum of Art
+    description: ''
+    time-location:
+      line-1: Thursday, October 16, 6:00-8:00PM
+      line-2: TBA
+    section_break: false
+    include_left-hand_column_text_: false
+  - template: featured-portrait-block
+    header: CLOSING SESSION
+    image:
+    label: Speaker
+    title: Christopher Bishop
+    subtitle: 'Chief Reinvention Officer, Improvising Careers '
+    description: ''
+    time-location:
+      line-1: Thursday, October 30, 6:00-8:00PM
+      line-2: BWAF, 424 W 33rd Street, Suite 280, New York, NY 10001
+    section_break: false
+    include_left-hand_column_text_: false
   - template: portrait-gallery-block-small
     portrait:
-      - title: Caitlin Brady
-        title_role: Project Architect, RMW Architecture and Interiors
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1632753674/brady_sml_rdhlvk.jpg
+      - title:
+        title_role:
+        image:
     section_break: false
     include_left-hand_column_text_: false
     lefthand_text:
@@ -68,64 +165,6 @@ page_blocks:
       link_url: ''
       link_text: ''
     header: ''
-  - template: featured-portrait-block
-    header: ENERGY
-    image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1678234361/2017_Burton_Melissa_01_980x780_kbtmcc.jpg
-    label: Speaker
-    title: Melissa Burton
-    subtitle: ARUP Canada's Principal Engineer
-    description: >-
-      ARUP Canada's Principal engineer, Melissa Burton, took a childhood
-      experience of natural disaster and transformed it into a data driven and
-      award winning global technical career in wind engineering and climate
-      modelling. In addition, she has the ENERGY for three children, an artist
-      wife, and a side hustle in music, having lived in Hong Kong, South Korea,
-      London, New York and now Toronto. Melissa's perspectives provide
-      inspiration to re-charge both architects and engineers.
-    time-location:
-      line-1: Tuesday, May 16, 2023, 6:30-8PM
-      line-2: ''
-    section_break: false
-    include_left-hand_column_text_: false
-  - template: featured-portrait-block
-    header: ENVIRONMENT
-    image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1678234847/LNSimonheadshot_labdtm.jpg
-    label: Speaker
-    title: Lynn Simon
-    subtitle: VP of Sustainability and Global ESG
-    description: >-
-      Workshop your sustainability profile with Lynn Simon, VP of Sustainability
-      and Global ESG. Whether your professional environment supports your whole
-      self, or challenges your sensibilities, take advantage of Lynn's
-      experience in global real estate sustainability at Google to give yourself
-      a post-pandemic reset. Advance reading from "All We Can Save" will inform
-      the session.
-    time-location:
-      line-1: Tuesday, April 25, 2023, 6:30-8PM
-      line-2: ''
-    section_break: false
-    include_left-hand_column_text_: false
-  - template: featured-portrait-block
-    header: ENGAGEMENT
-    image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1678235026/Emmanuelle-Slossberg_Small_so5sxj.jpg
-    label: Speaker
-    title: Emmanuelle Slossberg
-    subtitle: ''
-    description: >-
-      Emmanuelle Slossberg has worked in branding and marketing, and presents
-      engagement as a business development strategy. From experiences as diverse
-      as the Consortium for Sustainable Urbanization or other, to the Durst
-      Organization, Cetra-Ruddy, and ULI, Emmanuelle offers the group both the
-      professional perspective, as well as deep insights into the development
-      world.
-    time-location:
-      line-1: Thursday, March 30, 2023, 6:30-8PM
-      line-2: ''
-    section_break: false
-    include_left-hand_column_text_: false
 _structures:
   page_blocks:
     id_key: template
