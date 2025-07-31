@@ -108,28 +108,29 @@ page_blocks:
       world. Since starting Madame Architect in 2018, she has overseen all
       editorial content, events, partnerships and strategic direction, growing
       it into a globally recognized award-winning publication with readers in
-      more than one hundred countries.<p><br />In professional practice,
+      more than one hundred countries.<br /><br />In professional practice,
       Gamolina focused on the strategic development of architecture practices
       for the past eight years, Currently as an Associate Principal at Ennead
       Architects, she spearheads business development, communications, and
       strategic initiatives. Previously, she worked on all phases of design for
       mixed-use, retail, residential, and commercial office projects in New York
       City and Los Angeles, and on retail, higher education, and museum projects
-      in Korea, Brazil, and Austria.</p><p>Gamolina frequently speaks about how
-      she developed Madame Architect — and topics like architecture, career
+      in Korea, Brazil, and Austria.<br /><p>Gamolina frequently speaks about
+      how she developed Madame Architect — and topics like architecture, career
       development, entrepreneurship, and brand building — across college
       campuses, international conferences, and at local events. Her writing has
       been featured in A Women's Thing, Fast Company, Metropolis Magazine, and
       the Architect's Newspaper, and she writes a Substack, “Both, And.”
       Additionally, she's taught graduate-level professional practice and media
       seminars at Pratt Institute, and is a frequent juror for design
-      competitions and various fellowships.</p><p>In 2024 and 2023, Gamolina was
-      included in Wallpaper*'s Creative America, a list of the people defining
-      the creative landscape in the US. She earned her Bachelor of Architecture
-      at Cornell University, graduating with the Charles Goodwin Sands Medal for
-      exceptional thesis. She was born in Novosibirsk, later immigrated to
-      Toronto and then to Colorado Springs, and is based in New York City,
-      having also lived and worked in Austria, Italy, France and Brazil.</p>
+      competitions and various fellowships.<br /><br />In 2024 and 2023,
+      Gamolina was included in Wallpaper*'s Creative America, a list of the
+      people defining the creative landscape in the US. She earned her Bachelor
+      of Architecture at Cornell University, graduating with the Charles Goodwin
+      Sands Medal for exceptional thesis. She was born in Novosibirsk, later
+      immigrated to Toronto and then to Colorado Springs, and is based in New
+      York City, having also lived and worked in Austria, Italy, France and
+      Brazil.</p>
     time-location:
       line-1: Thursday, October 9, 6:00-8:00PM
       line-2: Ennead Architects, 1 World Trade Center 40th floor, New York, NY 10007
