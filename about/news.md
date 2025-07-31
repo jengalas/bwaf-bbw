@@ -8,6 +8,9 @@ sign-up-text: >-
   Sign up for the newsletter and get the latest news on upcoming programs and
   events
 newsletters:
+  - link: https://www.kqed.org/news/12048156/#episode-transcript
+    month_year: July 2025
+    title: 'New Angle: Voice "Finding Julia Morgan" Episode Shared by KQED '
   - title: >-
       Collective Access: Disability, Gender, and Design | Center for
       Architecture Panel
