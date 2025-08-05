@@ -69,7 +69,7 @@ page_blocks:
       link_url: ''
       link_text: ''
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1751899454/IndustryLeadersRoundtable2025Graphic_Mailchimp.png
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1754428172/250805_SF_Roundtable_Graphics_V2_Page_4.png
     alt_text:
     image_caption_text: ''
   - template: miscellaneous-block
