@@ -82,14 +82,17 @@ page_blocks:
       **DAY 1: THE PRESIDIO**
 
 
-      <u>12:00-1:00pm<br /></u>Welcome Lunch & Introduction<br>**Angelica
+      <u>12:00-1:00pm<br /></u>**Welcome Lunch & Introduction<br>Angelica
       Baccon**, SHoP Architects, Principal<br>**Tizziana Baldenebro**, BWAF,
       Executive Director
 
 
       <u>1:00-2:00pm<br /></u>**Design Thinking for Social Benefit
       Panel<br>Jennifer Dunlop Fletcher**, SFMoMA, Head Curator of Architecture
-      & Design (Moderator)
+      & Design (Moderator)<br>**Emily Pilloton-Lam**, Girls Garage, Founder &
+      Executive Director**<br>Shoshana Berger**, Fractional Chief Marketing &
+      Communications Officer**<br>Lauren Smith**, Eames Institute, Chief
+      Experience Officer
 
 
       <u>2:00-3:00pm<br /></u>**Michelle Lee**, Ideo Play Lab, Partner &
@@ -97,7 +100,7 @@ page_blocks:
 
 
       <u>3:00-5:00pm<br /></u>**Presidio Tunnel Tops Talk & Walking
-      Tour<br>**The Presidio Trust
+      Tour<br>Richard Kennedy**, Field Operations, Partner
 
 
       <u>5:00-6:00pm<br /></u>Break
@@ -120,13 +123,13 @@ page_blocks:
 
 
       <u>2:00-3:30pm<br /></u>**Futures & Foresight Fluency Talk<br>Radha
-      Mistry**, Arup, Associate Principal & Americas Foresight Leader
+      Mistry**, Arup, Associate Principal & Americas Foresight
+      Leader<br><br><u>3:30-5:00pm<br /></u>Group
+      Discussion<br><br><u>5:00-6:00pm<br /></u>**Conclusion<br>Atousa
+      Shafizadeh**, Tesla, Manager Workplace & Portfolio Planning
 
 
-      <u>3:30-4:00pm<br /></u>Conclusion
-
-
-      <u>4:00-7:00pm<br /></u>Cocktail Invitational
+      <u>6:00-8:00pm<br /></u>Cocktail Invitational
     lefthand_text:
       header_type: ''
       text: ''
