@@ -8,6 +8,12 @@ sign-up-text: >-
   Sign up for the newsletter and get the latest news on upcoming programs and
   events
 newsletters:
+  - link: >-
+      https://calendar.aiany.org/2025/08/21/fantasizing-design-exhibition-closing-celebration/
+    month_year: August 2025
+    title: >-
+      Fantasizing Design Exhibition Closing Celebration at Center for
+      Architecture
   - link: https://www.kqed.org/news/12048156/#episode-transcript
     month_year: July 2025
     title: 'KQED podcast shares New Angle: Voice "Finding Julia Morgan" episode '
