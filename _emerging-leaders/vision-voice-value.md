@@ -49,6 +49,9 @@ page_blocks:
 
       Total program cost is $1,000. Two, full need-based scholarships will be
       available. Contact info@bwaf.org for questions. 
+
+
+      APPLICATIONS OPEN AUGUST 15.
   - template: image-block
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1754428271/EmergingLeaders2025Graphic_eNews.png
