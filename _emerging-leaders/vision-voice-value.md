@@ -66,7 +66,7 @@ page_blocks:
     alt_text: ''
     image_caption_text: ''
   - template: featured-portrait-block
-    header: VISION
+    header: 'Session 1: VISION'
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1753984878/YTL_Headshot_BW.png
     label: Speaker
@@ -100,7 +100,7 @@ page_blocks:
     section_break: false
     include_left-hand_column_text_: false
   - template: featured-portrait-block
-    header: VOICE
+    header: 'Session 2: VOICE'
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1753985019/JULIA_GAMOLINA.png
     label: Speaker
@@ -141,7 +141,7 @@ page_blocks:
     section_break: false
     include_left-hand_column_text_: false
   - template: featured-portrait-block
-    header: VALUE
+    header: 'Session 3: VALUE'
     image:
     label: Speaker
     title: Brett Gaillard
@@ -153,7 +153,7 @@ page_blocks:
     section_break: false
     include_left-hand_column_text_: false
   - template: featured-portrait-block
-    header: CLOSING SESSION
+    header: 'Session 4: CLOSING CELEBRATION'
     image:
     label: Speaker
     title: Christopher Bishop
