@@ -114,7 +114,7 @@ page_blocks:
 
 
       <u>9:30am- 12:00pm<br /></u>**Julia Morgan Architecture Walking
-      Tour<br>Dr. Karen McNeil**, PhD, Julia Morgan expert
+      Tour<br>Dr. Karen McNeill**, PhD, Julia Morgan expert
 
 
       <u>12:00-1:00pm<br /></u>Lunch
