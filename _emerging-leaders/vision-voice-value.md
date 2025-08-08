@@ -132,11 +132,25 @@ page_blocks:
     include_left-hand_column_text_: false
   - template: featured-portrait-block
     header: 'Session 3: VALUE'
-    image:
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1754667432/BRETT_GAILLARD.png
     label: Speaker
     title: Brett Gaillard
     subtitle: Head of Capital Projects, The Metropolitan Museum of Art
-    description: ''
+    description: >-
+      <p>Brett is the Head of Capital Projects at the Metropolitan Museum of Art
+      where she oversees the planning of all capital and infrastructure projects
+      and helps guide the long-term vision and design of these projects for The
+      Met’s 2.2 million square foot main building, as well as The Met Cloisters.
+      Prior to her role at the Met, Brett was a Senior Associate at Beyer
+      Blinder Belle Architects and Planners where she worked in a leading role
+      on many projects for the Met as well as other cultural, educational,
+      commercial and large-scale restoration projects. Brett is fluent in all
+      phases of a project and is adept at navigating complex institutions with
+      many stakeholders. Brett received her B.A. in the History of Art and
+      Architecture from Middlebury College, and dual Master of Architecture and
+      Master of Science in Historic Preservation degrees from Columbia
+      University Graduate School of Architecture, Planning and Preservation.</p>
     time-location:
       line-1: Thursday, October 16, 6:00-8:00PM
       line-2: TBA
