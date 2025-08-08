@@ -38,7 +38,7 @@ sponsors:
         sponsors:
           - Arup
           - DeSimone Consulting Engineers
-          - Gentler
+          - Gensler
           - 'HR&A Advisors '
           - 'I-Grace Builders & Advisors '
           - Jaros, Baum & Bolles
