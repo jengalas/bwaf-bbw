@@ -144,7 +144,8 @@ page_blocks:
     include_left-hand_column_text_: false
   - template: featured-portrait-block
     header: 'Session 4: CLOSING CELEBRATION'
-    image:
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1754667280/CHRIS_BISHOP.png
     label: Speaker
     title: Christopher Bishop
     subtitle: 'Career Futurist & Author of "Improvising Careers" '
