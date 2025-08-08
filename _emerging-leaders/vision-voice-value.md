@@ -178,7 +178,7 @@ page_blocks:
       implications of bleeding-edge technologies.</p>
     time-location:
       line-1: Thursday, October 30, 6:00-8:00PM
-      line-2: BWAF, 424 W 33rd Street, Suite 280, New York, NY 10001
+      line-2: TBA
     section_break: false
     include_left-hand_column_text_: false
   - template: portrait-gallery-block-small
