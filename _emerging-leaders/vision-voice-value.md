@@ -195,6 +195,19 @@ page_blocks:
       link_url: ''
       link_text: ''
     header: ''
+  - template: image-block
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1754671747/EL_SPONSORS.jpg
+    include_left-hand_column_text_: true
+    lefthand_text:
+      header_type:
+      text:
+      link_url: ''
+      download: ''
+      link_text: ''
+    section_break: false
+    alt_text: ''
+    image_caption_text: Thank you to our supporters for making this program possible.
 _structures:
   page_blocks:
     id_key: template
