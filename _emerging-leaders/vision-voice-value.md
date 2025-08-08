@@ -43,8 +43,8 @@ page_blocks:
       October 30, 2025, from 6:00-8:00pm. Participants will hear from: Ya-Ting
       Liu, Chief Public Realm Officer, City of New York; Julia Gamolina,
       Associate Principal, Ennead Architects & Founder, Madame Architect; Brett
-      Gaillard, Head of Capital Projects, The Met; and Christopher Bishop, Chief
-      Reinvention Officer, Improvising Careers. 
+      Gaillard, Head of Capital Projects, The Met; and Christopher Bishop,
+      Career Futurist & Author of "Improvising Careers" .
 
 
       Total program cost is $1,000. Two, full need-based scholarships will be
