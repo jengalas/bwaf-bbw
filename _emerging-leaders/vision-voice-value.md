@@ -167,15 +167,15 @@ page_blocks:
       <p>Christopher Bishop is a TEDx speaker, ex-IBMer, former touring rock
       musician, future workplace consultant, deep tech emcee, quantum podcast
       host, and university guest lecturer on the future of work. A nonlinear
-      multimodal careerist, he has had eight so far.</p><p>Based on his own
-      atypical career path, Chris developed a lecture and workshop titled “How
-      to succeed at jobs that don’t exist yet” designed to enable today’s
-      learners to successfully navigate the twenty-first century’s global
-      borderless workplace. He regularly delivers Future Career lectures and
-      workshops at prestigious universities including NYU Stern School of
-      Business, Georgetown, Columbia, and the London School of Economics as well
-      as in corporate settings, providing insight on the business and career
-      implications of bleeding-edge technologies.</p>
+      multimodal careerist, he has had eight so far. Based on his own atypical
+      career path, Chris developed a lecture and workshop titled “How to succeed
+      at jobs that don’t exist yet” designed to enable today’s learners to
+      successfully navigate the twenty-first century’s global borderless
+      workplace. He regularly delivers Future Career lectures and workshops at
+      prestigious universities including NYU Stern School of Business,
+      Georgetown, Columbia, and the London School of Economics as well as in
+      corporate settings, providing insight on the business and career
+      implications of bleeding-edge technologies.</p><p></p>
     time-location:
       line-1: Thursday, October 30, 6:00-8:00PM
       line-2: TBA
