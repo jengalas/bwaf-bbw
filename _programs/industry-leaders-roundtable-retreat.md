@@ -37,19 +37,13 @@ page_blocks:
       download: ''
       link_url:
       link_text:
-    text_block: >-
-      Industry Leaders Roundtable is going coast to coast! 
-
-
-      BWAF is delighted to announce two Industry Leader Roundtable events taking
-      place this fall. Join us in San Francisco on September 16 & 17 and New
-      York City on October 21 & 22 for immersive, two-day retreats alongside
-      senior thought leaders across the built environment for a rigorous and
-      engaging series of conversations and discussions. Attendees will have the
-      opportunity to explore innovative strategies, share best practices, and
-      network with peers in the industry. The event aims to foster collaboration
-      and drive forward-thinking solutions to some of the most pressing
-      challenges in architecture, engineering, and construction.
+    text_block: >
+      Join us in San Francisco on September 16 & 17 for an immersive, two-day
+      retreat alongside senior thought leaders across the built environment for
+      a rigorous and engaging series of discussions, workshops, and exclusive
+      tours. The Industry Leaders Roundtable is one of our signature programs,
+      designed to bring together Principals, Partners, and senior AEC leaders to
+      foster dialogue and strategize ways to move our industry forward.
   - template: buttons-block
     button:
       - button_text: SF TICKETS NOW AVAILABLE
