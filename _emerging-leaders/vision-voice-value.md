@@ -53,6 +53,7 @@ page_blocks:
 
       APPLICATIONS OPEN: AUGUST 15
 
+
       APPLICATION DEADLINE: SEPTEMBER 5
   - template: image-block
     image: >-
