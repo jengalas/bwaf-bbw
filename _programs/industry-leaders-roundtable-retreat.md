@@ -69,7 +69,7 @@ page_blocks:
       link_url: ''
       link_text: ''
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1755023278/250811_SF_Roundtable_Graphics_V4.png
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1754428172/250805_SF_Roundtable_Graphics_V2_Page_4.png
     alt_text:
     image_caption_text: ''
   - template: image-block
@@ -85,7 +85,7 @@ page_blocks:
       link_url: ''
       link_text: ''
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1755023293/250811_SF_Roundtable_Graphics_V42.png
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1755023557/250811_SF_Roundtable_Graphics_V45.png
     alt_text:
     image_caption_text: ''
   - template: miscellaneous-block
