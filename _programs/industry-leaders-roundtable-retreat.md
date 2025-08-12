@@ -69,7 +69,23 @@ page_blocks:
       link_url: ''
       link_text: ''
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1754428172/250805_SF_Roundtable_Graphics_V2_Page_4.png
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1755023278/250811_SF_Roundtable_Graphics_V4.png
+    alt_text:
+    image_caption_text: ''
+  - template: image-block
+    button:
+      - button_text:
+        button_link:
+    section_break: false
+    include_left-hand_column_text_: false
+    lefthand_text:
+      header_type: ''
+      text: ''
+      download: ''
+      link_url: ''
+      link_text: ''
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1755023293/250811_SF_Roundtable_Graphics_V42.png
     alt_text:
     image_caption_text: ''
   - template: miscellaneous-block
