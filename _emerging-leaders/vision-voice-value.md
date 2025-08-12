@@ -44,7 +44,7 @@ page_blocks:
       Liu, Chief Public Realm Officer, City of New York; Julia Gamolina,
       Associate Principal, Ennead Architects & Founder, Madame Architect; Brett
       Gaillard, Head of Capital Projects, The Met; and Christopher Bishop,
-      Career Futurist & Author of "Improvising Careers" .
+      Career Futurist & Author of "Improvising Careers".
 
 
       Total program cost is $1,000. Two, full need-based scholarships will be
