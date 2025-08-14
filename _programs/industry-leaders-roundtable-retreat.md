@@ -89,7 +89,7 @@ page_blocks:
     section_break: false
     include_left-hand_column_text_: false
     miscellaneous: >-
-      **DAY 1: THE PRESIDIO**
+      **DAY 1: ONE LETTERMAN**
 
 
       <u>12:00-1:00pm<br /></u>**Welcome Lunch & Introduction<br>Angelica
