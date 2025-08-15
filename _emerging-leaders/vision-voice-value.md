@@ -206,7 +206,7 @@ page_blocks:
     header: ''
   - template: image-block
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1754671747/EL_SPONSORS.jpg
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1755270701/EL_sponsors_2.png
     include_left-hand_column_text_: true
     lefthand_text:
       header_type:
