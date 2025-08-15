@@ -51,10 +51,16 @@ page_blocks:
       available. Contact info@bwaf.org for questions. 
 
 
-      APPLICATIONS OPEN: AUGUST 15
+      APPLICATIONS NOW OPEN
 
 
       APPLICATION DEADLINE: SEPTEMBER 5
+  - template: buttons-block
+    button:
+      - button_text: APPLY NOW
+        button_link: https://bwaf.wufoo.com/forms/mm6xfr80e1ij3b/
+    section_break: false
+    include_left-hand_column_text_: false
   - template: image-block
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1754428271/EmergingLeaders2025Graphic_eNews.png
