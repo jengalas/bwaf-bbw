@@ -161,8 +161,8 @@ page_blocks:
       Master of Science in Historic Preservation degrees from Columbia
       University Graduate School of Architecture, Planning and Preservation.</p>
     time-location:
-      line-1: Thursday, October 16, 6:00-8:00PM
-      line-2: TBA
+      line-1: Thursday, October 16, 5:30-7:30PM
+      line-2: The Metropolitan Museum of Art, 1000 Fifth Avenue, New York, NY 10028
     section_break: false
     include_left-hand_column_text_: false
   - template: featured-portrait-block
@@ -187,7 +187,7 @@ page_blocks:
       implications of bleeding-edge technologies.</p><p></p>
     time-location:
       line-1: Thursday, October 30, 6:00-8:00PM
-      line-2: TBA
+      line-2: HR&A Advisors, 99 Hudson St, New York, NY 10013
     section_break: false
     include_left-hand_column_text_: false
   - template: portrait-gallery-block-small
