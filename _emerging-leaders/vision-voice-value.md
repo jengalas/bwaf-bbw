@@ -63,7 +63,7 @@ page_blocks:
     include_left-hand_column_text_: false
   - template: image-block
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1754428271/EmergingLeaders2025Graphic_eNews.png
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1755702004/250820_Emerging_Leaders_Graphics_V42.png
     include_left-hand_column_text_: true
     lefthand_text:
       header_type:
