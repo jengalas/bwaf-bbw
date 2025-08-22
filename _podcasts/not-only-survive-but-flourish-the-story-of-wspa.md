@@ -5,7 +5,7 @@ navCategory: Resources
 layout: full-podcast-page
 title: 'Not Only Survive, but Flourish: The Story of WSPA'
 season: 3
-episode_number: 13
+episode_number: 14
 description: >-
   This episode describes the creation and experience of the Women’s School of
   Planning and Architecture, popularly known as WSPA, which ran for four summers
