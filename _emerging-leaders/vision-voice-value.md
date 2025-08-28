@@ -24,11 +24,10 @@ page_blocks:
       Within a small group format, participants engage with significant senior
       women in architecture, design, engineering, construction, real estate,
       law, and financial services to advance their own career goals and connect
-      with a cohort of ambitious colleagues across at similar professional
-      levels. Participants share common experiences and trade personal
-      strategies for advancing their field. Over 250 women have participated in
-      past cohorts, building a timeless network of allies and support for each
-      other.
+      with a cohort of ambitious colleagues across similar professional levels.
+      Participants share common experiences and trade personal strategies for
+      advancing their field. Over 250 women have participated in past cohorts,
+      building a timeless network of allies and support for each other.
   - template: text-block
     include_left-hand_column_text_: true
     lefthand_text:
