@@ -39,11 +39,11 @@ page_blocks:
     section_break: false
     text_block: >
       VISION, VOICE, & VALUE will be held October 2, October 9, October 16, and
-      October 30, 2025, from 6:00-8:00pm. Participants will hear from: Ya-Ting
-      Liu, Chief Public Realm Officer, City of New York; Julia Gamolina,
-      Associate Principal, Ennead Architects & Founder, Madame Architect; Brett
-      Gaillard, Head of Capital Projects, The Met; and Christopher Bishop,
-      Career Futurist & Author of "Improvising Careers".
+      October 30, 2025. Participants will hear from: Ya-Ting Liu, Chief Public
+      Realm Officer, City of New York; Julia Gamolina, Associate Principal,
+      Ennead Architects & Founder, Madame Architect; Brett Gaillard, Head of
+      Capital Projects, The Met; and Christopher Bishop, Career Futurist &
+      Author of "Improvising Careers".
 
 
       Total program cost is $1,000. Two, full need-based scholarships will be
@@ -53,7 +53,7 @@ page_blocks:
       APPLICATIONS NOW OPEN
 
 
-      APPLICATION DEADLINE: SEPTEMBER 5
+      APPLICATION DEADLINE EXTENDED: SEPTEMBER 10
   - template: buttons-block
     button:
       - button_text: APPLY NOW
