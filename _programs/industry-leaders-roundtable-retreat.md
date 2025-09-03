@@ -97,9 +97,9 @@ page_blocks:
       Executive Director
 
 
-      <u>1:00-2:00pm<br /></u>**Design Thinking for Social Benefit
-      Panel<br>Jennifer Dunlop Fletcher**, SFMoMA, Helen Hilton Raiser Curator
-      and Head of the Department of Architecture and Design
+      <u>1:00-2:00pm<br /></u>**Life Architecture: Building Connections and
+      Boundaries Panel<br>Jennifer Dunlop Fletcher**, SFMoMA, Helen Hilton
+      Raiser Curator and Head of the Department of Architecture and Design
       (Moderator)<br>**Emily Pilloton-Lam**, Girls Garage, Founder & Executive
       Director**<br>Shoshana Berger**, Fractional Chief Marketing &
       Communications Officer**<br>Lauren Smith**, Eames Institute, Chief
