@@ -78,8 +78,24 @@ page_blocks:
       - title: Jennifer Stone, AIA
         title_role: Secretary
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618329715/Stone_ltb0db.jpg
-        description: "Experienced in managing complex institutional planning and design projects, as Partner at Robert A.M. Stern Architects LLP, Jennifer Stone brings a love of contextually appropriate, sustainable architecture to her work with clients, communities, and building industry partners.\_\nJennifer is an active participant, mentor, and volunteer in her professional community. As a council member of the Society for College and University Planning, she shares her extensive knowledge and stays current with global best practices. Her presentations at numerous professional conferences and her leadership roles with the New York Building Congress Foundation, ACE Mentorship Programs, and the Urban Land Institute, as well as the firm's own Women Leadership Initiative and Sustainability Committee, testify to her commitment to developing and opening the field of architecture."
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1757019216/Jennifer.Stone_1701_website-2.jpg
+        description: >-
+          Jennifer Stone, a partner at RAMSA, leads complex institutional
+          planning and design projects with a focus on sustainability and
+          context-driven architecture. Known for her collaborative approach, she
+          has contributed to major academic projects including the Schwarzman
+          Center and two residential colleges at
+
+          Yale, a residence hall at the University of Delaware, and the Business
+          Learning Community at the University of Georgia. She recently oversaw
+          expansions at the University of Virginia’s McIntire School of Commerce
+          and Catholic University’s Conway School of Nursing, and is currently
+          leading a space planning study for Penn Carey Law. Jennifer serves as
+          a trustee of the Beverly Willis Architecture
+
+          Foundation and sits on the boards of the New York Building Congress
+          and the Society for College and University Planning. She also chairs
+          RAMSA’s Women’s Leadership Initiative.
       - title: Joan Blumenfeld, FAIA, FIIDA, LEED ID+C
         title_role: Co-Chair, Nominating Committee
         image: >-
