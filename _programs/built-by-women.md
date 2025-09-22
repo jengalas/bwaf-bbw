@@ -47,4 +47,9 @@ lefthand_link:
   link_text: Become a sponsor of the program
   link_url: https://bwaf.netlify.app/support
 
+#  CloudCannon config
+_inputs:
+  description:
+    hidden: false
+    type: markdown  
 ---
