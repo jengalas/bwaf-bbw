@@ -1356,6 +1356,35 @@ figcaption, .smallest{
     }
 }
 
+.built-by-women .text-block h2 {
+  font-size: 42px;
+  margin-top: 1.5em;
+}
+
+.built-by-women li {
+  margin-bottom: 0;
+}
+
+.built-by-women p+ul {
+  margin-top: -1em;
+}
+
+.built-by-women ul > li > ul {
+  margin-left: 40px;
+}
+
+.built-by-women .main-two-up .text-block ul li {
+  margin-bottom: 0;
+}
+
+.built-by-women h3 {
+  margin-bottom: .7em;
+}
+
+.main-two-up .text-block ul {
+  margin-bottom: 1em;
+}
+
 // Podcasts
 
 .visually-hidden {
