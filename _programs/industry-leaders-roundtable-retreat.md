@@ -44,12 +44,6 @@ page_blocks:
       tours. The Industry Leaders Roundtable is one of our signature programs,
       designed to bring together Principals, Partners, and senior AEC leaders to
       foster dialogue and strategize ways to move our industry forward.
-  - template: buttons-block
-    button:
-      - button_text: SF TICKETS NOW AVAILABLE
-        button_link: https://www.eventbrite.com/e/1513912305459?aff=oddtdtcreator
-    section_break: false
-    include_left-hand_column_text_: false
   - template: image-block
     button:
       - button_text:
