@@ -37,13 +37,16 @@ page_blocks:
       download: ''
       link_url:
       link_text:
-    text_block: >
-      Join us in San Francisco on September 16 & 17 for an immersive, two-day
-      retreat alongside senior thought leaders across the built environment for
-      a rigorous and engaging series of discussions, workshops, and exclusive
-      tours. The Industry Leaders Roundtable is one of our signature programs,
-      designed to bring together Principals, Partners, and senior AEC leaders to
-      foster dialogue and strategize ways to move our industry forward.
+    text_block: >-
+      A recap of two incredible days of insight, connection, and inspiration at
+      the BWAF Industry Leaders Roundtable: San Francisco. From thoughtful
+      conversations on leadership and values to hands-on exploration of design,
+      innovation, and the future of work, the city set the perfect stage for
+      meaningful exchange.
+
+
+      Thank you to all the speakers and participants who made this gathering so
+      rich. And thank you SF for the fog, the views, and the space to think big!
   - template: image-block
     button:
       - button_text:
@@ -60,11 +63,33 @@ page_blocks:
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1754428172/250805_SF_Roundtable_Graphics_V2_Page_4.png
     alt_text:
     image_caption_text: ''
-  - template: image-block
+  - template: slideshow-block
     button:
       - button_text:
         button_link:
     section_break: false
+    image:
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1758745693/processed-0658B282-931B-4BF0-BA44-9B08704792B2.jpg
+        caption: 'Industry Leaders Roundtable San Francisco: September 16 & 17'
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1758745729/IMG_0316.jpg
+        caption: 'Industry Leaders Roundtable San Francisco: September 16 & 17'
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1758745793/IMG_0325.jpg
+        caption: 'Industry Leaders Roundtable San Francisco: September 16 & 17'
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1758745747/IMG_0261.jpg
+        caption: 'Industry Leaders Roundtable San Francisco: September 16 & 17'
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1758745762/IMG_0274.jpg
+        caption: 'Industry Leaders Roundtable San Francisco: September 16 & 17'
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1758745853/IMG_0382.jpg
+        caption: 'Industry Leaders Roundtable San Francisco: September 16 & 17'
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1758745870/IMG_0401.jpg
+        caption: 'Industry Leaders Roundtable San Francisco: September 16 & 17'
     include_left-hand_column_text_: false
     lefthand_text:
       header_type: ''
@@ -72,10 +97,7 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-    image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1756911641/250903_SF_Roundtable_Graphics_V12.png
-    alt_text:
-    image_caption_text: ''
+    automatic: true
   - template: miscellaneous-block
     button:
       - button_text:
