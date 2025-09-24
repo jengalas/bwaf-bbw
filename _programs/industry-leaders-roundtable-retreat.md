@@ -153,7 +153,8 @@ page_blocks:
       Mistry**, Arup, Associate Principal & Americas Foresight
       Leader<br><br><u>3:30-5:00pm<br /></u>Group
       Discussion<br><br><u>5:00-6:00pm<br /></u>**Conclusion<br>Atousa
-      Shafizadeh**, Tesla, Manager Workplace & Portfolio Planning
+      Shafizadeh**, Tesla, Manager Workplace & Portfolio Planning<br>**Karen Liu
+      Staubach**, Google Real Estate & Workplace, Workplace Design Leader
 
 
       <u>6:00-8:00pm<br /></u>Cocktail Invitational
