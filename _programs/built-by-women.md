@@ -142,6 +142,8 @@ current-year: _bbw-years/bbw-2026.md
 lefthand_link:
   link_text: Become a sponsor of the program
   link_url: https://bwaf.netlify.app/support
+images:
+  - image: /uploads/webuiltthis-ig.gif  
 # CloudCannon config  
 _inputs:
   description:
