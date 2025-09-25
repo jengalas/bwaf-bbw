@@ -25,13 +25,14 @@ slideshow-images:
 description: >-
   Beverly Willis Architecture Foundation creates opportunities with national
   attention to demonstrate the breadth of achievement in the building industries
-  by women at the highest levels. Through a juried mapping project, Built by Women
-  recognizes the significant but often overlooked work of women architects,
-  landscape architects, urban designers, engineers, contractors, and developers
-  in selected cities. Following previous programs in Manhattan and Los Angeles,
-  the 2026 Built by Women map will center on New York City to discover new and
-  innovative women-led projects throughout the five boroughs and explore the
-  important ways that work by women shapes the built environment.
+  by women at the highest levels. Through a juried mapping project, Built by
+  Women recognizes the significant but often overlooked work of women
+  architects, landscape architects, urban designers, engineers, contractors, and
+  developers in selected cities. Following previous programs in Manhattan and
+  Los Angeles, the 2026 Built by Women map will center on New York City to
+  discover new and innovative women-led projects throughout the five boroughs
+  and explore the important ways that work by women shapes the built
+  environment.
 
 
   # Built by Women NYC
@@ -40,8 +41,8 @@ description: >-
   ## Timeline
 
 
-  Submissions close October 24, 2025. Contact [info@bwaf.org](mailto:info@bwaf.org)
-  with questions or for more information.
+  Submissions close October 24, 2025. Contact
+  [info@bwaf.org](mailto:info@bwaf.org) with questions or for more information.
 
 
   ## Eligibility
@@ -82,7 +83,11 @@ description: >-
 
   ## Submission Instructions & Materials
 
-  Complete the form below to sign up to receive your personal submission link. Once received, submit your Project Statement and Team Information for each project being submitted as a single PDF and include your high-resolution project images as unique JPG files with firm name and building name in file. 
+
+  Complete the form below to sign up to receive your personal submission link.
+  Once received, submit your Project Statement and Team Information for each
+  project being submitted as a single PDF and include your high-resolution
+  project images as unique JPG files with firm name and building name in file.
 
 
   ### Project Statement (300 words maximum)
@@ -96,14 +101,14 @@ description: >-
   ### Team Information
 
 
-  * Names, roles, and affiliations of women whose contributions are being highlighted.
+  * Names, roles, and affiliations of women whose contributions are being
+  highlighted.
 
   * Firm/organization name and contact details.
 
   * Project Information
     * Project name, location, year completed.
     * Client (if applicable).
-  
 
   ### Project Images
 
@@ -111,7 +116,6 @@ description: >-
   * Minimum of 3, maximum of 6 high-resolution images (JPG/PNG, 300 dpi).
     * Images should directly correlate with the narrative in your text (e.g., key design moments, construction details, completed views).
     * Captions must include credits (photographer, firm, year).
-
 
   ### Selection Criteria
 
@@ -143,8 +147,8 @@ lefthand_link:
   link_text: Become a sponsor of the program
   link_url: https://bwaf.netlify.app/support
 images:
-  - image: /uploads/webuiltthis-ig.gif  
-# CloudCannon config  
+  - image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1758760370/WeBuiltThis_IG.gif
 _inputs:
   description:
     hidden: false
