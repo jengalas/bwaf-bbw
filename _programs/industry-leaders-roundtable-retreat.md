@@ -51,7 +51,14 @@ page_blocks:
       the Moynihan complex. 
 
 
-      Stay tuned for more speaker and venue details.
+      Stay tuned for more details.
+  - template: buttons-block
+    button:
+      - button_text: Tickets
+        button_link: >-
+          https://www.eventbrite.com/e/industry-leaders-roundtable-new-york-city-tickets-1761068416039?aff=oddtdtcreator
+    section_break: false
+    include_left-hand_column_text_: false
   - template: image-block
     button:
       - button_text:
