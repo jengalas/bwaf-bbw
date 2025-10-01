@@ -8,6 +8,9 @@ sign-up-text: >-
   Sign up for the newsletter and get the latest news on upcoming programs and
   events
 newsletters:
+  - link: https://ohny.org/place/beverly-willis-architecture-foundation-2/
+    month_year: October 2025
+    title: 'OHNY Weekend: BWAF Built by Women Self-Guided Walking Tour '
   - link: >-
       https://calendar.aiany.org/2025/08/21/fantasizing-design-exhibition-closing-celebration/
     month_year: August 2025
@@ -57,7 +60,9 @@ _inputs:
         <p>{{page.description}}</p>
     </div>
 </div>
+
 <div class="hr"></div>
+
 <div class="main-two-up">
     <div>
         <a href="/subscribe" target="_blank" class="lefthand-link" style="color: var(--green)">{{page.sign-up-text}} →</a>
