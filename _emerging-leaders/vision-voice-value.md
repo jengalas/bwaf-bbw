@@ -29,7 +29,7 @@ page_blocks:
       advancing their field. Over 250 women have participated in past cohorts,
       building a timeless network of allies and support for each other.
   - template: text-block
-    include_left-hand_column_text_: true
+    include_left-hand_column_text_: false
     lefthand_text:
       text: Vision, Voice, & Value
       header_type: Medium Header
@@ -47,7 +47,6 @@ page_blocks:
 
 
       Applications are now closed.
-    include_left-hand_column_text_: false
   - template: image-block
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1755702004/250820_Emerging_Leaders_Graphics_V42.png
@@ -177,9 +176,70 @@ page_blocks:
     include_left-hand_column_text_: false
   - template: portrait-gallery-block-small
     portrait:
-      - title:
-        title_role:
-        image:
+      - title: 'Adrianna Early '
+        title_role: 'Associate, GMS '
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1759333544/Adrianna_Early.png
+      - title: Aleksandra Ana Krstivojevic
+        title_role: Architectural Designer
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1759333590/Ana_Krstivojevic.jpg
+      - title: Amanda Lu
+        title_role: Project Engineer, Langan
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1759333625/Amanda_Lu.png
+      - title: Angela Fernandes
+        title_role: 'Associate Campus Planner, Brown University '
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1759333659/Angela_Fernades.png
+      - title: Caroline Barrick
+        title_role: 'Senior Consulting Architect, Rimkus Consulting '
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1759333702/Caroline_Barrick.png
+      - title: Chelsea Anderson
+        title_role: Project Executive, About the Work
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1759333738/Chelsea_Anderson.png
+      - title: Cheryl Lu Xu
+        title_role: Associate, RAMSA
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1759333767/Cheryl_Xu.png
+      - title: Erin Cahill
+        title_role: Senior Project Engineer, JB&B
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1759333802/Erin_Cahill.png
+      - title: Erin Hank
+        title_role: Senior Project Engineer, JB&B
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1759333825/Erin_Hank.png
+      - title: Isabel Lorenzo
+        title_role: Associate, GMS
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1759333855/Isabel_Lorenzo.png
+      - title: Jessica Doermann
+        title_role: Fire Engineer, Arup
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1759333887/Jessica_Doermann.png
+      - title: Mengxue (Barbara) Gao
+        title_role: Senior Project Director, Thornton Tomasetti
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1759333927/Barbara_Gao_Headshot.png
+      - title: Nika Mo
+        title_role: Moody Nolan
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1759333956/Nika_Mo_Headshot.png
+      - title: Sarah Beaudoin
+        title_role: 'Project Architect, Marvel Designs '
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1759333990/Sarah_Beaudoin.png
+      - title: Sonja Hartmann
+        title_role: Senior Civil Engineer, Arup
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1759334022/Sonja_Hartman.jpg
+      - title: Valeria Bardi Cohen
+        title_role: 'Architectural Designer, S9 Architecture '
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1759334051/Valeria_Bardi_Headshot.jpg
     section_break: false
     include_left-hand_column_text_: false
     lefthand_text:
