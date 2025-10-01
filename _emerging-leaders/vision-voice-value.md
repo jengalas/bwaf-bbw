@@ -49,7 +49,7 @@ page_blocks:
       Applications are now closed.
   - template: image-block
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1755702004/250820_Emerging_Leaders_Graphics_V42.png
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1759353822/EMERGING_LEADERS_BANNER.png
     include_left-hand_column_text_: true
     lefthand_text:
       header_type:
