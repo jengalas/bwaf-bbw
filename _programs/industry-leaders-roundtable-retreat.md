@@ -38,15 +38,20 @@ page_blocks:
       link_url:
       link_text:
     text_block: >-
-      A recap of two incredible days of insight, connection, and inspiration at
-      the BWAF Industry Leaders Roundtable: San Francisco. From thoughtful
-      conversations on leadership and values to hands-on exploration of design,
-      innovation, and the future of work, the city set the perfect stage for
-      meaningful exchange.
+      The Industry Leaders Roundtable is going coast to coast!
 
 
-      Thank you to all the speakers and participants who made this gathering so
-      rich. And thank you SF for the fog, the views, and the space to think big!
+      Following our program San Francisco, the second Roundtable of 2025 will
+      take place in New York City on October 21 & 22.
+
+
+      We'll be hosted at Ray Harlem on Day 1 and Two Manhattan West on Day 2,
+      with tours of the soon-to-be-opened National Black Theater and the Meta
+      Art Spaces in the Farley Building, alongside an in-depth exploration of
+      the Moynihan complex. 
+
+
+      Stay tuned for more speaker and venue details.
   - template: image-block
     button:
       - button_text:
@@ -60,7 +65,7 @@ page_blocks:
       link_url: ''
       link_text: ''
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1754428172/250805_SF_Roundtable_Graphics_V2_Page_4.png
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1759331662/250909_NY_Roundtable_Graphics_V1_2.png
     alt_text:
     image_caption_text: ''
   - template: slideshow-block
@@ -104,60 +109,7 @@ page_blocks:
         button_link:
     section_break: false
     include_left-hand_column_text_: false
-    miscellaneous: >-
-      **DAY 1: ONE LETTERMAN**
-
-
-      <u>12:00-1:00pm<br /></u>**Welcome Lunch & Introduction<br>Angelica
-      Baccon**, SHoP Architects, Principal<br>**Tizziana Baldenebro**, BWAF,
-      Executive Director
-
-
-      <u>1:00-2:00pm<br /></u>**Life Architecture: Building Connections and
-      Boundaries Panel<br>Jennifer Dunlop Fletcher**, SFMoMA, Helen Hilton
-      Raiser Curator and Head of the Department of Architecture and Design
-      (Moderator)<br>**Emily Pilloton-Lam**, Girls Garage, Founder & Executive
-      Director**<br>Shoshana Berger**, Fractional Chief Marketing &
-      Communications Officer**<br>Lauren Smith**, Eames Institute, Chief
-      Experience Officer
-
-
-      <u>2:00-3:00pm<br /></u>**Michelle Lee**, Ideo Play Lab, Partner &
-      Managing Director
-
-
-      <u>3:00-5:00pm<br /></u>**Presidio Tunnel Tops Talk & Walking
-      Tour<br>Richard Kennedy**, Field Operations, Partner
-
-
-      <u>5:00-6:00pm<br /></u>Break
-
-
-      <u>6:00-9:00pm<br /></u>Cocktail Reception + Dinner
-
-
-      **DAY 2: THE AVERY**
-
-
-      <u>9:30am- 12:00pm<br /></u>**Julia Morgan Architecture Walking
-      Tour<br>Dr. Karen McNeill**, PhD, Julia Morgan expert
-
-
-      <u>12:00-1:00pm<br /></u>Lunch
-
-
-      <u>1:00-2:00pm<br /></u>Travel from Berkeley to The Avery
-
-
-      <u>2:00-3:30pm<br /></u>**Futures & Foresight Fluency Talk<br>Radha
-      Mistry**, Arup, Associate Principal & Americas Foresight
-      Leader<br><br><u>3:30-5:00pm<br /></u>Group
-      Discussion<br><br><u>5:00-6:00pm<br /></u>**Conclusion<br>Atousa
-      Shafizadeh**, Tesla, Manager Workplace & Portfolio Planning<br>**Karen Liu
-      Staubach**, Google Real Estate & Workplace, Workplace Design Leader
-
-
-      <u>6:00-8:00pm<br /></u>Cocktail Invitational
+    miscellaneous: ''
     lefthand_text:
       header_type: ''
       text: ''
