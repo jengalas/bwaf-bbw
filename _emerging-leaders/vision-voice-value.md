@@ -225,7 +225,7 @@ page_blocks:
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1759333927/Barbara_Gao_Headshot.png
       - title: Nika Mo
-        title_role: Moody Nolan
+        title_role: Project Architect, Moody Nolan
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1759333956/Nika_Mo_Headshot.png
       - title: Sarah Beaudoin
@@ -240,6 +240,10 @@ page_blocks:
         title_role: 'Architectural Designer, S9 Architecture '
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1759334051/Valeria_Bardi_Headshot.jpg
+      - title: Laura Kim
+        title_role: Senior Analyst, HR&A Advisors
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1759435375/Laura_Kim_full_size.png
     section_break: false
     include_left-hand_column_text_: false
     lefthand_text:
