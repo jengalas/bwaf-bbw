@@ -37,7 +37,7 @@ page_blocks:
       download: ''
       link_url:
       link_text:
-    text_block: >
+    text_block: >+
       The Industry Leaders Roundtable is going coast to coast!
 
 
@@ -51,7 +51,10 @@ page_blocks:
       We'll be hosted at Ray Harlem on Day 1 and Two Manhattan West on Day 2,
       with tours of the soon-to-be-opened National Black Theater and the Meta
       Art Spaces in the Farley Building, alongside an in-depth exploration of
-      the Moynihan complex. 
+      the Moynihan complex. The first day will conclude with a special evening
+      at the New York Philharmonic as Jeannette Sorrell conducts seminal works
+      of Mozart.
+
   - template: buttons-block
     button:
       - button_text: Tickets
