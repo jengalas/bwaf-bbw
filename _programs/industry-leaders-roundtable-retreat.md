@@ -75,6 +75,38 @@ page_blocks:
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1759331662/250909_NY_Roundtable_Graphics_V1_2.png
     alt_text:
     image_caption_text: ''
+  - template: miscellaneous-block
+    button:
+      - button_text:
+        button_link:
+    section_break: false
+    include_left-hand_column_text_: false
+    miscellaneous: >-
+      Featured speakers include:
+
+
+      * Angelica Bacon, SHoP Architects, Principal
+
+      * Jeannette Sorrell, Apollo’s Fire, Founder & Conductor
+
+      * Fernando Garcia, Oscar de la Renta, Co-Creative Director
+
+      * Suzanne Musho, New York Presbyterian Hospital, Campus Leader of Design,
+      Construction, & Capital Planning
+
+      * Nathalie Weiss, McKinsey, Associate
+
+      * Anna Kenoff, Morpholio, Co-Founder
+
+      * Jim Keen, Architect, Author, AI Thought Leader
+
+      * Sade Lythcott, National Black Theater, Chief Executive Officer
+    lefthand_text:
+      header_type: ''
+      text: ''
+      download: ''
+      link_url: ''
+      link_text: ''
   - template: slideshow-block
     button:
       - button_text:
@@ -110,38 +142,6 @@ page_blocks:
       link_url: ''
       link_text: ''
     automatic: true
-  - template: miscellaneous-block
-    button:
-      - button_text:
-        button_link:
-    section_break: false
-    include_left-hand_column_text_: false
-    miscellaneous: >-
-      Featured speakers include:
-
-
-      * Angelica Bacon, SHoP Architects, Principal
-
-      * Jeannette Sorrell, Apollo’s Fire, Founder & Conductor
-
-      * Fernando Garcia, Oscar de la Renta, Co-Creative Director
-
-      * Suzanne Musho, New York Presbyterian Hospital, Campus Leader of Design,
-      Construction, & Capital Planning
-
-      * Nathalie Weiss, McKinsey, Associate
-
-      * Anna Kenoff, Morpholio, Co-Founder
-
-      * Jim Keen, Architect, Author, AI Thought Leader
-
-      * Sade Lythcott, National Black Theater, Chief Executive Officer
-    lefthand_text:
-      header_type: ''
-      text: ''
-      download: ''
-      link_url: ''
-      link_text: ''
   - template: image-block
     button:
       - button_text:
