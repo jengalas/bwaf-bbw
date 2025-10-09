@@ -220,6 +220,10 @@ page_blocks:
         title_role: Fire Engineer, Arup
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1759333887/Jessica_Doermann.png
+      - title: Laura Kim
+        title_role: Senior Analyst, HR&A Advisors
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1759435375/Laura_Kim_full_size.png
       - title: Mengxue (Barbara) Gao
         title_role: Senior Project Director, Thornton Tomasetti
         image: >-
@@ -240,10 +244,6 @@ page_blocks:
         title_role: 'Architectural Designer, S9 Architecture '
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1759334051/Valeria_Bardi_Headshot.jpg
-      - title: Laura Kim
-        title_role: Senior Analyst, HR&A Advisors
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1759435375/Laura_Kim_full_size.png
     section_break: false
     include_left-hand_column_text_: false
     lefthand_text:
