@@ -233,7 +233,7 @@ page_blocks:
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1759333956/Nika_Mo_Headshot.png
       - title: Sarah Beaudoin
-        title_role: 'Project Architect, Marvel Designs '
+        title_role: 'Project Architect, Marvel '
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1759333990/Sarah_Beaudoin.png
       - title: Sonja Hartmann
