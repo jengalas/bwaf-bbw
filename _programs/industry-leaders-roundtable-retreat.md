@@ -116,7 +116,26 @@ page_blocks:
         button_link:
     section_break: false
     include_left-hand_column_text_: false
-    miscellaneous: ''
+    miscellaneous: >-
+      Featured speakers include:
+
+
+      * Angelica Bacon, SHoP Architects, Principal
+
+      * Jeannette Sorrell, Apollo’s Fire, Founder & Conductor
+
+      * Fernando Garcia, Oscar de la Renta, Co-Creative Director
+
+      * Suzanne Musho, New York Presbyterian Hospital, Campus Leader of Design,
+      Construction, & Capital Planning
+
+      * Nathalie Weiss, McKinsey, Associate
+
+      * Anna Kenoff, Morpholio, Co-Founder
+
+      * Jim Keen, Architect, Author, AI Thought Leader
+
+      * Sade Lythcott, National Black Theater, Chief Executive Officer
     lefthand_text:
       header_type: ''
       text: ''
