@@ -37,21 +37,21 @@ page_blocks:
       download: ''
       link_url:
       link_text:
-    text_block: >-
+    text_block: >
       The Industry Leaders Roundtable is going coast to coast!
 
 
       Following our program San Francisco, the second Roundtable of 2025 will
-      take place in New York City on October 21 & 22.
+      take place in New York City on October 21 & 22. Join us for an immersive,
+      two-day retreat alongside senior thought leaders across the built
+      environment and NYC's cultural scene for a rigorous and engaging series of
+      conversations, tours, and workshops. 
 
 
       We'll be hosted at Ray Harlem on Day 1 and Two Manhattan West on Day 2,
       with tours of the soon-to-be-opened National Black Theater and the Meta
       Art Spaces in the Farley Building, alongside an in-depth exploration of
       the Moynihan complex. 
-
-
-      Stay tuned for more details.
   - template: buttons-block
     button:
       - button_text: Tickets
