@@ -78,22 +78,6 @@ page_blocks:
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1759331662/250909_NY_Roundtable_Graphics_V1_2.png
     alt_text:
     image_caption_text: ''
-  - template: image-block
-    button:
-      - button_text:
-        button_link:
-    section_break: false
-    include_left-hand_column_text_: false
-    lefthand_text:
-      header_type: ''
-      text: ''
-      download: ''
-      link_url: ''
-      link_text: ''
-    image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1760465748/251014_NYC_RT_Graphics_V1_.png
-    alt_text:
-    image_caption_text: ''
   - template: miscellaneous-block
     button:
       - button_text:
