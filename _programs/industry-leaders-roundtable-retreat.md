@@ -203,7 +203,7 @@ page_blocks:
       link_url: ''
       link_text: ''
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1753898069/Screenshot_2025-07-30_at_1.54.10_PM.png
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1760467040/NYC_RT_sponsors.png
     alt_text:
     image_caption_text: 'Thank you to our supporters for making this program possible. '
   - template: buttons-block
