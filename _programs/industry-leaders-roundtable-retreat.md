@@ -55,6 +55,45 @@ page_blocks:
       at the New York Philharmonic as Jeannette Sorrell conducts seminal works
       of Mozart.
 
+  - template: buttons-block
+    button:
+      - button_text: Tickets
+        button_link: >-
+          https://www.eventbrite.com/e/industry-leaders-roundtable-new-york-city-tickets-1761068416039?aff=oddtdtcreator
+    section_break: false
+    include_left-hand_column_text_: false
+  - template: image-block
+    button:
+      - button_text:
+        button_link:
+    section_break: false
+    include_left-hand_column_text_: false
+    lefthand_text:
+      header_type: ''
+      text: ''
+      download: ''
+      link_url: ''
+      link_text: ''
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1759331662/250909_NY_Roundtable_Graphics_V1_2.png
+    alt_text:
+    image_caption_text: ''
+  - template: image-block
+    button:
+      - button_text:
+        button_link:
+    section_break: false
+    include_left-hand_column_text_: false
+    lefthand_text:
+      header_type: ''
+      text: ''
+      download: ''
+      link_url: ''
+      link_text: ''
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1760465748/251014_NYC_RT_Graphics_V1_.png
+    alt_text:
+    image_caption_text: ''
   - template: miscellaneous-block
     button:
       - button_text:
@@ -131,45 +170,6 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-  - template: buttons-block
-    button:
-      - button_text: Tickets
-        button_link: >-
-          https://www.eventbrite.com/e/industry-leaders-roundtable-new-york-city-tickets-1761068416039?aff=oddtdtcreator
-    section_break: false
-    include_left-hand_column_text_: false
-  - template: image-block
-    button:
-      - button_text:
-        button_link:
-    section_break: false
-    include_left-hand_column_text_: false
-    lefthand_text:
-      header_type: ''
-      text: ''
-      download: ''
-      link_url: ''
-      link_text: ''
-    image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1759331662/250909_NY_Roundtable_Graphics_V1_2.png
-    alt_text:
-    image_caption_text: ''
-  - template: image-block
-    button:
-      - button_text:
-        button_link:
-    section_break: false
-    include_left-hand_column_text_: false
-    lefthand_text:
-      header_type: ''
-      text: ''
-      download: ''
-      link_url: ''
-      link_text: ''
-    image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1760465748/251014_NYC_RT_Graphics_V1_.png
-    alt_text:
-    image_caption_text: ''
   - template: slideshow-block
     button:
       - button_text:
