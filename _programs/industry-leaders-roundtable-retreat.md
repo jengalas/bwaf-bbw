@@ -88,11 +88,12 @@ page_blocks:
       **DAY 1: RAY HARLEM & NATIONAL BLACK THEATRE**
 
 
-      10:00am-11:00am<br>**Angelica Baccon**, SHoP Architects,
+      10:00am-10:30am<br>**Angelica Baccon**, SHoP Architects,
       Principal<br>**Tizziana Baldenebro**, BWAF, Executive Director
 
 
-      11:00am-1:00pm<br>**Hard Hat Tour of National Black Theatre**
+      10:30am-1:00pm<br>**Tour of Ray Harlem<br>Hard Hat Tour National Black
+      Theatre**
 
 
       1:00-2:00pm \| Lunch
