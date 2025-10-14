@@ -62,27 +62,69 @@ page_blocks:
     section_break: false
     include_left-hand_column_text_: false
     miscellaneous: >-
-      Featured speakers include:
+      **DAY 1: RAY HARLEM & NATIONAL BLACK THEATRE**
 
 
-      * Angelica Bacon, SHoP Architects, Principal
+      10:00am-11:00am<br>**Angelica Baccon**, SHoP Architects,
+      Principal<br>**Tizziana Baldenebro**, BWAF, Executive Director
 
-      * Jeannette Sorrell, Apollo’s Fire, Founder & Conductor
 
-      * Suzanne Musho, New York Presbyterian Hospital, Campus Leader of Design,
-      Construction, & Capital Planning
+      11:00am-1:00pm<br>**Hard Hat Tour of National Black Theatre**
 
-      * Hall Rockefeller, Less Than Half, Founder & Director
 
-      * Fernando Garcia, Oscar de la Renta, Co-Creative Director
+      1:00-2:00pm \| Lunch
 
-      * Anna Kenoff, Morpholio, Co-Founder
 
-      * Jim Keen, Architect, Author, AI Thought Leader
+      2:00-3:00pm<br>**Anna Kenoff**, Morpholio, Co-Founder<br>**Jim Keen**,
+      Architect, Author, & AI Thought Leader
 
-      * Nathalie Weiss, McKinsey, Real Estate Unit Associate
 
-      * Stella Bugbee, The New York Times, Styles Editor
+      3:00-4:00pm<br>**Suzanne Musho**,New York Presbyterian Hospital, Campus
+      Leader of Design, Construction, & Capital Planning
+
+
+      4:00-5:00pm<br>**Fernando Garcia**, Oscar de la Renta, Co-Creative
+      Director
+
+
+      5:30-7:00pm \| Dinner at Lincoln Ristorante
+
+
+      7:30pm<br>**Jeannette Sorrell Conducts Mozart’s Symphony No. 40 at New
+      York Philharmonic**
+
+
+      **DAY 2: MOYNIHAN & MANHATTAN WEST**
+
+
+      10:00-11:00am<br>**Tour of Meta Offices/Art Space**
+
+
+      11:00am-12:00pm<br>**Tour of Manhattan West**
+
+
+      12:00pm \| Lunch
+
+
+      1:00-2:00pm<br>**Jeannette Sorrell**, Apollo’s Fire, Founder & Conductor
+
+
+      2:00-3:00pm<br>**Hall Rockefeller**, Less Than Half, Founder & Director
+
+
+      3:00-4:00pm<br>**Stella Bugbee**, The New York Times, Styles Editor
+
+
+      4:00-5:00pm<br>**Nathalie Weiss**, McKinsey, Real Estate Unit Associate
+
+
+      5:00pm \| Closing Toast
+
+
+      &nbsp;
+
+
+      &nbsp;
     lefthand_text:
       header_type: ''
       text: ''
