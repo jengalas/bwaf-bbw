@@ -88,61 +88,47 @@ page_blocks:
       **DAY 1: RAY HARLEM & NATIONAL BLACK THEATRE**
 
 
-      10:00am-10:30am<br>**Angelica Baccon**, SHoP Architects,
+      * 10:00am-10:30am<br>**Angelica Baccon**, SHoP Architects,
       Principal<br>**Tizziana Baldenebro**, BWAF, Executive Director
 
-
-      10:30am-1:00pm<br>**Tour of Ray Harlem<br>Hard Hat Tour National Black
+      * 10:30am-1:00pm<br>**Tour of Ray Harlem<br>Hard Hat Tour National Black
       Theatre**
 
+      * 1:00-2:00pm \| Lunch
 
-      1:00-2:00pm \| Lunch
-
-
-      2:00-3:00pm<br>**Anna Kenoff**, Morpholio, Co-Founder<br>**Jim Keen**,
+      * 2:00-3:00pm<br>**Anna Kenoff**, Morpholio, Co-Founder<br>**Jim Keen**,
       Architect, Author, & AI Thought Leader
 
-
-      3:00-4:00pm<br>**Suzanne Musho**,New York Presbyterian Hospital, Campus
+      * 3:00-4:00pm<br>**Suzanne Musho**,New York Presbyterian Hospital, Campus
       Leader of Design, Construction, & Capital Planning
 
-
-      4:00-5:00pm<br>**Fernando Garcia**, Oscar de la Renta, Co-Creative
+      * 4:00-5:00pm<br>**Fernando Garcia**, Oscar de la Renta, Co-Creative
       Director
 
+      * 5:30-7:00pm \| Dinner at Lincoln Ristorante
 
-      5:30-7:00pm \| Dinner at Lincoln Ristorante
-
-
-      7:30pm<br>**Jeannette Sorrell Conducts Mozart’s Symphony No. 40 at New
+      * 7:30pm<br>**Jeannette Sorrell Conducts Mozart’s Symphony No. 40 at New
       York Philharmonic**
 
 
       **DAY 2: MOYNIHAN & MANHATTAN WEST**
 
 
-      10:00-11:00am<br>**Tour of Meta Offices/Art Space**
+      * 10:00-11:00am<br>**Tour of Meta Offices/Art Space**
 
+      * 11:00am-12:00pm<br>**Tour of Manhattan West**
 
-      11:00am-12:00pm<br>**Tour of Manhattan West**
+      * 12:00pm \| Lunch
 
+      * 1:00-2:00pm<br>**Jeannette Sorrell**, Apollo’s Fire, Founder & Conductor
 
-      12:00pm \| Lunch
+      * 2:00-3:00pm<br>**Hall Rockefeller**, Less Than Half, Founder & Director
 
+      * 3:00-4:00pm<br>**TBA**
 
-      1:00-2:00pm<br>**Jeannette Sorrell**, Apollo’s Fire, Founder & Conductor
+      * 4:00-5:00pm<br>**Nathalie Weiss**, McKinsey, Real Estate Unit Associate
 
-
-      2:00-3:00pm<br>**Hall Rockefeller**, Less Than Half, Founder & Director
-
-
-      3:00-4:00pm<br>**Stella Bugbee**, The New York Times, Styles Editor
-
-
-      4:00-5:00pm<br>**Nathalie Weiss**, McKinsey, Real Estate Unit Associate
-
-
-      5:00pm \| Closing Toast
+      * 5:00pm \| Closing Toast
 
 
       &nbsp;
