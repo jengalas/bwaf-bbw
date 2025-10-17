@@ -102,8 +102,8 @@ page_blocks:
       * 3:00-4:00pm<br>**Suzanne Musho**,New York Presbyterian Hospital, Campus
       Leader of Design, Construction, & Capital Planning
 
-      * 4:00-5:00pm<br>**Fernando Garcia**, Monse, C-Founder; Oscar de la Renta,
-      Co-Creative Director
+      * 4:00-5:00pm<br>**Fernando Garcia**, Monse, Co-Founder; Oscar de la
+      Renta, Co-Creative Director
 
       * 5:30-7:00pm \| Dinner at Lincoln Ristorante
 
