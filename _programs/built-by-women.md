@@ -41,7 +41,7 @@ description: >-
   ## Timeline
 
 
-  Submissions close October 24, 2025. Contact
+  The submission deadline has been extended to November 6, 2025. Contact
   [info@bwaf.org](mailto:info@bwaf.org) with questions or for more information.
 
 
@@ -148,7 +148,7 @@ lefthand_link:
   link_url: https://bwaf.netlify.app/support
 images:
   - image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1758760370/WeBuiltThis_IG.gif
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1761241529/WeBuiltThis_Extension.gif
 _inputs:
   description:
     hidden: false
