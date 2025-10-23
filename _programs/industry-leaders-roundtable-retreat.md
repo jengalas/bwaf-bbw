@@ -37,31 +37,25 @@ page_blocks:
       download: ''
       link_url:
       link_text:
-    text_block: >+
-      The Industry Leaders Roundtable is going coast to coast!
+    text_block: >-
+      Thank you to everyone who participated in our Industry Leaders Roundtable:
+      NYC! 
 
 
-      Following our program San Francisco, the second Roundtable of 2025 will
-      take place in New York City on October 21 & 22. Join us for an immersive,
-      two-day retreat alongside senior thought leaders across the built
-      environment and NYC's cultural scene for a rigorous and engaging series of
-      conversations, tours, and workshops. 
+      Over two dynamic days, leaders from architecture, engineering, theatre,
+      technology, art, music, media, and fashion came together in New York City
+      to explore what visionary leadership looks like today and in the future.
 
 
-      We'll be hosted at Ray Harlem on Day 1 and Two Manhattan West on Day 2,
-      with tours of the soon-to-be-opened National Black Theater and the Meta
-      Art Spaces in the Farley Building, alongside an in-depth exploration of
-      the Moynihan complex. The first day will conclude with a special evening
-      at the New York Philharmonic as Jeannette Sorrell conducts seminal works
-      of Mozart.
+      From in-depth discussions on creativity and cultural influence to
+      behind-the-scenes tours of Ray and the National Black Theatre, Meta’s New
+      York offices, Manhattan West, and an evening at the New York Philharmonic
+      conducted by Jeannette Sorrell, participants experienced the intersections
+      of innovation, storytelling, and community in action.
 
-  - template: buttons-block
-    button:
-      - button_text: Tickets
-        button_link: >-
-          https://www.eventbrite.com/e/industry-leaders-roundtable-new-york-city-tickets-1761068416039?aff=oddtdtcreator
-    section_break: false
-    include_left-hand_column_text_: false
+
+      Stay tuned for information on how to get involved in our 2026 Roundtables,
+      possibly coming to a city near you!
   - template: image-block
     button:
       - button_text:
