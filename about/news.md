@@ -8,9 +8,10 @@ sign-up-text: >-
   Sign up for the newsletter and get the latest news on upcoming programs and
   events
 newsletters:
-  - link: https://ohny.org/place/beverly-willis-architecture-foundation-2/
+  - link: >-
+      https://guides.bloombergconnects.org/en-US/guide/openHouseNewYork/tour/bbdb4589-13e5-4483-a255-03b4a20aa16d
     month_year: October 2025
-    title: 'OHNY Weekend: BWAF Built by Women Self-Guided Walking Tour '
+    title: 'BWAF Built by Women Self-Guided Walking Tour '
   - link: >-
       https://calendar.aiany.org/2025/08/21/fantasizing-design-exhibition-closing-celebration/
     month_year: August 2025
