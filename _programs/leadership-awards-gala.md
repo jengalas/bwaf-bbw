@@ -127,7 +127,7 @@ page_blocks:
       - title: Angelica Baccon
         title_role: Principal, SHoP Architects
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1674591543/210902_Baccon_Portraits-0131_qhyo0l.jpg
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1767641275/Baccon_Portrait_Credit_Ty_Cole.jpg.webp
       - title: 'Jennifer Stone '
         title_role: Partner, Robert A.M. Stern Architects
         image: >-
