@@ -132,6 +132,9 @@ page_blocks:
       - title: 'Michelle Roelofs '
         title_role: Associate Principal, Arup
         image:
+      - title: 'Jennifer Stone '
+        title_role: Partner, Robert A.M. Stern Architects
+        image:
   - template: sponsor-block
     lefthand_text:
       header_type: Medium Header
