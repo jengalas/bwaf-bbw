@@ -135,7 +135,7 @@ page_blocks:
       - title: 'Michelle Roelofs '
         title_role: Associate Principal, Arup
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1767640709/Screenshot_2026-01-05_at_2.17.29_PM.png
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1767640902/Michelle-Roelofs.jpg
       - title: Victoria Ponce de Leon
         title_role: Principal, Buildings Sector Portfolio Manager, TYLin
         image: >-
