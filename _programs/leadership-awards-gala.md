@@ -6,7 +6,7 @@ permalink: /programs/leadership-awards-celebration
 page_blocks:
   - template: image-block
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1737133158/Benefit_save_the_date.jpg
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1767639162/BWAF_2026_Benefit_Save_the_Date.jpg
     image_caption_text: ''
     alt_text: ''
     section_break: false
@@ -30,25 +30,23 @@ page_blocks:
       link_url: ''
       link_text: ''
     text_block: >-
-      On behalf of the Beverly Willis Architecture Foundation, we extend our
-      heartfelt thanks for joining us at the **2025 Bevy Leadership Awards
-      Celebration**! Your presence helped make this event a truly inspiring
-      evening as we honored trailblazing leaders who are shaping the future of
-      architecture and design.
+      The Beverly Willis Architecture Foundation is delighted to invite you to
+      our annual Bevy Leadership Awards, on April 16th, 2026 at The Shed,
+      celebrating visionaries and leaders in the built environment.
 
 
-      We hope you left feeling as inspired as we did by the remarkable
-      achievements of our honorees and the collective impact of our community.
-      Your support and engagement are what make events like this possible, and
-      we are grateful for your commitment to advancing equity and leadership in
-      architecture, design, and construction.
+      **For sponsorship opportunities and ticket information, contact**
+      [**info@bwaf.org**](mailto:info@bwaf.org?subject=&amp;body=)**.**
 
 
-      Check out some of the night’s special moments in the gallery below.
-      Photography courtesy of Samuel Lahoz.
+      In the coming weeks, we will share our panel of remarkable honorees.
 
 
-      <br>
+      &nbsp;
+
+
+      Check out some of the special moments from last year's event  in the
+      gallery below. Photography courtesy of Samuel Lahoz.
   - template: buttons-block
     button:
       - button_text: Photo Gallery
@@ -166,7 +164,7 @@ page_blocks:
         multiple: true
         description: ''
   - template: portrait-gallery-template
-    label: 2025 Committee Chairs
+    label: 2026 Committee Chairs
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Medium Header
@@ -176,18 +174,18 @@ page_blocks:
       link_text: ''
     section_break: true
     portrait:
-      - title: Tami Hausman
-        title_role: Owner & Founder, Hausman LLC
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738704735/tami-3057-768x1009.jpg
-      - title: Sara Kendall
-        title_role: Vice President & General Manager of Interiors, Turner
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738704750/sara-kendall.jpg
-      - title: Michele O’Connor
-        title_role: Principal, LANGAN
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738704764/michelle-oconnor-2.jpg
+      - title: Phoebe Yee
+        title_role: Executive Vice President of Design, Related Companies
+        image:
+      - title: Angelica Baccon
+        title_role: Principal, SHoP Architects
+        image:
+      - title: Victoria Ponce de Leon
+        title_role: Principal, Buildings Sector Portfolio Manager, TYLin
+        image:
+      - title: 'Michelle Roelofs '
+        title_role: Associate Principal, Arup
+        image:
   - template: sponsor-block
     lefthand_text:
       header_type: Medium Header
