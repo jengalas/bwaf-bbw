@@ -177,28 +177,6 @@ page_blocks:
           passionate about supporting, mentoring, and empowering women in STEM
           and the engineering community. This dedication inspired her to
           co-found Women@Langan in September 2015.
-      - title: 'Annya Ramírez-Jiménez, AIA '
-        title_role: Trustee
-        description: >-
-          Annya Ramírez-Jiménez, AIA, is a Partner at Marvel. She oversees the
-          architecture staff of the firm. Annya tackles complex projects with
-          ease and is focused on achieving consensus from stakeholders while
-          maintaining a clear design voice for each project. As a passionate
-          advocate for equity, her career focuses in building a more equitable
-          city that balances its resources to serve all residents. She is
-          currently leading multiple projects at various scales, from the design
-          and development of Rockaway Village; a new neighborhood in Queens
-          which will revitalize downtown Far Rockaway to various city sponsored
-          civic projects in the Bronx including the Bronx Arts Museum
-          Renovation. Annya was raised in Puerto Rico, and attended the
-          University of Puerto Rico School of Architecture, then settled in New
-          York City after obtaining a Master of Architecture degree from
-          Columbia University GSAPP in 2003. She currently serves as a board
-          member for The Clemente Center, a Puerto Rican and Latinx cultural
-          space in the Lower East Side and is a member of the AIANY Honors
-          Committee.
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1643045203/Annya_Headshot-min_qm0qnb.jpg
       - title: Bolanle Williams-Olley
         title_role: Trustee
         image: >-
