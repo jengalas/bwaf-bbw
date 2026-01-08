@@ -42,13 +42,6 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-  - template: image-block
-    image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1737748416/Emerging_Firms_Square.jpg
-    image_caption_text:
-    alt_text:
-    section_break: false
-    include_left-hand_column_text_: false
   - template: featured-portrait-block
     header: Speakers
     time-location:
