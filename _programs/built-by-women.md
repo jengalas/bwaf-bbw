@@ -41,8 +41,7 @@ description: >-
   ## Timeline
 
 
-  The submission deadline has been extended to November 6, 2025. Contact
-  [info@bwaf.org](mailto:info@bwaf.org) with questions or for more information.
+  The submission deadline has closed.
 
 
   ## Eligibility
@@ -139,9 +138,6 @@ description: >-
 
   Submission does not guarantee inclusion; all projects will be reviewed by a
   jury convened by BWAF.
-
-
-  Complete the below fields to sign up to submit your Built by Women projects:
 current-year: _bbw-years/bbw-2026.md
 lefthand_link:
   link_text: Become a sponsor of the program
