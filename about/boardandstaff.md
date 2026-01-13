@@ -40,23 +40,6 @@ page_blocks:
       link_url: ''
       link_text: ''
     portrait:
-      - title: Angelica T. Baccon, AIA
-        title_role: Board Chair
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1674591543/210902_Baccon_Portraits-0131_qhyo0l.jpg
-        description: >-
-          Angelica Trevino Baccon is a principal of SHoP. She has a particular
-          specialty in leading complex mixed-use and workplace design projects,
-          often at the intersection of enterprise and technology. These include
-          the new Uber headquarters in San Francisco and several confidential
-          projects for global leaders in Silicon Valley. She holds a Bachelor in
-          Architecture degree from ITESM in Monterrey, Mexico, and a Master of
-          Architecture from Harvard University, where she has also served as a
-          professor. Her work on New York City’s South Street Seaport
-          established her deep expertise in fast-paced, high-profile design and
-          delivery challenges with multilayered stakeholder groups, successfully
-          leveraging programs to promote vitality, equity and community in the
-          private sector and public realm.
       - title: Phoebe Yee, AIA
         title_role: 'Board Chair Elect '
         image: >-
@@ -75,6 +58,23 @@ page_blocks:
           University. She is a current member of the American Institute of
           Architects (AIA) and has been a speaker at AIA conferences and Urban
           Land Institute events.
+      - title: Angelica T. Baccon, AIA
+        title_role: 'Immediate Past Chair '
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1674591543/210902_Baccon_Portraits-0131_qhyo0l.jpg
+        description: >-
+          Angelica Trevino Baccon is a principal of SHoP. She has a particular
+          specialty in leading complex mixed-use and workplace design projects,
+          often at the intersection of enterprise and technology. These include
+          the new Uber headquarters in San Francisco and several confidential
+          projects for global leaders in Silicon Valley. She holds a Bachelor in
+          Architecture degree from ITESM in Monterrey, Mexico, and a Master of
+          Architecture from Harvard University, where she has also served as a
+          professor. Her work on New York City’s South Street Seaport
+          established her deep expertise in fast-paced, high-profile design and
+          delivery challenges with multilayered stakeholder groups, successfully
+          leveraging programs to promote vitality, equity and community in the
+          private sector and public realm.
       - title: Jennifer Stone, AIA
         title_role: Secretary
         image: >-
@@ -117,25 +117,6 @@ page_blocks:
           communities. As 2007 President of AIA NYC, she worked with city
           agencies and the Mayor's Office, resulting in the first revamping of
           citywide workplace standards since 1971.
-      - title: Julia Murphy, AIA
-        title_role: Chair Nominating Committee
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618330990/j_murphy_headshot_mfhzye.png
-        description: >-
-          A partner at SOM, Julia Murphy is integral to the firm's engagement
-          with the built environment of New York City. In her decade of
-          experience at SOM, she has worked on some of the most complex projects
-          in Manhattan, emerging as an expert project manager. She has a diverse
-          range of project responsibilities, from day-to-day interaction with
-          the client and coordination with the consultant team to maintaining
-          staffing, schedule, and budget. Much of her work involves mitigating
-          risk for clients who must build their projects within the exigencies
-          of New York’s physical and regulatory environments.
-
-          She was featured in Architect Magazine’s feature piece, “Workers in
-          Progress.” Murphy is a member of the WX Women Executives in Real
-          Estate and is the Immediate Past Chair of Beverly Willis Architecture
-          Foundation. 
       - title: Kate Wittels
         title_role: Treasurer
         image: >-
@@ -264,6 +245,25 @@ page_blocks:
           Boston Architectural College teaching professional practice and design
           studios. She is a member of GREG New York City, is a LEED Accredited
           Professional, and a Licensed Architect in New York State.
+      - title: Julia Murphy, AIA
+        title_role: Chair Nominating Committee
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618330990/j_murphy_headshot_mfhzye.png
+        description: >-
+          A partner at SOM, Julia Murphy is integral to the firm's engagement
+          with the built environment of New York City. In her decade of
+          experience at SOM, she has worked on some of the most complex projects
+          in Manhattan, emerging as an expert project manager. She has a diverse
+          range of project responsibilities, from day-to-day interaction with
+          the client and coordination with the consultant team to maintaining
+          staffing, schedule, and budget. Much of her work involves mitigating
+          risk for clients who must build their projects within the exigencies
+          of New York’s physical and regulatory environments.
+
+          She was featured in Architect Magazine’s feature piece, “Workers in
+          Progress.” Murphy is a member of the WX Women Executives in Real
+          Estate and is the Immediate Past Chair of Beverly Willis Architecture
+          Foundation. 
       - title: Karen McNeill, Ph.D.
         title_role: Trustee
         image: >-
@@ -351,22 +351,6 @@ page_blocks:
           Nicole holds a Master of Architecture from the University of Virginia
           and a Bachelor of Arts in Architecture from Yale University. She
           currently resides with her family in Brooklyn, New York.
-      - title: Patricia Harris, Esq., LEED AP
-        title_role: Counsel
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937223/PatriciaHarrisHeadshot-2-e1454609739415_rkq5sz.jpg
-        description: >-
-          Patti Harris, Founder and CEO of LicenseSure LLC and Special Counsel
-          to Zetlin & De Chiara LLP, provides legal and business counsel to
-          architects and engineers throughout the United States. A serial
-          entrepreneur as well as an attorney, Patti started her career as a
-          corporate attorney with two New York City law firms. From 2000 to
-          2013, Patti served as the Managing Partner of Zetlin & De Chiara.
-          Harris is the Founder and CEO of LicenseSure, which provides business
-          and licensing compliance services to design professionals. Ms. Harris’
-          legal practice focuses on mergers and acquisitions, business
-          organization and management issues, succession, strategy and licensing
-          issues.
       - title: Ruth Ro, AIA NOMA LEED AP BD+C (she/they)
         title_role: Trustee
         image: >-
@@ -460,6 +444,22 @@ page_blocks:
           approach to deliver innovative, well-designed, and artistic
           structures. A natural educator, Victoria has been a lecturer in the
           Graduate Program at Yale University School of Architecture since 2015.
+      - title: Patricia Harris, Esq., LEED AP
+        title_role: General Counsel
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937223/PatriciaHarrisHeadshot-2-e1454609739415_rkq5sz.jpg
+        description: >-
+          Patti Harris, Founder and CEO of LicenseSure LLC and Special Counsel
+          to Zetlin & De Chiara LLP, provides legal and business counsel to
+          architects and engineers throughout the United States. A serial
+          entrepreneur as well as an attorney, Patti started her career as a
+          corporate attorney with two New York City law firms. From 2000 to
+          2013, Patti served as the Managing Partner of Zetlin & De Chiara.
+          Harris is the Founder and CEO of LicenseSure, which provides business
+          and licensing compliance services to design professionals. Ms. Harris’
+          legal practice focuses on mergers and acquisitions, business
+          organization and management issues, succession, strategy and licensing
+          issues.
       - title: Mary McLeod, Ph.D.
         title_role: Consulting Historian
         image: >-
