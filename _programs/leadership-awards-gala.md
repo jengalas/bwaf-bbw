@@ -30,9 +30,14 @@ page_blocks:
       link_url: ''
       link_text: ''
     text_block: >-
-      The Beverly Willis Architecture Foundation is delighted to invite you to
-      our annual Bevy Leadership Awards, on April 16th, 2026 at The Shed,
-      celebrating visionaries and leaders in the built environment.
+      BWAF is celebrating the Bevy Leadership Awards at The Shed on April 16th.
+      Save the date to celebrate people whose leadership is reshaping the
+      systems, spaces, and decisions that define our world.
+
+
+      As BWAF enters its next chapter, this year reflects an organization in
+      evolution, grounded in legacy, energized by possibility, and focused on
+      the future of the built environment.
 
 
       **For sponsorship opportunities and ticket information, contact**
@@ -40,6 +45,9 @@ page_blocks:
 
 
       In the coming weeks, we will share our panel of remarkable honorees.
+
+
+      Join us as we build what’s next, together.
 
 
       &nbsp;
