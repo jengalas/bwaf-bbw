@@ -118,7 +118,7 @@ page_blocks:
         caption: '2025 Bevy Leadership Awards '
     automatic: false
   - template: portrait-gallery-template
-    label: '2026 Committee Chairs '
+    label: '2027 Committee Chairs '
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Medium Header
