@@ -122,7 +122,7 @@ page_blocks:
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Medium Header
-      text: 2026 Committee Chairs
+      text: 2027 Committee Chairs
       download: ''
       link_url: ''
       link_text: ''
@@ -553,7 +553,7 @@ _structures:
           template: portrait-gallery-template
         _inputs:
           lefthand_text:
-            hidden: false 
+            hidden: false
           lefthand_text.header_type:
             hidden: true
           lefthand_text.download:
@@ -563,7 +563,7 @@ _structures:
           lefthand_text.link_text:
             hidden: true
           label:
-            hidden: true  
+            hidden: true
           title:
             label: Name
           title_role:
