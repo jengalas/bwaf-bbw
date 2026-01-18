@@ -554,6 +554,8 @@ _structures:
         _inputs:
           lefthand_text:
             hidden: false 
+          label:
+            hidden: true  
           title:
             label: Name
           title_role:
