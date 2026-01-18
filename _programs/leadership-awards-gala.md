@@ -554,6 +554,14 @@ _structures:
         _inputs:
           lefthand_text:
             hidden: false 
+          lefthand_text.header_type:
+            hidden: true
+          lefthand_text.download:
+            hidden: true
+          lefthand_text.link_url:
+            hidden: true
+          lefthand_text.link_text:
+            hidden: true
           label:
             hidden: true  
           title:
