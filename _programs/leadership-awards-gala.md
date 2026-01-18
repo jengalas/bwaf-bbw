@@ -158,13 +158,16 @@ page_blocks:
       - category: Leader
         amount: $50,000
         benefits: >-
-          * Customized event tickets package with specially designed table and
-          complimentary champagne.
+          * $48,000 tax-deductible
 
-          * Company name to be added to the donor wall. Contact info@bwaf.org
-          for more details.
+          * 20 event tickets and 10 Emerging Leaders tickets.
 
-          * Friends membership for one year.
+          * Specially designated table.
+
+          * Company name to be added to the donor wall. Contact
+          development@bwaf.org for more details.
+
+          * Friends Membership for one year.
 
           * Listed as a supporter for one year on all printed and digital
           materials including Industry Leaders Roundtable and Emerging Leaders.
@@ -176,13 +179,15 @@ page_blocks:
       - category: Visionary
         amount: $20,000
         benefits: >-
-          * 8 event tickets.
+          * $18,920 tax-deductible
+
+          * 12 event tickets and 8 Emerging Leaders tickets.
 
           * Invitation to one Friends evening event.
 
           * Listed as a supporter for one year on all printed and digital
-          materials for the Industry Leaders Roundtable program and Emerging
-          Leaders.
+          materials for the Industry Leaders Roundtable and Emerging Leaders
+          programs.
 
           * Logo on BWAF website, in the evening’s program and on digital event
           materials.
@@ -191,25 +196,28 @@ page_blocks:
       - category: Advocate
         amount: $10,000
         benefits: >-
-          * 4 event tickets.
+          * $9,280 tax-deductible
+
+          * 8 event tickets and 4 Emerging Leaders tickets.
 
           * Listed as a supporter for one year on all printed and digital
-          materials for the Emerging Leaders program. Logo included in the
-          evening’s program.
+          materials for the Emerging Leaders program.
 
-          * Logo on digital event materials.
+          * Logo on BWAF website, in the evening’s program and on digital event
+          materials.
         payment_link: https://buy.stripe.com/00g5kL6g6dyzfrqcNh
         button_text: Sponsor BWAF
       - category: Supporter
         amount: $4,000
         benefits: >-
-          * 2 event tickets.
+          * $3,820 tax-deductible
 
-          * Listed as a supporter for one year on all printed and digital
-          materials for the Emerging Leaders program. Logo included in the
-          evening’s program.
+          * 2 event tickets and 2 Emerging Leaders tickets.
 
-          * Logo on digital event materials.
+          * Name on BWAF website, evening’s program, and digital event
+          materials.
+
+          * Logo in event email marketing.
         payment_link: https://buy.stripe.com/bIY00rcEu3XZ5QQ14x
         button_text: Sponsor BWAF
   - template: buttons-block
@@ -221,7 +229,7 @@ page_blocks:
       - button_text: 'Contact Us to Inquire '
         button_link: mailto:info@bwaf.org?subject=Leadership Awards Celebration
     section_break: false
-    include_left-hand_column_text_: false         
+    include_left-hand_column_text_: false
   - template: sponsor-block
     lefthand_text:
       header_type: Medium Header
