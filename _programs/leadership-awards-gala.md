@@ -552,6 +552,8 @@ _structures:
         value:
           template: portrait-gallery-template
         _inputs:
+          lefthand_text:
+            hidden: false 
           title:
             label: Name
           title_role:
