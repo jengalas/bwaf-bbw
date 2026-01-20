@@ -124,8 +124,10 @@ page_blocks:
     button:
       - button_text: 'Buy Individual Tickets '
         button_link: https://buy.stripe.com/dRm8wRbnH1ZV0rncP5awo0Z
+      - button_text: Buy Emerging Leader Tickets
+        button_link: https://buy.stripe.com/00w6oJ1N7gUP3DzcP5awo10
       - button_text: 'Can''t Make the Event? Make a Donation '
-        button_link: https://bwaf.org/support
+        button_link: https://buy.stripe.com/cN23cDfQG2TVfrq6p3
       - button_text: 'Contact Us to Inquire '
         button_link: mailto:info@bwaf.org?subject=Leadership Awards Celebration
     section_break: false
