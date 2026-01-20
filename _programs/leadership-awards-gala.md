@@ -40,8 +40,8 @@ page_blocks:
       the future of the built environment.
 
 
-      **For sponsorship opportunities and ticket information, contact**
-      [**info@bwaf.org**](mailto:info@bwaf.org?subject=&amp;body=)**.**
+      For more information about sponsorships and tickets, contact
+      [info@bwaf.org](mailto:info@bwaf.org?subject=&amp;body=).
 
 
       In the coming weeks, we will share our panel of remarkable honorees.
