@@ -48,13 +48,6 @@ page_blocks:
 
 
       Join us as we build what’s next, together.
-
-
-      &nbsp;
-
-
-      Check out some of the special moments from last year’s event  in the
-      gallery below. Photography courtesy of Samuel Lahoz.
   - template: sponsor-levels
     lefthand_text:
       header_type: Medium Header
