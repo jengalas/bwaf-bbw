@@ -55,99 +55,6 @@ page_blocks:
 
       Check out some of the special moments from last year’s event  in the
       gallery below. Photography courtesy of Samuel Lahoz.
-  - template: buttons-block
-    button:
-      - button_text: Photo Gallery
-        button_link: https://photosbysamuel.passgallery.com/rxrLaPVv4zpTt
-    section_break: false
-    include_left-hand_column_text_: false
-  - template: slideshow-block
-    button:
-      - button_text:
-        button_link:
-    section_break: false
-    include_left-hand_column_text_: true
-    lefthand_text:
-      header_type: Large Header
-      text: ''
-      download: ''
-      link_url: ''
-      link_text: ''
-    image:
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744216167/1477_SLC03708.jpg
-        caption: '2025 Bevy Leadership Awards '
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744214004/1170_SL204034.jpg
-        caption: '2025 Bevy Leadership Awards '
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744216331/1165_SL204028.jpg
-        caption: '2025 Bevy Leadership Awards '
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744217010/1157_SLC03518.jpg
-        caption: '2025 Bevy Leadership Awards '
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744213962/1132_SL203830.jpg
-        caption: '2025 Bevy Leadership Awards '
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744214064/1221_SL204080_ffloa7.jpg
-        caption: '2025 Bevy Leadership Awards '
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744214063/1237_SL204100_hetfaf.jpg
-        caption: '2025 Bevy Leadership Awards '
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744214064/1273_SL204183_fecy8i.jpg
-        caption: '2025 Bevy Leadership Awards '
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744214063/1291_SL204215_jn5plx.jpg
-        caption: '2025 Bevy Leadership Awards '
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744216309/1298_SLC03618.jpg
-        caption: '2025 Bevy Leadership Awards '
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744214067/1358_SL204306_qtue4g.jpg
-        caption: '2025 Bevy Leadership Awards '
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744214069/1375_SLC03652_ph7ux5.jpg
-        caption: '2025 Bevy Leadership Awards '
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744216387/1445_SLC03673.jpg
-        caption: '2025 Bevy Leadership Awards '
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744213984/1107_SLC03437.jpg
-        caption: '2025 Bevy Leadership Awards '
-    automatic: false
-  - template: portrait-gallery-template
-    label: '2027 Committee Chairs '
-    include_left-hand_column_text_: true
-    lefthand_text:
-      header_type: Medium Header
-      text: 2026 Committee Chairs
-      download: ''
-      link_url: ''
-      link_text: ''
-    section_break: true
-    portrait:
-      - title: Phoebe Yee
-        title_role: Executive Vice President of Design, Related Companies
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618329168/Yee-722x349_dsjmio.jpg
-      - title: Angelica Baccon
-        title_role: Principal, SHoP Architects
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1767641275/Baccon_Portrait_Credit_Ty_Cole.jpg.webp
-      - title: 'Jennifer Stone '
-        title_role: Partner, Robert A.M. Stern Architects
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1767640730/jennifer-stone-800x800.webp
-      - title: 'Michelle Roelofs '
-        title_role: Associate Principal, Arup
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1767640902/Michelle-Roelofs.jpg
-      - title: Victoria Ponce de Leon
-        title_role: Principal, Buildings Sector Portfolio Manager, TYLin
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1767640694/VictoriaPoncedeLeon_Tylin_highres.jpg
   - template: sponsor-levels
     lefthand_text:
       header_type: Medium Header
@@ -230,6 +137,37 @@ page_blocks:
         button_link: mailto:info@bwaf.org?subject=Leadership Awards Celebration
     section_break: false
     include_left-hand_column_text_: false
+  - template: portrait-gallery-template
+    label: '2027 Committee Chairs '
+    include_left-hand_column_text_: true
+    lefthand_text:
+      header_type: Medium Header
+      text: 2026 Committee Chairs
+      download: ''
+      link_url: ''
+      link_text: ''
+    section_break: true
+    portrait:
+      - title: Phoebe Yee
+        title_role: Executive Vice President of Design, Related Companies
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618329168/Yee-722x349_dsjmio.jpg
+      - title: Angelica Baccon
+        title_role: Principal, SHoP Architects
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1767641275/Baccon_Portrait_Credit_Ty_Cole.jpg.webp
+      - title: 'Jennifer Stone '
+        title_role: Partner, Robert A.M. Stern Architects
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1767640730/jennifer-stone-800x800.webp
+      - title: 'Michelle Roelofs '
+        title_role: Associate Principal, Arup
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1767640902/Michelle-Roelofs.jpg
+      - title: Victoria Ponce de Leon
+        title_role: Principal, Buildings Sector Portfolio Manager, TYLin
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1767640694/VictoriaPoncedeLeon_Tylin_highres.jpg
   - template: sponsor-block
     lefthand_text:
       header_type: Medium Header
@@ -457,6 +395,68 @@ page_blocks:
           - name: Sage and Coombe Architects |
             image: ''
     section_break: true
+  - template: buttons-block
+    button:
+      - button_text: Photo Gallery
+        button_link: https://photosbysamuel.passgallery.com/rxrLaPVv4zpTt
+    section_break: false
+    include_left-hand_column_text_: false
+  - template: slideshow-block
+    button:
+      - button_text:
+        button_link:
+    section_break: false
+    include_left-hand_column_text_: true
+    lefthand_text:
+      header_type: Large Header
+      text: ''
+      download: ''
+      link_url: ''
+      link_text: ''
+    image:
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744216167/1477_SLC03708.jpg
+        caption: '2025 Bevy Leadership Awards '
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744214004/1170_SL204034.jpg
+        caption: '2025 Bevy Leadership Awards '
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744216331/1165_SL204028.jpg
+        caption: '2025 Bevy Leadership Awards '
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744217010/1157_SLC03518.jpg
+        caption: '2025 Bevy Leadership Awards '
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744213962/1132_SL203830.jpg
+        caption: '2025 Bevy Leadership Awards '
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744214064/1221_SL204080_ffloa7.jpg
+        caption: '2025 Bevy Leadership Awards '
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744214063/1237_SL204100_hetfaf.jpg
+        caption: '2025 Bevy Leadership Awards '
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744214064/1273_SL204183_fecy8i.jpg
+        caption: '2025 Bevy Leadership Awards '
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744214063/1291_SL204215_jn5plx.jpg
+        caption: '2025 Bevy Leadership Awards '
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744216309/1298_SLC03618.jpg
+        caption: '2025 Bevy Leadership Awards '
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744214067/1358_SL204306_qtue4g.jpg
+        caption: '2025 Bevy Leadership Awards '
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744214069/1375_SLC03652_ph7ux5.jpg
+        caption: '2025 Bevy Leadership Awards '
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744216387/1445_SLC03673.jpg
+        caption: '2025 Bevy Leadership Awards '
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744213984/1107_SLC03437.jpg
+        caption: '2025 Bevy Leadership Awards '
+    automatic: false
 date: 2021-05-05 13:32:44
 description: >-
   Beverly Willis Architecture Foundation brings attention to the work of
