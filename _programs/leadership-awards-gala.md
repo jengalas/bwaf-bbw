@@ -123,7 +123,7 @@ page_blocks:
   - template: buttons-block
     button:
       - button_text: 'Buy Individual Tickets '
-        button_link: https://www.eventbrite.com/e/1236625673679?aff=oddtdtcreator
+        button_link: https://buy.stripe.com/dRm8wRbnH1ZV0rncP5awo0Z
       - button_text: 'Can''t Make the Event? Make a Donation '
         button_link: https://bwaf.org/support
       - button_text: 'Contact Us to Inquire '
