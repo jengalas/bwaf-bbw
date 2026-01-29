@@ -75,48 +75,6 @@ page_blocks:
           delivery challenges with multilayered stakeholder groups, successfully
           leveraging programs to promote vitality, equity and community in the
           private sector and public realm.
-      - title: Jennifer Stone, AIA
-        title_role: Secretary
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1757019216/Jennifer.Stone_1701_website-2.jpg
-        description: >-
-          Jennifer Stone, a partner at RAMSA, leads complex institutional
-          planning and design projects with a focus on sustainability and
-          context-driven architecture. Known for her collaborative approach, she
-          has contributed to major academic projects including the Schwarzman
-          Center and two residential colleges at
-
-          Yale, a residence hall at the University of Delaware, and the Business
-          Learning Community at the University of Georgia. She recently oversaw
-          expansions at the University of Virginia’s McIntire School of Commerce
-          and Catholic University’s Conway School of Nursing, and is currently
-          leading a space planning study for Penn Carey Law. Jennifer serves as
-          a trustee of the Beverly Willis Architecture
-
-          Foundation and sits on the boards of the New York Building Congress
-          and the Society for College and University Planning. She also chairs
-          RAMSA’s Women’s Leadership Initiative.
-      - title: Joan Blumenfeld, FAIA, FIIDA, LEED ID+C
-        title_role: Co-Chair, Nominating Committee
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937099/JoanBlumenfeld_gzuyea.jpg
-        description: >-
-          Joan Blumenfeld, Contract Magazine’s 2018 Legend, is a design
-          principal at Perkins+Will, a global architecture and interiors firm.
-          Over the past 10 years she has been committed to achieving gender
-          equity across all aspects of the design and construction business. As
-          the first president of the Beverly Willis Architecture Foundation
-          (BWAF) she facilitated broadening its mission to include changing
-          culture throughout the industry. She remained President for five
-          years, helping to grow the organization to have national recognition,
-          and since 2011 served on the Executive Committee, stepping down in
-          2020.
-
-          Previous and parallel to her work with BWAF she has been an active
-          advocate for building better and more healthy interiors, buildings and
-          communities. As 2007 President of AIA NYC, she worked with city
-          agencies and the Mayor's Office, resulting in the first revamping of
-          citywide workplace standards since 1971.
       - title: Kate Wittels
         title_role: Treasurer
         image: >-
@@ -140,8 +98,29 @@ page_blocks:
           Institute of Technology and a Bachelor of Arts in Urban Studies from
           the University of Pennsylvania. Kate is also on the board of the
           Regional Plan Association and the Center for an Urban Future.
+      - title: Jennifer Stone, AIA
+        title_role: Secretary
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1757019216/Jennifer.Stone_1701_website-2.jpg
+        description: >-
+          Jennifer Stone, a partner at RAMSA, leads complex institutional
+          planning and design projects with a focus on sustainability and
+          context-driven architecture. Known for her collaborative approach, she
+          has contributed to major academic projects including the Schwarzman
+          Center and two residential colleges at
+
+          Yale, a residence hall at the University of Delaware, and the Business
+          Learning Community at the University of Georgia. She recently oversaw
+          expansions at the University of Virginia’s McIntire School of Commerce
+          and Catholic University’s Conway School of Nursing, and is currently
+          leading a space planning study for Penn Carey Law. Jennifer serves as
+          a trustee of the Beverly Willis Architecture
+
+          Foundation and sits on the boards of the New York Building Congress
+          and the Society for College and University Planning. She also chairs
+          RAMSA’s Women’s Leadership Initiative.
       - title: Michele O’Connor, PE, LEED AP
-        title_role: 'Immediate Past Chair '
+        title_role:
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618330674/MOC_headshot_do3brf.jpg
         description: >-
@@ -158,6 +137,27 @@ page_blocks:
           passionate about supporting, mentoring, and empowering women in STEM
           and the engineering community. This dedication inspired her to
           co-found Women@Langan in September 2015.
+      - title: Joan Blumenfeld, FAIA, FIIDA, LEED ID+C
+        title_role:
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937099/JoanBlumenfeld_gzuyea.jpg
+        description: >-
+          Joan Blumenfeld, Contract Magazine’s 2018 Legend, is a design
+          principal at Perkins+Will, a global architecture and interiors firm.
+          Over the past 10 years she has been committed to achieving gender
+          equity across all aspects of the design and construction business. As
+          the first president of the Beverly Willis Architecture Foundation
+          (BWAF) she facilitated broadening its mission to include changing
+          culture throughout the industry. She remained President for five
+          years, helping to grow the organization to have national recognition,
+          and since 2011 served on the Executive Committee, stepping down in
+          2020.
+
+          Previous and parallel to her work with BWAF she has been an active
+          advocate for building better and more healthy interiors, buildings and
+          communities. As 2007 President of AIA NYC, she worked with city
+          agencies and the Mayor's Office, resulting in the first revamping of
+          citywide workplace standards since 1971.
       - title: Bolanle Williams-Olley
         title_role: Trustee
         image: >-
