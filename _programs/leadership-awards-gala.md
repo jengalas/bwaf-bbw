@@ -30,9 +30,54 @@ page_blocks:
       link_url: ''
       link_text: ''
     text_block: >-
-      BWAF is celebrating the Bevy Leadership Awards at The Shed on April 16th.
-      Save the date to celebrate people whose leadership is reshaping the
-      systems, spaces, and decisions that define our world.
+      The built environment tells the story of who we are and who we choose to
+      become.
+
+
+      BWAF invites you to the Bevy Leadership Awards at The Shed**,** an evening
+      honoring women whose leadership is reshaping the systems, spaces, and
+      decisions that define our world. We are thrilled to recognize these
+      honorees and the work they do.
+
+
+      2026 Bevys Leadership Awards Honorees
+
+
+      * Innovative Executive:
+
+        Sharon Prince, CEO and Founder, Grace Farms
+
+      * Mentorship:
+
+        Susan de França, President & Chief Executive Officer, Development Marketing, Douglas Elliman Real Estate
+
+      * Organizational Excellence:
+
+        Erleen Hatfield, Managing Partner, Hatfield Group
+
+      * Media Engagement:
+
+        Julia Gamolina, Founder & Editor, Madame Architect; Associate Principal, Ennead Architects
+
+      * Academic Excellence:
+
+        Amale Andraos, Dean Emeritus, Columbia GSAPP; Founder & Principal, WORKac
+
+      * Emerging Leader:
+
+        Tess McNamara, Buildings and Infrastructure Lead, Office of Sustainability, Port Authority of NY/NJ
+
+      For nearly three decades, BWAF has worked to expand visibility, influence,
+      and opportunity for women across the built environment. What began as an
+      act of recognition has grown into a platform for collective action that
+      challenges inherited structures and makes space for new voices, new
+      futures, and new ways of leading.
+
+
+      The Bevy Leadership Awards are both a celebration and a convening. This
+      gathering brings together architects, engineers, developers, designers,
+      advocates, and cultural leaders who believe equity is a design principle.
+      Together, we honor those shaping change and imagine what comes next.
 
 
       As BWAF enters its next chapter, this year reflects an organization in
@@ -40,14 +85,10 @@ page_blocks:
       the future of the built environment.
 
 
-      For more information about sponsorships and tickets, contact
-      [info@bwaf.org](mailto:info@bwaf.org?subject=&amp;body=).
-
-
-      In the coming weeks, we will share our panel of remarkable honorees.
-
-
       Join us as we build what’s next, together.
+
+
+      <br><br>
   - template: sponsor-levels
     lefthand_text:
       header_type: Medium Header
