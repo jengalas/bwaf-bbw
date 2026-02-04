@@ -43,29 +43,29 @@ page_blocks:
       2026 Bevys Leadership Awards Honorees
 
 
-      * Innovative Executive:
+      * *Innovative Executive*
 
-        Sharon Prince, CEO and Founder, Grace Farms
+        **Sharon Prince**, CEO and Founder, Grace Farms
 
-      * Mentorship:
+      * *Mentorship*
 
-        Susan de França, President & Chief Executive Officer, Development Marketing, Douglas Elliman Real Estate
+        **Susan de França**, President & Chief Executive Officer, Development Marketing, Douglas Elliman Real Estate
 
-      * Organizational Excellence:
+      * *Organizational Excellence*
 
-        Erleen Hatfield, Managing Partner, Hatfield Group
+        **Erleen Hatfield**, Managing Partner, Hatfield Group
 
-      * Media Engagement:
+      * *Media Engagement*
 
-        Julia Gamolina, Founder & Editor, Madame Architect; Associate Principal, Ennead Architects
+        **Julia Gamolina**, Founder & Editor, Madame Architect; Associate Principal, Ennead Architects
 
-      * Academic Excellence:
+      * *Academic Excellence*
 
-        Amale Andraos, Dean Emeritus, Columbia GSAPP; Founder & Principal, WORKac
+        **Amale Andraos**, Dean Emeritus, Columbia GSAPP; Founder & Principal, WORKac
 
-      * Emerging Leader:
+      * *Emerging Leader*
 
-        Tess McNamara, Buildings and Infrastructure Lead, Office of Sustainability, Port Authority of NY/NJ
+        **Tess McNamara**, Buildings and Infrastructure Lead, Office of Sustainability, Port Authority of NY/NJ
 
       For nearly three decades, BWAF has worked to expand visibility, influence,
       and opportunity for women across the built environment. What began as an
