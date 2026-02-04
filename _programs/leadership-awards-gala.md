@@ -126,7 +126,7 @@ page_blocks:
         button_link: https://buy.stripe.com/dRm8wRbnH1ZV0rncP5awo0Z
       - button_text: >-
           Buy Emerging Leader Tickets | For early to mid career individuals.
-          Admissions begins at 8pm. 
+          Admission begins at 8pm. 
         button_link: https://buy.stripe.com/00w6oJ1N7gUP3DzcP5awo10
       - button_text: 'Can''t Make the Event? Make a Donation '
         button_link: https://buy.stripe.com/cN23cDfQG2TVfrq6p3
