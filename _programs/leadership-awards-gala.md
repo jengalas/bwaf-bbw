@@ -40,29 +40,29 @@ page_blocks:
       honorees and the work they do.
 
 
-      **Bevy's Leadership Awards 2026 Honorees:**
+      Bevy’s Leadership Awards 2026 Honorees:
 
 
-      *Innovative Executive<br>***Sharon Prince**, CEO and Founder, Grace Farms
+      Innovative Executive<br>Sharon Prince, CEO and Founder, Grace Farms
 
 
-      *Mentorship<br>***Susan de França**, President & Chief Executive Officer,
+      Mentorship<br>Susan de França, President & Chief Executive Officer,
       Development Marketing, Douglas Elliman Real Estate
 
 
-      *Organizational Excellence<br>***Erleen Hatfield**, Managing Partner,
-      Hatfield Group
+      Organizational Excellence<br>Erleen Hatfield, Managing Partner, Hatfield
+      Group
 
 
-      *Media Engagement<br>***Julia Gamolina**, Founder & Editor, Madame
-      Architect; Associate Principal, Ennead Architects
+      Media Engagement<br>Julia Gamolina, Founder & Editor, Madame Architect;
+      Associate Principal, Ennead Architects
 
 
-      *Academic Excellence<br>***Amale Andraos**, Dean Emeritus, Columbia GSAPP;
+      Academic Excellence<br>Amale Andraos, Dean Emeritus, Columbia GSAPP;
       Founder & Principal, WORKac
 
 
-      *Emerging Leader<br>***Tess McNamara**, Buildings and Infrastructure Lead,
+      Emerging Leader<br>Tess McNamara, Buildings and Infrastructure Lead,
       Office of Sustainability, Port Authority of NY/NJ
 
 
