@@ -161,7 +161,7 @@ page_blocks:
       - title: Sharon Prince
         title_role: CEO and Founder, Grace Farms
         award: Innovative Executive
-        image: /uploads/nps-unstamped-acadia-21.jpg
+        image:
         description: ''
       - title: Susan de França
         title_role: >-
