@@ -148,7 +148,7 @@ page_blocks:
     section_break: false
     include_left-hand_column_text_: false
   - template: portrait-gallery-template-add-award
-    label: '2026 Honorees'
+    label: 2026 Honorees
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Medium Header
@@ -161,45 +161,39 @@ page_blocks:
       - title: Sharon Prince
         title_role: CEO and Founder, Grace Farms
         award: Innovative Executive
-        image: >-
-      
-        description: >
-          
+        image: /uploads/nps-unstamped-acadia-21.jpg
+        description: ''
       - title: Susan de França
-        title_role: President & Chief Executive Officer, Development Marketing, Douglas Elliman Real Estate
+        title_role: >-
+          President & Chief Executive Officer, Development Marketing, Douglas
+          Elliman Real Estate
         award: Mentorship
-        image: >-
-
-        description: >
-            
+        image: ''
+        description: ''
       - title: Erleen Hatfield
         title_role: Managing Partner, Hatfield Group
         award: Organizational Excellence
-        image: >-
-
-        description: >
-            
+        image: ''
+        description: ''
       - title: Julia Gamolina
-        title_role: Founder & Editor, Madame Architect; Associate Principal, Ennead Architects
+        title_role: >-
+          Founder & Editor, Madame Architect; Associate Principal, Ennead
+          Architects
         award: Media Engagement
-        image: >-
-
-        description: >
-            
+        image: ''
+        description: ''
       - title: Amale Andraos
         title_role: Principal, Dean Emeritus, Columbia GSAPP; Founder & Principal, WORKac
         award: Academic Excellence
-        image: >-
-
-        description: >
-            
+        image: ''
+        description: ''
       - title: Tess McNamara
-        title_role: Buildings and Infrastructure Lead, Office of Sustainability, Port Authority of NY/NJ 
+        title_role: >-
+          Buildings and Infrastructure Lead, Office of Sustainability, Port
+          Authority of NY/NJ
         award: Emerging Leader
-        image: >-
-
-        description: >
-                      
+        image: ''
+        description: ''
   - template: portrait-gallery-template
     label: '2026 Committee Chairs '
     include_left-hand_column_text_: true
@@ -633,12 +627,10 @@ _structures:
             label: Title/Role
           award:
             type: text
-          title_role:
-            label: Title/Role
           description:
             hidden: false
             label: Biography
-            type: markdown          
+            type: markdown
       - label: Portrait Gallery
         value:
           template: portrait-gallery-template
