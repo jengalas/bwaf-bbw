@@ -1,0 +1,17 @@
+<div class="portrait-gallery-block">
+    {% for person in block.portrait %}
+    <div>
+      <h4>{{person.award}}</h4>
+      {% if person.image != "" %}
+        <div class="img" style="background-image: url({{person.image}})"></div>
+      {% endif %}
+        <h5>
+            <b>{{person.title}}</b>
+            <br>{{person.title_role}}
+        </h5>
+      {% if person.description != "" %}
+        <p class="sm">{{person.description | markdownify}}</p>
+      {% endif %}    
+    </div>
+    {% endfor %}
+</div>

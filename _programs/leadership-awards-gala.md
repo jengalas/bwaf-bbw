@@ -147,8 +147,61 @@ page_blocks:
         button_link: mailto:info@bwaf.org?subject=Leadership Awards Celebration
     section_break: false
     include_left-hand_column_text_: false
+  - template: portrait-gallery-template-add-award
+    label: '2026 Honorees'
+    include_left-hand_column_text_: true
+    lefthand_text:
+      header_type: Medium Header
+      text: 2026 Honorees
+      download: ''
+      link_url: ''
+      link_text: ''
+    section_break: true
+    portrait:
+      - title: Sharon Prince
+        title_role: CEO and Founder, Grace Farms
+        award: Innovative Executive
+        image: >-
+      
+        description: >
+          
+      - title: Susan de França
+        title_role: President & Chief Executive Officer, Development Marketing, Douglas Elliman Real Estate
+        award: Mentorship
+        image: >-
+
+        description: >
+            
+      - title: Erleen Hatfield
+        title_role: Managing Partner, Hatfield Group
+        award: Organizational Excellence
+        image: >-
+
+        description: >
+            
+      - title: Julia Gamolina
+        title_role: Founder & Editor, Madame Architect; Associate Principal, Ennead Architects
+        award: Media Engagement
+        image: >-
+
+        description: >
+            
+      - title: Amale Andraos
+        title_role: Principal, Dean Emeritus, Columbia GSAPP; Founder & Principal, WORKac
+        award: Academic Excellence
+        image: >-
+
+        description: >
+            
+      - title: Tess McNamara
+        title_role: Buildings and Infrastructure Lead, Office of Sustainability, Port Authority of NY/NJ 
+        award: Emerging Leader
+        image: >-
+
+        description: >
+                      
   - template: portrait-gallery-template
-    label: '2027 Committee Chairs '
+    label: '2026 Committee Chairs '
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Medium Header
@@ -558,6 +611,34 @@ _structures:
             hidden: false
             label: Biography
             type: markdown
+      - label: Portrait Gallery with Award
+        value:
+          template: portrait-gallery-template-add-award
+        _inputs:
+          lefthand_text:
+            hidden: false
+          lefthand_text.header_type:
+            hidden: true
+          lefthand_text.download:
+            hidden: true
+          lefthand_text.link_url:
+            hidden: true
+          lefthand_text.link_text:
+            hidden: true
+          label:
+            hidden: true
+          title:
+            label: Name
+          title_role:
+            label: Title/Role
+          award:
+            type: text
+          title_role:
+            label: Title/Role
+          description:
+            hidden: false
+            label: Biography
+            type: markdown          
       - label: Portrait Gallery
         value:
           template: portrait-gallery-template
