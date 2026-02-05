@@ -611,7 +611,7 @@ _structures:
             hidden: false
             label: Biography
             type: markdown
-      - label: Portrait Gallery with Award
+      - label: Portrait Gallery of Honorees
         value:
           template: portrait-gallery-template-add-award
         _inputs:
