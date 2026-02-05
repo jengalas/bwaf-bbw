@@ -36,34 +36,7 @@ page_blocks:
 
       BWAF invites you to the Bevy Leadership Awards at The Shed**,** an evening
       honoring women whose leadership is reshaping the systems, spaces, and
-      decisions that define our world. We are thrilled to recognize these
-      honorees and the work they do.
-
-
-      Bevy’s Leadership Awards 2026 Honorees:
-
-
-      Innovative Executive<br>Sharon Prince, CEO and Founder, Grace Farms
-
-
-      Mentorship<br>Susan de França, President & Chief Executive Officer,
-      Development Marketing, Douglas Elliman Real Estate
-
-
-      Organizational Excellence<br>Erleen Hatfield, Managing Partner, Hatfield
-      Group
-
-
-      Media Engagement<br>Julia Gamolina, Founder & Editor, Madame Architect;
-      Associate Principal, Ennead Architects
-
-
-      Academic Excellence<br>Amale Andraos, Dean Emeritus, Columbia GSAPP;
-      Founder & Principal, WORKac
-
-
-      Emerging Leader<br>Tess McNamara, Buildings and Infrastructure Lead,
-      Office of Sustainability, Port Authority of NY/NJ
+      decisions that define our world.
 
 
       For nearly three decades, BWAF has worked to expand visibility, influence,
