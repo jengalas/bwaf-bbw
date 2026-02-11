@@ -555,6 +555,10 @@ page_blocks:
         title_role: Operations & Communications Coordinator
         image: /uploads/img-6010.jpg
         description: ''
+      - title: Caroline Haarman
+        title_role: Development Coordinator
+        image: /uploads/headshot-2-cropped.jpg
+        description: ''
     section_break: false
 description: Beverly Willis Architecture Foundation Board and Staff
 ---
