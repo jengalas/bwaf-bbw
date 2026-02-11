@@ -535,23 +535,22 @@ page_blocks:
         title_role: Executive Director
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1709153010/Screenshot_2024-02-28_at_3.43.20_PM.png
-        description: >
+        description: >-
           Tizziana Baldenebro is the executive director at the Beverly Willis
-          Architecture Foundation. An arts administrator, curator, writer, and
-          critic, her practice focuses on emerging artists and designers, and
-          she is an activist in the effort to produce equitable cultural
-          centers. She is the Commissioner and Curator for the U.S. pavilion at
-          the 2023 Venice Architecture Biennale. Previously, she served as the
-          executive director at SPACES in Cleveland and has held positions at
-          the Museum of Contemporary Art Detroit and at the Art Institute of
-          Chicago within the Architecture & Design department. She sat on the
-          board of FRONT International and is an editor-at-large at The Avery
-          Review. She was a 2021 fellow in the National Association for Latino
-          Arts and Culture Advocacy Leadership Institute and was a 2021
-          curator-in-residence at Red Bull Arts Detroit. Baldenebro received a
-          Masters of Architecture from the School of the Art Institute of
-          Chicago and a Bachelor of Arts degree in Anthropology from the
-          University of Chicago.
+          Architecture Foundation. An nonprofit administrator, curator, writer,
+          and critic, she is an activist in the effort to produce equitable
+          cultural centers. Previously, she was the Commissioner and Curator for
+          the U.S. pavilion at the 2023 Venice Architecture Biennale and served
+          as the executive director at SPACES in Cleveland. She has held
+          positions at the Museum of Contemporary Art Detroit and at the Art
+          Institute of Chicago within the Architecture & Design department. She
+          sat on the board of FRONT International and is an editor-at-large at
+          The Avery Review. She was a 2021 fellow in the National Association
+          for Latino Arts and Culture Advocacy Leadership Institute and was a
+          2021 curator-in-residence at Red Bull Arts Detroit. Baldenebro
+          received a Masters of Architecture from the School of the Art
+          Institute of Chicago and a Bachelor of Arts degree in Anthropology
+          from the University of Chicago.
       - title: 'Ryan Langley '
         title_role: Operations & Communications Coordinator
         image: /uploads/img-6010.jpg
