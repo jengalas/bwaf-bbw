@@ -207,24 +207,19 @@ page_blocks:
     portrait:
       - title: Phoebe Yee
         title_role: Executive Vice President of Design, Related Companies
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618329168/Yee-722x349_dsjmio.jpg
+        image:
       - title: Angelica Baccon
         title_role: Principal, SHoP Architects
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1767641275/Baccon_Portrait_Credit_Ty_Cole.jpg.webp
+        image:
       - title: 'Jennifer Stone '
         title_role: Partner, Robert A.M. Stern Architects
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1767640730/jennifer-stone-800x800.webp
+        image:
       - title: 'Michelle Roelofs '
         title_role: Associate Principal, Arup
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1767640902/Michelle-Roelofs.jpg
+        image:
       - title: Victoria Ponce de Leon
         title_role: Principal, Buildings Sector Portfolio Manager, TYLin
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1767640694/VictoriaPoncedeLeon_Tylin_highres.jpg
+        image:
   - template: sponsor-block
     lefthand_text:
       header_type: Medium Header
