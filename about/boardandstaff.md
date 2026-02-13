@@ -284,6 +284,29 @@ page_blocks:
           buildings to the National Register of Historic Places. She is
           currently Managing Director, SVP, Sr. Leadership & Legacy Consultant
           at Ascent Private Capital Management of U.S. Bank
+      - title: Lissa So, FAIA
+        title_role: Trustee
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1771008329/Lissa_So-headshot_2.jpg
+        description: >-
+          As a founding partner of Marvel and a Fellow of the American Institute
+          of Architects, Lissa So has executed a visionary approach to designing
+          cultural, educational, and public spaces that have empowered the
+          people that they serve. With a goal of transforming communities
+          through thoughtful and collaborative design, she has addressed both
+          the challenges of building community engagement and collective action.
+          Lissa honed her expertise in theatre design renovating St. Ann’s
+          Warehouse, a project that has led to additional theatrical and
+          cultural work including TheatreSquared, a new performing arts center
+          in Fayetteville, AR and the National Black Theater in Harlem. Lissa
+          commitment to community impact is evident in her work for numerous
+          schools and community organizations like Brownsville’s Youth
+          Empowerment Center, Brooklyn Public Library and the YMCA of Greater
+          New York. Over more than 25 years of practice, Lissa’s projects have
+          earned hundreds of international and industry awards. She studied
+          architecture at Rensselaer Polytechnic Institute and now leads a
+          collaborative international practice of 150 people where her guiding
+          principle is Design Everywhere for Everyone.
       - title: Michelle DeCarlo, PE, LEED AP
         title_role: Trustee
         image: >-
@@ -444,22 +467,23 @@ page_blocks:
           approach to deliver innovative, well-designed, and artistic
           structures. A natural educator, Victoria has been a lecturer in the
           Graduate Program at Yale University School of Architecture since 2015.
-      - title: Patricia Harris, Esq., LEED AP
+      - title: Anazette Ray
         title_role: General Counsel
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1610937223/PatriciaHarrisHeadshot-2-e1454609739415_rkq5sz.jpg
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1771008530/Anazette_Background_Test_exozio.jpg
         description: >-
-          Patti Harris, Founder and CEO of LicenseSure LLC and Special Counsel
-          to Zetlin & De Chiara LLP, provides legal and business counsel to
-          architects and engineers throughout the United States. A serial
-          entrepreneur as well as an attorney, Patti started her career as a
-          corporate attorney with two New York City law firms. From 2000 to
-          2013, Patti served as the Managing Partner of Zetlin & De Chiara.
-          Harris is the Founder and CEO of LicenseSure, which provides business
-          and licensing compliance services to design professionals. Ms. Harris’
-          legal practice focuses on mergers and acquisitions, business
-          organization and management issues, succession, strategy and licensing
-          issues.
+          Anazette W. Ray is a Principal at Zetlin & De Chiara LLP. She brings a
+          wealth of experience representing architects and engineers in a wide
+          variety of litigation matters. Prior to joining Zetlin & De Chiara,
+          Ms. Ray worked at a boutique litigation firm where she handled all
+          aspects of complex construction litigation on the trial court and
+          appellate levels. Ms. Ray established a successful record of defending
+          her clients in numerous forums, including state and federal court,
+          mediation, arbitrations, and hearings. Representative claims that Ms.
+          Ray has handled include: condominium defect cases, complex
+          construction defect cases, critical path delay claims, negligence
+          claims, and contract disputes. Ms. Ray was selected to the 2021
+          Beverly Willis Architecture Foundation's Emerging Leaders program.
       - title: Mary McLeod, Ph.D.
         title_role: Consulting Historian
         image: >-
@@ -520,6 +544,24 @@ page_blocks:
 
           She received her BA, MA, and PhD in English and Comparative Literature
           from Columbia University.
+      - title: Jhaelen Hernandez-Eli
+        title_role: Trustee
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1771008603/Jhaelen_Hernandez-Eli_BWAF.jpg
+        description: >-
+          Jhaelen Hernandez-Eli is CEO of Jhaelen Capital Projects, a strategy
+          firm guiding the conception and delivery of complex cultural and civic
+          capital initiatives. He has been recognized by the New York Times,
+          Architectural Record, and Harvard University, among others, for his
+          advocacy of the built environment as transformative works of art. With
+          offices in New York and Los Angeles, his firm is guiding the
+          investment of $3 billion in cultural and institutional infrastructure.
+          Jhaelen previously served as Vice President at The Metropolitan Museum
+          of Art and as Senior Vice President at the New York City Economic
+          Development Corporation, stewarding multi-billion-dollar capital
+          programs at both institutions. He teaches at Harvard University and
+          The Cooper Union, where his courses examine the trajectory of the art
+          museum. 
     section_break: false
   - template: portrait-gallery-template
     label: Staff
