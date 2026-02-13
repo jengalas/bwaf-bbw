@@ -159,7 +159,7 @@ page_blocks:
     section_break: true
     portrait:
       - title: Sharon Prince
-        title_role: CEO and Founder, Grace Farms
+        title_role: CEO & Founder, Grace Farms
         award: Innovative Executive
         image: ''
         description: ''
@@ -189,7 +189,7 @@ page_blocks:
         description: ''
       - title: Tess McNamara
         title_role: >-
-          Buildings and Infrastructure Lead, Office of Sustainability, Port
+          Buildings & Infrastructure Lead, Office of Sustainability, Port
           Authority of NY/NJ
         award: Emerging Leader
         image: ''
