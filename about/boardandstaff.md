@@ -229,7 +229,7 @@ page_blocks:
       - title: Jhaelen Hernandez-Eli
         title_role: Trustee
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/c_crop,w_1500,h_2667,ar_9:16,g_auto/v1771008603/Jhaelen_Hernandez-Eli_BWAF.jpg
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1771009553/Screenshot_2026-02-13_at_2.05.30_PM.png
         description: >-
           Jhaelen Hernandez-Eli is CEO of Jhaelen Capital Projects, a strategy
           firm guiding the conception and delivery of complex cultural and civic
