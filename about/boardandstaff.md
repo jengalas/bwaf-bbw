@@ -226,6 +226,24 @@ page_blocks:
           Wisecarver currently serves as the executive sponsor of the company's
           employee resource group, Women of WeWork. 
            
+      - title: Jhaelen Hernandez-Eli
+        title_role: Trustee
+        image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/c_crop,w_1500,h_2667,ar_9:16,g_auto/v1771008603/Jhaelen_Hernandez-Eli_BWAF.jpg
+        description: >-
+          Jhaelen Hernandez-Eli is CEO of Jhaelen Capital Projects, a strategy
+          firm guiding the conception and delivery of complex cultural and civic
+          capital initiatives. He has been recognized by the New York Times,
+          Architectural Record, and Harvard University, among others, for his
+          advocacy of the built environment as transformative works of art. With
+          offices in New York and Los Angeles, his firm is guiding the
+          investment of $3 billion in cultural and institutional infrastructure.
+          Jhaelen previously served as Vice President at The Metropolitan Museum
+          of Art and as Senior Vice President at the New York City Economic
+          Development Corporation, stewarding multi-billion-dollar capital
+          programs at both institutions. He teaches at Harvard University and
+          The Cooper Union, where his courses examine the trajectory of the art
+          museum. 
       - title: Jen Grosso, AIA
         title_role: Trustee
         image: >-
@@ -544,24 +562,6 @@ page_blocks:
 
           She received her BA, MA, and PhD in English and Comparative Literature
           from Columbia University.
-      - title: Jhaelen Hernandez-Eli
-        title_role: Trustee
-        image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1771008603/Jhaelen_Hernandez-Eli_BWAF.jpg
-        description: >-
-          Jhaelen Hernandez-Eli is CEO of Jhaelen Capital Projects, a strategy
-          firm guiding the conception and delivery of complex cultural and civic
-          capital initiatives. He has been recognized by the New York Times,
-          Architectural Record, and Harvard University, among others, for his
-          advocacy of the built environment as transformative works of art. With
-          offices in New York and Los Angeles, his firm is guiding the
-          investment of $3 billion in cultural and institutional infrastructure.
-          Jhaelen previously served as Vice President at The Metropolitan Museum
-          of Art and as Senior Vice President at the New York City Economic
-          Development Corporation, stewarding multi-billion-dollar capital
-          programs at both institutions. He teaches at Harvard University and
-          The Cooper Union, where his courses examine the trajectory of the art
-          museum. 
     section_break: false
   - template: portrait-gallery-template
     label: Staff
