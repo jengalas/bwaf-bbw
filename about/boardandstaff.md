@@ -488,7 +488,7 @@ page_blocks:
       - title: Anazette Ray
         title_role: General Counsel
         image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1771008530/Anazette_Background_Test_exozio.jpg
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1771009467/Screenshot_2026-02-13_at_2.02.43_PM.png
         description: >-
           Anazette W. Ray is a Principal at Zetlin & De Chiara LLP. She brings a
           wealth of experience representing architects and engineers in a wide
