@@ -238,43 +238,13 @@ page_blocks:
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1740091465/Screenshot_2025-02-20_at_1.18.34_PM.png
           - name:
             image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741649339/Screenshot_2025-03-10_at_7.28.49_PM.png
-          - name:
-            image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739905316/Screenshot_2025-02-18_at_2.01.39_PM.png
           - name:
             image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1740673253/Screenshot_2025-02-27_at_10.40.41_AM.png
           - name:
             image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741298226/Screenshot_2025-03-06_at_4.56.36_PM.png
-          - name:
-            image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741298338/Screenshot_2025-03-06_at_4.58.47_PM.png
-          - name:
-            image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739905514/Screenshot_2025-02-18_at_2.04.26_PM.png
-          - name:
-            image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741102496/LanganLogoBlack_300dpi.jpg
-          - name:
-            image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1740686150/marvel_wordmark-black.jpg
-          - name:
-            image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741804203/Sciame_Logo_Black.png
-          - name:
-            image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741804218/Sciame_Homes_Logo_Black.png
-          - name:
-            image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1737833009/Skidmore__Owings___Merrill_logo.svg_copy.svg
-          - name:
-            image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1737833026/Thornton-Thomasetti-logo-black-stacked.jpg
-          - name:
-            image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1740091489/Screenshot_2025-02-20_at_4.28.25_PM.png
       - category: Supporter
         sponsor:
           - name:
