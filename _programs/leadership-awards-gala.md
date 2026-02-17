@@ -163,10 +163,8 @@ page_blocks:
         award: Innovative Executive
         image: ''
         description: ''
-      - title: Susan de França
-        title_role: >-
-          President & Chief Executive Officer, Development Marketing, Douglas
-          Elliman Real Estate
+      - title: David J. Cohen
+        title_role: CEO & Founder, I-Grace
         award: Mentorship
         image: ''
         description: ''
