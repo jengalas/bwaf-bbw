@@ -221,22 +221,9 @@ page_blocks:
   - template: sponsor-block
     lefthand_text:
       header_type: Medium Header
-      text: 2025 Sponsors
+      text: 2026 Sponsors
     include_left-hand_column_text_: true
     sponsors:
-      - category: Benefactor
-        sponsor:
-          - name:
-            image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1740085626/Screenshot_2025-02-20_at_4.06.52_PM.png
-      - category: Leader
-        sponsor:
-          - name:
-            image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739491143/related-companies-logo-vector_800px-sq.png
-          - name:
-            image: >-
-              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741893830/relatedross_logo.jpg
       - category: Visionary
         sponsor:
           - name:
@@ -426,24 +413,6 @@ page_blocks:
           - name:
             image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1742403406/WeWork_Logo_Black.png
-      - category: Donors
-        sponsor:
-          - name: AKRF |
-            image: ''
-          - name: Bungalow Projects |
-            image: ''
-          - name: Captus Systems LLC|
-            image: ''
-          - name: Hausman LLC |
-            image: ''
-          - name: JLL Capital Projects |
-            image: ''
-          - name: New York Building Congress |
-            image: ''
-          - name: Sabrina Kanner |
-            image: ''
-          - name: Sage and Coombe Architects |
-            image: ''
     section_break: true
   - template: buttons-block
     button:
