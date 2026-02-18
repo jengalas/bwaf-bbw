@@ -263,6 +263,9 @@ page_blocks:
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1742403406/WeWork_Logo_Black.png
           - name:
             image: /uploads/zetlin-de-chiara-logo-pms-1-1.png
+          - name:
+            image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739378472/dattnerau.png
     section_break: true
   - template: buttons-block
     button:
