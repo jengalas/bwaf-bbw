@@ -224,6 +224,11 @@ page_blocks:
       text: 2026 Sponsors
     include_left-hand_column_text_: true
     sponsors:
+      - category: Benefactor
+        sponsor:
+          - name:
+            image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1746033313/brookfield_vegkic.jpg
       - category: Visionary
         sponsor:
           - name:
