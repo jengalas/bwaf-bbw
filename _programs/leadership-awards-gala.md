@@ -6,7 +6,7 @@ permalink: /programs/leadership-awards-celebration
 page_blocks:
   - template: image-block
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1767639162/BWAF_2026_Benefit_Save_the_Date.jpg
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1771520035/Screenshot_2026-02-19_at_11.52.44_AM.png
     image_caption_text: ''
     alt_text: ''
     section_break: false
@@ -217,6 +217,9 @@ page_blocks:
         image:
       - title: Victoria Ponce de Leon
         title_role: Principal, Buildings Sector Portfolio Manager, TYLin
+        image:
+      - title: ''
+        title_role: ''
         image:
   - template: sponsor-block
     lefthand_text:
