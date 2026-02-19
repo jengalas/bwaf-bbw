@@ -253,6 +253,9 @@ page_blocks:
           - name:
             image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1737833009/Skidmore__Owings___Merrill_logo.svg_copy.svg
+          - name:
+            image: >-
+              https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1657646119/LanganBlackCMYK-print_bpdp92.png
       - category: Supporter
         sponsor:
           - name:
