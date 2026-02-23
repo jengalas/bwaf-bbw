@@ -17,7 +17,7 @@
             {% for person in page.jury_members %}
             <div>
                 <div class="image-container">
-                    <img src="{{site.cloudinary}}/w_400,h_400,g_face,c_fill/{{person.image}}">
+                    <img src="{{site.cloudinary}}/w_400,h_400,g_face,c_fill/{{person.image | remove: 'https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/'}}" alt="{{person.name}}">
                 </div>
                 <div>
                     <h2><b>{{person.title}}</b>
