@@ -49,5 +49,5 @@ _inputs:
     hidden: false
     type: markdown
   slideshow-images:
-    type: array  
+    type: object  
 ---
