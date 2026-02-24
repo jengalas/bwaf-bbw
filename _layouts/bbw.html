@@ -6,6 +6,7 @@
     <a href="{{page.lefthand_link.link_url}}" target="_blank"
       class="lefthand-link">{{page.lefthand_link.link_text}}→</a>
   </div>
+  {% if page.slideshow-images %}
   <div>
     <div>
       <div class="bbw-image-grid" id="bbw-image-grid">
@@ -18,6 +19,7 @@
     </div>
   </div>
   <script src="/assets/js/bbw-image-grid.js"></script>
+  {% endif %}
 </div>
 <div class="main-two-up">
   <div class="vertical-flex-center">
