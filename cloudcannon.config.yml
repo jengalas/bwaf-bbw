@@ -81,9 +81,6 @@ collections_config:
       permalink:
         hidden: true
   programs:
-    schemas:
-      default:
-        path: schemas/programs.md
     _enabled_editors:
       - data  
     _inputs:

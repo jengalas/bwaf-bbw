@@ -6,15 +6,15 @@
     <a href="{{page.lefthand_link.link_url}}" target="_blank"
       class="lefthand-link">{{page.lefthand_link.link_text}}→</a>
   </div>
-  {% if page.slideshow-images and page.slideshow-images.images %}
+  {% if page.slideshow-images %}
   <div>
     <div>
       <div class="bbw-image-grid" id="bbw-image-grid">
-        {% for image in page.slideshow-images.images %}
+        {% for image in page.slideshow-images %}
         <img src="{{site.cloudinary}}{{image.image}}">
         {% endfor %}
       </div>
-      <figcaption>From top left to right: {% for image in page.slideshow-images.images%}<span>{{image.caption}}</span>{% endfor
+      <figcaption>From top left to right: {% for image in page.slideshow-images%}<span>{{image.caption}}</span>{% endfor
         %}</figcaption>
     </div>
   </div>
