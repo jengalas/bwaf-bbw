@@ -278,7 +278,7 @@ page_blocks:
           - name:
             image: /uploads/gkv-logo-b-w-1.png
           - name:
-            image: /uploads/kgm-logo-descriptive-light-blue.png
+            image: /uploads/kgm-logo-descriptive-light-blue-1.png
     section_break: true
   - template: buttons-block
     button:
