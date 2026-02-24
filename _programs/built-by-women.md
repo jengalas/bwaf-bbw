@@ -3,10 +3,10 @@ layout: bbw
 permalink: /built-by-women
 title: Built By Women
 navCategory: Programs
+show_slideshow: false
 slideshow-images:
   - image: /v1620678201/smlWTC205221_000_N252_jpg_i5oajq.jpg
     caption: One World Trade Center
-show_slideshow: false
 description: >-
   Beverly Willis Architecture Foundation creates opportunities with national
   attention to demonstrate the breadth of achievement in the building industries
