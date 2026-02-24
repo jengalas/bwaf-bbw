@@ -103,7 +103,10 @@ collections_config:
       include_left-hand_column_text_:
         hidden: true
       lefthand_text:
-        hidden: true                              
+        hidden: true    
+      show_slideshow:
+        label: Show Slideshow
+        type: checkbox                                  
   resources:
     _enabled_editors:
       - data
