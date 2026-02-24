@@ -104,23 +104,25 @@ collections_config:
         hidden: true
       lefthand_text:
         hidden: true    
-    fields:
       slideshow-images:
         label: Slideshow
         type: object
         required: false
+        options:
+          remove: true
         fields:
           images:
             label: Images
             type: array
-            structures:
-              - values:
-                  - label: Image
-                    name: image
-                    type: image
-                  - label: Caption
-                    name: caption
-                    type: text                    
+            options:
+              structures:
+                - values:
+                    - label: Image
+                      name: image
+                      type: image
+                    - label: Caption
+                      name: caption
+                      type: text                           
   resources:
     _enabled_editors:
       - data
