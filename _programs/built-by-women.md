@@ -48,8 +48,4 @@ _inputs:
   description:
     hidden: false
     type: markdown
-  slideshow-images:
-    type: object  
-    options:
-      subtype: object
 ---

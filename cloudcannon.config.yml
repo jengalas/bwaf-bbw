@@ -34,7 +34,20 @@ collections_config:
       navCategory:
         hidden: true 
       permalink:
-        hidden: true   
+        hidden: true 
+    fields:
+      slideshow-images:
+        type: array
+        label: Slideshow Images
+        required: false
+        structures:
+          - values:
+              - label: Image
+                name: image
+                type: image
+              - label: Caption
+                name: caption
+                type: text        
   bbw-juries:
     name: "BBW: Juries"
     _enabled_editors:
