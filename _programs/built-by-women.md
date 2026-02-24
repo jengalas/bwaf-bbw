@@ -33,4 +33,6 @@ _inputs:
   description:
     hidden: false
     type: markdown
+  current-year:
+    hidden: true
 ---
