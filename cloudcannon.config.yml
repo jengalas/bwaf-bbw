@@ -105,9 +105,10 @@ collections_config:
       lefthand_text:
         hidden: true    
       slideshow-images:
-        label: Slideshow
+        label: Slideshow Images
         type: object
         required: false
+        comment: Optional slideshow section
         options:
           remove: true
         fields:
@@ -115,8 +116,10 @@ collections_config:
             label: Images
             type: array
             options:
+              add: true
               structures:
-                - values:
+                - label: Slide
+                  values:
                     - label: Image
                       name: image
                       type: image
