@@ -22,7 +22,7 @@ slideshow-images:
     caption: Nakahouse
   - image: /v1617906949/Blackbirds-02_qaf9rj.jpg
     caption: Blackbirds
-show_slideshow: true    
+show_slideshow: false
 description: >-
   Beverly Willis Architecture Foundation creates opportunities with national
   attention to demonstrate the breadth of achievement in the building industries
