@@ -48,4 +48,21 @@ _inputs:
   description:
     hidden: false
     type: markdown
+fields:
+  slideshow-images:
+    label: Slideshow
+    type: object
+    required: false
+    fields:
+      images:
+        label: Images
+        type: array
+        structures:
+          - values:
+              - label: Image
+                name: image
+                type: image
+              - label: Caption
+                name: caption
+                type: text                    
 ---
