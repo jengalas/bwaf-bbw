@@ -50,4 +50,6 @@ _inputs:
     type: markdown
   slideshow-images:
     type: object  
+    options:
+      subtype: object
 ---
