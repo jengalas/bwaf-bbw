@@ -272,6 +272,8 @@ page_blocks:
           - name:
             image: >-
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1739378472/dattnerau.png
+          - name:
+            image: /uploads/gkv-logo-b-w.png
     section_break: true
   - template: buttons-block
     button:
