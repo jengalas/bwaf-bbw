@@ -239,6 +239,9 @@ page_blocks:
               https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1741727865/RAMSA_logo.jpg
           - name:
             image: /uploads/related-logo.png
+          - name:
+            image: >-
+              /uploads/20250306-igracelogo-black-on-white-builders-advisors-3.jpg
       - category: Advocate
         sponsor:
           - name:
