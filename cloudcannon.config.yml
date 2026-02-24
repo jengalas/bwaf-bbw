@@ -103,29 +103,7 @@ collections_config:
       include_left-hand_column_text_:
         hidden: true
       lefthand_text:
-        hidden: true    
-      slideshow-images:
-        label: Slideshow Images
-        type: object
-        required: false
-        comment: Optional slideshow section
-        options:
-          remove: true
-        fields:
-          images:
-            label: Images
-            type: array
-            options:
-              add: true
-              structures:
-                - label: Slide
-                  values:
-                    - label: Image
-                      name: image
-                      type: image
-                    - label: Caption
-                      name: caption
-                      type: text                           
+        hidden: true                              
   resources:
     _enabled_editors:
       - data
