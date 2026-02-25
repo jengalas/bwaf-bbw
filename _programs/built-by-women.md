@@ -147,25 +147,4 @@ _inputs:
     type: markdown
   current-year:
     hidden: true
-_structures:
-  page_blocks:
-    id_key: template
-    values:
-      - label: Text Block
-        preview:
-          text:
-          subtext:
-          icon:
-        value:
-          template: text-block
-          text_block:
-          section_break: false
-          include_left-hand_column_text_: true
-        _inputs:
-          text_block:
-            type: markdown
-          label:
-            hidden: true
-          icon:
-            hidden: false
 ---
