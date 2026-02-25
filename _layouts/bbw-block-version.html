@@ -6,11 +6,10 @@
     <a href="{{page.lefthand_link.link_url}}" target="_blank"
       class="lefthand-link">{{page.lefthand_link.link_text}}→</a>
   </div>
+</div>
 
-  {% for block in page.page_blocks %}
-  {% if block._block_name == "text_block" %}
-  <section class="text-block">
-
+<div class="main-two-up">
+  <div class="vertical-flex-center">
     {% if block.show_left_link and block.left_link_text != "" and block.left_link_url != "" %}
     <div class="left-column">
       <a href="{{ block.left_link_url }}">
@@ -18,32 +17,41 @@
       </a>
     </div>
     {% endif %}
-
-    <div class="right-column">
-      {{ block.text | markdownify }}
-    </div>
-
-  </section>
-  {% endif %}
-  {% endfor %}
-
-
-
-
-  {% if page.show_slideshow and page.slideshow-images %}
+  </div>
   <div>
-    <div>
-      <div class="bbw-image-grid" id="bbw-image-grid">
-        {% for image in page.slideshow-images %}
-        <img src="{{site.cloudinary}}{{image.image}}">
-        {% endfor %}
-      </div>
-      <figcaption>From top left to right: {% for image in page.slideshow-images%}<span>{{image.caption}}</span>{% endfor
-        %}</figcaption>
+    <div class="text-block spacer">
+      {% for block in page.page_blocks %}
+      {% if block._block_name == "text_block" %}
+      <section class="text-block">
+        <div class="right-column">
+          {{ block.text | markdownify }}
+        </div>
+      </section>
+      {% endif %}
+      {% endfor %}
     </div>
   </div>
-  <script src="/assets/js/bbw-image-grid.js"></script>
-  {% endif %}
+</div>
+
+
+
+
+
+
+{% if page.show_slideshow and page.slideshow-images %}
+<div>
+  <div>
+    <div class="bbw-image-grid" id="bbw-image-grid">
+      {% for image in page.slideshow-images %}
+      <img src="{{site.cloudinary}}{{image.image}}">
+      {% endfor %}
+    </div>
+    <figcaption>From top left to right: {% for image in page.slideshow-images%}<span>{{image.caption}}</span>{% endfor
+      %}</figcaption>
+  </div>
+</div>
+<script src="/assets/js/bbw-image-grid.js"></script>
+{% endif %}
 </div>
 <div class="main-two-up">
   <div class="vertical-flex-center">
