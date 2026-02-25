@@ -1,12 +1,14 @@
 <div class="portrait-gallery-block">
-    {% for person in block.portrait %}
-    <div>
-        <div class="img" style="background-image: url({{person.image}})"></div>
-        <h5>
-            <b>{{person.title}}</b>
-            <br>{{person.title_role}}
-        </h5>
-        <p class="sm">{{person.description | markdownify}}</p>
-    </div>
-    {% endfor %}
+  {% for person in block.portrait %}
+  <div>
+    {% if person.image %}
+    <div class="img" style="background-image: url({{person.image}})"></div>
+    {% endif %}
+    <h5>
+      <b>{{person.title}}</b>
+      <br>{{person.title_role}}
+    </h5>
+    <p class="sm">{{person.description | markdownify}}</p>
+  </div>
+  {% endfor %}
 </div>
