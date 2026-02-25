@@ -21,7 +21,7 @@ page_blocks:
       Stay tuned for the announcement of the completed 2026 Built by Women: New
       York City map!
     show_lefthand_link: true
-    lefthand_link_text: Become a sponsor of the program
+    lefthand_link_text: 'Become a sponsor of the program '
     lefthand_link_url: https://bwaf.netlify.app/support
 _structures:
   page_blocks:
