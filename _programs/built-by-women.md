@@ -1,5 +1,5 @@
 ---
-layout: bbw
+layout: bbw-block-version
 permalink: /built-by-women
 title: Built By Women
 navCategory: Programs
@@ -33,7 +33,7 @@ _inputs:
 
   page_blocks[*].show_lefthand_link:
     type: checkbox
-    label: Show Left Header?
+    label: Show Lefthand Link?
 
   page_blocks[*].lefthand_link_text:
     type: text
