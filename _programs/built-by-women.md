@@ -7,8 +7,9 @@ page_blocks:
   - _block_name: text_block
     text: >
       This is the main content of the text block.
-    show_left_header: false
-    left_header: ""
+    show_lefthand_link: false
+    lefthand_link_text: ""
+    lefthand_link_url: ""
 _structures:
   page_blocks:
     values:
@@ -16,8 +17,9 @@ _structures:
         value:
           _block_name: text_block
           text: ""
-          show_left_header: false
-          left_header: ""
+          show_lefthand_link: false
+          lefthand_link_text: ""
+          lefthand_link_url: ""
 
 _inputs:
   page_blocks:
@@ -29,11 +31,15 @@ _inputs:
     type: markdown
     label: Main Text
 
-  page_blocks[*].show_left_header:
+  page_blocks[*].show_lefthand_link:
     type: checkbox
     label: Show Left Header?
 
-  page_blocks[*].left_header:
+  page_blocks[*].lefthand_link_text:
     type: text
-    label: Left Header    
+    label: Left Link Text
+
+  page_blocks[*].lefthand_link_url:
+    type: text
+    label: Left Link URL  
 ---
