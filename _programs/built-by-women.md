@@ -142,6 +142,10 @@ jury_members:
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1771878996/Lara-Kaufman_web.jpg
 _inputs:
+  page_blocks[text_block].label:
+    hidden: true
+  page_blocks[text_block]:
+    type: markdown  
   description:
     hidden: false
     type: markdown
