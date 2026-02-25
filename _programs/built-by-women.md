@@ -17,24 +17,20 @@ page_blocks:
       link_url:
       link_text:
     text_block: >-
-      Thank you to everyone who participated in our Industry Leaders Roundtable:
-      NYC! 
+      Beverly Willis Architecture Foundation creates opportunities with national
+      attention to demonstrate the breadth of achievement in the building industries
+      by women at the highest levels. Through a juried mapping project, Built by
+      Women recognizes the significant but often overlooked work of women
+      architects, landscape architects, urban designers, engineers, contractors, and
+      developers in selected cities. Following previous programs in Manhattan and
+      Los Angeles, the 2026 Built by Women map will center on New York City to
+      discover new and innovative women-led projects throughout the five boroughs
+      and explore the important ways that work by women shapes the built
+      environment.
 
 
-      Over two dynamic days, leaders from architecture, engineering, theatre,
-      technology, art, music, media, and fashion came together in New York City
-      to explore what visionary leadership looks like today and in the future.
-
-
-      From in-depth discussions on creativity and cultural influence to
-      behind-the-scenes tours of Ray and the National Black Theatre, Meta’s New
-      York offices, Manhattan West, and an evening at the New York Philharmonic
-      conducted by Jeannette Sorrell, participants experienced the intersections
-      of innovation, storytelling, and community in action.
-
-
-      Stay tuned for information on how to get involved in our 2026 Roundtables,
-      possibly coming to a city near you!
+      Stay tuned for the announcement of the completed 2026 Built by Women: New York
+      City map!
 show_slideshow: false
 slideshow-images:
   - image: /v1620678201/smlWTC205221_000_N252_jpg_i5oajq.jpg
@@ -171,8 +167,6 @@ _structures:
       include_left-hand_column_text_: true
     _inputs:
       icon:
-        hidden: false
-      button:
         hidden: false
       lefthand_text:
         hidden: false
