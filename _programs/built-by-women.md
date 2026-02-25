@@ -37,7 +37,8 @@ _inputs:
   page_blocks:
     type: array
     options:
-      structures: page_blocks
+      structures: 
+        - page_blocks
   page_blocks[*].text:
     type: markdown
     label: Main Text
