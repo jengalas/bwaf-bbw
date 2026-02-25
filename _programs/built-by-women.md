@@ -161,22 +161,17 @@ _inputs:
     type: array
     options:
       structures: page_blocks
-
   text_block:
     type: markdown
-
   label:
     hidden: true
-
   include_left-hand_column_text_:
     type: checkbox
     label: Show Left Column Text?
-
   lefthand_text:
     type: object
     options:
       hidden: include_left-hand_column_text_ == false
-      
   description:
     hidden: false
     type: markdown
