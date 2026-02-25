@@ -141,11 +141,42 @@ jury_members:
       environmental policy, best practices, and education.
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1771878996/Lara-Kaufman_web.jpg
+_structures:
+  page_blocks:
+    values:
+      - label: Text Block
+        value:
+          template: text-block
+          text_block: ""
+          section_break: false
+          include_left-hand_column_text_: false
+          lefthand_text:
+            header_type: ""
+            text: ""
+            download: ""
+            link_url: ""
+            link_text: ""
 _inputs:
-  page_blocks[text_block].label:
+  page_blocks:
+    type: array
+    options:
+      structures: page_blocks
+
+  text_block:
+    type: markdown
+
+  label:
     hidden: true
-  page_blocks[text_block]:
-    type: markdown  
+
+  include_left-hand_column_text_:
+    type: checkbox
+    label: Show Left Column Text?
+
+  lefthand_text:
+    type: object
+    options:
+      hidden: include_left-hand_column_text_ == false
+      
   description:
     hidden: false
     type: markdown
