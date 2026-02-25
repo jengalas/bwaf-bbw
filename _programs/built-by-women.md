@@ -5,30 +5,21 @@ title: Built By Women
 navCategory: Programs
 page_blocks:
   - template: text-block
-    text_block: >-
-      Beverly Willis Architecture Foundation creates opportunities with national
-      attention to demonstrate the breadth of achievement in the building industries
-      by women at the highest levels. Through a juried mapping project, Built by
-      Women recognizes the significant but often overlooked work of women
-      architects, landscape architects, urban designers, engineers, contractors, and
-      developers in selected cities. Following previous programs in Manhattan and
-      Los Angeles, the 2026 Built by Women map will center on New York City to
-      discover new and innovative women-led projects throughout the five boroughs
-      and explore the important ways that work by women shapes the built
-      environment.
-
-
-      Stay tuned for the announcement of the completed 2026 Built by Women: New York
-      City map!
-    section_break: false
+    label: Description
     include_left-hand_column_text_: true
-    label: Intro Text Block
     lefthand_text:
       header_type: Large Header
-      text: Friends
+      text: Film Collection
       download: ''
       link_url: ''
       link_text: ''
+    text_block: >-
+      The BWAF Film Collection furthers our awareness-raising work in
+      acknowledging and celebrating women's achievements and contributions to
+      the built environment. Available to stream online, as DVDs, and for
+      special screenings, each film presents a unique view and seeks to expand
+      the canon.
+    section_break: false
 show_slideshow: false
 slideshow-images:
   - image: /v1620678201/smlWTC205221_000_N252_jpg_i5oajq.jpg
@@ -141,37 +132,26 @@ jury_members:
       environmental policy, best practices, and education.
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1771878996/Lara-Kaufman_web.jpg
-_structures:
-  page_blocks:
-    values:
-      - label: Text Block
-        value:
-          template: text-block
-          text_block: ""
-          section_break: false
-          include_left-hand_column_text_: false
-          lefthand_text:
-            header_type: ""
-            text: ""
-            download: ""
-            link_url: ""
-            link_text: ""
 _inputs:
-  page_blocks:
-    type: array
-    options:
-      structures: page_blocks
-  page_blocks[*].text_block:
-    type: markdown
+  title:
+    hidden: true
+  description:
+    hidden: true
+  template:
+    hidden: true
+  text_block:
+    type: textarea
+  section_break:
+    hidden: true
   page_blocks[*].label:
     hidden: true
-  page_blocks[*].include_left-hand_column_text_:
-    type: checkbox
-    label: Show Left Column Text?
-  page_blocks[*].lefthand_text:
-    type: object
+  page_blocks:
     options:
-      hidden: include_left-hand_column_text_ == false
+      text:
+        - key: template
+      preview:
+        subtext:
+          - key: label
   description:
     hidden: false
     type: markdown
