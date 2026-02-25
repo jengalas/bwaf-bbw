@@ -114,7 +114,7 @@ jury_members:
       Forum’s NYC hub and contributes to other working groups promoting
       environmental policy, best practices, and education.
     image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1771878996/Lara-Kaufman_web.jpg      
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1771878996/Lara-Kaufman_web.jpg
 _inputs:
   description:
     hidden: false
