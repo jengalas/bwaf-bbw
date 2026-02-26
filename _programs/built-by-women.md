@@ -1,5 +1,5 @@
 ---
-layout: bbw-block-version
+layout: bbw
 permalink: /built-by-women
 title: Built By Women
 navCategory: Programs
