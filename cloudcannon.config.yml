@@ -222,21 +222,21 @@ _structures:
           include_left-hand_column_text_: 
             type: checkbox
             label: Show Lefthand Text? 
-            lefthand_text.header_type:
-              type: select
-              options:
-                values:
-                  - Large Header
-                  - Medium Header
-                  - Small Header
-            lefthand_text.text:
-              type: markdown
-            lefthand_text.download:
-              type: text
-            lefthand_text.link_url:
-              type: text
-            lefthand_text.link_text:
-              type: text  
+          lefthand_text.header_type:
+            type: select
+            options:
+              values:
+                - Large Header
+                - Medium Header
+                - Small Header
+          lefthand_text.text:
+            type: markdown
+          lefthand_text.download:
+            type: text
+          lefthand_text.link_url:
+            type: text
+          lefthand_text.link_text:
+            type: text  
           section_break:
             hidden: true
       - label: Buttons
