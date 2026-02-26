@@ -6,6 +6,8 @@
   </div>
 </div>
 
+<!-- TODO: add the slideshow section as a block, and also add in the jury section, pulling from the data files.  -->
+
 {% for block in page.page_blocks %}
 {% if block.section_break %}
 <div class="hr"></div>
@@ -51,36 +53,6 @@
   </div>
 </div>
 {% endfor %}
-
-{% for block in page.page_blocks %}
-<div class="main-two-up">
-  <div class="vertical-flex-center">
-    {% if block.show_lefthand_link and block.lefthand_link_text != "" and block.lefthand_link_url != "" %}
-    <div class="lefthand-column">
-      <a class="lefthand-link" href="{{ block.lefthand_link_url }}">
-        {{ block.lefthand_link_text }}→
-      </a>
-    </div>
-    {% endif %}
-  </div>
-  <div>
-    <div class="text-block spacer">
-      {% if block.template == "text-block" %}
-      <section class="text-block">
-        <div class="right-column">
-          {{ block.text | markdownify }}
-        </div>
-      </section>
-      {% endif %}
-    </div>
-  </div>
-</div>
-{% endfor %}
-
-
-
-
-
 
 {% if page.show_slideshow and page.slideshow-images %}
 <div>
