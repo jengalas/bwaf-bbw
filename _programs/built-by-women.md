@@ -26,7 +26,7 @@ page_blocks:
     section_break: false
     include_left-hand_column_text_: true
     lefthand_text:
-      header_type: Large Header
+      header_type: Link
       text: ''
       download: ''
       link_url: https://bwaf.netlify.app/support
