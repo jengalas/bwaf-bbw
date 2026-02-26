@@ -189,9 +189,10 @@ _structures:
     values:
       - label: Text Block
         preview:
-          text: Text Block
+          text:
+            - key: template
           subtext:
-            - key: text_block 
+            - key: text_block
           icon: article
         value:
           template: text-block
