@@ -224,6 +224,9 @@ _structures:
               values:
                 - Large Header
                 - Medium Header
+                - Small Header
+                - Film/Book Title
+                - Link
                 - Text with Download
           lefthand_text.text:
             type: markdown
