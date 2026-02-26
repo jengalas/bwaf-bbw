@@ -5,9 +5,6 @@ title: Industry Leaders Roundtable Retreat
 permalink: /programs/industry-leaders-roundtable-retreat
 page_blocks:
   - template: text-block
-    button:
-      - button_text:
-        button_link:
     section_break: false
     include_left-hand_column_text_: true
     lefthand_text:
@@ -26,9 +23,6 @@ page_blocks:
       greater representation of women in the AEC industries.
 
   - template: text-block
-    button:
-      - button_text:
-        button_link:
     section_break: true
     include_left-hand_column_text_: true
     lefthand_text:
