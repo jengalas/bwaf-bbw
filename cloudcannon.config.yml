@@ -203,15 +203,6 @@ _structures:
         _inputs:
           text_block:
             type: markdown
-          show_lefthand_link:
-            type: checkbox
-            label: Show Lefthand Link?
-          lefthand_link_text:
-            type: text
-            label: Left Link Text
-          lefthand_link_url:
-            type: text
-            label: Left Link URL
           include_left-hand_column_text_: 
             type: checkbox
             label: Show Lefthand Text? 
