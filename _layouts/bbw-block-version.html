@@ -109,8 +109,7 @@
     {% endfor %}
 
     <div class="img-block">
-      <a href="{{currentYear.map_link}}" target="_blank">        
-        currentyear.map_link -> {{currentYear.map_link}}
+      <a href="{{currentYear.map_link}}" target="_blank">  
         <img src="{{page.map.image}}" alt="{{block.alt_text}}">
         {% if page.map.caption %}
         <figcaption>{{page.map.caption}}</figcaption>
@@ -165,6 +164,7 @@
     <br>
 
     <a href="{{currentYear.url}}" class="btn-primary spacer">
+      {{currentYear.url}}
       View Selected Projects →
     </a>
   </div>
