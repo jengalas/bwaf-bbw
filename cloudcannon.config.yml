@@ -194,7 +194,7 @@ _structures:
       - label: Text Block
         preview:
           text: Text Block
-          subtext: Markdown content
+          subtext: 
           icon: article
         value:
           template: text-block
