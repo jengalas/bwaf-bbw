@@ -220,7 +220,7 @@ _structures:
       - label: Buttons
         preview:
           text: Buttons
-          subtext: "[Do not modify]"
+          subtext:
           icon: smart_button
         value:
           template: buttons-block
@@ -233,7 +233,7 @@ _structures:
           icon:
             hidden: true
           button:
-            hidden: true
+            hidden: false
           section_break:
             hidden: true
           include_left-hand_column_text_:
