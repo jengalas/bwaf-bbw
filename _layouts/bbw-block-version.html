@@ -110,6 +110,7 @@
 
     <div class="img-block">
       <a href="{{currentYear.map_link}}" target="_blank">
+        {{currentYear.map_link}}
         <img src="{{page.map.image}}" alt="{{block.alt_text}}">
         {% if page.map.caption %}
         <figcaption>{{page.map.caption}}</figcaption>
@@ -131,7 +132,6 @@
     <h2 class="h3"><b>Meet the Jury</b></h2>
   </div>
   <div>
-    {{currentYear}}
     <div class="portrait-gallery-block-large">
       {% for person in page.jury_members %}
       <div>
