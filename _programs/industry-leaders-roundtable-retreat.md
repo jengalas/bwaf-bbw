@@ -326,10 +326,10 @@ _structures:
             hidden: false
           button:
             hidden: false
-          lefthand_text:
-            hidden: false
           miscellaneous:
             type: markdown
+          lefthand_text:
+            hidden: false
       - label: Slideshow
         preview:
           text: Slideshow
