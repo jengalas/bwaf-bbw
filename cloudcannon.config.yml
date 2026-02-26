@@ -191,9 +191,6 @@ _structures:
         value:
           template: text-block
           text_block: ""
-          show_lefthand_link: false
-          lefthand_link_text: ""
-          lefthand_link_url: ""
           section_break: false
           include_left-hand_column_text_: false
           lefthand_text:
