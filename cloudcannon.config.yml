@@ -239,6 +239,8 @@ _structures:
             type: text  
           section_break:
             hidden: true
+          label:
+            hidden: true
       - label: Buttons
         preview:
           text: Buttons

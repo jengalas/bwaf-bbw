@@ -23,5 +23,5 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-    section_break: false 
+    section_break: false
 ---
