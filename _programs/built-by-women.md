@@ -5,7 +5,7 @@ title: Built By Women
 navCategory: Programs
 page_blocks:
   - template: text-block
-    text: >-
+    text_block: >-
       Beverly Willis Architecture Foundation creates opportunities with national
       attention to demonstrate the breadth of achievement in the building
       industries by women at the highest levels. Through a juried mapping

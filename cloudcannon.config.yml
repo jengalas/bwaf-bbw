@@ -198,7 +198,7 @@ _structures:
           icon: article
         value:
           template: text-block
-          text: ""
+          text_block: ""
           show_lefthand_link: false
           lefthand_link_text: ""
           lefthand_link_url: ""
