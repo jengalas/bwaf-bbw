@@ -228,7 +228,7 @@ _structures:
               values:
                 - Large Header
                 - Medium Header
-                - Small Header
+                - Text with Download
           lefthand_text.text:
             type: markdown
           lefthand_text.download:

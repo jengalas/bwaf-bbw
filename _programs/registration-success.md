@@ -23,10 +23,5 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-    section_break: false
-_inputs:
-  text_block:
-    type: markdown
-  label:
-    hidden: true  
+    section_break: false 
 ---
