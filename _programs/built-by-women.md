@@ -28,7 +28,7 @@ page_blocks:
       text: ''
       download: ''
       link_url: https://bwaf.org/support
-      text: Become a sponsor of the program
+      link_text: Become a sponsor of the program
   - template: image-block
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1761241529/WeBuiltThis_Extension.gif
