@@ -186,6 +186,7 @@ _structures:
           text: Text Block
           subtext:
             - key: text_block 
+              empty_value: ""
           icon: article
         value:
           template: text-block
