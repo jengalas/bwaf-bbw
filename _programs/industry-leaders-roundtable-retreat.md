@@ -5,7 +5,6 @@ title: Industry Leaders Roundtable Retreat
 permalink: /programs/industry-leaders-roundtable-retreat
 page_blocks:
   - template: text-block
-    section_break: false
     text_block: >+
       The Industry Leaders Roundtable program is designed to embolden firms and
       their representatives to undertake institutional change within their
@@ -14,22 +13,14 @@ page_blocks:
       psychology, sociology, law, architecture and engineering to change culture
       by providing research, information and action-oriented programs to achieve
       greater representation of women in the AEC industries.
+    section_break: false
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Large Header
       text: Industry Leaders Roundtable Retreat
       download: ''
       link_url: ''
-      link_text: ''
   - template: text-block
-    section_break: true
-    include_left-hand_column_text_: true
-    lefthand_text:
-      header_type: Medium Header
-      text: 'New York, October 21-22: Leading at the Edge of Innovation'
-      download: ''
-      link_url:
-      link_text:
     text_block: >-
       Thank you to everyone who participated in our Industry Leaders Roundtable:
       NYC! 
@@ -49,6 +40,13 @@ page_blocks:
 
       Stay tuned for information on how to get involved in our 2026 Roundtables,
       possibly coming to a city near you!
+    section_break: true
+    include_left-hand_column_text_: true
+    lefthand_text:
+      header_type: Medium Header
+      text: 'New York, October 21-22: Leading at the Edge of Innovation'
+      download: ''
+      link_url:
   - template: image-block
     section_break: false
     include_left-hand_column_text_: false
