@@ -33,11 +33,9 @@ _structures:
           icon:
         value:
           template: text-block
-          button:
-            - button_text:
-              button_link:
           section_break: false
           include_left-hand_column_text_: true
+          text_block: ""
         _inputs:
           icon:
             hidden: false
@@ -46,7 +44,7 @@ _structures:
           lefthand_text:
             hidden: false
           text_block:
-            type: textarea
+            type: markdown
 _inputs:
   text_block:
     type: markdown
