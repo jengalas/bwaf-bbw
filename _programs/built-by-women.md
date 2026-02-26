@@ -1,8 +1,9 @@
 ---
-layout: bbw
+layout: bbw-block-version
 permalink: /built-by-women
 title: Built By Women
 navCategory: Programs
+current-year: _bbw-years/bbw-2026.md
 page_blocks:
   - template: text-block
     text_block: >-
