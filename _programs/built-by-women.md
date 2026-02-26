@@ -4,6 +4,12 @@ permalink: /built-by-women
 title: Built By Women
 navCategory: Programs
 page_blocks:
+  - template: image-block
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1761241529/WeBuiltThis_Extension.gif
+    section_break: false
+    image_caption_text:
+    alt_text: Built By Women 2026. Submissions close 11/6.
   - template: text-block
     text: >-
       Beverly Willis Architecture Foundation creates opportunities with national
@@ -24,10 +30,4 @@ page_blocks:
     lefthand_link_text: 'Become a sponsor of the program '
     lefthand_link_url: https://bwaf.netlify.app/support
     section_break: false
-  - template: image-block
-    image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1761241529/WeBuiltThis_Extension.gif
-    section_break: false
-    image_caption_text:
-    alt_text: Built By Women 2026. Submissions close 11/6.
 ---
