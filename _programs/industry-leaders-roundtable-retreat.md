@@ -51,9 +51,6 @@ page_blocks:
       Stay tuned for information on how to get involved in our 2026 Roundtables,
       possibly coming to a city near you!
   - template: image-block
-    button:
-      - button_text:
-        button_link:
     section_break: false
     include_left-hand_column_text_: false
     lefthand_text:
@@ -67,9 +64,6 @@ page_blocks:
     alt_text:
     image_caption_text: ''
   - template: miscellaneous-block
-    button:
-      - button_text:
-        button_link:
     section_break: false
     include_left-hand_column_text_: false
     miscellaneous: >-
@@ -130,9 +124,6 @@ page_blocks:
       link_url: ''
       link_text: ''
   - template: slideshow-block
-    button:
-      - button_text:
-        button_link:
     section_break: false
     image:
       - image: >-
@@ -165,9 +156,6 @@ page_blocks:
       link_text: ''
     automatic: true
   - template: image-block
-    button:
-      - button_text:
-        button_link:
     section_break: false
     include_left-hand_column_text_: false
     lefthand_text:
@@ -219,9 +207,6 @@ page_blocks:
       link_url: ''
       link_text: ''
   - template: slideshow-block
-    button:
-      - button_text:
-        button_link:
     section_break: false
     image:
       - image: >-
@@ -326,9 +311,6 @@ _structures:
           icon:
         value:
           template: image-block
-          button:
-            - button_text:
-              button_link:
           section_break: false
       - label: Program Details
         preview:
@@ -337,9 +319,6 @@ _structures:
           icon:
         value:
           template: miscellaneous-block
-          button:
-            - button_text:
-              button_link:
           section_break: false
           include_left-hand_column_text_: true
         _inputs:
@@ -358,8 +337,5 @@ _structures:
           icon:
         value:
           template: slideshow-block
-          button:
-            - button_text:
-              button_link:
           section_break: false
 ---
