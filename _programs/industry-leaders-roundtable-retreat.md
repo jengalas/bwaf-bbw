@@ -169,6 +169,7 @@ page_blocks:
     alt_text:
     image_caption_text: 'Thank you to our supporters for making this program possible. '
   - template: buttons-block
+    buttons_header__optional_: View previous Industry Leaders Roundtable Agendas
     button:
       - button_text: '2025 Industry Leaders Roundtable: San Francisco'
         button_link: >-
@@ -199,7 +200,6 @@ page_blocks:
           https://www.dropbox.com/s/txqhd6wb52xv0ne/2014%20BWAF%20Industry%20Leaders%20Roundtable%20Agenda.pdf?dl=0
     section_break: false
     include_left-hand_column_text_: false
-    buttons_header__optional_: View previous Industry Leaders Roundtable Agendas
     lefthand_text:
       header_type: ''
       text: ''
