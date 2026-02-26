@@ -1,11 +1,5 @@
 _inputs: 
   page_blocks:
-    options:
-      text:
-        - key: template
-      preview:
-        subtext:
-          - key: label
     type: array
     options:
       structures: _structures.page_blocks      
@@ -189,10 +183,9 @@ _structures:
     values:
       - label: Text Block
         preview:
-          text:
-            - key: template
+          text: Text Block
           subtext:
-            - key: text_block
+            - key: text_block 
           icon: article
         value:
           template: text-block
