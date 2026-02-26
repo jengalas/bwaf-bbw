@@ -95,7 +95,7 @@
 
 
     {% for bbw-year in site.bbw-years %}
-    {% if bbw-year.path == page.current-year %}
+    {% if bbw-year.path == "_bbw-years/bbw-" | append: page.current-year | append: ".md" %}
     {% assign currentYear = bbw-year %}
 
     
@@ -164,7 +164,6 @@
     <br>
 
     <a href="{{currentYear.url}}" class="btn-primary spacer">
-      {{currentYear}}
       View Selected Projects →
     </a>
   </div>
