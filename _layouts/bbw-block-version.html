@@ -14,12 +14,18 @@
 {% endif %}
 <div class="main-two-up">
   <div>
-    {% if block.show_lefthand_link and block.lefthand_link_text != "" and block.lefthand_link_url != "" %}
-    <div class="lefthand-column">
-      <a class="lefthand-link" href="{{ block.lefthand_link_url }}">
-        {{ block.lefthand_link_text }}→
-      </a>
-    </div>
+    {% if block.lefthand_text.header_type == 'Large Header' %}
+    <h1>{{block.lefthand_text.text}}</h1>
+    {% elsif block.lefthand_text.header_type == 'Medium Header' %}
+    <h2 class="h3"><b>{{block.lefthand_text.text}}</b></h2>
+    {% elsif block.lefthand_text.header_type == 'Small Header' %}
+    <h2><b>{{block.lefthand_text.text}}</b></h2>
+    {% elsif block.lefthand_text.header_type == 'Film/Book Title' %}
+    <h3><b><i>{{block.lefthand_text.text}}</i></b></h3>
+    {% elsif block.lefthand_text.header_type == 'Link' %}
+    {% include block_l_link.html %}
+    {% elsif block.lefthand_text.header_type == 'Text with Download' %}
+    {% include block_l_link_download.html %}
     {% endif %}
   </div>
   <div>
