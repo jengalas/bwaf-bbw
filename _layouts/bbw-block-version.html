@@ -98,7 +98,7 @@
     {% if bbw-year.path == page.current-year %}
     {% assign currentYear = bbw-year %}
 
-    {{currentYear}}
+    
     {% endif %}
     {% endfor %}
 
@@ -131,6 +131,7 @@
     <h2 class="h3"><b>Meet the Jury</b></h2>
   </div>
   <div>
+    {{currentYear}}
     <div class="portrait-gallery-block-large">
       {% for person in page.jury_members %}
       <div>
