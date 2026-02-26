@@ -34,5 +34,5 @@ page_blocks:
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1761241529/WeBuiltThis_Extension.gif
     section_break: false
     image_caption_text:
-    alt_text: Built By Women 2026. Submissions close 11/6.
+    alt_text: Built By Women 2026. Submissions close 11/6.  
 ---

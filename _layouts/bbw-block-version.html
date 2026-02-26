@@ -97,6 +97,8 @@
     {% for bbw-year in site.bbw-years %}
     {% if bbw-year.path == page.current-year %}
     {% assign currentYear = bbw-year %}
+
+    {{currentYear}}
     {% endif %}
     {% endfor %}
 
