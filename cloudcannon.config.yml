@@ -99,10 +99,6 @@ collections_config:
       section_break:
         hidden: true
       template:
-        hidden: true
-      include_left-hand_column_text_:
-        hidden: true
-      lefthand_text:
         hidden: true    
       show_slideshow:
         label: Show Slideshow
