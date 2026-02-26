@@ -327,7 +327,7 @@ _structures:
           button:
             hidden: false
           lefthand_text:
-            hidden: true
+            hidden: false
           miscellaneous:
             type: markdown
       - label: Slideshow
