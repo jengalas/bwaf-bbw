@@ -191,6 +191,32 @@ _structures:
   page_blocks:
     id_key: template
     values:
+      - label: Text Block
+        preview:
+          text: Text Block
+          subtext: Markdown content
+          icon: article
+        value:
+          template: text-block
+          text: ""
+          show_lefthand_link: false
+          lefthand_link_text: ""
+          lefthand_link_url: ""
+          section_break: false
+        _inputs:
+          text:
+            type: markdown
+          show_lefthand_link:
+            type: checkbox
+            label: Show Lefthand Link?
+          lefthand_link_text:
+            type: text
+            label: Left Link Text
+          lefthand_link_url:
+            type: text
+            label: Left Link URL
+          section_break:
+            hidden: true
       - label: Buttons
         preview:
           text: Buttons

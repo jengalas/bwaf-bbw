@@ -4,7 +4,7 @@ permalink: /built-by-women
 title: Built By Women
 navCategory: Programs
 page_blocks:
-  - _block_name: text_block
+  - template: text-block
     text: >-
       Beverly Willis Architecture Foundation creates opportunities with national
       attention to demonstrate the breadth of achievement in the building
