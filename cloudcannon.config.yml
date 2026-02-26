@@ -203,8 +203,16 @@ _structures:
           lefthand_link_text: ""
           lefthand_link_url: ""
           section_break: false
+          include_left-hand_column_text_: false
+          lefthand_text:
+            header_type: Large Header
+            text: 
+            download: ''
+            link_url: ''
+            link_text: ''
+          section_break: false
         _inputs:
-          text:
+          text_block:
             type: markdown
           show_lefthand_link:
             type: checkbox
@@ -215,6 +223,9 @@ _structures:
           lefthand_link_url:
             type: text
             label: Left Link URL
+          include_left-hand_column_text_: 
+            type: checkbox
+            label: Show Lefthand Text? 
           section_break:
             hidden: true
       - label: Buttons
