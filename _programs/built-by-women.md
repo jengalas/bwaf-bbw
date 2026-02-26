@@ -23,32 +23,4 @@ page_blocks:
     show_lefthand_link: true
     lefthand_link_text: 'Become a sponsor of the program '
     lefthand_link_url: https://bwaf.netlify.app/support
-_structures:
-  page_blocks:
-    values:
-      - label: Text Block
-        value:
-          _block_name: text_block
-          text: ''
-          show_lefthand_link: false
-          lefthand_link_text: ''
-          lefthand_link_url: ''
-_inputs:
-  page_blocks:
-    type: array
-    options:
-      structures: 
-        - page_blocks
-  page_blocks[*].text:
-    type: markdown
-    label: Main Text
-  page_blocks[*].show_lefthand_link:
-    type: checkbox
-    label: Show Lefthand Link?
-  page_blocks[*].lefthand_link_text:
-    type: text
-    label: Left Link Text
-  page_blocks[*].lefthand_link_url:
-    type: text
-    label: Left Link URL
 ---
