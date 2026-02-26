@@ -65,7 +65,6 @@ page_blocks:
     image_caption_text: ''
   - template: miscellaneous-block
     section_break: false
-    include_left-hand_column_text_: false
     miscellaneous: >-
       **DAY 1: RAY HARLEM & NATIONAL BLACK THEATRE**
 
@@ -117,6 +116,7 @@ page_blocks:
 
 
       &nbsp;
+    include_left-hand_column_text_: false
     lefthand_text:
       header_type: ''
       text: ''
