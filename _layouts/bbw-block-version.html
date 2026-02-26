@@ -19,7 +19,7 @@
   </div>
   <div>
     <div class="text-block spacer">
-      {% if block._block_name == "text_block" %}
+      {% if block.template == "text-block" %}
       <section class="text-block">
         <div class="right-column">
           {{ block.text | markdownify }}
