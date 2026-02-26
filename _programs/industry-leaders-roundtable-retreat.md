@@ -314,9 +314,6 @@ _structures:
           icon:
         value:
           template: text-block
-          button:
-            - button_text:
-              button_link:
           section_break: false
           include_left-hand_column_text_: true
         _inputs:
