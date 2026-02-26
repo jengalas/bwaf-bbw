@@ -204,6 +204,12 @@ _structures:
           lefthand_link_url: ""
           section_break: false
           include_left-hand_column_text_: false
+          lefthand_text:
+            header_type: Large Header
+            text: Thank you!
+            download: ''
+            link_url: ''
+            link_text: ''
           section_break: false
         _inputs:
           text_block:
