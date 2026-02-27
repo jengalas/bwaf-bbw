@@ -252,9 +252,9 @@ _structures:
             hidden: true
           include_left-hand_column_text_:
             hidden: true
-      - label: Image Block
+      - label: Image
         preview:
-          text: Image Block
+          text: Image
           subtext:
             - key: image
               empty_value: ""
@@ -267,6 +267,7 @@ _structures:
           alt_text:   
           include_left-hand_column_text_: false
           lefthand_text:
+            label: Left-hand Column Text
             header_type: Large Header
             text: ''
             download: ''
