@@ -242,6 +242,7 @@ _structures:
           icon:
             hidden: true
           buttons_header__optional_:
+            label: Buttons Header (optional)
             type: text
           button:
             hidden: false
