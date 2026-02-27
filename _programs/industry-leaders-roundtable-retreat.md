@@ -196,13 +196,6 @@ page_blocks:
         button_link: >-
           https://www.dropbox.com/s/txqhd6wb52xv0ne/2014%20BWAF%20Industry%20Leaders%20Roundtable%20Agenda.pdf?dl=0
     section_break: false
-    include_left-hand_column_text_: false
-    lefthand_text:
-      header_type: ''
-      text: ''
-      download: ''
-      link_url: ''
-      link_text: ''
   - template: slideshow-block
     section_break: false
     image:
