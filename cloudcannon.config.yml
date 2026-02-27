@@ -272,8 +272,6 @@ _structures:
             link_url: ''
           section_break: false
         _inputs:
-          text_block:
-            type: markdown
           include_left-hand_column_text_: 
             type: checkbox
             label: Show Lefthand Text? 
@@ -306,6 +304,7 @@ _structures:
           icon: article
         value:
           template: miscellaneous-block
+          miscellaneous: ""
           section_break: false
           include_left-hand_column_text_: false
           lefthand_text:
@@ -315,7 +314,7 @@ _structures:
             link_url: ''
           section_break: false
         _inputs:
-          text_block:
+          miscellaneous:
             type: markdown
           include_left-hand_column_text_: 
             type: checkbox
