@@ -16,7 +16,6 @@ page_blocks:
       text: Leadership Awards Celebration
       download: ''
       link_url: ''
-      link_text: ''
   - template: text-block
     button:
       - button_text:
@@ -28,7 +27,6 @@ page_blocks:
       text:
       download: ''
       link_url: ''
-      link_text: ''
     text_block: >-
       The built environment tells the story of who we are and who we choose to
       become.
@@ -155,7 +153,6 @@ page_blocks:
       text: 2026 Honorees
       download: ''
       link_url: ''
-      link_text: ''
     section_break: true
     portrait:
       - title: Sharon Prince
@@ -200,7 +197,6 @@ page_blocks:
       text: 2026 Committee Chairs
       download: ''
       link_url: ''
-      link_text: ''
     section_break: true
     portrait:
       - title: Phoebe Yee
@@ -297,7 +293,6 @@ page_blocks:
       text: ''
       download: ''
       link_url: ''
-      link_text: ''
     image:
       - image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1744216167/1477_SLC03708.jpg
