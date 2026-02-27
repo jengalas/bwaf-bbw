@@ -96,7 +96,9 @@ collections_config:
         hidden: true    
       show_bbw_slideshow:
         label: Show Slideshow
-        type: checkbox                                  
+        type: checkbox        
+      bbw-slideshow-images:
+        label: BBW Slideshow Images                            
   resources:
     _enabled_editors:
       - data
