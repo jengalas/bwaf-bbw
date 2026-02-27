@@ -250,16 +250,51 @@ _structures:
             hidden: true
           include_left-hand_column_text_:
             hidden: true
-      - label: Image
+      - label: Image Block
         preview:
-          text: Image
-          image:
+          text: Image Block
+          subtext:
             - key: image
+              empty_value: ""
           icon: image
         value:
           template: image-block
           image:
           section_break: false
           image_caption_text:
-          alt_text:      
+          alt_text:   
+            - label: Text Block
+          include_left-hand_column_text_: false
+          lefthand_text:
+            header_type: Large Header
+            text: ''
+            download: ''
+            link_url: ''
+          section_break: false
+        _inputs:
+          text_block:
+            type: markdown
+          include_left-hand_column_text_: 
+            type: checkbox
+            label: Show Lefthand Text? 
+          lefthand_text.header_type:
+            type: select
+            options:
+              values:
+                - Large Header
+                - Medium Header
+                - Small Header
+                - Film/Book Title
+                - Link
+                - Text with Download
+          lefthand_text.text:
+            type: markdown
+          lefthand_text.download:
+            type: text
+          lefthand_text.link_url:
+            type: text
+          section_break:
+            hidden: true
+          label:
+            hidden: true  
              
