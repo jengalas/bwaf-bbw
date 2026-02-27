@@ -55,7 +55,6 @@ page_blocks:
       text: ''
       download: ''
       link_url: ''
-      link_text: ''
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1759331662/250909_NY_Roundtable_Graphics_V1_2.png
     alt_text:
@@ -119,7 +118,6 @@ page_blocks:
       text: ''
       download: ''
       link_url: ''
-      link_text: ''
   - template: slideshow-block
     section_break: false
     image:
@@ -150,7 +148,6 @@ page_blocks:
       text: ''
       download: ''
       link_url: ''
-      link_text: ''
     automatic: true
   - template: image-block
     section_break: false
@@ -160,7 +157,6 @@ page_blocks:
       text: ''
       download: ''
       link_url: ''
-      link_text: ''
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1760467040/NYC_RT_sponsors.png
     alt_text:
