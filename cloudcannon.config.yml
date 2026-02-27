@@ -315,7 +315,7 @@ _structures:
           section_break: false
         _inputs:
           miscellaneous:
-            type: markdown
+            type: html
           include_left-hand_column_text_: 
             type: checkbox
             label: Show Lefthand Text? 
