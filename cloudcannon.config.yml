@@ -78,14 +78,6 @@ collections_config:
     _enabled_editors:
       - data  
     _inputs:
-      page_blocks:
-        options:
-          structures:
-            - text-block
-            - image-block
-            - miscellaneous-block
-            - slideshow-block
-            - buttons-block
       date:
         hidden: true
       $.title:
