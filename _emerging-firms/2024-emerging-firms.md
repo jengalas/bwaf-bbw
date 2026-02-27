@@ -18,7 +18,6 @@ page_blocks:
       text: Emerging Firms
       download: ''
       link_url: ''
-      link_text: ''
   - template: text-block
     text_block: >-
       The program will be held in person on January 24 & 31, 3:00-6:00pm at
@@ -41,7 +40,6 @@ page_blocks:
       text: Workshop & Talk Series
       download: ''
       link_url: ''
-      link_text: ''
   - template: featured-portrait-block
     header: Speakers
     time-location:
@@ -56,7 +54,6 @@ page_blocks:
       text: Speaker
       download: ''
       link_url: ''
-      link_text: ''
     image: /uploads/1708609530715.jpeg
     subtitle: Partner, Peterson Rich Office
     description: >-
@@ -85,7 +82,6 @@ page_blocks:
       text: ''
       download: ''
       link_url: ''
-      link_text: ''
     image: /uploads/marta-sanders.jpg
     subtitle: Principal, Architecture Outfit
     description: >-
@@ -116,7 +112,6 @@ page_blocks:
       text: ''
       download: ''
       link_url: ''
-      link_text: ''
     image: /uploads/67.png
     subtitle: Principal, Zetlin & De Chiara LLP
     description: >-
@@ -148,7 +143,6 @@ page_blocks:
       text: ''
       download: ''
       link_url: ''
-      link_text: ''
     image: /uploads/dungjai-pungauthaikan-once-future-office-3x2-1-900x600.jpg
     subtitle: Founding Principal and Creative Director, Once–Future Office
     description: >-
@@ -181,7 +175,6 @@ page_blocks:
       text: ''
       download: ''
       link_url: ''
-      link_text: ''
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1731526901/Tami_3057-768x1009.jpg
     subtitle: Founder and President, Hausman LLC
@@ -249,8 +242,6 @@ _structures:
             header_type: ''
             text: ''
             download: ''
-            link_url: ''
-            link_text: ''
           image:
           subtitle:
           description:
