@@ -306,10 +306,7 @@ _structures:
           icon: article
         value:
           template: miscellaneous-block
-          image:
           section_break: false
-          image_caption_text:
-          alt_text:   
           include_left-hand_column_text_: false
           lefthand_text:
             header_type: Large Header
