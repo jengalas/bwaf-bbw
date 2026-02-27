@@ -257,7 +257,6 @@ _structures:
           text: Image
           subtext:
             - key: image
-              empty_value: ""
           icon: image
         value:
           template: image-block
@@ -267,7 +266,6 @@ _structures:
           alt_text:   
           include_left-hand_column_text_: false
           lefthand_text:
-            label: Left-hand Column Text
             header_type: Large Header
             text: ''
             download: ''
