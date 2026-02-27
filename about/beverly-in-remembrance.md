@@ -124,26 +124,4 @@ page_blocks:
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1696441375/01Willis_AARON_ESTO_thumb.jpg
         description: ''
-_inputs:
-  page_blocks[*].label:
-    hidden: true
-  template:
-    hidden: true
-  title:
-    hidden: true
-  section_break:
-    hidden: true
-  include_left-hand_column_text_:
-    hidden: true
-  lefthand_text:
-    hidden: true
-  miscellaneous:
-    label: Text
-  page_blocks:
-    options:
-      text:
-        - key: template
-      preview:
-        subtext:
-          - key: label
 ---
