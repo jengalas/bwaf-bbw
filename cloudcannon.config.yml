@@ -232,8 +232,7 @@ _structures:
           icon: smart_button
         value:
           template: buttons-block
-          buttons_header__optional_:
-            type: text
+          buttons_header__optional_: ''
           button:
             - button_text:
               button_link:
@@ -242,6 +241,8 @@ _structures:
         _inputs:
           icon:
             hidden: true
+          buttons_header__optional_:
+            type: text
           button:
             hidden: false
           section_break:
