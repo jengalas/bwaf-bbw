@@ -115,22 +115,22 @@ page_blocks:
       text: Beverly Willis, FAIA<br><br>1928 - 2023
       download: ''
       link_url: ''
-  - template: miscellaneous-block
+  - template: code-block
     label: Text
-    miscellaneous: >-
+    code_block: >-
       <iframe
       src="https://drive.google.com/file/d/1B8YOQXPVWC584o2PbsNT0C0R4GdKR9I-/preview"
       width="800" height="510" style="max-width: 100%;"
       allow="autoplay"></iframe>
     section_break: false
     include_left-hand_column_text_: false
-  - template: miscellaneous-block
+  - template: code-block
     label: Tributes and Mentions
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Medium Header
       text: Tributes & Mentions
-    miscellaneous: >-
+    code_block: >-
       <div class="tributes-block"> <div><p><a
       href="https://www.aia.org/press-releases/6674356-aia-mourns-the-loss-of-beverly-willis-faia">AIA</a></p></div>
       <div><p><a
