@@ -25,7 +25,6 @@ page_blocks:
       text: Emerging Leaders
       download: ''
       link_url: ''
-      link_text: ''
   - template: image-block
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1678236171/Emerging_Leaders_2023-edit_zktvjf.png
@@ -36,7 +35,6 @@ page_blocks:
       text: ''
       download: ''
       link_url: ''
-      link_text: ''
     alt_text: ''
     image_caption_text: ''
   - template: text-block
@@ -47,7 +45,6 @@ page_blocks:
       text: Energy, Environment, Engagement
       download: ''
       link_url: ''
-      link_text: ''
     text_block: >-
       Energy, Environment, Engagement was held March 30th, April 25th, and May
       16th, 2023.  Participants heard from speakers Melissa Burton, ARUP
@@ -149,7 +146,6 @@ page_blocks:
       text: ''
       download: ''
       link_url: ''
-      link_text: ''
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1678234361/2017_Burton_Melissa_01_980x780_kbtmcc.jpg
     subtitle: ARUP Canada's Principal Engineer
@@ -170,7 +166,6 @@ page_blocks:
       text: ''
       download: ''
       link_url: ''
-      link_text: ''
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1678234847/LNSimonheadshot_labdtm.jpg
     label: Speaker
@@ -209,7 +204,6 @@ page_blocks:
       text: ''
       download: ''
       link_url: ''
-      link_text: ''
     subtitle: ''
 _structures:
   page_blocks:
@@ -250,7 +244,6 @@ _structures:
             text: ''
             download: ''
             link_url: ''
-            link_text: ''
           image:
           subtitle:
           description:

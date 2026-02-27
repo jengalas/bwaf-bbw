@@ -16,7 +16,6 @@ page_blocks:
       header_type: Large Header
       download: ''
       link_url: ''
-      link_text: ''
     section_break: false
     text_block: >-
       Launched in 2017, the BWAF Emerging Leaders program is a selective
@@ -55,7 +54,6 @@ page_blocks:
       text: 'Emerging Leaders: Online'
       link_url: ''
       download: ''
-      link_text: ''
   - template: featured-portrait-block
     header: Tenacity
     image: >-
@@ -102,7 +100,6 @@ page_blocks:
       header_type: Medium Header
       download: ''
       link_url: ''
-      link_text: ''
     section_break: false
     text_block:
   - template: portrait-gallery-block-small
@@ -191,7 +188,6 @@ page_blocks:
       text:
       link_url: ''
       download: ''
-      link_text: ''
 _structures:
   page_blocks:
     id_key: template

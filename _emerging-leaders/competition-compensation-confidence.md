@@ -16,7 +16,6 @@ page_blocks:
       header_type: Large Header
       download: ''
       link_url: ''
-      link_text: ''
     section_break: false
     text_block: >-
       Launched in 2017, the BWAF Emerging Leaders program is a selective
@@ -36,7 +35,6 @@ page_blocks:
       header_type: Medium Header
       download: ''
       link_url: ''
-      link_text: ''
     section_break: false
     text_block: >
       Confidence, Compensation, Competition was held June 26th, July 25th, and
@@ -144,7 +142,6 @@ page_blocks:
       text: ''
       download: ''
       link_url: ''
-      link_text: ''
     header: BWAF Summer 2019 Emerging Leaders Participants
   - template: featured-portrait-block
     section_break: false
@@ -154,7 +151,6 @@ page_blocks:
       text: ''
       download: ''
       link_url: ''
-      link_text: ''
     featured-portrait: []
     header: CONFIDENCE
     image: >-
@@ -174,7 +170,6 @@ page_blocks:
       text: ''
       download: ''
       link_url: ''
-      link_text: ''
     featured-portrait: []
     header: COMPENSATION
     image: >-
@@ -203,7 +198,6 @@ page_blocks:
       text: ''
       download: ''
       link_url: ''
-      link_text: ''
     featured-portrait: []
     description: ''
   - template: featured-portrait-block
@@ -214,7 +208,6 @@ page_blocks:
       text: ''
       download: ''
       link_url: ''
-      link_text: ''
     featured-portrait: []
     header: COMPETITION
     image: >-

@@ -17,7 +17,6 @@ page_blocks:
       text: Determination, Design, Disruption
       download: ''
       link_url: ''
-      link_text: ''
     text_block: >-
       Launched in 2017, the BWAF Emerging Leaders program is a selective
       professional development opportunity for early- and mid-career women.
@@ -37,7 +36,6 @@ page_blocks:
       text: Determination, Design, Disruption
       download: ''
       link_url: ''
-      link_text: ''
     text_block: >
       Determination, Design, Disruption was held October 13th, November 12th,
       and December 3rd, 2020. Participants heard from speakers Juliet
@@ -124,7 +122,6 @@ page_blocks:
       text: ''
       download: ''
       link_url: ''
-      link_text: ''
     header: BWAF Fall 2020 Emerging Leaders Participants
   - template: featured-portrait-block
     section_break: false
@@ -134,7 +131,6 @@ page_blocks:
       text: ''
       download: ''
       link_url: ''
-      link_text: ''
     featured-portrait: []
     header: DETERMINATION
     image: >-
@@ -172,7 +168,6 @@ page_blocks:
       text: ''
       download: ''
       link_url: ''
-      link_text: ''
     featured-portrait: []
   - template: featured-portrait-block
     include_left-hand_column_text_: true
@@ -196,7 +191,6 @@ page_blocks:
       text: ''
       download: ''
       link_url: ''
-      link_text: ''
     featured-portrait: []
 _structures:
   page_blocks:

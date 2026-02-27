@@ -13,7 +13,6 @@ page_blocks:
       text: Emerging Leaders
       download: ''
       link_url: ''
-      link_text: ''
     section_break: false
     text_block: >-
       Beverly Willis Architecture Foundation Emerging Leaders program is a New
@@ -33,7 +32,6 @@ page_blocks:
       text: Agility, Ambition, Authenticity
       download: ''
       link_url: ''
-      link_text: ''
     alt_text: ''
     image_caption_text: ''
   - template: text-block
@@ -50,7 +48,6 @@ page_blocks:
       text: Agility, Ambition, Authenticity
       download:
       link_url: ''
-      link_text:
   - template: portrait-gallery-block-small
     portrait:
       - title_role: Project Architect and Designer, Cooper Carry
@@ -180,7 +177,6 @@ page_blocks:
       text: ''
       download: ''
       link_url: ''
-      link_text: ''
     header: Meet the 2022 Emerging Leaders Program Participants
   - template: featured-portrait-block
     section_break: false
@@ -190,7 +186,6 @@ page_blocks:
       text: Agility, Ambition, Authenticity
       download: ''
       link_url: ''
-      link_text: ''
     featured-portrait: []
     header: AGILITY
     image: >-
@@ -216,7 +211,6 @@ page_blocks:
       text: ''
       download: ''
       link_url: ''
-      link_text: ''
     featured-portrait: []
     header: AMBITION
     image: >-
@@ -241,7 +235,6 @@ page_blocks:
       text: ''
       download: ''
       link_url: ''
-      link_text: ''
     featured-portrait: []
     header: AUTHENTICITY
     image: >-

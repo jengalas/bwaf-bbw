@@ -22,6 +22,5 @@ page_blocks:
       text: Thank you!
       download: ''
       link_url: ''
-      link_text: ''
     section_break: false
 ---
