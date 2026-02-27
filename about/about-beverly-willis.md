@@ -17,7 +17,6 @@ page_blocks:
       text: About Beverly Willis
       download: ''
       link_url: ''
-      link_text: ''
   - template: text-block
     label: Text Block
     text_block: >-
@@ -62,7 +61,6 @@ page_blocks:
       text: ''
       download: ''
       link_url: ''
-      link_text: ''
     section_break: false
   - template: media-gallery-block
     label: Media Gallery
@@ -91,7 +89,6 @@ page_blocks:
       text: ''
       download: ''
       link_url: ''
-      link_text: ''
     section_break: false
   - template: miscellaneous-block
     label: Text
@@ -118,7 +115,6 @@ page_blocks:
       text: Beverly Willis, FAIA<br><br>1928 - 2023
       download: ''
       link_url: ''
-      link_text: ''
   - template: miscellaneous-block
     label: Text
     miscellaneous: >-
@@ -186,7 +182,6 @@ page_blocks:
       text: ''
       download: ''
       link_url: ''
-      link_text: ''
     portrait:
       - title:
         title_role:
@@ -218,32 +213,6 @@ page_blocks:
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1696441375/01Willis_AARON_ESTO_thumb.jpg
         description: ''
-_inputs:
-  include_left-hand_column_text_:
-    hidden: true
-  lefthand_text:
-    hidden: true
-  page_blocks[*].label:
-    hidden: true
-  $.title:
-    hidden: true
-  page_blocks[*].media.title:
-    label: Media Title
-  text_block:
-    type: textarea
-  template:
-    hidden: true
-  section_break:
-    hidden: true
-  media-gallery-block:
-    label: Media
-  page_blocks:
-    options:
-      text:
-        - key: template
-      preview:
-        subtext:
-          - key: label
 description: >-
   In 2002, Beverly Willis, FAIA founded the Beverly Willis Architecture
   Foundation.
