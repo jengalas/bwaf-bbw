@@ -9,7 +9,38 @@ _inputs:
           subtext:
             - key: label 
   template:
-    hidden: true              
+    hidden: true         
+
+  include_left-hand_column_text_:
+    type: checkbox
+    label: Show Lefthand Text?
+
+  lefthand_text:
+    type: group
+    label: Lefthand Text
+    options:
+      collapsed: false
+
+  lefthand_text.header_type:
+    type: select
+    options:
+      values:
+        - Large Header
+        - Medium Header
+        - Small Header
+        - Film/Book Title
+        - Link
+        - Text with Download
+
+  lefthand_text.text:
+    type: markdown
+
+  lefthand_text.download:
+    type: text
+
+  lefthand_text.link_url:
+    type: text
+
 collections_config:
   data:
     filter:
@@ -204,25 +235,6 @@ _structures:
         _inputs:
           text_block:
             type: markdown
-          include_left-hand_column_text_: 
-            type: checkbox
-            label: Show Lefthand Text? 
-          lefthand_text.header_type:
-            type: select
-            options:
-              values:
-                - Large Header
-                - Medium Header
-                - Small Header
-                - Film/Book Title
-                - Link
-                - Text with Download
-          lefthand_text.text:
-            type: markdown
-          lefthand_text.download:
-            type: text
-          lefthand_text.link_url:
-            type: text
           section_break:
             hidden: true
           label:
@@ -272,25 +284,6 @@ _structures:
             link_url: ''
           section_break: false
         _inputs:
-          include_left-hand_column_text_: 
-            type: checkbox
-            label: Show Lefthand Text? 
-          lefthand_text.header_type:
-            type: select
-            options:
-              values:
-                - Large Header
-                - Medium Header
-                - Small Header
-                - Film/Book Title
-                - Link
-                - Text with Download
-          lefthand_text.text:
-            type: markdown
-          lefthand_text.download:
-            type: text
-          lefthand_text.link_url:
-            type: text
           section_break:
             hidden: true
           label:
@@ -316,25 +309,6 @@ _structures:
         _inputs:
           miscellaneous:
             type: markdown
-          include_left-hand_column_text_: 
-            type: checkbox
-            label: Show Lefthand Text? 
-          lefthand_text.header_type:
-            type: select
-            options:
-              values:
-                - Large Header
-                - Medium Header
-                - Small Header
-                - Film/Book Title
-                - Link
-                - Text with Download
-          lefthand_text.text:
-            type: markdown
-          lefthand_text.download:
-            type: text
-          lefthand_text.link_url:
-            type: text
           section_break:
             hidden: true
           label:
@@ -362,25 +336,6 @@ _structures:
             type: code
             options:
               language: html
-          include_left-hand_column_text_: 
-            type: checkbox
-            label: Show Lefthand Text? 
-          lefthand_text.header_type:
-            type: select
-            options:
-              values:
-                - Large Header
-                - Medium Header
-                - Small Header
-                - Film/Book Title
-                - Link
-                - Text with Download
-          lefthand_text.text:
-            type: markdown
-          lefthand_text.download:
-            type: text
-          lefthand_text.link_url:
-            type: text
           section_break:
             hidden: true
           label:
