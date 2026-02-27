@@ -6,7 +6,6 @@ navCategory: About
 description: In remembrance of Beverly Willis, FAIA, 1928 - 2023.
 page_blocks:
   - template: miscellaneous-block
-    label: Text
     miscellaneous: >-
       > “We share with deep sadness the passing of our dear founder, Beverly
       Willis FAIA, a titan in many fields, who showed us, among other lessons,
@@ -30,42 +29,66 @@ page_blocks:
       text: Beverly Willis, FAIA<br><br>1928 - 2023
       download: ''
       link_url: ''
-      link_text: '' 
+      link_text: ''
+    label: Text
   - template: miscellaneous-block
-    label: Tributes and Mentions
-    include_left-hand_column_text_: true
-    lefthand_text: 
-      header_type:  Medium Header 
-      text: 'Tributes & Mentions'
     miscellaneous: >-
-      <div class="tributes-block">
-      <div><p><a href="https://www.aia.org/press-releases/6674356-aia-mourns-the-loss-of-beverly-willis-faia">AIA</a></p></div>
-      <div><p><a href="https://www.archdaily.com/1007703/architect-and-womens-advocate-beverly-willis-passes-away-at-95">ArchDaily</a></p></div>
-      <div><p><a href="https://archinect.com/news/article/150380540/trailblazing-architect-and-inclusion-advocate-beverly-willis-passes-away-at-95">Archinect</a></p></div>
-      <div><p><a href="https://www.architectmagazine.com/practice/pioneering-architect-and-advocate-beverly-willis-dies-at-95_o">Architect</a></p></div>
-      <div><p><a href="https://www.archpaper.com/2023/10/beverly-willis-architect-pioneering-womens-advocate-dies/">The Architect's Newspaper</a></p></div>
-      <div><p><a href="https://www.architecturalrecord.com/articles/16514-tribute-beverly-willis-19282023">Architectural Record</a></p></div>
-      <div><p><a href="https://artdaily.com/news/162839/Beverly-Willis--95--dies--Architect-and-advocate-for-women-in-the-field">ArtDaily</a></p></div>
-      <div><p><a href="https://www.buildingenclosureonline.com/articles/91945-champion-of-women-architects-beverly-willis-dies-at-95">Building Enclosure</a></p></div>
-      <div><p><a href="https://www.enr.com/articles/57214-tribute-beverly-willis-95architecture-pioneer-advocate-for-women">Engineering News-Record</a></p></div>
-      <div><p><a href="https://www.staradvertiser.com/2023/10/08/hawaii-news/groundbreaking-architect-beverly-willis-got-her-start-in-hawaii/">Honolulu Star-Advertiser</a></p></div>
-      <div><p><a href="https://interiordesign.net/designwire/beverly-willis-architect-dies-at-95/">Interior Design</a></p></div>
-      <div><p><a href="https://www.legacy.com/news/celebrity-deaths/beverly-willis-1928-2023-pioneering-female-architect/">Legacy.com</a></p></div>
-      <div><p><a href="https://metropolismag.com/profiles/beverly-willis-architect-legacy/">Metropolis</a></p></div>  
-      <div><p><a href="https://www.nbm.org/beverly-willis-co-founder-of-the-national-building-museum-and-founding-trustee-of-the-museum-dies/">National Building Museum</a></p></div>    
-      <div><p><a href="https://www.nytimes.com/2023/10/02/arts/beverly-willis-dead.html">The New York Times</a></p></div>
-      <div><p><a href="https://officeinsight.com/officenewswire/beverly-willis-faia-1928-2023/">Office Insight</a></p></div>
-      <div><p><a href="https://www.bizjournals.com/sanfrancisco/news/2023/10/03/sfbt-digest-tuesday-kaiser-tiger-woods-sofi-sf.html">San Francisco Business Times</a></p></div>
-      <div><p><a href="https://www.sah.org/about-sah/news/news-detail/2023/10/04/obituary-beverly-willis-(1928-2023)">Society of Architectural Historians</a></p></div>
-      <div><p><a href="https://www.surfacemag.com/articles/81st-street-studio-metropolitan-museum-art/">Surface</a></p></div>
-      <div><p><a href="https://www.wconline.com/articles/95698-beverly-willis-pioneering-champion-of-women-architects-dies">Walls &amp; Ceilings Online</a></p></div>
-      <div><p><a href="https://www.world-architects.com/en/architecture-news/headlines/beverly-willis-1928-2023">World-Architects</a></p></div>
+      <div class="tributes-block"> <div><p><a
+      href="https://www.aia.org/press-releases/6674356-aia-mourns-the-loss-of-beverly-willis-faia">AIA</a></p></div>
+      <div><p><a
+      href="https://www.archdaily.com/1007703/architect-and-womens-advocate-beverly-willis-passes-away-at-95">ArchDaily</a></p></div>
+      <div><p><a
+      href="https://archinect.com/news/article/150380540/trailblazing-architect-and-inclusion-advocate-beverly-willis-passes-away-at-95">Archinect</a></p></div>
+      <div><p><a
+      href="https://www.architectmagazine.com/practice/pioneering-architect-and-advocate-beverly-willis-dies-at-95_o">Architect</a></p></div>
+      <div><p><a
+      href="https://www.archpaper.com/2023/10/beverly-willis-architect-pioneering-womens-advocate-dies/">The
+      Architect's Newspaper</a></p></div> <div><p><a
+      href="https://www.architecturalrecord.com/articles/16514-tribute-beverly-willis-19282023">Architectural
+      Record</a></p></div> <div><p><a
+      href="https://artdaily.com/news/162839/Beverly-Willis--95--dies--Architect-and-advocate-for-women-in-the-field">ArtDaily</a></p></div>
+      <div><p><a
+      href="https://www.buildingenclosureonline.com/articles/91945-champion-of-women-architects-beverly-willis-dies-at-95">Building
+      Enclosure</a></p></div> <div><p><a
+      href="https://www.enr.com/articles/57214-tribute-beverly-willis-95architecture-pioneer-advocate-for-women">Engineering
+      News-Record</a></p></div> <div><p><a
+      href="https://www.staradvertiser.com/2023/10/08/hawaii-news/groundbreaking-architect-beverly-willis-got-her-start-in-hawaii/">Honolulu
+      Star-Advertiser</a></p></div> <div><p><a
+      href="https://interiordesign.net/designwire/beverly-willis-architect-dies-at-95/">Interior
+      Design</a></p></div> <div><p><a
+      href="https://www.legacy.com/news/celebrity-deaths/beverly-willis-1928-2023-pioneering-female-architect/">Legacy.com</a></p></div>
+      <div><p><a
+      href="https://metropolismag.com/profiles/beverly-willis-architect-legacy/">Metropolis</a></p></div>  
+      <div><p><a
+      href="https://www.nbm.org/beverly-willis-co-founder-of-the-national-building-museum-and-founding-trustee-of-the-museum-dies/">National
+      Building Museum</a></p></div>     <div><p><a
+      href="https://www.nytimes.com/2023/10/02/arts/beverly-willis-dead.html">The
+      New York Times</a></p></div> <div><p><a
+      href="https://officeinsight.com/officenewswire/beverly-willis-faia-1928-2023/">Office
+      Insight</a></p></div> <div><p><a
+      href="https://www.bizjournals.com/sanfrancisco/news/2023/10/03/sfbt-digest-tuesday-kaiser-tiger-woods-sofi-sf.html">San
+      Francisco Business Times</a></p></div> <div><p><a
+      href="https://www.sah.org/about-sah/news/news-detail/2023/10/04/obituary-beverly-willis-(1928-2023)">Society
+      of Architectural Historians</a></p></div> <div><p><a
+      href="https://www.surfacemag.com/articles/81st-street-studio-metropolitan-museum-art/">Surface</a></p></div>
+      <div><p><a
+      href="https://www.wconline.com/articles/95698-beverly-willis-pioneering-champion-of-women-architects-dies">Walls
+      &amp; Ceilings Online</a></p></div> <div><p><a
+      href="https://www.world-architects.com/en/architecture-news/headlines/beverly-willis-1928-2023">World-Architects</a></p></div>
       </div>     
+    section_break: false
+    include_left-hand_column_text_: true
+    lefthand_text:
+      header_type: Medium Header
+      text: Tributes & Mentions
+      download: ''
+      link_url: ''
+    label: Tributes and Mentions
   - template: portrait-gallery-template
     label: In Remembrance Gallery
     include_left-hand_column_text_: false
     lefthand_text:
-      header_type: 
+      header_type:
       text: ''
       download: ''
       link_url: ''
@@ -101,6 +124,71 @@ page_blocks:
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1696441375/01Willis_AARON_ESTO_thumb.jpg
         description: ''
+  - template: miscellaneous-block
+    miscellaneous: >-
+      <p>&lt;div class="tributes-block"&gt;</p><p>     
+      &lt;div&gt;&lt;p&gt;&lt;a
+      href="https://www.aia.org/press-releases/6674356-aia-mourns-the-loss-of-beverly-willis-faia"&gt;AIA&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</p><p>     
+      &lt;div&gt;&lt;p&gt;&lt;a
+      href="https://www.archdaily.com/1007703/architect-and-womens-advocate-beverly-willis-passes-away-at-95"&gt;ArchDaily&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</p><p>     
+      &lt;div&gt;&lt;p&gt;&lt;a
+      href="https://archinect.com/news/article/150380540/trailblazing-architect-and-inclusion-advocate-beverly-willis-passes-away-at-95"&gt;Archinect&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</p><p>     
+      &lt;div&gt;&lt;p&gt;&lt;a
+      href="https://www.architectmagazine.com/practice/pioneering-architect-and-advocate-beverly-willis-dies-at-95_o"&gt;Architect&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</p><p>     
+      &lt;div&gt;&lt;p&gt;&lt;a
+      href="https://www.archpaper.com/2023/10/beverly-willis-architect-pioneering-womens-advocate-dies/"&gt;The
+      Architect's Newspaper&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</p><p>     
+      &lt;div&gt;&lt;p&gt;&lt;a
+      href="https://www.architecturalrecord.com/articles/16514-tribute-beverly-willis-19282023"&gt;Architectural
+      Record&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</p><p>     
+      &lt;div&gt;&lt;p&gt;&lt;a
+      href="https://artdaily.com/news/162839/Beverly-Willis--95--dies--Architect-and-advocate-for-women-in-the-field"&gt;ArtDaily&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</p><p>     
+      &lt;div&gt;&lt;p&gt;&lt;a
+      href="https://www.buildingenclosureonline.com/articles/91945-champion-of-women-architects-beverly-willis-dies-at-95"&gt;Building
+      Enclosure&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</p><p>     
+      &lt;div&gt;&lt;p&gt;&lt;a
+      href="https://www.enr.com/articles/57214-tribute-beverly-willis-95architecture-pioneer-advocate-for-women"&gt;Engineering
+      News-Record&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</p><p>     
+      &lt;div&gt;&lt;p&gt;&lt;a
+      href="https://www.staradvertiser.com/2023/10/08/hawaii-news/groundbreaking-architect-beverly-willis-got-her-start-in-hawaii/"&gt;Honolulu
+      Star-Advertiser&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</p><p>     
+      &lt;div&gt;&lt;p&gt;&lt;a
+      href="https://interiordesign.net/designwire/beverly-willis-architect-dies-at-95/"&gt;Interior
+      Design&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</p><p>     
+      &lt;div&gt;&lt;p&gt;&lt;a
+      href="https://www.legacy.com/news/celebrity-deaths/beverly-willis-1928-2023-pioneering-female-architect/"&gt;Legacy.com&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</p><p>     
+      &lt;div&gt;&lt;p&gt;&lt;a
+      href="https://metropolismag.com/profiles/beverly-willis-architect-legacy/"&gt;Metropolis&lt;/a&gt;&lt;/p&gt;&lt;/div&gt; 
+      </p><p>      &lt;div&gt;&lt;p&gt;&lt;a
+      href="https://www.nbm.org/beverly-willis-co-founder-of-the-national-building-museum-and-founding-trustee-of-the-museum-dies/"&gt;National
+      Building Museum&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;    </p><p>     
+      &lt;div&gt;&lt;p&gt;&lt;a
+      href="https://www.nytimes.com/2023/10/02/arts/beverly-willis-dead.html"&gt;The
+      New York Times&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</p><p>     
+      &lt;div&gt;&lt;p&gt;&lt;a
+      href="https://officeinsight.com/officenewswire/beverly-willis-faia-1928-2023/"&gt;Office
+      Insight&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</p><p>     
+      &lt;div&gt;&lt;p&gt;&lt;a
+      href="https://www.bizjournals.com/sanfrancisco/news/2023/10/03/sfbt-digest-tuesday-kaiser-tiger-woods-sofi-sf.html"&gt;San
+      Francisco Business Times&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</p><p>     
+      &lt;div&gt;&lt;p&gt;&lt;a
+      href="https://www.sah.org/about-sah/news/news-detail/2023/10/04/obituary-beverly-willis-(1928-2023)"&gt;Society
+      of Architectural Historians&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</p><p>     
+      &lt;div&gt;&lt;p&gt;&lt;a
+      href="https://www.surfacemag.com/articles/81st-street-studio-metropolitan-museum-art/"&gt;Surface&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</p><p>     
+      &lt;div&gt;&lt;p&gt;&lt;a
+      href="https://www.wconline.com/articles/95698-beverly-willis-pioneering-champion-of-women-architects-dies"&gt;Walls
+      &amp;amp; Ceilings Online&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</p><p>     
+      &lt;div&gt;&lt;p&gt;&lt;a
+      href="https://www.world-architects.com/en/architecture-news/headlines/beverly-willis-1928-2023"&gt;World-Architects&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</p><p>     
+      &lt;/div&gt;     </p>
+    section_break: false
+    include_left-hand_column_text_: false
+    lefthand_text:
+      header_type: Large Header
+      text: ''
+      download: ''
+      link_url: ''
 _inputs:
   page_blocks[*].label:
     hidden: true
