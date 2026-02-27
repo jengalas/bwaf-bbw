@@ -115,7 +115,6 @@ _inputs:
   lefthand_text:
     hidden: true
   miscellaneous:
-    type: textarea
     label: Text
   page_blocks:
     options:
