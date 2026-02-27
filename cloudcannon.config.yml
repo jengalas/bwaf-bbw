@@ -255,7 +255,7 @@ _structures:
       - label: Image
         preview:
           text: Image
-          subtext:
+          image:
             - key: image
           icon: image
         value:
