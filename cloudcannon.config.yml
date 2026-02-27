@@ -297,4 +297,50 @@ _structures:
             hidden: true
           label:
             hidden: true  
+      - label: Miscellaneous Block
+        preview:
+          text: Miscellaneous Block
+          subtext:
+            - key: miscellaneous
+              empty_value: ""
+          icon: article
+        value:
+          template: miscellaneous-block
+          image:
+          section_break: false
+          image_caption_text:
+          alt_text:   
+          include_left-hand_column_text_: false
+          lefthand_text:
+            header_type: Large Header
+            text: ''
+            download: ''
+            link_url: ''
+          section_break: false
+        _inputs:
+          text_block:
+            type: markdown
+          include_left-hand_column_text_: 
+            type: checkbox
+            label: Show Lefthand Text? 
+          lefthand_text.header_type:
+            type: select
+            options:
+              values:
+                - Large Header
+                - Medium Header
+                - Small Header
+                - Film/Book Title
+                - Link
+                - Text with Download
+          lefthand_text.text:
+            type: markdown
+          lefthand_text.download:
+            type: text
+          lefthand_text.link_url:
+            type: text
+          section_break:
+            hidden: true
+          label:
+            hidden: true              
              
