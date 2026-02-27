@@ -31,8 +31,8 @@ page_blocks:
       link_url: ''
       link_text: ''
     label: Text
-  - template: miscellaneous-block
-    miscellaneous: >-
+  - template: code-block
+    code_block: >-
       <div class="tributes-block"> <div><p><a
       href="https://www.aia.org/press-releases/6674356-aia-mourns-the-loss-of-beverly-willis-faia">AIA</a></p></div>
       <div><p><a

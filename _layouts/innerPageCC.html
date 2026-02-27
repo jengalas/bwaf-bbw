@@ -26,6 +26,8 @@
         {% include block_r_text.html %}
         {% elsif block.template == "miscellaneous-block" %}
         {% include block_r_misc.html %}
+        {% elsif block.template == "code-block" %}
+        {% include block_r_code.html %}
         {% elsif block.template == "image-block"%}
         {% include block_r_imageCC.html %}
         {% elsif block.template == "slideshow-block" %}

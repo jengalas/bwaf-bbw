@@ -315,6 +315,50 @@ _structures:
           section_break: false
         _inputs:
           miscellaneous:
+            type: markdown
+          include_left-hand_column_text_: 
+            type: checkbox
+            label: Show Lefthand Text? 
+          lefthand_text.header_type:
+            type: select
+            options:
+              values:
+                - Large Header
+                - Medium Header
+                - Small Header
+                - Film/Book Title
+                - Link
+                - Text with Download
+          lefthand_text.text:
+            type: markdown
+          lefthand_text.download:
+            type: text
+          lefthand_text.link_url:
+            type: text
+          section_break:
+            hidden: true
+          label:
+            hidden: true              
+      - label: Code Block
+        preview:
+          text: Code Block
+          subtext:
+            - key: code_block
+              empty_value: ""
+          icon: article
+        value:
+          template: code-block
+          code_block: ""
+          section_break: false
+          include_left-hand_column_text_: false
+          lefthand_text:
+            header_type: Large Header
+            text: ''
+            download: ''
+            link_url: ''
+          section_break: false
+        _inputs:
+          code_block:
             type: code
             options:
               language: html
@@ -340,5 +384,5 @@ _structures:
           section_break:
             hidden: true
           label:
-            hidden: true              
+            hidden: true                          
              
