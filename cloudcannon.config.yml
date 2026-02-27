@@ -232,6 +232,8 @@ _structures:
           icon: smart_button
         value:
           template: buttons-block
+          buttons_header__optional_:
+            type: text
           button:
             - button_text:
               button_link:
