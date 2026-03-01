@@ -225,8 +225,7 @@ _structures:
           icon: article
         value:
           template: text-block
-          text_block: ""
-          section_break: false
+          text_block: ''
           include_left-hand_column_text_: false
           lefthand_text:
             header_type: Large Header
@@ -238,7 +237,7 @@ _structures:
           text_block:
             type: markdown
           section_break:
-            hidden: true
+            type: checkbox
           label:
             hidden: true
       - label: Buttons
@@ -294,24 +293,22 @@ _structures:
           text: Miscellaneous Block
           subtext:
             - key: miscellaneous
-              empty_value: ""
           icon: article
         value:
           template: miscellaneous-block
-          miscellaneous: ""
-          section_break: false
+          miscellaneous: ''
           include_left-hand_column_text_: false
           lefthand_text:
             header_type: Large Header
             text: ''
             download: ''
             link_url: ''
-          section_break: false
+          section_break: 
         _inputs:
           miscellaneous:
             type: markdown
           section_break:
-            hidden: true
+            type: checkbox
           label:
             hidden: true              
       - label: Code Block
