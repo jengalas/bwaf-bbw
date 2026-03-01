@@ -324,8 +324,7 @@ _structures:
           icon: article
         value:
           template: code-block
-          code_block: ""
-          section_break: false
+          code_block: ''
           include_left-hand_column_text_: false
           lefthand_text:
             header_type: Large Header
