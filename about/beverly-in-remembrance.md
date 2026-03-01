@@ -3,7 +3,6 @@ layout: innerPageCC
 title: Beverly Willis, FAIA
 permalink: /remembrance
 navCategory: About
-description: In remembrance of Beverly Willis, FAIA, 1928 - 2023.
 page_blocks:
   - template: miscellaneous-block
     miscellaneous: >-
@@ -124,4 +123,5 @@ page_blocks:
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1696441375/01Willis_AARON_ESTO_thumb.jpg
         description: ''
+description: In remembrance of Beverly Willis, FAIA, 1928 - 2023.        
 ---
