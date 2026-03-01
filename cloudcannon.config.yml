@@ -361,8 +361,6 @@ _structures:
         _inputs:
           section_break:
             hidden: false
-          label:
-            hidden: true   
           description:
             label: 'Page Description'                                            
              
