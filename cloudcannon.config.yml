@@ -331,7 +331,7 @@ _structures:
             text: ''
             download: ''
             link_url: ''
-          section_break: false
+          section_break: 
         _inputs:
           code_block:
             type: code
@@ -359,7 +359,7 @@ _structures:
             text: ''
             download: ''
             link_url: ''
-          section_break: false
+          section_break: 
         _inputs:
           section_break:
             hidden: false
