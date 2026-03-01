@@ -349,7 +349,7 @@ _structures:
         value:
           template: media-gallery-block
           media:
-            - image: Large Header
+            - image: ''
               title: ''
               link_to_video: ''
           include_left-hand_column_text_: false
