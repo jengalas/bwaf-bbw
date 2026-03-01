@@ -362,5 +362,7 @@ _structures:
           section_break:
             hidden: false
           label:
-            hidden: true                                             
+            hidden: true   
+          description:
+            label: 'Page Description'                                            
              
