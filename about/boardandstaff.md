@@ -17,28 +17,21 @@ page_blocks:
     section_break: false
   - template: portrait-gallery-template
     label: Founder
-    include_left-hand_column_text_: true
-    lefthand_text:
-      header_type: Medium Header
-      text: Founder
-      download: ''
-      link_url: ''
-      link_text: ''
     portrait:
       - title: Beverly Willis, FAIA (1928 - 2023)
         title_role: Founder
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618329223/bev_1_zgox9n.jpg
         description:
-  - template: portrait-gallery-template
-    label: Board of Trustees
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Medium Header
-      text: Board of Trustees
+      text: Founder
       download: ''
       link_url: ''
-      link_text: ''
+      link_text: ''        
+  - template: portrait-gallery-template
+    label: Board of Trustees
     portrait:
       - title: Phoebe Yee, AIA
         title_role: 'Board Chair Elect '
@@ -562,16 +555,16 @@ page_blocks:
 
           She received her BA, MA, and PhD in English and Comparative Literature
           from Columbia University.
-    section_break: false
-  - template: portrait-gallery-template
-    label: Staff
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Medium Header
-      text: Staff
+      text: Board of Trustees
       download: ''
       link_url: ''
-      link_text: ''
+      link_text: ''          
+    section_break: false
+  - template: portrait-gallery-template
+    label: Staff
     portrait:
       - title: Tizziana Baldenebro
         title_role: Executive Director
@@ -601,6 +594,13 @@ page_blocks:
         title_role: Development Coordinator
         image: /uploads/headshot-2-cropped.jpg
         description: ''
+    include_left-hand_column_text_: true
+    lefthand_text:
+      header_type: Medium Header
+      text: Staff
+      download: ''
+      link_url: ''
+      link_text: ''        
     section_break: false
 description: Beverly Willis Architecture Foundation Board and Staff
 ---
