@@ -15,7 +15,7 @@ page_blocks:
       text: About Beverly Willis
       download: ''
       link_url: ''
-    section_break: true
+    section_break: false
     label: Image
   - template: text-block
     text_block: >-
