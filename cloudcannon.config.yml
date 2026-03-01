@@ -240,6 +240,7 @@ _structures:
             text: ''
             download: ''
             link_url: ''
+            link_text: ''
           section_break: 
         _inputs:
           text_block:
@@ -290,6 +291,7 @@ _structures:
             text: ''
             download: ''
             link_url: ''
+            link_text: ''
           section_break: 
         _inputs:
           section_break:
@@ -311,6 +313,7 @@ _structures:
             text: ''
             download: ''
             link_url: ''
+            link_text: ''
           section_break: 
         _inputs:
           miscellaneous:
@@ -334,6 +337,7 @@ _structures:
             text: ''
             download: ''
             link_url: ''
+            link_text: ''
           section_break: 
         _inputs:
           code_block:
@@ -362,6 +366,7 @@ _structures:
             text: ''
             download: ''
             link_url: ''
+            link_text: ''
           section_break: 
         _inputs:
           section_break:
