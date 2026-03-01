@@ -41,6 +41,10 @@ _inputs:
   lefthand_text.link_url:
     type: text
 
+  section_break:
+    type: checkbox
+    label: Add section break before this block?
+
 collections_config:
   data:
     filter:
