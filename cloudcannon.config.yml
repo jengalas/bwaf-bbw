@@ -41,6 +41,9 @@ _inputs:
   lefthand_text.link_url:
     type: text
 
+  lefthand_text.link_text:
+    type: text
+
   section_break:
     type: checkbox
     label: Add section break before this block?
