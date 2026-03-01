@@ -344,7 +344,7 @@ _structures:
         preview:
           text: Media Gallery
           subtext:
-            - key: media
+            - key: media.image
           icon: article
         value:
           template: media-gallery-block
