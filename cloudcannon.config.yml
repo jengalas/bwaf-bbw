@@ -343,7 +343,6 @@ _structures:
         preview:
           text: Media Gallery
           subtext:
-            - key: media
             - text: 'Add images that link out to videos'
           icon: article
         value:
