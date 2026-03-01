@@ -336,7 +336,7 @@ _structures:
             options:
               language: html
           section_break:
-            hidden: false
+            type: checkbox
           label:
             hidden: true     
       - label: Media Gallery
@@ -360,7 +360,7 @@ _structures:
           section_break: 
         _inputs:
           section_break:
-            hidden: false
+            type: checkbox
           label:
             hidden: true                                                  
              
