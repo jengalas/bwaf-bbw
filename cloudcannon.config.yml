@@ -222,7 +222,6 @@ _structures:
           text: Text Block
           subtext:
             - key: text_block 
-              empty_value: ""
           icon: article
         value:
           template: text-block
@@ -234,7 +233,7 @@ _structures:
             text: ''
             download: ''
             link_url: ''
-          section_break: false
+          section_break: 
         _inputs:
           text_block:
             type: markdown
@@ -253,8 +252,8 @@ _structures:
           button:
             - button_text:
               button_link:
-          section_break: false
           include_left-hand_column_text_: false
+          section_break: 
         _inputs:
           icon:
             hidden: true
@@ -264,7 +263,7 @@ _structures:
           button:
             hidden: false
           section_break:
-            hidden: true
+            type: checkbox
           include_left-hand_column_text_:
             hidden: true
       - label: Image
@@ -276,7 +275,6 @@ _structures:
         value:
           template: image-block
           image:
-          section_break: false
           image_caption_text:
           alt_text:   
           include_left-hand_column_text_: false
@@ -285,10 +283,10 @@ _structures:
             text: ''
             download: ''
             link_url: ''
-          section_break: false
+          section_break: 
         _inputs:
           section_break:
-            hidden: true
+            type: checkbox
           label:
             hidden: true  
       - label: Miscellaneous Block
