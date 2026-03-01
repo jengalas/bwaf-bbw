@@ -347,6 +347,8 @@ _structures:
           icon: article
         value:
           template: media-gallery-block
+          description:
+            label: 'Page Description'
           media:
             - image: ''
               title: ''
@@ -361,6 +363,6 @@ _structures:
         _inputs:
           section_break:
             hidden: false
-          description:
-            label: 'Page Description'                                            
+          label:
+            hidden: true                                               
              
