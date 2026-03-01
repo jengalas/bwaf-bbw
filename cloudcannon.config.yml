@@ -345,7 +345,6 @@ _structures:
           text: Media Gallery
           subtext:
             - key: media
-              empty_value: []
           icon: article
         value:
           template: media-gallery-block
