@@ -223,7 +223,8 @@ _structures:
     values:
       - label: Text Block
         preview:
-          text: Text Block
+          text:
+            - key: label
           subtext:
             - key: text_block 
           icon: article
