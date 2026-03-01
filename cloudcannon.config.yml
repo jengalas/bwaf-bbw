@@ -61,8 +61,8 @@ collections_config:
       permalink:
         hidden: true 
       description:
-        type: text
-        label: Page Description
+        type: textarea
+        label: Page Description (for SEO)
   bbw-juries:
     name: "BBW: Juries"
     _enabled_editors:
