@@ -339,5 +339,31 @@ _structures:
           section_break:
             hidden: true
           label:
-            hidden: true                          
+            hidden: true     
+      - label: Media Gallery
+        preview:
+          text: Media Gallery
+          subtext:
+            - key: media
+              empty_value: ""
+          icon: article
+        value:
+          template: media-gallery-block
+          media:
+            image: Large Header
+            title: ''
+            link_to_video: ''
+          section_break: false
+          include_left-hand_column_text_: false
+          lefthand_text:
+            header_type: Large Header
+            text: ''
+            download: ''
+            link_url: ''
+          section_break: false
+        _inputs:
+          section_break:
+            hidden: false
+          label:
+            hidden: true                                             
              
