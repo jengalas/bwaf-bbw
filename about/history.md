@@ -43,29 +43,4 @@ page_blocks:
 description: After 35 years of architectural practice leading her own firm, Beverly
   Willis, FAIA, was astounded and dismayed to discover that women were not represented
   in the architecture history books.
-
-# CloudCannon config
-_inputs:
-  page_blocks[*].label:
-    hidden: true
-  template:
-    hidden: true
-  title:
-    hidden: true
-  section_break:
-    hidden: true
-  include_left-hand_column_text_:
-    hidden: true
-  lefthand_text:
-    hidden: true
-  miscellaneous:
-    label: Text  
-  page_blocks:
-    options:
-      text:
-        - key: template
-      preview:
-        subtext:
-          - key: label  
-
 ---
