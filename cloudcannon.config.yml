@@ -339,7 +339,7 @@ _structures:
             options:
               language: html
           section_break:
-            hidden: true
+            hidden: false
           label:
             hidden: true     
       - label: Media Gallery
