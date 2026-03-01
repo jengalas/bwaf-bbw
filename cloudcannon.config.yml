@@ -350,10 +350,9 @@ _structures:
         value:
           template: media-gallery-block
           media:
-            image: Large Header
-            title: ''
-            link_to_video: ''
-          section_break: false
+            - image: Large Header
+              title: ''
+              link_to_video: ''
           include_left-hand_column_text_: false
           lefthand_text:
             header_type: Large Header
