@@ -317,7 +317,7 @@ _structures:
         preview:
           text: Code Block
           subtext:
-            - text: 'Insert items that need to use custom HTML, like iframes or embeds'
+            - text: 'Code for custom HTML, like iframes or embeds'
           icon: article
         value:
           template: code-block
