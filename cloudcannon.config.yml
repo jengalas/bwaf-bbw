@@ -60,6 +60,9 @@ collections_config:
         hidden: true 
       permalink:
         hidden: true 
+      description:
+        type: text
+        label: Page Description
   bbw-juries:
     name: "BBW: Juries"
     _enabled_editors:
@@ -347,7 +350,6 @@ _structures:
           icon: article
         value:
           template: media-gallery-block
-          description: ''
           media:
             - image: ''
               title: ''
@@ -363,8 +365,5 @@ _structures:
           section_break:
             hidden: false
           label:
-            hidden: true   
-          description:
-            type: text
-            label: Page Description                                               
+            hidden: true                                                  
              
