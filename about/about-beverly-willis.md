@@ -7,18 +7,17 @@ page_blocks:
   - template: image-block
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618329223/bev_1_zgox9n.jpg
-    section_break: false
     image_caption_text: Beverly Willis, FAIA
     alt_text: Beverly Willis, FAIA
-    label: Image
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Large Header
       text: About Beverly Willis
       download: ''
       link_url: ''
+    section_break: true
+    label: Image
   - template: text-block
-    label: Text Block
     text_block: >-
       Beverly Willis, FAIA (1928-2023) began her career as an independent artist
       in 1954 and established her own firm as an architect in 1966. In 1980 she
@@ -62,8 +61,8 @@ page_blocks:
       download: ''
       link_url: ''
     section_break: false
+    label: Text Block
   - template: media-gallery-block
-    label: Media Gallery
     media:
       - image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1621452163/film1_d0n3xd.png
@@ -90,8 +89,8 @@ page_blocks:
       download: ''
       link_url: ''
     section_break: false
+    label: Media Gallery
   - template: miscellaneous-block
-    label: Text
     miscellaneous: >-
       > “We share with deep sadness the passing of our dear founder, Beverly
       Willis FAIA, a titan in many fields, who showed us, among other lessons,
@@ -108,28 +107,29 @@ page_blocks:
       achievement.”  
 
       > —Cynthia Phifer Kracauer AIA, Executive Director
-    section_break: false
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Large Header
       text: Beverly Willis, FAIA<br><br>1928 - 2023
       download: ''
       link_url: ''
-  - template: code-block
+    section_break: false
     label: Text
+  - template: code-block
     code_block: >-
       <iframe
       src="https://drive.google.com/file/d/1B8YOQXPVWC584o2PbsNT0C0R4GdKR9I-/preview"
       width="800" height="510" style="max-width: 100%;"
       allow="autoplay"></iframe>
-    section_break: false
     include_left-hand_column_text_: false
-  - template: code-block
-    label: Tributes and Mentions
-    include_left-hand_column_text_: true
     lefthand_text:
-      header_type: Medium Header
-      text: Tributes & Mentions
+      header_type: Large Header
+      text: ''
+      download: ''
+      link_url: ''
+    section_break: false
+    label: Text
+  - template: code-block
     code_block: >-
       <div class="tributes-block"> <div><p><a
       href="https://www.aia.org/press-releases/6674356-aia-mourns-the-loss-of-beverly-willis-faia">AIA</a></p></div>
@@ -174,6 +174,13 @@ page_blocks:
       &amp; Ceilings Online</a></p></div> <div><p><a
       href="https://www.world-architects.com/en/architecture-news/headlines/beverly-willis-1928-2023">World-Architects</a></p></div>
       </div>     
+    include_left-hand_column_text_: true
+    lefthand_text:
+      header_type: Medium Header
+      text: Tributes & Mentions
+      download: ''
+      link_url: ''
+    label: Tributes and Mentions
   - template: portrait-gallery-template
     label: In Remembrance Gallery
     include_left-hand_column_text_: false
