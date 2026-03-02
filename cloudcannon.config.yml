@@ -459,13 +459,18 @@ _structures:
             type: text
           section_break:
             type: checkbox 
-          sponsors:
+          sponsors[*]:
             preview:
               text:
                 - key: category
               subtext:
-                - text: "Update sponsor images"
-              icon: image    
+                - text: "Edit sponsor entries"
+          sponsors[*].sponsor[*]:
+            preview:
+              text:
+                - key: name
+              image:
+                - key: image    
       - label: Sponsor Levels
         preview:
           text:
@@ -491,18 +496,7 @@ _structures:
             type: text
           section_break:
             type: checkbox 
-          sponsors[*]:
-            preview:
-              text:
-                - key: category
-              subtext:
-                - text: "Edit sponsor entries"
-          sponsors[*].sponsor[*]:
-            preview:
-              text:
-                - key: name
-              image:
-                - key: image            
+           
                                  
 
              
