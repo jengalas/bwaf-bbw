@@ -217,10 +217,6 @@ page_blocks:
         image:
         description: ''
   - template: sponsor-block
-    lefthand_text:
-      header_type: Medium Header
-      text: 2026 Sponsors
-    include_left-hand_column_text_: true
     sponsors:
       - category: Benefactor
         sponsor:
@@ -274,6 +270,10 @@ page_blocks:
             image: /uploads/gkv-logo-b-w-1.png
           - name:
             image: /uploads/kgm-logo-descriptive-light-blue-1.png
+    include_left-hand_column_text_: true   
+    lefthand_text:
+      header_type: Medium Header
+      text: 2026 Sponsors         
     section_break: true
   - template: buttons-block
     button:
