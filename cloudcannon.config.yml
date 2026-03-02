@@ -404,5 +404,33 @@ _structures:
         _inputs:
           section_break:
             type: checkbox
+          portrait.description:
+            label: Biography  
+      - label: Portrait Gallery with Award
+        preview:
+          text:
+            - key: label
+          subtext:
+            - text: 'Add images'
+          icon: image
+        value:
+          template: portrait-gallery-template-add-award
+          label: ''
+          portrait:
+            - title: ''
+              title_role: ''
+              image: ''
+              description: ''
+          include_left-hand_column_text_: false
+          lefthand_text:
+            header_type: Large Header
+            text: ''
+            download: ''
+            link_url: ''
+            link_text: ''
+          section_break: 
+        _inputs:
+          section_break:
+            type: checkbox            
 
              
