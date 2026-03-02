@@ -261,7 +261,13 @@ _structures:
             - button_text:
               button_link:
           include_left-hand_column_text_: false
-          section_break: 
+          lefthand_text:
+            header_type: Large Header
+            text: ''
+            download: ''
+            link_url: ''
+            link_text: ''
+          section_break:  
         _inputs:
           icon:
             hidden: true
@@ -272,8 +278,6 @@ _structures:
             hidden: false
           section_break:
             type: checkbox
-          include_left-hand_column_text_:
-            hidden: true
       - label: Image
         preview:
           text: Image
