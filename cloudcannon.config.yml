@@ -465,7 +465,7 @@ _structures:
             - key: label
             - Sponsor Levels
           subtext:
-            - text: "Update sponsors"
+            - text: "Update sponsor levels"
           icon: image
         value:
           template: sponsor-levels
