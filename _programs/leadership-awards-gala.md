@@ -218,11 +218,6 @@ page_blocks:
         description: ''
   - template: sponsor-block
     label: Sponsors
-    preview:
-      text:
-        - text: Add sponsors
-      subtext:
-        - text: Names and images
     sponsors:
       - category: Benefactor
         sponsor:
@@ -281,6 +276,10 @@ page_blocks:
       header_type: Medium Header
       text: 2026 Sponsors         
     section_break: true
+    _inputs:
+      preview:
+        text: 
+          - text: Add sponsors
   - template: buttons-block
     button:
       - button_text: Photo Gallery
