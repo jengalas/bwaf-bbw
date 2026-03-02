@@ -481,6 +481,9 @@ _structures:
             header_type: Medium Header         
           section_break: true
         _inputs:
+          options:
+            min_items: 4
+            max_items: 4
           category:
             type: text
           benefits:
