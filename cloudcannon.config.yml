@@ -481,6 +481,7 @@ _structures:
             header_type: Medium Header         
           section_break: true
         _inputs:
+          type: array
           options:
             min_items: 4
             max_items: 4
