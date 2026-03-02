@@ -466,6 +466,38 @@ _structures:
               subtext:
                 - text: "Update sponsor images"
               icon: image    
+      - label: Sponsor Levels
+        preview:
+          text:
+            - key: label
+          subtext:
+            - text: "Update sponsors"
+          icon: image
+        value:
+          template: sponsor-levels
+          label: Sponsors
+          sponsor-levels:
+            - category: 
+              amount: 
+              benefits:
+              payment_link: 
+              button_text: 
+          include_left-hand_column_text_: true   
+          lefthand_text:
+            header_type: Medium Header         
+          section_break: true
+        _inputs:
+          category:
+            type: text
+          section_break:
+            type: checkbox 
+          sponsors:
+            preview:
+              text:
+                - key: category
+              subtext:
+                - text: "Update sponsor images"
+              icon: image                 
                                  
 
              
