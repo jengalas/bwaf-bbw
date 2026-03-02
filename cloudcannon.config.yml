@@ -432,7 +432,28 @@ _structures:
             type: checkbox 
           portrait[*].description:
             label: Biography   
-
+      - label: Sponsor Block
+        preview:
+          text:
+            - key: label
+          subtext:
+            - text: 'Add images'
+          icon: image
+        value:
+          template: sponsor-block
+          label: Sponsors
+          sponsors:
+            - category: 
+              sponsor:
+                - name:
+                  image: 
+          include_left-hand_column_text_: true   
+          lefthand_text:
+            header_type: Medium Header         
+          section_break: true
+        _inputs:
+          section_break:
+            type: checkbox   
                                  
 
              
