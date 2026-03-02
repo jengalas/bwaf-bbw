@@ -496,8 +496,13 @@ _structures:
               text:
                 - key: category
               subtext:
-                - text: "Update sponsor images"
-              icon: image                 
+                - text: "Edit sponsor entries"
+          sponsors[*].sponsor[*]:
+            preview:
+              text:
+                - key: name
+              image:
+                - key: image            
                                  
 
              
