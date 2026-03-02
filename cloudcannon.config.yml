@@ -436,7 +436,7 @@ _structures:
           portrait[*].description:
             label: Biography   
       - label: Sponsor Block
-        hide_from_add_menu: true
+        disable_add: true
         preview:
           text:
             - key: label
