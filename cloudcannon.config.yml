@@ -134,6 +134,9 @@ collections_config:
         hidden: true
       template:
         hidden: true    
+      description:
+        type: textarea
+        label: Page Description (for SEO)  
       show_bbw_slideshow:
         label: Show Slideshow
         type: checkbox        
@@ -433,6 +436,7 @@ _structures:
           portrait[*].description:
             label: Biography   
       - label: Sponsor Block
+        hide_from_add_menu: true
         preview:
           text:
             - key: label
