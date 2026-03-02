@@ -77,10 +77,8 @@ page_blocks:
         button_link:
     section_break: false
     include_left-hand_column_text_: false
-page_sections: []
 description: >-
   Beverly Willis Architecture Foundation (BWAF) is leading a cultural revolution
   in the building industry that acknowledges, cultivates, and values women’s
   contributions and achievements—past, present, and future.
-tags: []
 ---
