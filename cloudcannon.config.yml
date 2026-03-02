@@ -481,13 +481,14 @@ _structures:
             header_type: Medium Header         
           section_break: true
         _inputs:
-          type: array
-          options:
-            min_items: 4
-            max_items: 4
-          category:
+          sponsor-levels:
+            type: array
+            options:
+              min_items: 4
+              max_items: 4
+          sponsor-levels[*].category:
             type: text
-          benefits:
+          sponsor-levels[*].benefits:
             type: markdown
           section_break:
             type: checkbox 
