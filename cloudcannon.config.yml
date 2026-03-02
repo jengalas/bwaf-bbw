@@ -377,7 +377,8 @@ _structures:
             hidden: true   
       - label: Portrait Gallery
         preview:
-          text: Portrait Gallery
+          text:
+            - key: label
           subtext:
             - text: 'Add images'
           icon: image
