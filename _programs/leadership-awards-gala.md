@@ -218,6 +218,11 @@ page_blocks:
         description: ''
   - template: sponsor-block
     label: Sponsors
+    preview:
+      text:
+        - text: Add sponsors
+      subtext:
+        - text: Names and images
     sponsors:
       - category: Benefactor
         sponsor:
