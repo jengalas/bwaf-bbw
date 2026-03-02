@@ -199,21 +199,23 @@ page_blocks:
       - title: Phoebe Yee
         title_role: Executive Vice President of Design, Related Companies
         image:
+        description: ''
       - title: Angelica Baccon
         title_role: Principal, SHoP Architects
         image:
+        description: ''
       - title: 'Jennifer Stone '
         title_role: Partner, Robert A.M. Stern Architects
         image:
+        description: ''
       - title: 'Michelle Roelofs '
         title_role: Associate Principal, Arup
         image:
+        description: ''
       - title: Victoria Ponce de Leon
         title_role: Principal, Buildings Sector Portfolio Manager, TYLin
         image:
-      - title: ''
-        title_role: ''
-        image:
+        description: ''
   - template: sponsor-block
     lefthand_text:
       header_type: Medium Header

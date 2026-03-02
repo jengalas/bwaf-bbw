@@ -194,26 +194,32 @@ page_blocks:
         title_role:
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618329223/willis2_eewpbi.jpg
+        description: ''
       - title:
         title_role:
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618329223/1._San_Francisco_Ballet_Building_Entry_1983_coo3qg.jpg
+        description: ''
       - title:
         title_role:
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618329223/10.Premiere_nrl0ty.jpg
+        description: ''
       - title:
         title_role:
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618329223/DSC_0049_luu2mt.jpg
+        description: ''
       - title:
         title_role:
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1618329223/9.FlashMob2_ebkmqh.jpg
+        description: ''
       - title:
         title_role:
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1696441375/01Willis_AARON_ESTO_thumb.jpg
+        description: ''
 description: >-
   In 2002, Beverly Willis, FAIA founded the Beverly Willis Architecture
   Foundation.
