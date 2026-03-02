@@ -492,6 +492,7 @@ _structures:
           section_break:
             type: checkbox 
           sponsors:
+            type: array
             preview:
               text:
                 - key: category
