@@ -3,7 +3,6 @@ layout: newsletter-page
 navCategory: About
 title: News
 permalink: /about/news
-description:
 sign-up-text: >-
   Sign up for the newsletter and get the latest news on upcoming programs and
   events
@@ -49,9 +48,7 @@ newsletters:
       https://www.architectmagazine.com/Design/the-bev-a-new-manhattan-hub-for-women-in-architecture_o
     month_year: January 2024
     title: 'The Bev: a New Manhattan Hub for Women in Architecture'
-_inputs:
-  $.title:
-    hidden: true
+description: 
 ---
 <div class="main-two-up">
     <div>
