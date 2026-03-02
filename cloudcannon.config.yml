@@ -445,11 +445,6 @@ _structures:
         value:
           template: sponsor-block
           label: Sponsors
-          preview:
-            text:
-              - key: label
-            subtext:
-              - text: "Add sponsors' names and images"
           sponsors:
             - category: 
               sponsor:
@@ -463,7 +458,15 @@ _structures:
           category:
             type: text
           section_break:
-            type: checkbox   
+            type: checkbox 
+          sponsors:
+            options:
+              preview:
+                text:
+                  - key: category
+                subtext:
+                  - text: "Update sponsor images"
+                icon: image    
                                  
 
              
