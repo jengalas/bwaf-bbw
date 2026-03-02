@@ -384,6 +384,7 @@ _structures:
           icon: image
         value:
           template: portrait-gallery-template
+          label: ''
           portrait:
             - title: ''
               title_role: ''
@@ -400,5 +401,5 @@ _structures:
         _inputs:
           section_break:
             type: checkbox
-                                                                                      
+
              
