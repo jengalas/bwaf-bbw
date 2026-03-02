@@ -458,23 +458,12 @@ _structures:
           category:
             type: text
           section_break:
-            type: checkbox 
-          sponsors[*]:
-            preview:
-              text:
-                - key: category
-              subtext:
-                - text: "Edit sponsor entries"
-          sponsors[*].sponsor[*]:
-            preview:
-              text:
-                - key: name
-              image:
-                - key: image    
+            type: checkbox   
       - label: Sponsor Levels
         preview:
           text:
             - key: label
+            - Sponsor Levels
           subtext:
             - text: "Update sponsors"
           icon: image
@@ -494,6 +483,8 @@ _structures:
         _inputs:
           category:
             type: text
+          benefits:
+            type: markdown
           section_break:
             type: checkbox 
            
