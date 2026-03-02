@@ -460,13 +460,12 @@ _structures:
           section_break:
             type: checkbox 
           sponsors:
-            options:
-              preview:
-                text:
-                  - key: category
-                subtext:
-                  - text: "Update sponsor images"
-                icon: image    
+            preview:
+              text:
+                - key: category
+              subtext:
+                - text: "Update sponsor images"
+              icon: image    
                                  
 
              
