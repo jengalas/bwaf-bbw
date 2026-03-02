@@ -255,6 +255,8 @@ _structures:
         preview:
           text: Buttons
           subtext:
+            - key: buttons_header__optional_
+            - text: 'Add buttons'
           icon: smart_button
         value:
           template: buttons-block
