@@ -132,8 +132,6 @@ collections_config:
         hidden: true 
       permalink:
         hidden: true
-      description:
-        hidden: true
       template:
         hidden: true    
       show_bbw_slideshow:
