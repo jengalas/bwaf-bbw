@@ -436,16 +436,20 @@ _structures:
           portrait[*].description:
             label: Biography   
       - label: Sponsor Block
-        disable_add: true
         preview:
           text:
             - key: label
           subtext:
-            - text: "Add sponsors' names and images"
+            - text: "Update sponsors"
           icon: image
         value:
           template: sponsor-block
           label: Sponsors
+          preview:
+            text:
+              - key: label
+            subtext:
+              - text: "Add sponsors' names and images"
           sponsors:
             - category: 
               sponsor:
