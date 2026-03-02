@@ -83,26 +83,4 @@ description: >-
   in the building industry that acknowledges, cultivates, and values women’s
   contributions and achievements—past, present, and future.
 tags: []
-_inputs:
-  page_sections:
-    hidden: true
-  tags:
-    hidden: true
-  title:
-    hidden: true
-  template:
-    hidden: true
-  section_break:
-    hidden: true
-  page_blocks[*].label:
-    hidden: true
-  text_block:
-    type: textarea
-  page_blocks:
-    options:
-      text:
-        - key: template
-      preview:
-        subtext:
-          - key: label
 ---
