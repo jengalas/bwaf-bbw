@@ -447,7 +447,7 @@ _structures:
             - category: ''
               sponsor: ''
                 - name: ''
-                - image: ''
+                  image: ''
           include_left-hand_column_text_: true   
           lefthand_text:
             header_type: Medium Header
