@@ -9,21 +9,15 @@ page_blocks:
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1771520035/Screenshot_2026-02-19_at_11.52.44_AM.png
     image_caption_text: ''
     alt_text: ''
-    section_break: false
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Large Header
       text: Leadership Awards Celebration
       download: ''
       link_url: ''
-  - template: text-block
+      link_text: ''
     section_break: false
-    include_left-hand_column_text_: false
-    lefthand_text:
-      header_type:
-      text:
-      download: ''
-      link_url: ''
+  - template: text-block
     text_block: >-
       The built environment tells the story of who we are and who we choose to
       become.
@@ -56,12 +50,16 @@ page_blocks:
 
 
       <br><br>
-  - template: sponsor-levels
+    include_left-hand_column_text_: false
     lefthand_text:
-      header_type: Medium Header
-      text: Tickets, Sponsorships, Donations
-    include_left-hand_column_text_: true
-    section_break: true
+      header_type:
+      text:
+      download: ''
+      link_url: ''
+      link_text: ''
+    section_break: false
+  - template: sponsor-levels
+    label: Sponsor Levels
     sponsor-levels:
       - category: Leader
         amount: $50,000
@@ -128,7 +126,13 @@ page_blocks:
           * Logo in event email marketing.
         payment_link: https://buy.stripe.com/bIY00rcEu3XZ5QQ14x
         button_text: Sponsor BWAF
+    include_left-hand_column_text_: true
+    lefthand_text:
+      header_type: Medium Header
+      text: Tickets, Sponsorships, Donations
+    section_break: true
   - template: buttons-block
+    buttons_header__optional_: ''
     button:
       - button_text: Buy Individual Tickets | Admission begins at 6pm.
         button_link: https://buy.stripe.com/dRm8wRbnH1ZV0rncP5awo0Z
@@ -140,17 +144,16 @@ page_blocks:
         button_link: https://buy.stripe.com/cN23cDfQG2TVfrq6p3
       - button_text: 'Contact Us to Inquire '
         button_link: mailto:info@bwaf.org?subject=Leadership Awards Celebration
-    section_break: false
     include_left-hand_column_text_: false
-  - template: portrait-gallery-template-add-award
-    label: 2026 Honorees
-    include_left-hand_column_text_: true
     lefthand_text:
-      header_type: Medium Header
-      text: 2026 Honorees
+      header_type: Large Header
+      text: ''
       download: ''
       link_url: ''
-    section_break: true
+      link_text: ''
+    section_break: false
+  - template: portrait-gallery-template-add-award
+    label: 2026 Honorees
     portrait:
       - title: Sharon Prince
         title_role: CEO & Founder, Grace Farms
@@ -186,15 +189,16 @@ page_blocks:
         award: Emerging Leader
         image: ''
         description: ''
-  - template: portrait-gallery-template
-    label: '2026 Committee Chairs '
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Medium Header
-      text: 2026 Committee Chairs
+      text: 2026 Honorees
       download: ''
       link_url: ''
+      link_text: ''
     section_break: true
+  - template: portrait-gallery-template
+    label: '2026 Committee Chairs '
     portrait:
       - title: Phoebe Yee
         title_role: Executive Vice President of Design, Related Companies
@@ -216,6 +220,14 @@ page_blocks:
         title_role: Principal, Buildings Sector Portfolio Manager, TYLin
         image:
         description: ''
+    include_left-hand_column_text_: true
+    lefthand_text:
+      header_type: Medium Header
+      text: 2026 Committee Chairs
+      download: ''
+      link_url: ''
+      link_text: ''
+    section_break: true
   - template: sponsor-block
     label: Sponsors
     sponsors:
@@ -271,17 +283,24 @@ page_blocks:
             image: /uploads/gkv-logo-b-w-1.png
           - name:
             image: /uploads/kgm-logo-descriptive-light-blue-1.png
-    include_left-hand_column_text_: true   
+    include_left-hand_column_text_: true
     lefthand_text:
       header_type: Medium Header
-      text: 2026 Sponsors         
+      text: 2026 Sponsors
     section_break: true
   - template: buttons-block
+    buttons_header__optional_: ''
     button:
       - button_text: Photo Gallery
         button_link: https://photosbysamuel.passgallery.com/rxrLaPVv4zpTt
-    section_break: false
     include_left-hand_column_text_: false
+    lefthand_text:
+      header_type: Large Header
+      text: ''
+      download: ''
+      link_url: ''
+      link_text: ''
+    section_break: false
   - template: slideshow-block
     button:
       - button_text:
