@@ -131,8 +131,6 @@ collections_config:
         hidden: true
       description:
         hidden: true
-      section_break:
-        hidden: true
       template:
         hidden: true    
       show_bbw_slideshow:
