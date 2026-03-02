@@ -432,7 +432,7 @@ _structures:
             type: checkbox 
           portrait[*].description:
             label: Biography   
-      - label: Portrait Gallery with Award
+      - label: Sponsor Block
         preview:
           text:
             - key: label
