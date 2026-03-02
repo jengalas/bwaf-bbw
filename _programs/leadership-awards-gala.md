@@ -276,10 +276,6 @@ page_blocks:
       header_type: Medium Header
       text: 2026 Sponsors         
     section_break: true
-    _inputs:
-      preview:
-        text: 
-          - text: Add sponsors
   - template: buttons-block
     button:
       - button_text: Photo Gallery

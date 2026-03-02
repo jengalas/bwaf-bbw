@@ -431,6 +431,31 @@ _structures:
           section_break:
             type: checkbox 
           portrait[*].description:
-            label: Biography                         
+            label: Biography   
+      - label: Portrait Gallery with Award
+        preview:
+          text:
+            - key: label
+          subtext:
+            - text: 'Add images'
+          icon: image
+        value:
+          template: sponsor-block
+          hide_from_add_menu: true
+          label: Sponsors
+          sponsors:
+            - category: ''
+              sponsor: ''
+                - name: ''
+                - image: ''
+          include_left-hand_column_text_: true   
+          lefthand_text:
+            header_type: Medium Header
+            text: 2026 Sponsors         
+          section_break: true
+        _inputs:
+          section_break:
+            type: checkbox 
+                                 
 
              
