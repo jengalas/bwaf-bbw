@@ -9,7 +9,10 @@ _inputs:
           subtext:
             - key: label 
   template:
-    hidden: true         
+    hidden: true      
+
+  label:
+    label: Label (does not appear on website; for editor reference only)
 
   include_left-hand_column_text_:
     type: checkbox
