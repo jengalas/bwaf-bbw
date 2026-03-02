@@ -437,7 +437,7 @@ _structures:
           text:
             - key: label
           subtext:
-            - text: 'Add images'
+            - text: "Add sponsors' names and images"
           icon: image
         value:
           template: sponsor-block
@@ -452,6 +452,8 @@ _structures:
             header_type: Medium Header         
           section_break: true
         _inputs:
+          category:
+            type: text
           section_break:
             type: checkbox   
                                  
