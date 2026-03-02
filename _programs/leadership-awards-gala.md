@@ -217,6 +217,7 @@ page_blocks:
         image:
         description: ''
   - template: sponsor-block
+    label: Sponsors
     sponsors:
       - category: Benefactor
         sponsor:
