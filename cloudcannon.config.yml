@@ -458,8 +458,6 @@ _structures:
         _inputs:
           category:
             type: text
-          benefits:
-            type: markdown  
           section_break:
             type: checkbox   
                                  
