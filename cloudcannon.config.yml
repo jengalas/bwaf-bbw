@@ -2,7 +2,15 @@ _inputs:
   page_blocks:
     type: array
     options:
-      structures: _structures.page_blocks      
+      structures:
+        - text-block
+        - buttons-block
+        - image-block
+        - miscellaneous-block
+        - code-block
+        - media-gallery-block
+        - portrait-gallery-template
+        - portrait-gallery-template-add-award      
   blocks:
     options:
       preview:
