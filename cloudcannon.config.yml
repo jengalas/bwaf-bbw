@@ -374,5 +374,31 @@ _structures:
           section_break:
             type: checkbox
           label:
-            hidden: true                                                  
+            hidden: true   
+      - label: Portrait Gallery
+        preview:
+          text: Portrait Gallery
+          subtext:
+            - text: 'Add images'
+          icon: image
+        value:
+          template: portrait-gallery-template
+          portrait:
+            - title: ''
+              title_role: ''
+              image: ''
+              description: ''
+          include_left-hand_column_text_: false
+          lefthand_text:
+            header_type: Large Header
+            text: ''
+            download: ''
+            link_url: ''
+            link_text: ''
+          section_break: 
+        _inputs:
+          section_break:
+            type: checkbox
+          label:
+            hidden: true                                                                           
              
