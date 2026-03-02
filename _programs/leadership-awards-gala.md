@@ -17,9 +17,6 @@ page_blocks:
       download: ''
       link_url: ''
   - template: text-block
-    button:
-      - button_text:
-        button_link:
     section_break: false
     include_left-hand_column_text_: false
     lefthand_text:
