@@ -156,77 +156,28 @@ description: >-
   events, focused around women in architecture and design.
 _structures:
   page_blocks:
-    id_key: template
-    values:
-      - label: Buttons
-        preview:
-          text: Buttons
-          subtext:
-          icon: smart_button
-        value:
-          template: buttons-block
-          button:
-            - button_text:
-              button_link:
-          section_break: false
-          include_left-hand_column_text_: false
-        _inputs:
-          icon:
-            hidden: true
-          button:
-            hidden: false
-      - label: Text Block
-        preview:
-          text:
-          subtext:
-          icon:
-        value:
-          template: text-block
-          text_block:
-          section_break: false
-          include_left-hand_column_text_: false
-        _inputs:
-          text_block:
-            type: html
-          label:
-            hidden: true
-          icon:
-            hidden: false
-      - label: Image
-        preview:
-          image:
-            - key: image
-          icon: image
-          subtext: Add images and captions
-        value:
-          template: image-block
-          image:
-          image_caption_text:
-          alt_text:
-          section_break: false
-          include_left-hand_column_text_: false
-      - label: Form Block
-        preview:
-          text:
-          subtext:
-          icon:
-        value:
-          template: form-block
-          text_block:
-        _inputs:
-          text_block:
-            type: html
-            label: Intro Text
-          label:
-            hidden: true
-          icon:
-            hidden: false
-      - label: Slideshow
-        preview:
-          text: Slideshow
-          subtext: Add images and captions
-          icon:
-        value:
-          template: slideshow-block
-          section_break: false
+    - label: Form Block
+      preview:
+        text:
+        subtext:
+        icon:
+      value:
+        template: form-block
+        text_block:
+      _inputs:
+        text_block:
+          type: html
+          label: Intro Text
+        label:
+          hidden: true
+        icon:
+          hidden: false
+    - label: Slideshow
+      preview:
+        text: Slideshow
+        subtext: Add images and captions
+        icon:
+      value:
+        template: slideshow-block
+        section_break: false
 ---
