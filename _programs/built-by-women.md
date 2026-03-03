@@ -54,7 +54,7 @@ page_blocks:
         caption: test2
       - image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1767641275/Baccon_Portrait_Credit_Ty_Cole.jpg.webp
-        caption: ''
+        caption: ab
     include_left-hand_column_text_: false
     lefthand_text:
       header_type: Large Header
