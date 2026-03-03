@@ -52,20 +52,20 @@ page_blocks:
         caption: Friends Presentation Night at Thornton Tomasetti, July 2024
     automatic: false
   - template: text-block
+    label: Annual Membership Info
     text_block: >-
       <h2><strong>Friends benefits include:</strong></h2><p>Invitation to three
       BWAF Friends events per year<br />Built By Women tote bag<br />Early
       notification of BWAF activities<br />Monthly BWAF newsletter<br
       />Prominent listing on BWAF website (Corporate Friendship only)</p>
-    section_break: false
-    include_left-hand_column_text_: false
-    label: Annual Membership Info
+    include_left-hand_column_text_: false    
     lefthand_text:
       header_type: ''
       text: ''
       download: ''
       link_url: ''
       link_text: ''
+    section_break: false      
   - template: form-block
     text_block: >-
       <p>Thank you for your interest in joining The Friends of BWAF program!
