@@ -259,7 +259,7 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-    section_break: false
+    section_break: true
 description: >-
   The Industry Leaders Roundtable program is designed to encourage firms and
   their representatives to undertake institutional change within their
