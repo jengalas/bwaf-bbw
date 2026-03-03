@@ -61,7 +61,7 @@ page_blocks:
     label: 'Jury: Add jury members in BBW: Juries for the current year'
     include_left-hand_column_text_: true
     lefthand_text:
-      header_type: Large Header
+      header_type: Medium Header
       text: Meet the Jury
       download: ''
       link_url: ''
