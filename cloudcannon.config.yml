@@ -285,8 +285,9 @@ _structures:
       - label: Image
         preview:
           text: Image
-          image:
-            - key: image
+          subtext:
+            - key: image_caption_text
+            - text: 'Add image'
           icon: image
         value:
           template: image-block
