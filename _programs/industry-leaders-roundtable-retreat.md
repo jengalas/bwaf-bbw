@@ -5,7 +5,7 @@ title: Industry Leaders Roundtable Retreat
 permalink: /programs/industry-leaders-roundtable-retreat
 page_blocks:
   - template: text-block
-    text_block: >+
+    text_block: >
       The Industry Leaders Roundtable program is designed to embolden firms and
       their representatives to undertake institutional change within their
       organizations, by providing them research, tools, and support to be agents
@@ -13,13 +13,14 @@ page_blocks:
       psychology, sociology, law, architecture and engineering to change culture
       by providing research, information and action-oriented programs to achieve
       greater representation of women in the AEC industries.
-    section_break: false
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Large Header
       text: Industry Leaders Roundtable Retreat
       download: ''
       link_url: ''
+      link_text: ''
+    section_break: false
   - template: text-block
     text_block: >-
       Thank you to everyone who participated in our Industry Leaders Roundtable:
@@ -40,27 +41,28 @@ page_blocks:
 
       Stay tuned for information on how to get involved in our 2026 Roundtables,
       possibly coming to a city near you!
-    section_break: true
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Medium Header
       text: 'New York, October 21-22: Leading at the Edge of Innovation'
       download: ''
       link_url:
+      link_text: ''
+    section_break: true
   - template: image-block
-    section_break: false
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1759331662/250909_NY_Roundtable_Graphics_V1_2.png
+    image_caption_text: ''
+    alt_text:
     include_left-hand_column_text_: false
     lefthand_text:
       header_type: ''
       text: ''
       download: ''
       link_url: ''
-    image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1759331662/250909_NY_Roundtable_Graphics_V1_2.png
-    alt_text:
-    image_caption_text: ''
-  - template: miscellaneous-block
+      link_text: ''
     section_break: false
+  - template: miscellaneous-block
     miscellaneous: >-
       **DAY 1: RAY HARLEM & NATIONAL BLACK THEATRE**
 
@@ -118,8 +120,10 @@ page_blocks:
       text: ''
       download: ''
       link_url: ''
-  - template: slideshow-block
+      link_text: ''
     section_break: false
+  - template: slideshow-block
+    label: ''
     image:
       - image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1758745693/processed-0658B282-931B-4BF0-BA44-9B08704792B2.jpg
@@ -142,25 +146,28 @@ page_blocks:
       - image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1758745870/IMG_0401.jpg
         caption: 'Industry Leaders Roundtable San Francisco: September 16 & 17'
-    include_left-hand_column_text_: false
-    lefthand_text:
-      header_type: ''
-      text: ''
-      download: ''
-      link_url: ''
     automatic: true
-  - template: image-block
-    section_break: false
     include_left-hand_column_text_: false
     lefthand_text:
       header_type: ''
       text: ''
       download: ''
       link_url: ''
+      link_text: ''
+    section_break: false
+  - template: image-block
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1760467040/NYC_RT_sponsors.png
-    alt_text:
     image_caption_text: 'Thank you to our supporters for making this program possible. '
+    alt_text:
+    include_left-hand_column_text_: false
+    lefthand_text:
+      header_type: ''
+      text: ''
+      download: ''
+      link_url: ''
+      link_text: ''
+    section_break: false
   - template: buttons-block
     buttons_header__optional_: View previous Industry Leaders Roundtable Agendas
     button:
@@ -191,9 +198,16 @@ page_blocks:
       - button_text: 2014 Industry Leaders Roundtable
         button_link: >-
           https://www.dropbox.com/s/txqhd6wb52xv0ne/2014%20BWAF%20Industry%20Leaders%20Roundtable%20Agenda.pdf?dl=0
+    include_left-hand_column_text_: false
+    lefthand_text:
+      header_type: Large Header
+      text: ''
+      download: ''
+      link_url: ''
+      link_text: ''
     section_break: false
   - template: slideshow-block
-    section_break: false
+    label: ''
     image:
       - image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1733782899/Untitled_design-11.gif
@@ -237,6 +251,7 @@ page_blocks:
       - image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1621354718/IMG_9661_wszhuh.jpg
         caption: Industry Leaders Roundtable Retreat, Chicago, IL, October 23-24, 2017
+    automatic: true
     include_left-hand_column_text_: false
     lefthand_text:
       header_type: ''
@@ -244,7 +259,7 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-    automatic: false
+    section_break: false
 description: >-
   The Industry Leaders Roundtable program is designed to encourage firms and
   their representatives to undertake institutional change within their
