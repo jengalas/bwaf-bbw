@@ -48,10 +48,10 @@ page_blocks:
     bbw-slideshow-images:
       - image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1771878983/Ilana_Judah_headshot_2022.jpg
-        caption: ''
+        caption: test
       - image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1771519895/01.png
-        caption: ''
+        caption: test2
     include_left-hand_column_text_: false
     lefthand_text:
       header_type: Large Header
