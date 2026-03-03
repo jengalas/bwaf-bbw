@@ -1,3 +1,26 @@
+{% assign year = page.current-year %}
+{% assign target_slug = "jury-" | append: year %}
+{% assign jury_doc = site.bbw-juries | where: "slug", target_slug | first %}
+
+{% if jury_doc and jury_doc.jury_members %}
 <div>
-  JURY HERE
+  <section class="jury">
+    <div class="portrait-gallery-block-large">
+      {% for person in jury_doc.jury_members %}
+      <div class="jury-member">
+        <div class="image-container">
+          <img
+            src="{{site.cloudinary}}/w_400,h_400,g_face,c_fill/{{person.image | remove: 'https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/'}}"
+            alt="{{person.name}}">
+        </div>
+        <div>
+          <h2><b>{{person.title}}</b>
+            <br>{{person.role}}
+          </h2>
+          <p>{{person.bio}}</p>
+        </div>
+      </div>
+      {% endfor %}
+  </section>
 </div>
+{% endif %}
