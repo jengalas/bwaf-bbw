@@ -20,16 +20,19 @@ page_blocks:
       link_url: ''
       link_text: ''
     section_break:
-  - template: jury
-    label: 'Jury: Add jury members in BBW: Juries for the current year'
-    include_left-hand_column_text_: true
+  - template: image-block
+    image: >-
+      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1761241529/WeBuiltThis_Extension.gif
+    image_caption_text:
+    alt_text: Built By Women 2026. Submissions close 11/6.
+    include_left-hand_column_text_: false
     lefthand_text:
-      header_type: Medium Header
-      text: Meet the Jury
+      header_type: Large Header
+      text: ''
       download: ''
       link_url: ''
       link_text: ''
-    section_break:
+    section_break: false
   - template: text-block
     text_block: >-
       Beverly Willis Architecture Foundation creates opportunities with national
@@ -54,17 +57,14 @@ page_blocks:
       link_url: https://bwaf.org/support
       link_text: ''
     section_break: false
-  - template: image-block
-    image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1761241529/WeBuiltThis_Extension.gif
-    image_caption_text:
-    alt_text: Built By Women 2026. Submissions close 11/6.
-    include_left-hand_column_text_: false
+  - template: jury
+    label: 'Jury: Add jury members in BBW: Juries for the current year'
+    include_left-hand_column_text_: true
     lefthand_text:
-      header_type: Large Header
-      text: ''
+      header_type: Medium Header
+      text: Meet the Jury
       download: ''
       link_url: ''
       link_text: ''
-    section_break: false
+    section_break:
 ---
