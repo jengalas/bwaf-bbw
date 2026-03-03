@@ -521,8 +521,9 @@ _structures:
         _inputs:
           section_break:
             type: checkbox
-          options:
-            min_items: 6  
+          bbw-slideshow-images:
+            options:
+              min_items: 6  
             
                                  
 
