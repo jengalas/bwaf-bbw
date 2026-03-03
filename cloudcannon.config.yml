@@ -231,7 +231,8 @@ _structures:
           text:
             - key: label
           subtext:
-            - key: text_block 
+            - key: text_block
+            - text: 'Add text' 
           icon: article
         value:
           template: text-block
