@@ -62,9 +62,9 @@ page_blocks:
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Large Header
-      text: ''
+      text: Meet the Jury
       download: ''
       link_url: ''
       link_text: ''
-    section_break:    
+    section_break:
 ---
