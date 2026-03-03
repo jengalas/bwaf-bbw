@@ -12,12 +12,6 @@ page_blocks:
       - image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1771878983/Ilana_Judah_headshot_2022.jpg
         caption: test
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1771519895/01.png
-        caption: test2
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1767641275/Baccon_Portrait_Credit_Ty_Cole.jpg.webp
-        caption: ab
     include_left-hand_column_text_: false
     lefthand_text:
       header_type: Large Header
