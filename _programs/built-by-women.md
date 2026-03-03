@@ -58,5 +58,6 @@ page_blocks:
       link_text: ''
     section_break: false
   - template: jury
+    label: Jury
     section_break:    
 ---
