@@ -577,7 +577,34 @@ _structures:
           section_break:
             type: checkbox
           portrait[*].description:
-            label: Biography                            
+            label: Biography
+      - label: Slideshow
+        preview:
+          text:
+            - key: label
+          subtext:
+            - text: 'Add images'
+          icon: image
+        value:
+          template: slideshow-block
+          label: ''
+          image:
+            - image: ''
+              caption: ''
+          automatic: false    
+          include_left-hand_column_text_: false
+          lefthand_text:
+            header_type: Large Header
+            text: ''
+            download: ''
+            link_url: ''
+            link_text: ''
+          section_break: 
+        _inputs:
+          section_break:
+            type: checkbox
+          automatic:
+            type: checkbox                       
             
                                  
 
