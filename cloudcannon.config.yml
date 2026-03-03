@@ -148,12 +148,17 @@ collections_config:
     _inputs:  
       date:
         hidden: true 
+      $.title:
+        hidden: true  
       layout:
         hidden: true
       navCategory:
         hidden: true 
       permalink:
         hidden: true   
+      description:
+        type: textarea
+        label: Page Description (for SEO)  
   podcasts:
     _enabled_editors:
       - data      

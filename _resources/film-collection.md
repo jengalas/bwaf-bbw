@@ -2,11 +2,6 @@
 layout: innerPageCC
 navCategory: Resources
 title: Film Collection
-description: >-
-  The BWAF Film Collection furthers our awareness-raising work in acknowledging
-  and celebrating women's achievements and contributions to the built
-  environment. Available to stream online, as DVDs, and for special screenings,
-  each film presents a unique view and seeks to expand the canon.
 permalink: /resources/film-collection
 page_blocks:
   - template: text-block
@@ -105,4 +100,9 @@ page_blocks:
       [Learn
       more](https://bwaf.square.site/product/the-artist-the-architect-and-built-for-ballet/1?cs=true&cst=custom)
     section_break: false
+description: >-
+  The BWAF Film Collection furthers our awareness-raising work in acknowledging
+  and celebrating women's achievements and contributions to the built
+  environment. Available to stream online, as DVDs, and for special screenings,
+  each film presents a unique view and seeks to expand the canon.    
 ---
