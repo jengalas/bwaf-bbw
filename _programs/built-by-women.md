@@ -4,7 +4,7 @@ permalink: /built-by-women
 title: Built By Women
 navCategory: Programs
 current-year: '2026'
-show_bbw_slideshow: true
+show_bbw_slideshow: false
 page_blocks:
   - template: bbw-slideshow-block
     label: BBW Slideshow
