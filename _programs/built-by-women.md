@@ -25,17 +25,40 @@ page_blocks:
 
       Stay tuned for the announcement of the completed 2026 Built by Women: New
       York City map!
-    section_break: false
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Link
       text: Become a sponsor of the program
       download: ''
       link_url: https://bwaf.org/support
+      link_text: ''
+    section_break: false
   - template: image-block
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1761241529/WeBuiltThis_Extension.gif
-    section_break: false
     image_caption_text:
-    alt_text: Built By Women 2026. Submissions close 11/6.  
+    alt_text: Built By Women 2026. Submissions close 11/6.
+    include_left-hand_column_text_: false
+    lefthand_text:
+      header_type: Large Header
+      text: ''
+      download: ''
+      link_url: ''
+      link_text: ''
+    section_break: false
+  - template: bbw-slideshow-block
+    label: ''
+    bbw-slideshow-images:
+      - image: /uploads/1708609530715.jpeg
+        caption: ''
+      - image: /uploads/1720793723932.jpeg
+        caption: ''
+    include_left-hand_column_text_: false
+    lefthand_text:
+      header_type: Large Header
+      text: ''
+      download: ''
+      link_url: ''
+      link_text: ''
+    section_break:
 ---
