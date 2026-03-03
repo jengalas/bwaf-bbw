@@ -6,6 +6,26 @@ navCategory: Programs
 current-year: '2026'
 show_bbw_slideshow: true
 page_blocks:
+  - template: bbw-slideshow-block
+    label: BBW Slideshow
+    bbw-slideshow-images:
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1771878983/Ilana_Judah_headshot_2022.jpg
+        caption: test
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1771519895/01.png
+        caption: test2
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1767641275/Baccon_Portrait_Credit_Ty_Cole.jpg.webp
+        caption: ab
+    include_left-hand_column_text_: false
+    lefthand_text:
+      header_type: Large Header
+      text: ''
+      download: ''
+      link_url: ''
+      link_text: ''
+    section_break:
   - template: text-block
     text_block: >-
       Beverly Willis Architecture Foundation creates opportunities with national
@@ -43,24 +63,4 @@ page_blocks:
       link_url: ''
       link_text: ''
     section_break: false
-  - template: bbw-slideshow-block
-    label: BBW Slideshow
-    bbw-slideshow-images:
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1771878983/Ilana_Judah_headshot_2022.jpg
-        caption: test
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1771519895/01.png
-        caption: test2
-      - image: >-
-          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1767641275/Baccon_Portrait_Credit_Ty_Cole.jpg.webp
-        caption: ab
-    include_left-hand_column_text_: false
-    lefthand_text:
-      header_type: Large Header
-      text: ''
-      download: ''
-      link_url: ''
-      link_text: ''
-    section_break:
 ---
