@@ -3,7 +3,7 @@
   <div>
     <div class="bbw-image-grid" id="bbw-image-grid">
       {% for image in block.bbw-slideshow-images %}
-      <img src="{{site.cloudinary}}{{image.image}}">
+      <img src="{{image.image}}">
       {% endfor %}
     </div>
     <figcaption>From top left to right: {% for image in block.bbw-slideshow-images%}<span>{{image.caption}}</span>{% endfor
