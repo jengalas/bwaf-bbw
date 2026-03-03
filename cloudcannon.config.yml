@@ -521,12 +521,6 @@ _structures:
         _inputs:
           section_break:
             type: checkbox
-          bbw-slideshow-images:
-            type: array
-            options:
-              min_items: 6  
-          bbw-slideshow-images[*].image:
-            type: image    
             
                                  
 
