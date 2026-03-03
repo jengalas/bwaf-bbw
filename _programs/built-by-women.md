@@ -57,4 +57,8 @@ page_blocks:
       link_url: ''
       link_text: ''
     section_break: false
+  - template: portrait-gallery-block-large
+    label: 'Jury'
+    year: 2025
+    section_break:    
 ---
