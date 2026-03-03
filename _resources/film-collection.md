@@ -105,24 +105,4 @@ page_blocks:
       [Learn
       more](https://bwaf.square.site/product/the-artist-the-architect-and-built-for-ballet/1?cs=true&cst=custom)
     section_break: false
-_inputs:
-  title:
-    hidden: true
-  description:
-    hidden: true
-  template:
-    hidden: true
-  text_block:
-    type: textarea
-  section_break:
-    hidden: true
-  page_blocks[*].label:
-    hidden: true
-  page_blocks:
-    options:
-      text:
-        - key: template
-      preview:
-        subtext:
-          - key: label
 ---
