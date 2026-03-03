@@ -46,9 +46,11 @@ page_blocks:
   - template: bbw-slideshow-block
     label: ''
     bbw-slideshow-images:
-      - image: /uploads/1708609530715.jpeg
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1771878983/Ilana_Judah_headshot_2022.jpg
         caption: ''
-      - image: /uploads/1720793723932.jpeg
+      - image: >-
+          https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1771519895/01.png
         caption: ''
     include_left-hand_column_text_: false
     lefthand_text:
