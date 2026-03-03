@@ -174,9 +174,7 @@ collections_config:
       layout:
         hidden: true
       template:
-        hidden: true
-      section_break:
-        hidden: true      
+        hidden: true     
       text_block:
         type: textarea
       date:
@@ -195,9 +193,7 @@ collections_config:
       layout:
         hidden: true
       template:
-        hidden: true
-      section_break:
-        hidden: true      
+        hidden: true     
       text_block:
         type: textarea
       date:
