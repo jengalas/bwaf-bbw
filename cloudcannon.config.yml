@@ -288,7 +288,8 @@ _structures:
           subtext:
             - key: image_caption_text
             - text: 'Add image'
-          icon: image
+          icon:
+            - key: image
         value:
           template: image-block
           image:
