@@ -284,10 +284,12 @@ _structures:
             type: checkbox
       - label: Image
         preview:
-          text: Image
-          subtext:
-            - key: image_caption_text
-            - text: 'Add image'
+            text: Image
+            subtext:
+              - key: image_caption_text
+              - text: 'Add image'
+            image:
+              - key: image
         value:
           template: image-block
           image:
