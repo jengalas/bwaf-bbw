@@ -5,9 +5,6 @@ title: Built By Women
 navCategory: Programs
 current-year: '2026'
 show_bbw_slideshow: true
-bbw-slideshow-images:
-  - image: /v1620678201/smlWTC205221_000_N252_jpg_i5oajq.jpg
-    caption: One World Trade Center
 page_blocks:
   - template: text-block
     text_block: >-
