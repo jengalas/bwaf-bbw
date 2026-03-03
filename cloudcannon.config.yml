@@ -497,7 +497,31 @@ _structures:
             type: markdown
           section_break:
             type: checkbox 
-           
+      - label: BBW Slideshow
+        preview:
+          text:
+            - key: label
+          subtext:
+            - text: 'Add images'
+          icon: image
+        value:
+          template: bbw-slideshow-block
+          label: ''
+          bbw-slideshow-images:
+            - image: ''
+              caption: ''
+          include_left-hand_column_text_: false
+          lefthand_text:
+            header_type: Large Header
+            text: ''
+            download: ''
+            link_url: ''
+            link_text: ''
+          section_break: 
+        _inputs:
+          section_break:
+            type: checkbox
+            
                                  
 
              

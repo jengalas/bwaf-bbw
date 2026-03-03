@@ -1,0 +1,14 @@
+{% if block.show_bbw_slideshow and block.bbw-slideshow-images %}
+<div>
+  <div>
+    <div class="bbw-image-grid" id="bbw-image-grid">
+      {% for image in block.bbw-slideshow-images %}
+      <img src="{{site.cloudinary}}{{image.image}}">
+      {% endfor %}
+    </div>
+    <figcaption>From top left to right: {% for image in block.bbw-slideshow-images%}<span>{{image.caption}}</span>{% endfor
+      %}</figcaption>
+  </div>
+</div>
+<script src="/assets/js/bbw-image-grid.js"></script>
+{% endif %}
