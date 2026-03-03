@@ -522,6 +522,7 @@ _structures:
           section_break:
             type: checkbox
           bbw-slideshow-images:
+            type: array
             options:
               min_items: 6  
             
