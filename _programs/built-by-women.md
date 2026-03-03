@@ -58,12 +58,6 @@ page_blocks:
       link_text: ''
     section_break: false
   - template: jury
-    label: Jury
-    preview:
-      text:
-        - key: label
-      subtext:
-        - text: 'Add jury members in BBW: Juries for the current year'
-      icon: gallery
+    label: 'Jury: Add jury members in BBW: Juries for the current year'
     section_break:    
 ---
