@@ -1,4 +1,4 @@
-<div class="slideshow">
+<div class="slideshow" data-automatic="{{ block.automatic | default: false }}">
     {% for img in block.image %}
     <div class="slide fade">
         <img src="{{img.image}}" style="width:100%">
