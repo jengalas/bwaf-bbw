@@ -604,7 +604,31 @@ _structures:
           section_break:
             type: checkbox
           automatic:
-            type: checkbox                       
+            type: checkbox    
+      - label: Friends Form Block
+        preview:
+          text:
+            - key: label
+          subtext:
+            - text: 'Add form description'
+          icon: form
+        value:
+          template: form-block
+          label: ''
+          text_block: ''    
+          include_left-hand_column_text_: false
+          lefthand_text:
+            header_type: Large Header
+            text: ''
+            download: ''
+            link_url: ''
+            link_text: ''
+          section_break: 
+        _inputs:
+          section_break:
+            type: checkbox
+          automatic:
+            type: checkbox                           
             
                                  
 

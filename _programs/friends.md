@@ -67,13 +67,14 @@ page_blocks:
       link_text: ''
     section_break: false      
   - template: form-block
+    label: Membership Form
     text_block: >-
       <p>Thank you for your interest in joining The Friends of BWAF program!
       Please complete the below fields to begin your registration for 2025-2026.
       Once your request is processed, you will receive an invoice, a Friends
       Welcome letter, and be subscribed to receive bi-weekly newsletters about
       upcoming events/programs.</p>
-    label: Membership Form
+    
     section_break: false
     include_left-hand_column_text_: true
     lefthand_text:
