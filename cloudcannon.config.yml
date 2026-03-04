@@ -625,10 +625,11 @@ _structures:
             link_text: ''
           section_break: 
         _inputs:
+          text_block:
+            type: markdown
           section_break:
             type: checkbox
-          automatic:
-            type: checkbox                           
+                                    
             
                                  
 
