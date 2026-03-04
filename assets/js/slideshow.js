@@ -1,26 +1,27 @@
-var slideIndex = 1;
-showSlides(slideIndex);
+document.querySelectorAll(".slideshow").forEach(function(slideshow) {
 
-function plusSlides(n) {
-  showSlides(slideIndex += n);
-}
+  let slideIndex = 1;
+  const slides = slideshow.querySelectorAll(".slide");
+  const prev = slideshow.querySelector(".prev");
+  const next = slideshow.querySelector(".next");
 
-function currentSlide(n) {
-  showSlides(slideIndex = n);
-}
+  function showSlides(n) {
+    if (n > slides.length) slideIndex = 1;
+    if (n < 1) slideIndex = slides.length;
 
-function showSlides(n) {
-  var i;
-  var slides = document.getElementsByClassName("slide");
-  var dots = document.getElementsByClassName("arrows");
-  if (n > slides.length) {slideIndex = 1}    
-  if (n < 1) {slideIndex = slides.length}
-  for (i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none";  
+    slides.forEach(slide => slide.style.display = "none");
+
+    slides[slideIndex - 1].style.display = "block";
   }
-  for (i = 0; i < dots.length; i++) {
-      dots[i].className = dots[i].className.replace(" active", "");
+
+  function plusSlides(n) {
+    showSlides(slideIndex += n);
   }
-  slides[slideIndex-1].style.display = "block";  
-  dots[slideIndex-1].className += " active";
-}
+
+  // Attach arrow events (no more inline onclick needed)
+  if (prev) prev.addEventListener("click", () => plusSlides(-1));
+  if (next) next.addEventListener("click", () => plusSlides(1));
+
+  showSlides(slideIndex);
+
+});
