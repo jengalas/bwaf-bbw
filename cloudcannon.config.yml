@@ -183,9 +183,7 @@ collections_config:
       text_block:
         type: textarea
       date:
-        type: date
-      description:
-        hidden: true   
+        type: date  
   emerging-firms:
     schemas:
       default:
@@ -629,7 +627,38 @@ _structures:
             type: markdown
           section_break:
             type: checkbox
-                                    
+      - label: Featured Portrait Block
+        preview:
+          text:
+            - key: label
+          subtext:
+            - text: 'Add portrait and description'
+          icon: list_alt 
+        value:
+          template: featured-portrait-block
+          label: ''
+          header: ''
+          image: ''
+          title: ''
+          subtitle: '' 
+          description: ''
+          time-location:
+            line-1: 
+            line-2: 
+          include_left-hand_column_text_: false
+          lefthand_text:
+            header_type: Large Header
+            text: ''
+            download: ''
+            link_url: ''
+            link_text: ''
+          section_break: 
+        _inputs:
+          description:
+            type: markdown
+          section_break:
+            type: checkbox
+
             
                                  
 
