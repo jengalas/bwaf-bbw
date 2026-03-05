@@ -1,5 +1,5 @@
 ---
-layout: innerPageCCFriends
+layout: innerPageCC
 navCategory: Programs
 title: Friends
 permalink: /programs/friends
