@@ -656,6 +656,7 @@ _structures:
         _inputs:
           description:
             type: markdown
+            label: Biography
           section_break:
             type: checkbox
 
