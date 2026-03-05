@@ -30,11 +30,7 @@
   </div>
   <div>
     {% if block.template == "text-block" %}
-    <section class="text-block">
-      <div class="right-column">
-        {{ block.text_block | markdownify }}
-      </div>
-    </section>
+    {% include block_r_text.html %}
     {% elsif block.template == "miscellaneous-block" %}
     {% include block_r_misc.html %}
     {% elsif block.template == "image-block"%}
