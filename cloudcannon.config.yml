@@ -611,7 +611,7 @@ _structures:
             - key: label
           subtext:
             - text: 'Add form description'
-          icon: form
+          icon: list_alt 
         value:
           template: form-block
           label: ''
