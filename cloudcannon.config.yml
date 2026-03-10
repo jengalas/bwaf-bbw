@@ -198,9 +198,12 @@ collections_config:
       template:
         hidden: true     
       text_block:
-        type: textarea
+        type: markdown
       date:
         type: date
+      description:
+        type: textarea
+        label: Page Description (for SEO)
 
 collection_groups:
   - heading: Pages
