@@ -103,8 +103,8 @@ page_blocks:
       link_text: ''
     section_break: true
   - template: featured-portrait-block
-    label: Speaker
-    header: Legal FAQ
+    label: Legal FAQ
+    header:
     image: /uploads/67.png
     title: Anazette Ray
     subtitle: Principal, Zetlin & De Chiara LLP
@@ -135,7 +135,7 @@ page_blocks:
       link_text: ''
     section_break: false
   - template: featured-portrait-block
-    label:
+    label: Speaker
     header:
     image: /uploads/dungjai-pungauthaikan-once-future-office-3x2-1-900x600.jpg
     title: Dungjai Pungauthaikan
