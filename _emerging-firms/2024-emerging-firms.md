@@ -11,13 +11,14 @@ page_blocks:
       This two-day workshop and talk series is designed to be a networking and
       skill-building program for Emerging Firms who want to lead a cultural
       revolution in the building industry.
-    section_break: false
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Large Header
       text: Emerging Firms
       download: ''
       link_url: ''
+      link_text: ''
+    section_break: false
   - template: text-block
     text_block: >-
       The program will be held in person on January 24 & 31, 3:00-6:00pm at
@@ -33,28 +34,19 @@ page_blocks:
 
 
       Total program cost is $500. Applications now closed.
-    section_break: false
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: Medium Header
       text: Workshop & Talk Series
       download: ''
       link_url: ''
-  - template: featured-portrait-block
-    header: Speakers
-    time-location:
-      line-1: January 24, 3:00-4:00pm
-      line-2: 424 W 33rd Street, Suite 280, NY 10001
-    label: Speaker
-    title: 'Miriam Peterson '
+      link_text: ''
     section_break: false
-    include_left-hand_column_text_: false
-    lefthand_text:
-      header_type:
-      text: Speaker
-      download: ''
-      link_url: ''
+  - template: featured-portrait-block
+    label: Speaker
+    header: Speakers
     image: /uploads/1708609530715.jpeg
+    title: 'Miriam Peterson '
     subtitle: Partner, Peterson Rich Office
     description: >-
       <p>Miriam majored in Economics at Cornell University and her advanced
@@ -68,21 +60,22 @@ page_blocks:
       Memorial Medal for the student showing the most promise in urban design.
       Miriam is currently Adjunct Faculty at the Yale School of
       Architecture.</p><p></p>
-  - template: featured-portrait-block
-    header:
     time-location:
-      line-1: January 24, 4:00-5:00pm
+      line-1: January 24, 3:00-4:00pm
       line-2: 424 W 33rd Street, Suite 280, NY 10001
-    label: Speaker
-    title: Marta Sanders
-    section_break: true
     include_left-hand_column_text_: false
     lefthand_text:
-      header_type: ''
-      text: ''
+      header_type:
+      text: Speaker
       download: ''
       link_url: ''
+      link_text: ''
+    section_break: false
+  - template: featured-portrait-block
+    label: Speaker
+    header:
     image: /uploads/marta-sanders.jpg
+    title: Marta Sanders
     subtitle: Principal, Architecture Outfit
     description: >-
       <p>Marta brings insights and expertise from over 30 years of professional
@@ -98,21 +91,22 @@ page_blocks:
       Workforce Innovations, and the International Cinematographers Guild. She
       also completed Turnstyle, an award-winning public space in the NYC transit
       system.</p><p></p>
-  - template: featured-portrait-block
-    header:
     time-location:
-      line-1: January 24, 5:00-6:00pm
+      line-1: January 24, 4:00-5:00pm
       line-2: 424 W 33rd Street, Suite 280, NY 10001
-    label: Legal FAQ
-    title: Anazette Ray
-    section_break: false
     include_left-hand_column_text_: false
     lefthand_text:
       header_type: ''
       text: ''
       download: ''
       link_url: ''
+      link_text: ''
+    section_break: true
+  - template: featured-portrait-block
+    label: Speaker
+    header: Legal FAQ
     image: /uploads/67.png
+    title: Anazette Ray
     subtitle: Principal, Zetlin & De Chiara LLP
     description: >-
       <p>Anazette brings a wealth of experience representing architects and
@@ -129,21 +123,22 @@ page_blocks:
       Estate Journal’s 2020 and Best Lawyers Ones to Watch lists and selected by
       the Women Builders Council as one of WBC’s 2023 Outstanding
       Women.</p><p></p>
-  - template: featured-portrait-block
-    header:
     time-location:
-      line-1: January 31, 4:00-5:00pm
+      line-1: January 24, 5:00-6:00pm
       line-2: 424 W 33rd Street, Suite 280, NY 10001
-    label:
-    title: Dungjai Pungauthaikan
-    section_break: false
     include_left-hand_column_text_: false
     lefthand_text:
       header_type: ''
       text: ''
       download: ''
       link_url: ''
+      link_text: ''
+    section_break: false
+  - template: featured-portrait-block
+    label:
+    header:
     image: /uploads/dungjai-pungauthaikan-once-future-office-3x2-1-900x600.jpg
+    title: Dungjai Pungauthaikan
     subtitle: Founding Principal and Creative Director, Once–Future Office
     description: >-
       <p>Dungjai is a big picture systems-thinker who loves connecting design,
@@ -161,22 +156,23 @@ page_blocks:
       the Art Director at Metropolis magazine where she led the art department
       staff in all aspects of the magazine’s publication and subsidiary
       brands.</p><p></p>
-  - template: featured-portrait-block
-    header:
     time-location:
-      line-1: January 31, 5:00-6:00pm
+      line-1: January 31, 4:00-5:00pm
       line-2: 424 W 33rd Street, Suite 280, NY 10001
-    label: Communications/Media FAQ
-    title: Tami Hausman
-    section_break: false
     include_left-hand_column_text_: false
     lefthand_text:
       header_type: ''
       text: ''
       download: ''
       link_url: ''
+      link_text: ''
+    section_break: false
+  - template: featured-portrait-block
+    label: Communications/Media FAQ
+    header:
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1731526901/Tami_3057-768x1009.jpg
+    title: Tami Hausman
     subtitle: Founder and President, Hausman LLC
     description: >-
       <p>For over 20 years, Tami Hausman has been an expert advisor to top firms
@@ -190,7 +186,19 @@ page_blocks:
       addition to her experience in marketing and public relations, Tami is an
       architectural historian who frequently writes and lectures about trends
       and topics in architecture and urban planning.</p>
+    time-location:
+      line-1: January 31, 5:00-6:00pm
+      line-2: 424 W 33rd Street, Suite 280, NY 10001
+    include_left-hand_column_text_: false
+    lefthand_text:
+      header_type: ''
+      text: ''
+      download: ''
+      link_url: ''
+      link_text: ''
+    section_break: false
   - template: portrait-gallery-block-small
+    label: ''
     portrait:
       - title: Sara Ngan
         title_role: 'Founding Principal, Fenix Design Consultants '
@@ -204,5 +212,55 @@ page_blocks:
         title_role: 'Designer, LVF Landscape Architects '
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738092204/LVF-Logo-WHITE_CIRCLE.png
+    include_left-hand_column_text_: false
+    lefthand_text:
+      header_type: Large Header
+      text: ''
+      download: ''
+      link_url: ''
+      link_text: ''
+_structures:
+  page_blocks:
+    id_key: template
+    values:
+      - label: Buttons
+        preview:
+          text: Buttons
+          subtext:
+          icon: smart_button
+        value:
+          template: buttons-block
+          button:
+            - button_text:
+              button_link:
+          section_break: false
+          include_left-hand_column_text_: false
+        _inputs:
+          icon:
+            hidden: true
+          button:
+            hidden: false
+      - label: Speaker
+        preview:
+          text: Speaker
+        value:
+          template: featured-portrait-block
+        _inputs:
+          description:
+            type: html
+            hidden: false
+            label: Biography
+          image:
+            type: image
+      - label: Participants
+        preview:
+          text: Participants
+          subtext: Add image, name, and title/role
+        value:
+          template: portrait-gallery-block-small
+          portrait:
+            - title:
+              title_role:
+              image:
 _unlisted: false
 ---
