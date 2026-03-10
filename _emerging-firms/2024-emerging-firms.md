@@ -45,7 +45,7 @@ page_blocks:
     time-location:
       line-1: January 24, 3:00-4:00pm
       line-2: 424 W 33rd Street, Suite 280, NY 10001
-    label:
+    label: Speaker
     title: 'Miriam Peterson '
     section_break: false
     include_left-hand_column_text_: false
@@ -73,7 +73,7 @@ page_blocks:
     time-location:
       line-1: January 24, 4:00-5:00pm
       line-2: 424 W 33rd Street, Suite 280, NY 10001
-    label:
+    label: Speaker
     title: Marta Sanders
     section_break: true
     include_left-hand_column_text_: false
@@ -204,76 +204,5 @@ page_blocks:
         title_role: 'Designer, LVF Landscape Architects '
         image: >-
           https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1738092204/LVF-Logo-WHITE_CIRCLE.png
-_structures:
-  page_blocks:
-    id_key: template
-    values:
-      - label: Buttons
-        preview:
-          text: Buttons
-          subtext:
-          icon: smart_button
-        value:
-          template: buttons-block
-          button:
-            - button_text:
-              button_link:
-          section_break: false
-          include_left-hand_column_text_: false
-        _inputs:
-          icon:
-            hidden: true
-          button:
-            hidden: false
-      - label: Speaker
-        preview:
-          text: Speaker
-        value:
-          template: featured-portrait-block
-          header:
-          time-location:
-            line-1:
-            line-2:
-          label:
-          title:
-          section_break: false
-          include_left-hand_column_text_: false
-          lefthand_text:
-            header_type: ''
-            text: ''
-            download: ''
-          image:
-          subtitle:
-          description:
-        _inputs:
-          description:
-            type: html
-            hidden: false
-            label: Biography
-          image:
-            type: image
-      - label: Image
-        preview:
-          image:
-            - key: image
-          icon: image
-          subtext: Add images and captions
-        value:
-          template: image-block
-          image:
-          image_caption_text:
-          alt_text:
-          section_break: false
-          include_left-hand_column_text_: false
-      - label: Participants
-        preview:
-          text: Participants
-          subtext: Add image, name, and title/role
-        value:
-          template: portrait-gallery-block-small
-          portrait:
-            - title:
-              title_role:
-              image:
 _unlisted: false
 ---
