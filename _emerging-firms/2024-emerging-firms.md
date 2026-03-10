@@ -4,7 +4,6 @@ layout: innerPageCC
 date: 2024-10-10 19:00:00
 navCategory: Programs
 title: 2024 Emerging Firms
-description: ''
 page_blocks:
   - template: text-block
     text_block: >-
@@ -219,5 +218,6 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
+description: ''      
 _unlisted: false
 ---
