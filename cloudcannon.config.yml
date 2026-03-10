@@ -185,9 +185,9 @@ collections_config:
       date:
         type: date  
   emerging-firms:
-    schemas:
-      default:
-        path: schemas/emerging-firms.md
+    # schemas:
+    #   default:
+    #     path: schemas/emerging-firms.md
     _enabled_editors:
       - data      
     _inputs:
@@ -201,8 +201,6 @@ collections_config:
         type: textarea
       date:
         type: date
-      description:
-        hidden: true               
 
 collection_groups:
   - heading: Pages
