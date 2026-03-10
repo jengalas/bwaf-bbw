@@ -655,6 +655,8 @@ _structures:
             link_text: ''
           section_break: 
         _inputs:
+          label:
+            label: 
           description:
             type: markdown
             label: Biography
