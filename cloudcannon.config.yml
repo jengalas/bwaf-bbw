@@ -656,7 +656,7 @@ _structures:
           section_break: 
         _inputs:
           label:
-            label: 
+            label: Speaker or other role
           description:
             type: markdown
             label: Biography
