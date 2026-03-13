@@ -183,7 +183,7 @@ collections_config:
       text_block:
         type: markdown
       date:
-        type: date
+        type: date  
       description:
         type: textarea
         label: Page Description (for SEO)
