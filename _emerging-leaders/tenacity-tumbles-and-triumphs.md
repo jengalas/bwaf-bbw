@@ -4,7 +4,6 @@ layout: innerPageCC
 date: 2024-11-17 00:00:00
 navCategory: ''
 title: Tenacity, Tumbles, and Triumphs
-description: ''
 page_blocks:
   - template: text-block
     text_block: >-
@@ -221,4 +220,5 @@ page_blocks:
         button_link: https://bwaf.wufoo.com/forms/mxx9kje0m8h5qg/
     section_break: false
     include_left-hand_column_text_: false
+description: ''    
 ---
