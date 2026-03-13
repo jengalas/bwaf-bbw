@@ -168,9 +168,9 @@ collections_config:
       layout:
         hidden: true     
   emerging-leaders:
-    schemas:
-      default:
-        path: schemas/emerging-leaders.md
+    # schemas:
+    #   default:
+    #     path: schemas/emerging-leaders.md
     _enabled_editors:
       - data      
     _inputs:
@@ -181,9 +181,12 @@ collections_config:
       template:
         hidden: true     
       text_block:
-        type: textarea
+        type: markdown
       date:
-        type: date  
+        type: date
+      description:
+        type: textarea
+        label: Page Description (for SEO)
   emerging-firms:
     # schemas:
     #   default:
