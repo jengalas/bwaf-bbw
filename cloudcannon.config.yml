@@ -97,6 +97,7 @@ collections_config:
     add_options:
       - label: New Project
         icon: add
+        path: "{title|slugify}.md"
         schema:
           title: ""
           draft: true
