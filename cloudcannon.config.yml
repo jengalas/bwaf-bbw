@@ -94,7 +94,9 @@ collections_config:
     name: "BBW: Projects"
     _enabled_editors:
       - data
-    _inputs:      
+    _inputs: 
+      bbw-year:
+        type: text      
       layout:
         hidden: true
       navCategory:
@@ -108,8 +110,6 @@ collections_config:
     _enabled_editors:
       - data     
     _inputs:   
-      bbw-year:
-        type: text 
       layout:
         hidden: true
       navCategory:
