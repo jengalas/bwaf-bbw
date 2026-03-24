@@ -4,7 +4,7 @@ navCategory: Programs
 bbw-year: _bbw-years/bbw-2026.md
 project_categories: []
 title: 10 Hudson Yards
-draft: true
+draft: false
 architects:
   - title: Marianne Kwok
     role: Kohn Pederson Fox Associates
