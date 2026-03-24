@@ -77,13 +77,19 @@ collections_config:
     name: "BBW: Juries"
     _enabled_editors:
       - data  
-    _inputs:      
+    _inputs:    
+      bbw_year:
+        hidden: true  
       layout:
         hidden: true
       navCategory:
         hidden: true 
       permalink:
         hidden: true     
+      bio:
+        type: markdown  
+      title:
+        hidden: true  
   bbw-projects:
     name: "BBW: Projects"
     _enabled_editors:
