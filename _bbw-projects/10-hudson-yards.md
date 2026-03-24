@@ -1,7 +1,7 @@
 ---
 layout: bbw-project
 navCategory: Programs
-bbw-year: /built-by-women/bbw-2020
+bbw-year: _bbw-years/bbw-2018.md
 project_categories: []
 title: 10 Hudson Yards
 architects:
