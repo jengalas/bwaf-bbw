@@ -94,14 +94,9 @@ collections_config:
     name: "BBW: Projects"
     _enabled_editors:
       - data
-    add_options:
-      - label: New Project
-        icon: add
-        path: "{title|slugify}.md"
-        schema:
-          title: ""
-          draft: true
-          bbw-year: ""
+    schemas:
+      default:
+        path: schemas/bbw-project.md
     _inputs: 
       draft:
         type: checkbox
