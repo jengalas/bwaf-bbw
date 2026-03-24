@@ -94,6 +94,13 @@ collections_config:
     name: "BBW: Projects"
     _enabled_editors:
       - data
+    add_options:
+      - label: New Project
+        icon: add
+        schema:
+          title: ""
+          draft: true
+          bbw-year: ""
     _inputs: 
       draft:
         type: checkbox
@@ -108,7 +115,7 @@ collections_config:
       permalink:
         hidden: true  
       project_categories:
-        hidden: true  
+        hidden: true    
   bbw-years:
     name: "BBW: Years"     
     _enabled_editors:
