@@ -4,7 +4,6 @@ layout: innerPageCC
 date: 2023-03-07 21:07:21
 navCategory: ''
 title: Energy, Environment, Engagement
-description: ''
 page_blocks:
   - template: text-block
     text_block: >-
@@ -25,6 +24,7 @@ page_blocks:
       text: Emerging Leaders
       download: ''
       link_url: ''
+      link_text: ''
   - template: image-block
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1678236171/Emerging_Leaders_2023-edit_zktvjf.png
@@ -35,6 +35,7 @@ page_blocks:
       text: ''
       download: ''
       link_url: ''
+      link_text: ''
     alt_text: ''
     image_caption_text: ''
   - template: text-block
@@ -45,6 +46,7 @@ page_blocks:
       text: Energy, Environment, Engagement
       download: ''
       link_url: ''
+      link_text: ''
     text_block: >-
       Energy, Environment, Engagement was held March 30th, April 25th, and May
       16th, 2023.  Participants heard from speakers Melissa Burton, ARUP
@@ -146,6 +148,7 @@ page_blocks:
       text: ''
       download: ''
       link_url: ''
+      link_text: ''
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1678234361/2017_Burton_Melissa_01_980x780_kbtmcc.jpg
     subtitle: ARUP Canada's Principal Engineer
@@ -166,6 +169,7 @@ page_blocks:
       text: ''
       download: ''
       link_url: ''
+      link_text: ''
     image: >-
       https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1678234847/LNSimonheadshot_labdtm.jpg
     label: Speaker
@@ -204,78 +208,8 @@ page_blocks:
       text: ''
       download: ''
       link_url: ''
+      link_text: ''
     subtitle: ''
-_structures:
-  page_blocks:
-    id_key: template
-    values:
-      - label: Buttons
-        preview:
-          text: Buttons
-          subtext:
-          icon: smart_button
-        value:
-          template: buttons-block
-          button:
-            - button_text:
-              button_link:
-          section_break: false
-          include_left-hand_column_text_: false
-        _inputs:
-          icon:
-            hidden: true
-          button:
-            hidden: false
-      - label: Speaker
-        preview:
-          text: Speaker
-        value:
-          template: featured-portrait-block
-          header:
-          time-location:
-            line-1:
-            line-2:
-          label:
-          title:
-          section_break: false
-          include_left-hand_column_text_: false
-          lefthand_text:
-            header_type: ''
-            text: ''
-            download: ''
-            link_url: ''
-          image:
-          subtitle:
-          description:
-        _inputs:
-          description:
-            type: html
-            hidden: false
-            label: Biography
-          image:
-            type: image
-      - label: Image
-        preview:
-          image:
-            - key: image
-          icon: image
-          subtext: Add images and captions
-        value:
-          template: image-block
-          image:
-          image_caption_text:
-          alt_text:
-          section_break: false
-          include_left-hand_column_text_: false      
-      - label: Participants
-        preview:
-          text: Participants
-          subtext: Add image, name, and title/role
-        value:
-          template: portrait-gallery-block-small
-          portrait:
-            - title:
-              title_role:
-              image:
+description: ''
 _unlisted: false
 ---

@@ -4,10 +4,6 @@ layout: innerPageCC
 date: 2021-08-11 16:11:47
 navCategory: Programs
 title: Imagination, Integrity, Influence
-description: >-
-  Beverly Willis Architecture Foundation Emerging Leaders program is a New
-  York-based, selective professional development opportunity for women 5–10
-  years out of school.
 page_blocks:
   - template: text-block
     include_left-hand_column_text_: true
@@ -207,41 +203,9 @@ page_blocks:
     time-location:
       line-1: 'When: Tuesday November 16, 2021, 6:30-8PM'
       line-2: Virtual Session
-_structures:
-  page_blocks:
-    id_key: template
-    values:
-      - label: Buttons
-        preview:
-          text: Buttons
-          subtext:
-          icon: smart_button
-        value:
-          template: buttons-block
-          button:
-            - button_text:
-              button_link:
-          section_break: false
-          include_left-hand_column_text_: false
-        _inputs:
-          icon:
-            hidden: true
-          button:
-            hidden: false
-      - label: Speaker
-        preview:
-          text: Speaker
-        value:
-          template: featured-portrait-block
-      - label: Participants
-        preview:
-          text: Participants
-          subtext: Add image, name, and title/role
-        value:
-          template: portrait-gallery-block-small
-          portrait:
-            - title:
-              title_role:
-              image:
+description: >-
+  Beverly Willis Architecture Foundation Emerging Leaders program is a New
+  York-based, selective professional development opportunity for women 5–10
+  years out of school.
 _unlisted: true
 ---

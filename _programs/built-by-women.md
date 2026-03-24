@@ -20,19 +20,6 @@ page_blocks:
       link_url: ''
       link_text: ''
     section_break:
-  - template: image-block
-    image: >-
-      https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/v1761241529/WeBuiltThis_Extension.gif
-    image_caption_text:
-    alt_text: Built By Women 2026. Submissions close 11/6.
-    include_left-hand_column_text_: false
-    lefthand_text:
-      header_type: Large Header
-      text: ''
-      download: ''
-      link_url: ''
-      link_text: ''
-    section_break: false
   - template: text-block
     text_block: >-
       Beverly Willis Architecture Foundation creates opportunities with national

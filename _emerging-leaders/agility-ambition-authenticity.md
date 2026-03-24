@@ -4,7 +4,6 @@ layout: innerPageCC
 date: 2022-05-11 19:00:00
 navCategory: ''
 title: Agility, Ambition, Authenticity
-description: ''
 page_blocks:
   - template: text-block
     include_left-hand_column_text_: true
@@ -13,6 +12,7 @@ page_blocks:
       text: Emerging Leaders
       download: ''
       link_url: ''
+      link_text: ''
     section_break: false
     text_block: >-
       Beverly Willis Architecture Foundation Emerging Leaders program is a New
@@ -32,6 +32,7 @@ page_blocks:
       text: Agility, Ambition, Authenticity
       download: ''
       link_url: ''
+      link_text: ''
     alt_text: ''
     image_caption_text: ''
   - template: text-block
@@ -48,6 +49,7 @@ page_blocks:
       text: Agility, Ambition, Authenticity
       download:
       link_url: ''
+      link_text:
   - template: portrait-gallery-block-small
     portrait:
       - title_role: Project Architect and Designer, Cooper Carry
@@ -177,6 +179,7 @@ page_blocks:
       text: ''
       download: ''
       link_url: ''
+      link_text: ''
     header: Meet the 2022 Emerging Leaders Program Participants
   - template: featured-portrait-block
     section_break: false
@@ -186,6 +189,7 @@ page_blocks:
       text: Agility, Ambition, Authenticity
       download: ''
       link_url: ''
+      link_text: ''
     featured-portrait: []
     header: AGILITY
     image: >-
@@ -211,6 +215,7 @@ page_blocks:
       text: ''
       download: ''
       link_url: ''
+      link_text: ''
     featured-portrait: []
     header: AMBITION
     image: >-
@@ -235,6 +240,7 @@ page_blocks:
       text: ''
       download: ''
       link_url: ''
+      link_text: ''
     featured-portrait: []
     header: AUTHENTICITY
     image: >-
@@ -251,41 +257,6 @@ page_blocks:
     time-location:
       line-1: 'When: Tuesday, August 23, 6:30-8PM'
       line-2: Virtual Session
-_structures:
-  page_blocks:
-    id_key: template
-    values:
-      - label: Buttons
-        preview:
-          text: Buttons
-          subtext:
-          icon: smart_button
-        value:
-          template: buttons-block
-          button:
-            - button_text:
-              button_link:
-          section_break: false
-          include_left-hand_column_text_: false
-        _inputs:
-          icon:
-            hidden: true
-          button:
-            hidden: false
-      - label: Speaker
-        preview:
-          text: Speaker
-        value:
-          template: featured-portrait-block
-      - label: Participants
-        preview:
-          text: Participants
-          subtext: Add image, name, and title/role
-        value:
-          template: portrait-gallery-block-small
-          portrait:
-            - title:
-              title_role:
-              image:
+description: ''
 _unlisted: true
 ---

@@ -4,10 +4,6 @@ layout: innerPageCC
 date: 2019-06-11 14:43:21
 navCategory: Programs
 title: Confidence, Compensation, Competition
-description: >-
-  Beverly Willis Architecture Foundation Emerging Leaders program is a New
-  York-based, selective professional development opportunity for women 5–10
-  years out of school.
 page_blocks:
   - template: text-block
     include_left-hand_column_text_: true
@@ -16,6 +12,7 @@ page_blocks:
       header_type: Large Header
       download: ''
       link_url: ''
+      link_text: ''
     section_break: false
     text_block: >-
       Launched in 2017, the BWAF Emerging Leaders program is a selective
@@ -35,6 +32,7 @@ page_blocks:
       header_type: Medium Header
       download: ''
       link_url: ''
+      link_text: ''
     section_break: false
     text_block: >
       Confidence, Compensation, Competition was held June 26th, July 25th, and
@@ -142,6 +140,7 @@ page_blocks:
       text: ''
       download: ''
       link_url: ''
+      link_text: ''
     header: BWAF Summer 2019 Emerging Leaders Participants
   - template: featured-portrait-block
     section_break: false
@@ -151,6 +150,7 @@ page_blocks:
       text: ''
       download: ''
       link_url: ''
+      link_text: ''
     featured-portrait: []
     header: CONFIDENCE
     image: >-
@@ -170,6 +170,7 @@ page_blocks:
       text: ''
       download: ''
       link_url: ''
+      link_text: ''
     featured-portrait: []
     header: COMPENSATION
     image: >-
@@ -198,6 +199,7 @@ page_blocks:
       text: ''
       download: ''
       link_url: ''
+      link_text: ''
     featured-portrait: []
     description: ''
   - template: featured-portrait-block
@@ -208,6 +210,7 @@ page_blocks:
       text: ''
       download: ''
       link_url: ''
+      link_text: ''
     featured-portrait: []
     header: COMPETITION
     image: >-
@@ -219,41 +222,9 @@ page_blocks:
     time-location:
       line-1: 'When: August 27, 2019'
       line-2: 'Where: Skidmore, Owings and Merrill, LLP'
-_structures:
-  page_blocks:
-    id_key: template
-    values:
-      - label: Buttons
-        preview:
-          text: Buttons
-          subtext:
-          icon: smart_button
-        value:
-          template: buttons-block
-          button:
-            - button_text:
-              button_link:
-          section_break: false
-          include_left-hand_column_text_: false
-        _inputs:
-          icon:
-            hidden: true
-          button:
-            hidden: false
-      - label: Speaker
-        preview:
-          text: Speaker
-        value:
-          template: featured-portrait-block
-      - label: Participants
-        preview:
-          text: Participants
-          subtext: Add image, name, and title/role
-        value:
-          template: portrait-gallery-block-small
-          portrait:
-            - title:
-              title_role:
-              image:
+description: >-
+  Beverly Willis Architecture Foundation Emerging Leaders program is a New
+  York-based, selective professional development opportunity for women 5–10
+  years out of school.        
 _unlisted: true
 ---

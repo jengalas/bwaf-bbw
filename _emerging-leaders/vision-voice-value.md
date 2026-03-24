@@ -4,10 +4,6 @@ layout: innerPageCC
 date: 2025-07-31 00:00:00
 navCategory: Programs
 title: Vision, Voice, Value
-description: >-
-  Beverly Willis Architecture Foundation Emerging Leaders program is a New
-  York-based, selective professional development opportunity for women 5–10
-  years out of school.
 page_blocks:
   - template: text-block
     include_left-hand_column_text_: true
@@ -266,48 +262,9 @@ page_blocks:
     section_break: false
     alt_text: ''
     image_caption_text: Thank you to our supporters for making this program possible.
-_structures:
-  page_blocks:
-    id_key: template
-    values:
-      - label: Buttons
-        preview:
-          text: Buttons
-          subtext:
-          icon: smart_button
-        value:
-          template: buttons-block
-          button:
-            - button_text:
-              button_link:
-          section_break: false
-          include_left-hand_column_text_: false
-        _inputs:
-          icon:
-            hidden: true
-          button:
-            hidden: false
-      - label: Speaker
-        preview:
-          text: Speaker
-        value:
-          template: featured-portrait-block
-        _inputs:
-          description:
-            type: html
-            hidden: false
-            label: Biography
-          image:
-            type: image
-      - label: Participants
-        preview:
-          text: Participants
-          subtext: Add image, name, and title/role
-        value:
-          template: portrait-gallery-block-small
-          portrait:
-            - title:
-              title_role:
-              image:
+description: >-
+  Beverly Willis Architecture Foundation Emerging Leaders program is a New
+  York-based, selective professional development opportunity for women 5–10
+  years out of school.
 _unlisted: false
 ---

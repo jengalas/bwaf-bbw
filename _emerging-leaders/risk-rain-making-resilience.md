@@ -4,7 +4,6 @@ layout: innerPageCC
 date: 2017-02-03 05:00:00
 navCategory: Programs
 title: Risk, Rain-Making, Resilience
-description: ''
 page_blocks:
   - template: text-block
     section_break: false
@@ -220,41 +219,6 @@ page_blocks:
     time-location:
       line-1: 'When: July 11, 2017'
       line-2: 'Where: TBA'
-_structures:
-  page_blocks:
-    id_key: template
-    values:
-      - label: Buttons
-        preview:
-          text: Buttons
-          subtext:
-          icon: smart_button
-        value:
-          template: buttons-block
-          button:
-            - button_text:
-              button_link:
-          section_break: false
-          include_left-hand_column_text_: false
-        _inputs:
-          icon:
-            hidden: true
-          button:
-            hidden: false
-      - label: Speaker
-        preview:
-          text: Speaker
-        value:
-          template: featured-portrait-block
-      - label: Participants
-        preview:
-          text: Participants
-          subtext: Add image, name, and title/role
-        value:
-          template: portrait-gallery-block-small
-          portrait:
-            - title:
-              title_role:
-              image:
+description: ''
 _unlisted: true
 ---
