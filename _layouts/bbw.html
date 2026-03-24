@@ -85,7 +85,7 @@
                     <h2><b>{{person.name}}</b>
                         <br>{{person.role}}
                     </h2>
-                    <p>{{person.bio}}</p>
+                    <p>{{person.bio | markdownify }}</p>
                 </div>
             </div>
             {% endfor %}
