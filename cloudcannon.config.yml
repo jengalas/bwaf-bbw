@@ -95,10 +95,10 @@ collections_config:
     _enabled_editors:
       - data
     _inputs: 
-      published:
+      draft:
         type: checkbox
-        label: Published
-        default: false
+        label: Draft?
+        default: true
       bbw-year:
         type: text      
       layout:
