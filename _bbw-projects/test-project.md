@@ -5,7 +5,7 @@ navCategory: Programs
 bbw-year: _bbw-years/bbw-2026.md
 project_categories: []
 title: Test project
-draft: false
+draft: true
 architects:
   - title: Tester Guy
     role: Big Shot
