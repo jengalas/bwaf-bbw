@@ -101,7 +101,10 @@ collections_config:
       draft:
         type: checkbox
         label: Draft?
-        default: true         
+        default: true   
+      title:
+        options: 
+          required: true      
       layout:
         hidden: true
       navCategory:
