@@ -102,7 +102,7 @@ collections_config:
         type: checkbox
         label: Draft?
         default: true   
-      title:
+      $.title:
         options: 
           required: true      
       layout:
