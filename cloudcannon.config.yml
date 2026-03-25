@@ -101,14 +101,7 @@ collections_config:
       draft:
         type: checkbox
         label: Draft?
-        default: true
-      bbw-year:
-        type: select
-        options:
-          source:
-            collection: bbw-years
-          value_key: _path
-          label_key: title          
+        default: true         
       layout:
         hidden: true
       navCategory:

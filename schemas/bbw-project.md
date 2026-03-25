@@ -15,4 +15,13 @@ images:
   - image: 
     caption:
 historical: false
+_inputs:
+  bbw-year:
+    type: select
+    options:
+      values:
+        "2026": "_bbw-years/bbw-2026.md"
+        "2020": "_bbw-years/bbw-2020.md"
+        "2018": "_bbw-years/bbw-2018.md"
+        "2014": "_bbw-years/bbw-2014.md"
 ---
