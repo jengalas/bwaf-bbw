@@ -106,14 +106,10 @@ collections_config:
         type: select
         options:
           values:
-            - value: "_bbw-years/bbw-2026.md"
-              label: "2026"
-            - value: "_bbw-years/bbw-2020.md"
-              label: "2020"
-            - value: "_bbw-years/bbw-2018.md"
-              label: "2018"
-            - value: "_bbw-years/bbw-2014.md"
-              label: "2014"          
+            "2026": "_bbw-years/bbw-2026.md"
+            "2020": "_bbw-years/bbw-2020.md"
+            "2018": "_bbw-years/bbw-2018.md"
+            "2014": "_bbw-years/bbw-2014.md"          
       layout:
         hidden: true
       navCategory:
