@@ -105,11 +105,10 @@ collections_config:
       bbw-year:
         type: select
         options:
-          values:
-            "2026": "_bbw-years/bbw-2026.md"
-            "2020": "_bbw-years/bbw-2020.md"
-            "2018": "_bbw-years/bbw-2018.md"
-            "2014": "_bbw-years/bbw-2014.md"          
+          source:
+            collection: bbw-years
+          value_key: _path
+          label_key: title          
       layout:
         hidden: true
       navCategory:
