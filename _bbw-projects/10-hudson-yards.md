@@ -2,7 +2,7 @@
 _schema: default
 layout: bbw-project
 navCategory: Programs
-bbw-year: _bbw-years/bbw-2018.md
+bbw-year: _bbw-years/bbw-2026.md
 project_categories: []
 title: 10 Hudson Yards
 draft: false

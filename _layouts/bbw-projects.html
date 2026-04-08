@@ -22,7 +22,7 @@
         <div>
         {% endif %}
           <a href="{{ project.url }}">
-            <img src="{{site.cloudinary}}/q_90,h_400/{{project.images[0].image}}">
+            <img src="{{site.cloudinary}}/q_90,h_400/{{project.images[0].image | remove: 'https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/'}}" alt="{{project.title}}" title="{{project.title}}">
             <h2>{{ project.title }}</h2>
             <p>{{ project.year }}</p>
             {% for architect in project.architects %}
