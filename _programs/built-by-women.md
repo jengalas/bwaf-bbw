@@ -6,15 +6,6 @@ navCategory: Programs
 current-year: '2026'
 show_bbw_slideshow: false
 page_blocks:
-  - template: bbw-intro-block
-    include_left-hand_column_text_: true
-    lefthand_text:
-      header_type: BBW Map Link
-      text: ''
-      download: ''
-      link_url: ''
-      link_text: ''
-    section_break:
   - template: bbw-slideshow-block
     label: BBW Slideshow
     bbw-slideshow-images:
@@ -24,6 +15,15 @@ page_blocks:
     include_left-hand_column_text_: false
     lefthand_text:
       header_type: Large Header
+      text: ''
+      download: ''
+      link_url: ''
+      link_text: ''
+    section_break:
+  - template: bbw-intro-block
+    include_left-hand_column_text_: true
+    lefthand_text:
+      header_type: BBW Map Link
       text: ''
       download: ''
       link_url: ''
