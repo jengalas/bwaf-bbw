@@ -6,6 +6,26 @@
     <a href="{{page.lefthand_link.link_url}}" target="_blank"
       class="lefthand-link">{{page.lefthand_link.link_text}}→</a>
   </div>
+
+
+  <div class="main-two-up">
+    <div>
+      {% if currentYear.map_link %}
+      <a href="{{currentYear.map_link}}" target="_blank" class="lefthand-link">Buy the Map→</a>
+      {% endif %}
+    </div>
+    <div>
+      <div class="text-block spacer">
+        <p>{{page.current-year-blurb}}</p>
+      </div>
+      <br>
+
+      <a href="{{currentYear.url}}" class="btn-primary spacer">
+        View Selected Projects →
+      </a>
+    </div>
+  </div>
+
   {% if page.show_bbw_slideshow and page.bbw-slideshow-images %}
   <div>
     <div>
@@ -14,7 +34,8 @@
         <img src="{{site.cloudinary}}{{image.image}}">
         {% endfor %}
       </div>
-      <figcaption>From top left to right: {% for image in page.bbw-slideshow-images%}<span>{{image.caption}}</span>{% endfor
+      <figcaption>From top left to right: {% for image in page.bbw-slideshow-images%}<span>{{image.caption}}</span>{%
+        endfor
         %}</figcaption>
     </div>
   </div>
@@ -38,7 +59,7 @@
       {{ page.description | markdownify }}
     </div>
 
-  
+
 
     {% for bbw-year in site.bbw-years %}
     {% if bbw-year.path == page.current-year %}
@@ -64,52 +85,37 @@
 </div>
 
 <div class="main-two-up">
-    <div>
-        {% for bbwYear in site.bbw-years %}
+  <div>
+    {% for bbwYear in site.bbw-years %}
 
-        {% if page.bbw_year == bbwYear.path %}
-        {%assign year = bbwYear%}
-        {%endif%}
-        
-        {% endfor %}
-        <h2 class="h3"><b>Meet the Jury</b></h2>
-    </div>
-    <div>
-        <div class="portrait-gallery-block-large">
-            {% for person in page.jury_members %}
-            <div>
-                <div class="image-container">
-                    <img src="{{site.cloudinary}}/w_400,h_400,g_face,c_fill/{{person.image | remove: 'https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/'}}" alt="{{person.name}}">
-                </div>
-                <div>
-                    <h2><b>{{person.name}}</b>
-                        <br>{{person.role}}
-                    </h2>
-                    <p>{{person.bio | markdownify }}</p>
-                </div>
-            </div>
-            {% endfor %}
+    {% if page.bbw_year == bbwYear.path %}
+    {%assign year = bbwYear%}
+    {%endif%}
+
+    {% endfor %}
+    <h2 class="h3"><b>Meet the Jury</b></h2>
+  </div>
+  <div>
+    <div class="portrait-gallery-block-large">
+      {% for person in page.jury_members %}
+      <div>
+        <div class="image-container">
+          <img
+            src="{{site.cloudinary}}/w_400,h_400,g_face,c_fill/{{person.image | remove: 'https://res.cloudinary.com/beverly-willis-architecture-foundation/image/upload/'}}"
+            alt="{{person.name}}">
         </div>
+        <div>
+          <h2><b>{{person.name}}</b>
+            <br>{{person.role}}
+          </h2>
+          <p>{{person.bio | markdownify }}</p>
+        </div>
+      </div>
+      {% endfor %}
     </div>
+  </div>
 </div>
 
-<div class="main-two-up">
-    <div>
-        {% if currentYear.map_link %}
-        <a href="{{currentYear.map_link}}" target="_blank" class="lefthand-link">Buy the Map→</a>
-        {% endif %}
-    </div>
-    <div>
-        <div class="text-block spacer">
-            <p>{{page.current-year-blurb}}</p>
-        </div>
-        <br>
-
-        <a href="{{currentYear.url}}" class="btn-primary spacer">
-            View Selected Projects →
-        </a>
-    </div>
-</div>
 
 <div class="main-two-up">
   <div></div>

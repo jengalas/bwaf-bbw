@@ -681,6 +681,40 @@ _structures:
             label: Biography
           section_break:
             type: checkbox
+      - label: BBW Intro Block
+        preview:
+          text:
+            - key: label
+          subtext:
+            - text: 'Add portrait and description'
+          icon: list_alt 
+        value:
+          template: bbw-intro-block
+          label: ''
+          header: ''
+          image: ''
+          title: ''
+          subtitle: '' 
+          description: ''
+          time-location:
+            line-1: 
+            line-2: 
+          include_left-hand_column_text_: true
+          lefthand_text:
+            header_type: BBW Map Link
+            text: ''
+            download: ''
+            link_url: ''
+            link_text: ''
+          section_break: 
+        _inputs:
+          label:
+            label: Current year blurb
+          description:
+            type: markdown
+            label: Current year blurb
+          section_break:
+            type: checkbox        
 
             
                                  
