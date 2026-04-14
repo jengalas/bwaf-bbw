@@ -1,0 +1,17 @@
+{% for bbw-year in site.bbw-years %}
+{% assign yearPath = "_bbw-years/bbw-" | append: page.current-year | append: ".md" %}
+{% if bbw-year.path == yearPath %}
+{% assign currentYear = bbw-year %}
+{% endif %}
+{% endfor %}
+
+<div>
+  <div class="text-block spacer">
+    <p>{{block.description | markdownify}}</p>
+  </div>
+  <br>
+
+  <a href="{{currentYear.url}}" class="btn-primary spacer">
+    View Selected Projects →
+  </a>
+</div>

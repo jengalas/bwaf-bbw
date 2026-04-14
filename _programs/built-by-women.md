@@ -73,9 +73,5 @@ page_blocks:
     include_left-hand_column_text_: true
     lefthand_text:
       header_type: BBW Map Link
-      text: ''
-      download: ''
-      link_url: https://google.com/
-      link_text: ''
     section_break:
 ---
