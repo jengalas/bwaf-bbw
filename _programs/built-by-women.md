@@ -6,6 +6,30 @@ navCategory: Programs
 current-year: '2026'
 show_bbw_slideshow: false
 page_blocks:
+  - template: bbw-intro-block
+    description: >-
+      Beverly Willis Architecture Foundation creates opportunities with national
+      attention to demonstrate the breadth of achievement in the building
+      industries by women at the highest levels. Through a juried mapping
+      project, Built by Women recognizes the significant but often overlooked
+      work of women architects, landscape architects, urban designers,
+      engineers, contractors, and developers in selected cities. Following
+      previous programs in Manhattan and Los Angeles, the 2026 Built by Women
+      map will center on New York City to discover new and innovative women-led
+      projects throughout the five boroughs and explore the important ways that
+      work by women shapes the built environment.
+
+
+      Stay tuned for the announcement of the completed 2026 Built by Women: New
+      York City map!
+    include_left-hand_column_text_: true
+    lefthand_text:
+      header_type: BBW Map Link
+      text: ''
+      download: ''
+      link_url: ''
+      link_text: ''
+    section_break:
   - template: bbw-slideshow-block
     label: BBW Slideshow
     bbw-slideshow-images:
@@ -53,25 +77,5 @@ page_blocks:
       download: ''
       link_url: ''
       link_text: ''
-    section_break:
-  - template: bbw-intro-block
-    description: >-
-      Beverly Willis Architecture Foundation creates opportunities with national
-      attention to demonstrate the breadth of achievement in the building
-      industries by women at the highest levels. Through a juried mapping
-      project, Built by Women recognizes the significant but often overlooked
-      work of women architects, landscape architects, urban designers,
-      engineers, contractors, and developers in selected cities. Following
-      previous programs in Manhattan and Los Angeles, the 2026 Built by Women
-      map will center on New York City to discover new and innovative women-led
-      projects throughout the five boroughs and explore the important ways that
-      work by women shapes the built environment.
-
-
-      Stay tuned for the announcement of the completed 2026 Built by Women: New
-      York City map!
-    include_left-hand_column_text_: true
-    lefthand_text:
-      header_type: BBW Map Link
     section_break:
 ---
