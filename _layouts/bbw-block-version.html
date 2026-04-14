@@ -18,24 +18,6 @@
 
 <!-- TODO: add the slideshow section as a block, and also add in the jury section, pulling from the data files.  -->
 
-<div class="main-two-up">
-  <div>
-    {% if currentYear.map_link %}
-    <a href="{{currentYear.map_link}}" target="_blank" class="lefthand-link">Buy the Map→</a>
-    {% endif %}
-  </div>
-  <div>
-    <div class="text-block spacer">
-      <p>{{page.current-year-blurb}}</p>
-    </div>
-    <br>
-
-    <a href="{{currentYear.url}}" class="btn-primary spacer">
-      View Selected Projects →
-    </a>
-  </div>
-</div>
-
 {% for block in page.page_blocks %}
 {% if block.section_break %}
 <div class="hr"></div>
