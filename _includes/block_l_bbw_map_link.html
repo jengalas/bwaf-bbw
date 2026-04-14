@@ -2,6 +2,8 @@
 {% assign yearPath = "_bbw-years/bbw-" | append: page.current-year | append: ".md" %}
 {% if bbw-year.path == yearPath %}
 {% assign currentYear = bbw-year %}
+{% endif %}
+{% endfor %}
 
 {% if currentYear.map_link %}
 <a href="{{currentYear.map_link}}" target="_blank" class="lefthand-link">Buy the Map→</a>
