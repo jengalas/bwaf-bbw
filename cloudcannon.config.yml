@@ -686,11 +686,10 @@ _structures:
           text:
             - key: label
           subtext:
-            - text: 'Add portrait and description'
+            - text: '[Not editable - add map link in current year’s BBW data file]'
           icon: list_alt 
         value:
           template: bbw-intro-block
-          description: ''
           include_left-hand_column_text_: true
           lefthand_text:
             header_type: BBW Map Link
@@ -700,9 +699,6 @@ _structures:
             link_text: ''
           section_break: 
         _inputs:
-          description:
-            type: markdown
-            label: Current year blurb
           section_break:
             type: checkbox        
 
