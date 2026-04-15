@@ -38,7 +38,7 @@ page_blocks:
       York City map!
     include_left-hand_column_text_: true
     lefthand_text:
-      header_type: Link
+      header_type: BBW Logo Link
       text: Become a sponsor of the program
       download: ''
       link_url: https://bwaf.org/support

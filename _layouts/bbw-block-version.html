@@ -10,14 +10,6 @@
 {% endif %}
 {% endfor %}
 
-<div class="main-two-up">
-  <div class="vertical-flex">
-    <img id="bbw-logo" src="/assets/img/built-by-women.png">
-  </div>
-</div>
-
-<!-- TODO: add the slideshow section as a block, and also add in the jury section, pulling from the data files.  -->
-
 {% for block in page.page_blocks %}
 {% if block.section_break %}
 <div class="hr"></div>
@@ -38,6 +30,8 @@
     {% include block_l_link_download.html %}
     {% elsif block.lefthand_text.header_type == 'BBW Map Link' %}
     {% include block_l_bbw_map_link.html %}
+    {% elsif block.lefthand_text.header_type == 'BBW Logo Link' %}
+    {% include block_l_bbw_link.html %}
     {% endif %}
   </div>
   <div>
