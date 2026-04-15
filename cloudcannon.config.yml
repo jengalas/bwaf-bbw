@@ -700,7 +700,9 @@ _structures:
           section_break: 
         _inputs:
           section_break:
-            type: checkbox        
+            type: checkbox   
+          lefthand_text:
+            hidden: true       
 
             
                                  
